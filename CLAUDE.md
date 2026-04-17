@@ -160,3 +160,66 @@ Cette limite sert a eviter la publication en masse et a maintenir un rythme de p
 - Pas de jargon technique sans explication
 - Reponses structurees avec listes a puces
 - Pas d'emoji sauf demande explicite
+
+
+
+
+## Regle IMPERATIVE : toute nouvelle URL doit apparaitre dans le sitemap + plan de site
+
+**Chaque fois qu une URL est ajoutee au site (article, page, categorie, auteur...), elle DOIT etre presente dans :**
+
+### 1. Le sitemap XML (robots + bots)
+
+Hugo genere automatiquement les sitemaps via :
+- `layouts/sitemapindex.xml` -> `/sitemap.xml` (l index qui reference les sitemaps par langue)
+- `layouts/sitemap.xml` -> `/fr/sitemap.xml` + `/en/sitemap.xml` (urlsets par langue)
+
+Verifier apres build :
+```bash
+hugo
+grep "<nouveau-slug>" public/fr/sitemap.xml public/en/sitemap.xml
+```
+
+### 2. Le plan de site HTML (utilisateurs + bots)
+
+Page `/plan-du-site/` (FR) et `/en/site-map/` (EN) rendues via `layouts/_default/sitemap-html.html`. Elles listent toutes les pages groupees par section (Pages principales, Blog, Categories, Auteurs, Pages legales). Mise a jour automatique au build Hugo.
+
+**LE LIEN VERS `/plan-du-site/` DOIT ETRE PRESENT DANS LE FOOTER DE TOUTES LES PAGES** (via `layouts/partials/footer.html`).
+
+### 3. La page auteur
+
+Page `/authors/<slug-auteur>/` qui liste automatiquement tous les articles dont le frontmatter contient `author: <slug>`. Verifier que le slug de l auteur dans le frontmatter correspond a un auteur defini dans `data/authors.yaml`.
+
+### 4. La liste du blog
+
+Page `/blog/` qui liste les articles par date decroissante. Hugo l inclut automatiquement si le fichier est dans `content/blog/` (FR) ou `content/en/blog/` (EN).
+
+### 5. Le JSON-LD Article (SEO / schema.org)
+
+L article genere automatiquement son schema.org/Article via `seo-head.html` (date, auteur, headline, image).
+
+### Workflow post-publication
+
+```bash
+# 1. Build
+hugo
+
+# 2. Verifier sitemap
+grep "<nouveau-slug>" public/fr/sitemap.xml
+grep "<nouveau-slug>" public/en/sitemap.xml  # si multilingue
+
+# 3. Verifier plan de site HTML
+grep "<nouveau-slug>" public/plan-du-site/index.html
+
+# 4. Verifier page auteur
+grep "<titre>" public/authors/<slug>/index.html
+
+# 5. Verifier le footer (plan-du-site doit etre present)
+grep "plan-du-site" public/index.html
+
+# 6. Commit + push
+git add -A && git commit -m "Article : <titre>" && git push origin main
+```
+
+**Si l une des 5 verifications echoue, NE PAS COMMIT et debugger.**
+

@@ -1,11 +1,11 @@
-baseURL = "https://analytics-ds.github.io/guide-maison-habitat/"
+baseURL = "https://guide-maison-habitat.com/"
 title = "Guide Maison & Habitat"
 theme = "guide-maison-habitat"
 
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 
-enableRobotsTXT = true
+enableRobotsTXT = false
 enableGitInfo = false
 
 [languages]
@@ -13,6 +13,7 @@ enableGitInfo = false
     languageCode = "fr-FR"
     languageName = "Français"
     weight = 1
+    contentDir = "content"
     title = "Guide Maison & Habitat"
     [languages.fr.params]
       description = "Guide Maison & Habitat : immobilier, investissement, où vivre, travaux, déco et jardin. Conseils d'experts, comparatifs et guides pratiques."
@@ -21,6 +22,7 @@ enableGitInfo = false
     languageCode = "en-US"
     languageName = "English"
     weight = 2
+    contentDir = "content/en"
     title = "Guide Maison & Habitat"
     [languages.en.params]
       description = "Guide Maison & Habitat: real estate, investment, where to live, renovation, decor and garden. Expert advice, comparisons and practical guides."
@@ -149,7 +151,7 @@ enableGitInfo = false
       unsafe = true
   [markup.tableOfContents]
     startLevel = 2
-    endLevel = 3
+    endLevel = 2
     ordered = true
 
 [related]
@@ -161,3 +163,8 @@ enableGitInfo = false
   [[related.indices]]
     name = "tags"
     weight = 80
+
+# Desactiver la minification XML pour avoir un sitemap lisible
+[minify]
+  disableXML = true
+
