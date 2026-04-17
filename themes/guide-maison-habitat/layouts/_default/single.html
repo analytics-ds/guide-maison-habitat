@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{ $isBlog := eq .Section "blog" }}
 
 <article class="single-article">
     <div class="container">
@@ -10,6 +11,7 @@
                     <a href="{{ "/" | relURL }}">Accueil</a>
                     <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
                 </li>
+                {{ if $isBlog }}
                 <li class="breadcrumb-item">
                     <a href="{{ "blog/" | relURL }}">Blog</a>
                     <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
@@ -20,6 +22,7 @@
                     <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
                 </li>
                 {{ end }}
+                {{ end }}
                 <li class="breadcrumb-item">
                     <span aria-current="page">{{ .Title }}</span>
                 </li>
@@ -27,7 +30,6 @@
         </nav>
 
         <!-- Hero article (titre + image cote a cote) -->
-        {{ $isBlog := eq .Section "blog" }}
         <div class="article-hero">
             <div class="article-hero-text">
                 {{ if $isBlog }}
