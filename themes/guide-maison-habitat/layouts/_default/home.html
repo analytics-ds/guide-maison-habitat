@@ -1,5 +1,6 @@
 {{ define "main" }}
 {{ $lang := .Site.Language.Lang }}
+{{ $allBlog := where .Site.RegularPages "Section" "blog" }}
 
 <section class="hero">
     <div class="container">
@@ -17,6 +18,7 @@
     </div>
 </section>
 
+{{/* --- Section derniers articles (tous confondus) --- */}}
 <section>
     <div class="container">
         <div class="section-heading">
@@ -24,33 +26,58 @@
             <a href="{{ "blog/" | relLangURL }}" class="section-heading-link">{{ if eq $lang "en" }}View all{{ else }}Tout voir{{ end }}</a>
         </div>
         <div class="grid-articles">
-            {{ range first 6 (where .Site.RegularPages "Section" "blog") }}
-            <a href="{{ .RelPermalink }}" class="article-card">
-                <div class="article-card-image-wrapper">
-                    {{ if .Params.image }}
-                    <img src="{{ .Params.image }}" alt="{{ .Params.imageAlt | default .Title }}" class="article-card-image" loading="lazy" width="600" height="450">
-                    {{ else }}
-                    <span class="article-card-image article-card-image-placeholder" aria-hidden="true">{{ slicestr .Title 0 1 }}</span>
-                    {{ end }}
-                </div>
-                <div class="article-card-body">
-                    <div class="article-meta">
-                        {{ with .Params.categories }}
-                        <span class="article-category">{{ index . 0 }}</span>
-                        <span class="meta-dot">·</span>
-                        {{ end }}
-                        <time>{{ .Date.Format "2 January 2006" }}</time>
-                    </div>
-                    <h3>{{ .Title }}</h3>
-                    <p>{{ .Description }}</p>
-                    <span class="read-more">{{ if eq $lang "en" }}Read →{{ else }}Lire →{{ end }}</span>
-                </div>
-            </a>
+            {{ range first 3 $allBlog }}
+            {{ partial "article-card.html" (dict "page" . "lang" $lang) }}
             {{ end }}
         </div>
-        <div class="section-cta">
-            <a href="{{ "blog/" | relLangURL }}" class="btn-primary">{{ if eq $lang "en" }}Explore all articles{{ else }}Explorer tous les articles{{ end }}</a>
+    </div>
+</section>
+
+{{/* --- Une section par categorie (3 articles + lien tout voir) --- */}}
+{{/* Mapping identifier menu -> nom de categorie dans les articles (ASCII en frontmatter) */}}
+{{ $catMap := dict
+    "achat" "Achat"
+    "vente" "Vente"
+    "location" "Location"
+    "financement" "Financement"
+    "assurance" "Assurance"
+    "amenagement" "Aménagement et Décoration"
+    "travaux" "Travaux et Rénovation"
+    "buying" "Buying"
+    "selling" "Selling"
+    "rental" "Rental"
+    "financing" "Financing"
+    "insurance" "Insurance"
+    "interior" "Interior Design and Decor"
+    "renovation" "Renovation"
+}}
+{{ range .Site.Menus.main }}
+{{ if ne .Identifier "blog" }}
+{{ $menuEntry := . }}
+{{ $catKey := index $catMap .Identifier }}
+{{ $catArticles := where $allBlog ".Params.categories" "intersect" (slice $catKey) }}
+{{ if $catArticles }}
+<section class="section-alt-bg">
+    <div class="container">
+        <div class="section-heading">
+            <h2 class="section-title">{{ $menuEntry.Name }}</h2>
+            <a href="{{ $menuEntry.URL | relURL }}" class="section-heading-link">{{ if eq $lang "en" }}View all{{ else }}Tout voir{{ end }}</a>
         </div>
+        <div class="grid-articles">
+            {{ range first 3 $catArticles }}
+            {{ partial "article-card.html" (dict "page" . "lang" $lang) }}
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
+
+{{/* --- CTA final --- */}}
+<section class="home-final-cta">
+    <div class="container">
+        <a href="{{ "blog/" | relLangURL }}" class="btn-primary">{{ if eq $lang "en" }}Explore all articles{{ else }}Explorer tous les articles{{ end }}</a>
     </div>
 </section>
 

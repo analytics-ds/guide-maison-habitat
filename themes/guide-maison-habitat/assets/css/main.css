@@ -1091,3 +1091,20 @@ section { padding: var(--space-lg) 0; }
     justify-content: center;
     margin-top: var(--space-lg);
 }
+
+/* Alternance de fond entre sections de la home */
+.section-alt-bg {
+    background: var(--background);
+}
+.section-alt-bg + .section-alt-bg {
+    background: var(--background-alt);
+}
+.section-alt-bg:nth-of-type(even) {
+    background: var(--background-alt);
+}
+.home-final-cta {
+    display: flex; justify-content: center;
+    padding: var(--space-xl) var(--space-md);
+    background: var(--background);
+    text-align: center;
+}
