@@ -1,6 +1,7 @@
 {{ $p := .page }}
 {{ $lang := .lang }}
-<a href="{{ $p.RelPermalink }}" class="article-card">
+{{ $compact := .compact }}
+<a href="{{ $p.RelPermalink }}" class="article-card{{ if $compact }} article-card-compact{{ end }}">
     <div class="article-card-image-wrapper">
         {{ if $p.Params.image }}
         <img src="{{ $p.Params.image }}" alt="{{ $p.Params.imageAlt | default $p.Title }}" class="article-card-image" loading="lazy" width="600" height="450">
@@ -17,7 +18,9 @@
             <time>{{ $p.Date.Format "2 January 2006" }}</time>
         </div>
         <h3>{{ $p.Title }}</h3>
+        {{ if not $compact }}
         <p>{{ $p.Description }}</p>
         <span class="read-more">{{ if eq $lang "en" }}Read →{{ else }}Lire →{{ end }}</span>
+        {{ end }}
     </div>
 </a>
