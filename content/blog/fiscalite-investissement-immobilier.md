@@ -4,7 +4,7 @@ translationKey: "fiscalite-investissement-immobilier"
 date: 2026-04-08
 lastmod: 2026-04-08
 description: "Fiscalité investissement immobilier : panorama des regimes LMNP, foncier, Pinel et SCPI pour optimiser ses revenus locatifs."
-categories: ["Investissement immobilier"]
+categories: ["Financement"]
 tags: ["fiscalité", "LMNP", "revenus fonciers", "Pinel", "impots"]
 author: "sophie-martin"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "Le regime LMNP permet d'amortir le bien immobilier (hors terrain) sur 20 a 30 ans, généralement entre 2 et 3 pour cent par an. Cette charge comptable s'ajouté aux charges reelles et peut neutraliser totalement les loyers imposables pendant 20 a 30 ans, aboutissant a une quasi-defiscalisation."
   - question: "Les SCPI sont-elles un bon investissement ?"
     answer: "Les SCPI offrent un rendement moyen de 4 a 5,5 pour cent en 2026 avec un ticket d'entree accessible (1000 a 10 000 euros). Elles sont fiscalisees aux revenus fonciers (marginaux) mais diversifient le risque et dispensent de la gestion. A privilégier pour un investissement passif ou complementaire."
-image: "https://picsum.photos/seed/fiscalite-investissement-immobilier/1200/800"
-imageAlt: "Documents fiscaux et calculs immobiliers"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Documents fiscaux et calculs d'investissement"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. Les dispositifs Pinel prennent fin en 2024 mais Denormandie et LLI restent actifs.
 
 
-![Documents fiscaux et calculs immobiliers](https://picsum.photos/seed/fiscalite-investissement-immobilier-body/1600/900)
-*Documents fiscaux et calculs immobiliers — Photo via Picsum*
+![Documents fiscaux et calculs d'investissement](https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1600&q=80&auto=format&fit=crop)
+*Documents fiscaux et calculs d'investissement — Photo via Unsplash*
 ## Fiscalité investissement immobilier : le panorama 2026
 
 La **fiscalité investissement immobilier** en France repose sur plusieurs regimes selon le type de location et le volume d'investissement. Le bon choix fiscal peut doubler la rentabilité nette d'un investissement.

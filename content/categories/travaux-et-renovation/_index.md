@@ -1,5 +1,5 @@
 ---
-title: "Travaux et rénovation"
-description: "Tout savoir sur les travaux et la rénovation : devis, isolation, plomberie, électricité, gros oeuvre, aides financières et artisans."
+title: "Travaux & Rénovation"
+description: "Guides travaux et rénovation : isolation, salle de bain, cuisine, budget, aides financières (MaPrimeRenov', CEE), choix des artisans et étapes du chantier."
 translationKey: "cat-travaux"
 ---

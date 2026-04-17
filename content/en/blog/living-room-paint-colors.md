@@ -4,7 +4,7 @@ translationKey: "couleurs-peinture-salon"
 date: 2026-03-25
 lastmod: 2026-03-25
 description: "Living room paint colors: how to choose the right shades based on light, room size and style."
-categories: ["Decoration"]
+categories: ["Interior Design & Decor"]
 tags: ["paint", "living room", "colors", "decor", "ambience"]
 author: "claire-beaumont"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "To visually enlarge a living room, favor light tones: off-white, beige, pearl grey. Paint walls in the same shade as the ceiling to remove visual limit. A darker color on the back wall can create depth."
   - question: "How to combine colors in a living room?"
     answer: "The classic 60-30-10 rule works well: 60 percent dominant color (walls, large furniture), 30 percent secondary (textiles, curtains), 10 percent accent (cushions, decor objects). Avoid exceeding 3 main colors."
-image: "https://picsum.photos/seed/couleurs-peinture-salon/1200/800"
+image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1600&q=85&auto=format&fit=crop"
 imageAlt: "Salon peint dans des tons chauds et naturels"
-imageCredit: "Photo via Picsum"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. A large sample test (minimum 1 sqm) is essential before painting the whole room.
 
 
-![Salon peint dans des tons chauds et naturels](https://picsum.photos/seed/couleurs-peinture-salon-body/1600/900)
-*Salon peint dans des tons chauds et naturels — Photo via Picsum*
+![Salon peint dans des tons chauds et naturels](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1600&q=80&auto=format&fit=crop)
+*Salon peint dans des tons chauds et naturels — Photo via Unsplash*
 ## Living room paint colors: choice criteria
 
 Choosing **living room paint colors** is an impactful decision. A wrong shade can darken the room or make it uncomfortable. Three main criteria guide the choice.

@@ -4,7 +4,7 @@ translationKey: "tendances-deco-cocooning"
 date: 2026-03-28
 lastmod: 2026-03-28
 description: "Cocooning decor trends: colors, materials, textiles and tips to create a warm and soothing interior."
-categories: ["Decoration"]
+categories: ["Interior Design & Decor"]
 tags: ["cocooning", "decor", "trends", "ambience", "comfort"]
 author: "claire-beaumont"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "Cocooning colors are warm earthy tones: beige, sand, terracotta, cinnamon, glazed brown, sage green, off-white. Avoid cold colors (electric blue, pure white) that create visual distance. Add black or dark wood to structure without hardening."
   - question: "How to make a living room warmer?"
     answer: "To make a living room warmer, layer textiles (thick rug, throws, cushions of various sizes), multiply soft light sources (floor lamps, table lamps, candles), add natural wood and noble materials (linen, wool, velvet). A few green plants complete the ambience."
-image: "https://picsum.photos/seed/tendances-deco-cocooning/1200/800"
-imageAlt: "Intérieur cocooning avec textiles et lumière douce"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Interieur cocooning avec textiles et lumiere douce"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. Layered textiles (rugs, throws, cushions) add 30 to 50 percent of visual comfort.
 
 
-![Intérieur cocooning avec textiles et lumière douce](https://picsum.photos/seed/tendances-deco-cocooning-body/1600/900)
-*Intérieur cocooning avec textiles et lumière douce — Photo via Picsum*
+![Interieur cocooning avec textiles et lumiere douce](https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=1600&q=80&auto=format&fit=crop)
+*Interieur cocooning avec textiles et lumiere douce — Photo via Unsplash*
 ## Cocooning decor trends: the fundamentals
 
 **Cocooning decor trends** are based on a simple principle: creating a comforting cocoon by layering materials, colors and lights. The goal is not minimalism nor industrial style, but sensory comfort.

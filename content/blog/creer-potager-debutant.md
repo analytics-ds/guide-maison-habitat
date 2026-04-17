@@ -4,7 +4,7 @@ translationKey: "creer-potager-debutant"
 date: 2026-03-31
 lastmod: 2026-03-31
 description: "Créer un potager pour débutant : surface, legumes faciles, calendrier et premiers gestes pour une recolte reussie."
-categories: ["Jardin"]
+categories: ["Aménagement & Décoration"]
 tags: ["potager", "jardin", "débutant", "legumes", "permaculture"]
 author: "claire-beaumont"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "Les legumes les plus simples a cultiver sont : radis (recolte en 3 semaines), salade, tomate cerise, courgette, haricot vert, herbes aromatiques (basilic, persil, ciboulette). Ces cultures pardonnent les petites erreurs et produisent generealement des la première année."
   - question: "Quelle surface pour un potager familial ?"
     answer: "Pour nourrir partiellement une famille de 4 personnes, comptez 50 a 100 m2. Pour une autonomie vegetale complète (hors cereales), il faut au moins 200 m2 bien entretenus. Un débutant peut démarrer sur 10 a 15 m2 et agrandir progressivement."
-image: "https://picsum.photos/seed/creer-potager-debutant/1200/800"
-imageAlt: "Potager avec planches de légumes"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Potager avec legumes et plantes"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. Un paillage epais divise par 3 le besoin en arrosage et limité le desherbage.
 
 
-![Potager avec planches de légumes](https://picsum.photos/seed/creer-potager-debutant-body/1600/900)
-*Potager avec planches de légumes — Photo via Picsum*
+![Potager avec legumes et plantes](https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=1600&q=80&auto=format&fit=crop)
+*Potager avec legumes et plantes — Photo via Unsplash*
 ## Créer un potager pour débutant : les étapes
 
 **Créer un potager pour débutant** demandé une préparation simple mais essentielle. Le premier critère est l'emplacement : un coin du jardin expose sud ou sud-ouest, a l'abri du vent, pres d'un point d'eau.

@@ -4,7 +4,7 @@ translationKey: "amenager-terrasse-exterieure"
 date: 2026-04-03
 lastmod: 2026-04-03
 description: "Aménager une terrasse extérieure : choix du revetement, mobilier, vegetation et eclairage pour un espace outdoor reussi."
-categories: ["Jardin"]
+categories: ["Aménagement & Décoration"]
 tags: ["terrasse", "extérieur", "aménagement", "mobilier", "plantes"]
 author: "claire-beaumont"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "Le bois exotique (ipe, teck) dure 25 a 30 ans mais coûte cher. Le composite ne demandé pas d'entretien et vit 20 ans. Le carrelage grand format est le plus durable (50 ans et plus) et resiste bien au gel si classe R11 ou supérieur."
   - question: "Quelle plante pour une terrasse ?"
     answer: "Privilégiez les plantes resistantes a l'exposition : lavande, olivier nain, graminees pour le plein soleil. Au nord ou a l'ombre, optez pour des fougeres, hostas ou bambous sacres. Les plantes grimpantes (clematites, jasmin) structurent l'espace vertical."
-image: "https://picsum.photos/seed/amenager-terrasse-exterieure/1200/800"
-imageAlt: "Terrasse extérieure aménagée avec mobilier outdoor"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Terrasse exterieure amenagee avec mobilier"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. Un eclairage extérieur indirect transforme l'usage de la terrasse en soiree et augmente son temps d'utilisation de 40 pour cent.
 
 
-![Terrasse extérieure aménagée avec mobilier outdoor](https://picsum.photos/seed/amenager-terrasse-exterieure-body/1600/900)
-*Terrasse extérieure aménagée avec mobilier outdoor — Photo via Picsum*
+![Terrasse exterieure amenagee avec mobilier](https://images.unsplash.com/photo-1505692433770-36f19f51681d?w=1600&q=80&auto=format&fit=crop)
+*Terrasse exterieure amenagee avec mobilier — Photo via Unsplash*
 ## Aménager une terrasse extérieure : par ou commencer
 
 **Aménager une terrasse extérieure** commence par une analyse de l'existant : exposition, ensoleillement, vis-a-vis, surface utile. Une terrasse sud demandé de l'ombre, une terrasse nord demandé des couleurs lumineuses.

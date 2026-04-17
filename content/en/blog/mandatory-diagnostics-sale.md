@@ -4,7 +4,7 @@ translationKey: "diagnostics-obligatoires-vente"
 date: 2026-03-19
 lastmod: 2026-03-19
 description: "Mandatory diagnostics for property sale: complete 2026 list, costs, validity duration and penalties for omission."
-categories: ["Real estate"]
+categories: ["Selling"]
 tags: ["diagnostic", "property sale", "energy performance", "obligations", "notary"]
 author: "sophie-martin"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "Property diagnostics are at the seller's expense. Their total cost for an old property varies from 400 to 800 euros depending on surface and required diagnostics. The seller must use a certified diagnostician."
   - question: "How long are diagnostics valid?"
     answer: "Validity periods vary: DPE 10 years, asbestos and lead unlimited if negative, termites 6 months, electricity and gas 3 years, ERP 6 months. Check dates before signing so as not to have to redo an expired diagnostic."
-image: "https://picsum.photos/seed/diagnostics-obligatoires-vente/1200/800"
-imageAlt: "Diagnostic immobilier devant une maison"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Diagnostics immobiliers et documents de vente"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. The absence of a mandatory diagnostic can lead to sale cancellation or price reduction.
 
 
-![Diagnostic immobilier devant une maison](https://picsum.photos/seed/diagnostics-obligatoires-vente-body/1600/900)
-*Diagnostic immobilier devant une maison — Photo via Picsum*
+![Diagnostics immobiliers et documents de vente](https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1600&q=80&auto=format&fit=crop)
+*Diagnostics immobiliers et documents de vente — Photo via Unsplash*
 ## Mandatory diagnostics for property sale: 2026 overview
 
 **Mandatory diagnostics for property sale** evolve regularly. In 2026, the Technical Diagnostic File (DDT) remains the central document of any property sale.

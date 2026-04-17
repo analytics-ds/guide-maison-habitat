@@ -4,7 +4,7 @@ translationKey: "ou-vivre-ile-de-france"
 date: 2026-04-05
 lastmod: 2026-04-05
 description: "Where to live in Ile-de-France: panorama of cities and departments, price per sqm, commute times and quality of life."
-categories: ["Where to live"]
+categories: ["Buying"]
 tags: ["Ile-de-France", "Paris", "suburbs", "where to live", "real estate prices"]
 author: "sophie-martin"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "In early 2026, average prices per department are: Paris 9800 euros/sqm, Hauts-de-Seine 7200, Yvelines 4500, Seine-Saint-Denis 4100, Val-de-Marne 4900, Essonne 3200, Val-d'Oise 3400, Seine-et-Marne 2800. Ratio of 1 to 4 between cheapest and most expensive."
   - question: "What is the best suburb for a family in Ile-de-France?"
     answer: "For a family, cities with the best quality of life are: Saint-Maur-des-Fosses (94), Vincennes (94), Sceaux (92), Versailles (78), Maisons-Laffitte (78), Rueil-Malmaison (92). Evaluated criteria: schools, green spaces, local shops, transport, security."
-image: "https://picsum.photos/seed/ou-vivre-ile-de-france/1200/800"
-imageAlt: "Vue aérienne de Paris et sa banlieue"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Vue de Paris et de l'Ile-de-France"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. A Paris vs suburb trade-off can gain 30 to 50 percent of surface for the same budget.
 
 
-![Vue aérienne de Paris et sa banlieue](https://picsum.photos/seed/ou-vivre-ile-de-france-body/1600/900)
-*Vue aérienne de Paris et sa banlieue — Photo via Picsum*
+![Vue de Paris et de l'Ile-de-France](https://images.unsplash.com/photo-1431274172761-fca41d930114?w=1600&q=80&auto=format&fit=crop)
+*Vue de Paris et de l'Ile-de-France — Photo via Unsplash*
 ## Where to live in Ile-de-France: major trends
 
 **Where to live in Ile-de-France** no longer boils down to Paris intramuros. Inner and outer suburbs offer quality of life often superior to equivalent budgets, especially for families.

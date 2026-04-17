@@ -7,10 +7,12 @@
                 <p>{{ .Site.Params.description }}</p>
             </div>
             <div class="footer-col">
-                <h4>{{ if eq $lang "en" }}Categories{{ else }}Categories{{ end }}</h4>
+                <h4>{{ if eq $lang "en" }}Categories{{ else }}Catégories{{ end }}</h4>
                 <ul>
-                    {{ range .Site.Taxonomies.categories }}
-                    <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+                    {{ range .Site.Menus.main }}
+                    {{ if ne .Identifier "blog" }}
+                    <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+                    {{ end }}
                     {{ end }}
                 </ul>
             </div>
@@ -18,26 +20,27 @@
                 <h4>{{ if eq $lang "en" }}Navigation{{ else }}Navigation{{ end }}</h4>
                 <nav aria-label="{{ if eq $lang "en" }}Footer navigation{{ else }}Navigation du pied de page{{ end }}">
                     <ul>
-                        {{ range .Site.Menus.main }}
-                        <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-                        {{ end }}
                         {{ if eq $lang "en" }}
+                        <li><a href="{{ "/en/" | relURL }}">Home</a></li>
+                        <li><a href="{{ "blog/" | relLangURL }}">Blog</a></li>
                         <li><a href="{{ "about/" | relLangURL }}">About</a></li>
                         <li><a href="{{ "contact/" | relLangURL }}">Contact</a></li>
-                        <li><a href="{{ "legal-notice/" | relLangURL }}">Legal notice</a></li>
                         <li><a href="{{ "site-map/" | relLangURL }}">Site map</a></li>
+                        <li><a href="{{ "legal-notice/" | relLangURL }}">Legal notice</a></li>
                         {{ else }}
-                        <li><a href="{{ "a-propos/" | relLangURL }}">A propos</a></li>
+                        <li><a href="{{ "/" | relURL }}">Accueil</a></li>
+                        <li><a href="{{ "blog/" | relLangURL }}">Blog</a></li>
+                        <li><a href="{{ "a-propos/" | relLangURL }}">À propos</a></li>
                         <li><a href="{{ "contact/" | relLangURL }}">Contact</a></li>
-                        <li><a href="{{ "mentions-legales/" | relLangURL }}">Mentions legales</a></li>
                         <li><a href="{{ "plan-du-site/" | relLangURL }}">Plan du site</a></li>
+                        <li><a href="{{ "mentions-legales/" | relLangURL }}">Mentions légales</a></li>
                         {{ end }}
                     </ul>
                 </nav>
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; {{ now.Year }} {{ .Site.Title }}. {{ if eq $lang "en" }}All rights reserved.{{ else }}Tous droits reserves.{{ end }}</p>
+            <p>&copy; {{ now.Year }} {{ .Site.Title }}. {{ if eq $lang "en" }}All rights reserved.{{ else }}Tous droits réservés.{{ end }}</p>
         </div>
     </div>
 </footer>

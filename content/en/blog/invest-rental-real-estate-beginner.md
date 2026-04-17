@@ -4,7 +4,7 @@ translationKey: "investir-immobilier-locatif-debutant"
 date: 2026-04-11
 lastmod: 2026-04-11
 description: "Invest in rental real estate: profitability, taxation, risks and strategies to get started in 2026 with confidence."
-categories: ["Real estate investment"]
+categories: ["Financing"]
 tags: ["investment", "rental", "profitability", "beginner", "wealth"]
 author: "sophie-martin"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "Average gross yield of a rental investment is between 4 and 8 percent depending on the city. Net yield (after charges, taxes and vacancies) drops to 3 to 5 percent. Mid-sized cities in western France currently offer the best returns (7 to 9 percent gross)."
   - question: "Which tax regime to choose for rental?"
     answer: "The LMNP (Non-Professional Furnished Lessor) regime in France is generally the most advantageous for beginners. It allows depreciating the property and neutralizing rental income tax for 20 to 30 years. Real unfurnished rental is preferable when there are many works to depreciate."
-image: "https://picsum.photos/seed/investir-immobilier-locatif-debutant/1200/800"
+image: "https://images.unsplash.com/photo-1565402170291-8491f14678db?w=1600&q=85&auto=format&fit=crop"
 imageAlt: "Immeuble d'investissement locatif"
-imageCredit: "Photo via Picsum"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. A 10 to 20 percent down payment remains necessary for financing under good conditions.
 
 
-![Immeuble d'investissement locatif](https://picsum.photos/seed/investir-immobilier-locatif-debutant-body/1600/900)
-*Immeuble d'investissement locatif — Photo via Picsum*
+![Immeuble d'investissement locatif](https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1600&q=80&auto=format&fit=crop)
+*Immeuble d'investissement locatif — Photo via Unsplash*
 ## Invest in rental real estate: the basics
 
 **Investing in rental real estate** remains one of the most effective wealth strategies. Credit leverage multiplies the savings effort, provided you choose the right property at the right price.

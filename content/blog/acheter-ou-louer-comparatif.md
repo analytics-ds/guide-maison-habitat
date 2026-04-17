@@ -4,7 +4,7 @@ translationKey: "acheter-ou-louer-comparatif"
 date: 2026-04-16
 lastmod: 2026-04-16
 description: "Acheter ou louer : comparatif complet des avantages, couts reels et duree de detention pour trancher en 2026."
-categories: ["Immobilier"]
+categories: ["Achat"]
 tags: ["achat", "location", "comparatif", "immobilier", "décision"]
 author: "sophie-martin"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "Quatre critères principaux : la duree de residence envisagee (plus de 7 ans = achat), la stabilite professionnelle (CDI favorisé l'achat), l'apport disponible (10 a 20 pour cent du prix recommande) et la mobilité souhaitee (la location offre plus de flexibilite geographique)."
   - question: "Combien coûte reellement un achat immobilier ?"
     answer: "Au prix d'achat s'ajoutent les frais de notaire (7 a 8 pour cent dans l'ancien), les frais d'agence (1 a 5 pour cent), les frais de dossier bancaire (500 a 2500 euros) et les frais de garantie du pret (1 a 2 pour cent). Prévoyez un budget global de 10 a 12 pour cent au-dessus du prix affiche."
-image: "https://picsum.photos/seed/acheter-ou-louer-comparatif/1200/800"
-imageAlt: "Immeubles résidentiels et maison individuelle"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Comparaison maison a acheter ou a louer"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. Un apport de 10 a 20 pour cent est aujourd'hui requis par la plupart des banques pour un achat.
 
 
-![Immeubles résidentiels et maison individuelle](https://picsum.photos/seed/acheter-ou-louer-comparatif-body/1600/900)
-*Immeubles résidentiels et maison individuelle — Photo via Picsum*
+![Comparaison maison a acheter ou a louer](https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1600&q=80&auto=format&fit=crop)
+*Comparaison maison a acheter ou a louer — Photo via Unsplash*
 ## Acheter ou louer : le debat en 2026
 
 **Acheter ou louer** est une des questions financières les plus frequentes en France. En 2026, avec des taux immobiliers qui se stabilisent autour de 3,5 a 4 pour cent et des prix en legere baisse dans plusieurs grandes villes, les arbitrages évoluent.

@@ -4,7 +4,7 @@ translationKey: "renovation-salle-de-bain-guide"
 date: 2026-04-06
 lastmod: 2026-04-06
 description: "Bathroom renovation: key steps, average budget and pitfalls to avoid for a successful project from A to Z."
-categories: ["Renovation and works"]
+categories: ["Renovation"]
 tags: ["bathroom", "renovation", "plumbing", "budget", "works"]
 author: "claire-beaumont"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "A complete renovation takes on average 2 to 3 weeks: 3 days of demolition, 1 week of plumbing and electricity, 1 week of tiling and painting, then equipment installation. Add 1 to 2 weeks for finishes and drying."
   - question: "Do I need a permit to renovate a bathroom?"
     answer: "For a renovation without modification of the external appearance and without creating surface, no authorization is generally required. In a condominium, check the rules: some works (plumbing, drain columns) require union authorization."
-image: "https://picsum.photos/seed/renovation-salle-de-bain-guide/1200/800"
-imageAlt: "Salle de bain rénovée avec douche à l'italienne"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Salle de bain renovee avec douche a l'italienne"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. A complete project takes on average 2 to 3 weeks including drying.
 
 
-![Salle de bain rénovée avec douche à l'italienne](https://picsum.photos/seed/renovation-salle-de-bain-guide-body/1600/900)
-*Salle de bain rénovée avec douche à l'italienne — Photo via Picsum*
+![Salle de bain renovee avec douche a l'italienne](https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1600&q=80&auto=format&fit=crop)
+*Salle de bain renovee avec douche a l'italienne — Photo via Unsplash*
 ## Bathroom renovation: key steps
 
 **Bathroom renovation** is one of the most technical projects in a home. Plumbing, electricity, waterproofing, ventilation: there are many points of vigilance.

@@ -4,7 +4,7 @@ translationKey: "achat-maison-checklist"
 date: 2026-03-22
 lastmod: 2026-03-22
 description: "Buying a home: the checklist of points to check before signing the purchase agreement and avoiding unpleasant surprises."
-categories: ["Real estate"]
+categories: ["Buying"]
 tags: ["home buying", "house", "purchase agreement", "diagnostic", "checklist"]
 author: "sophie-martin"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "The standard delay between purchase agreement and signing at the notary is 2 to 3 months. This delay allows lifting suspensive conditions (bank loan, preemption, permits). The buyer has 10 days of retraction after signing the agreement."
   - question: "What budget to plan for buying a home?"
     answer: "On top of the 100 percent purchase price, add: 7 to 8 percent notary fees for old properties (2 to 3 percent new build), 1 to 2 percent agency fees, relocation costs (decor, urgent works). Plan a budget around 10 percent above the listed price."
-image: "https://picsum.photos/seed/achat-maison-checklist/1200/800"
-imageAlt: "Visite d'une maison avec des clés"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Maison à vendre, remise de clés"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. An energy audit is now mandatory for homes rated F or G in the French energy diagnostic (DPE).
 
 
-![Visite d'une maison avec des clés](https://picsum.photos/seed/achat-maison-checklist-body/1600/900)
-*Visite d'une maison avec des clés — Photo via Picsum*
+![Maison à vendre, remise de clés](https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=1600&q=80&auto=format&fit=crop)
+*Maison à vendre, remise de clés — Photo via Unsplash*
 ## Buying a home: the main points to check
 
 **Buying a home** is one of the most important financial decisions of a lifetime. A rigorous checklist avoids unpleasant surprises that can cost thousands of euros in unexpected works.

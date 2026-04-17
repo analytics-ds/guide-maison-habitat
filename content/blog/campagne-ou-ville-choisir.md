@@ -4,7 +4,7 @@ translationKey: "campagne-ou-ville-choisir"
 date: 2026-04-01
 lastmod: 2026-04-01
 description: "Campagne ou ville : comparatif complet (prix, transports, services, emploi, écoles) pour trancher selon son profil et son budget."
-categories: ["Ou vivre"]
+categories: ["Achat"]
 tags: ["campagne", "ville", "lieu de vie", "choix", "qualité de vie"]
 author: "sophie-martin"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "Le budget logement moyen a la campagne est 30 a 50 pour cent inférieur a celui des grandes villes. En revanche, le budget transport augmente de 200 a 500 euros par mois (voiture, carburant, entretien). L'economie nette oscille généralement entre 300 et 800 euros par mois pour un menage."
   - question: "Vivre a la campagne est-il adapte au teletravail ?"
     answer: "Le teletravail a rebat les cartes depuis 2020. Environ 30 pour cent des actifs en teletravail partiel envisagent une installation a la campagne. Les critères clés : fibre optique disponible, proximité d'une gare SNCF (moins de 30 min), présence de commerces a moins de 15 min en voiture."
-image: "https://picsum.photos/seed/campagne-ou-ville-choisir/1200/800"
-imageAlt: "Contraste entre ville et campagne"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Maison a la campagne entouree de verdure"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. La qualité de l'air, l'espace et le calme sont les 3 atouts les plus cites par les neo-ruraux.
 
 
-![Contraste entre ville et campagne](https://picsum.photos/seed/campagne-ou-ville-choisir-body/1600/900)
-*Contraste entre ville et campagne — Photo via Picsum*
+![Maison a la campagne entouree de verdure](https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=1600&q=80&auto=format&fit=crop)
+*Maison a la campagne entouree de verdure — Photo via Unsplash*
 ## Campagne ou ville : le grand arbitrage
 
 **Campagne ou ville** : ce choix structure profondement un quotidien, un budget et souvent une carrière. Depuis la crise sanitaire de 2020, l'équilibre a change : l'INSEE constate une hausse de 15 pour cent des migrations residentielles vers les zones rurales.

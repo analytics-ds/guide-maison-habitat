@@ -16,7 +16,7 @@ enableGitInfo = false
     contentDir = "content"
     title = "Guide Maison & Habitat"
     [languages.fr.params]
-      description = "Guide Maison & Habitat : immobilier, investissement, où vivre, travaux, déco et jardin. Conseils d'experts, comparatifs et guides pratiques."
+      description = "Guide Maison & Habitat : achat, vente, location, financement, assurance, aménagement et travaux. L'expertise immobilière à portée de main."
 
   [languages.en]
     languageCode = "en-US"
@@ -25,124 +25,115 @@ enableGitInfo = false
     contentDir = "content/en"
     title = "Guide Maison & Habitat"
     [languages.en.params]
-      description = "Guide Maison & Habitat: real estate, investment, where to live, renovation, decor and garden. Expert advice, comparisons and practical guides."
+      description = "Guide Maison & Habitat: buying, selling, renting, financing, insurance, interior design and renovation. Real estate expertise at your fingertips."
 
 [taxonomies]
   category = "categories"
   tag = "tags"
 
-# Menu FR — priorité immobilier, maison en regroupement
+# Menu FR — 100% immobilier, flat navigation
 [[languages.fr.menus.main]]
-  identifier = "immobilier"
-  name = "Immobilier"
-  url = "/categories/immobilier/"
+  identifier = "achat"
+  name = "Achat"
+  url = "/categories/achat/"
   weight = 1
 [[languages.fr.menus.main]]
-  identifier = "investissement"
-  name = "Investissement"
-  url = "/categories/investissement-immobilier/"
+  identifier = "vente"
+  name = "Vente"
+  url = "/categories/vente/"
   weight = 2
 [[languages.fr.menus.main]]
-  identifier = "ou-vivre"
-  name = "Où vivre"
-  url = "/categories/ou-vivre/"
+  identifier = "location"
+  name = "Location"
+  url = "/categories/location/"
   weight = 3
 [[languages.fr.menus.main]]
-  identifier = "maison"
-  name = "Maison"
-  url = "/maison/"
+  identifier = "financement"
+  name = "Financement"
+  url = "/categories/financement/"
   weight = 4
-  [[languages.fr.menus.main]]
-    parent = "maison"
-    name = "Aménagement intérieur"
-    url = "/categories/amenagement-interieur/"
-    weight = 1
-  [[languages.fr.menus.main]]
-    parent = "maison"
-    name = "Travaux & rénovation"
-    url = "/categories/travaux-et-renovation/"
-    weight = 2
-  [[languages.fr.menus.main]]
-    parent = "maison"
-    name = "Décoration"
-    url = "/categories/decoration/"
-    weight = 3
-  [[languages.fr.menus.main]]
-    parent = "maison"
-    name = "Jardin"
-    url = "/categories/jardin/"
-    weight = 4
+[[languages.fr.menus.main]]
+  identifier = "assurance"
+  name = "Assurance"
+  url = "/categories/assurance/"
+  weight = 5
+[[languages.fr.menus.main]]
+  identifier = "amenagement"
+  name = "Aménagement & Décoration"
+  url = "/categories/amenagement-et-decoration/"
+  weight = 6
+[[languages.fr.menus.main]]
+  identifier = "travaux"
+  name = "Travaux & Rénovation"
+  url = "/categories/travaux-et-renovation/"
+  weight = 7
 [[languages.fr.menus.main]]
   identifier = "blog"
-  name = "Le Blog"
+  name = "Blog"
   url = "/blog/"
   weight = 99
 
 # Menu EN
 [[languages.en.menus.main]]
-  identifier = "real-estate"
-  name = "Real estate"
-  url = "/en/categories/real-estate/"
+  identifier = "buying"
+  name = "Buying"
+  url = "/en/categories/buying/"
   weight = 1
 [[languages.en.menus.main]]
-  identifier = "investment"
-  name = "Investment"
-  url = "/en/categories/real-estate-investment/"
+  identifier = "selling"
+  name = "Selling"
+  url = "/en/categories/selling/"
   weight = 2
 [[languages.en.menus.main]]
-  identifier = "where-to-live"
-  name = "Where to live"
-  url = "/en/categories/where-to-live/"
+  identifier = "rental"
+  name = "Rental"
+  url = "/en/categories/rental/"
   weight = 3
 [[languages.en.menus.main]]
-  identifier = "home"
-  name = "Home & Garden"
-  url = "/en/home-garden/"
+  identifier = "financing"
+  name = "Financing"
+  url = "/en/categories/financing/"
   weight = 4
-  [[languages.en.menus.main]]
-    parent = "home"
-    name = "Interior design"
-    url = "/en/categories/interior-design/"
-    weight = 1
-  [[languages.en.menus.main]]
-    parent = "home"
-    name = "Renovation"
-    url = "/en/categories/renovation-and-works/"
-    weight = 2
-  [[languages.en.menus.main]]
-    parent = "home"
-    name = "Decoration"
-    url = "/en/categories/decoration/"
-    weight = 3
-  [[languages.en.menus.main]]
-    parent = "home"
-    name = "Garden"
-    url = "/en/categories/garden/"
-    weight = 4
+[[languages.en.menus.main]]
+  identifier = "insurance"
+  name = "Insurance"
+  url = "/en/categories/insurance/"
+  weight = 5
+[[languages.en.menus.main]]
+  identifier = "interior"
+  name = "Interior Design & Decor"
+  url = "/en/categories/interior-design-and-decor/"
+  weight = 6
+[[languages.en.menus.main]]
+  identifier = "renovation"
+  name = "Renovation"
+  url = "/en/categories/renovation/"
+  weight = 7
 [[languages.en.menus.main]]
   identifier = "blog"
-  name = "The Blog"
+  name = "Blog"
   url = "/en/blog/"
   weight = 99
 
 [params]
-  primary = "#3D4A2A"
-  primaryLight = "#5A6B45"
-  background = "#F4EFE3"
-  backgroundAlt = "#E8E2D0"
-  accent = "#3D4A2A"
-  cta = "#3D4A2A"
-  ctaHover = "#2A3419"
-  text = "#1A1A14"
-  textLight = "#5A5A52"
-  border = "#D6CFBA"
-  fontHeading = "Fraunces"
+  # Palette premium : noir profond + ivoire + accent bronze
+  primary = "#1B1B1B"
+  primaryLight = "#404040"
+  background = "#FAF7F2"
+  backgroundAlt = "#F0ECE3"
+  accent = "#B08968"
+  cta = "#1B1B1B"
+  ctaHover = "#404040"
+  text = "#2B2B2B"
+  textLight = "#6B6B6B"
+  border = "#E5DFD2"
+  fontHeading = "Cormorant Garamond"
   fontBody = "Inter"
   fontUI = "Inter"
   default_og_image = "/images/og-default.jpg"
   logo = "/logo.svg"
   founding_year = "2026"
-  expertise = ["Immobilier", "Investissement immobilier", "Où vivre", "Aménagement intérieur", "Rénovation", "Décoration", "Jardin"]
+  expertise = ["Achat immobilier", "Vente immobilière", "Location", "Financement", "Assurance habitation", "Aménagement intérieur", "Rénovation"]
   og_locale_alternate = "en_US"
 
 [markup]
@@ -164,7 +155,5 @@ enableGitInfo = false
     name = "tags"
     weight = 80
 
-# Desactiver la minification XML pour avoir un sitemap lisible
 [minify]
   disableXML = true
-

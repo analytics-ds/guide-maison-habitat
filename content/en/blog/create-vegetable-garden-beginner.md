@@ -4,7 +4,7 @@ translationKey: "creer-potager-debutant"
 date: 2026-03-31
 lastmod: 2026-03-31
 description: "Create a vegetable garden for beginners: size, easy vegetables, calendar and first steps for a successful harvest."
-categories: ["Garden"]
+categories: ["Interior Design & Decor"]
 tags: ["vegetable garden", "garden", "beginner", "vegetables", "permaculture"]
 author: "claire-beaumont"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "The simplest vegetables to grow are: radishes (harvest in 3 weeks), salad, cherry tomatoes, zucchini, green beans, herbs (basil, parsley, chives). These crops forgive small mistakes and generally produce from the first year."
   - question: "What size for a family vegetable garden?"
     answer: "To partially feed a family of 4, count 50 to 100 sqm. For complete vegetable autonomy (excluding cereals), at least 200 well-maintained sqm are needed. A beginner can start on 10 to 15 sqm and gradually expand."
-image: "https://picsum.photos/seed/creer-potager-debutant/1200/800"
-imageAlt: "Potager avec planches de légumes"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Potager avec legumes et plantes"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. Thick mulch divides water needs by 3 and limits weeding.
 
 
-![Potager avec planches de légumes](https://picsum.photos/seed/creer-potager-debutant-body/1600/900)
-*Potager avec planches de légumes — Photo via Picsum*
+![Potager avec legumes et plantes](https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=1600&q=80&auto=format&fit=crop)
+*Potager avec legumes et plantes — Photo via Unsplash*
 ## Creating a vegetable garden for beginners: the steps
 
 **Creating a vegetable garden as a beginner** requires simple but essential preparation. The first criterion is location: a corner of the garden facing south or southwest, sheltered from wind, near a water point.

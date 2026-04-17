@@ -4,7 +4,7 @@ translationKey: "isolation-thermique-maison"
 date: 2026-04-09
 lastmod: 2026-04-09
 description: "Home thermal insulation: where to start, which materials to choose and which financial aids to leverage."
-categories: ["Renovation and works"]
+categories: ["Renovation"]
 tags: ["insulation", "thermal", "renovation", "energy savings", "grants"]
 author: "claire-beaumont"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "There is no universal best insulator: the choice depends on the support, budget and target performance. Glass wool remains the best value for money. Cellulose wadding and wood wool are more ecological. Polyurethane offers the best performance per cm of thickness."
   - question: "What insulation grants are available in 2026?"
     answer: "MaPrimeRenov', Energy Savings Certificates (CEE), the eco-PTZ and 5.5 percent reduced VAT remain the main grants in France. A middle-income household can accumulate several thousand euros in aid on a global insulation project."
-image: "https://picsum.photos/seed/isolation-thermique-maison/1200/800"
+image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1600&q=85&auto=format&fit=crop"
 imageAlt: "Travaux d'isolation thermique d'une maison"
-imageCredit: "Photo via Picsum"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. An energy audit is mandatory before certain works and is partially funded (up to 500 euros).
 
 
-![Travaux d'isolation thermique d'une maison](https://picsum.photos/seed/isolation-thermique-maison-body/1600/900)
-*Travaux d'isolation thermique d'une maison — Photo via Picsum*
+![Travaux d'isolation thermique d'une maison](https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1600&q=80&auto=format&fit=crop)
+*Travaux d'isolation thermique d'une maison — Photo via Unsplash*
 ## Home thermal insulation: the order of priorities
 
 Thermal insulation is the number 1 lever to reduce your energy bill. A poorly insulated house loses on average 30 percent of its heat through the roof, 25 percent through walls, 15 percent through windows and 10 percent through the floor.

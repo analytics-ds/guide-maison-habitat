@@ -4,7 +4,7 @@ translationKey: "achat-maison-checklist"
 date: 2026-03-22
 lastmod: 2026-03-22
 description: "Achat maison : la checklist des points a vérifier avant de signer le compromis et éviter les mauvaises surprises."
-categories: ["Immobilier"]
+categories: ["Achat"]
 tags: ["achat immobilier", "maison", "compromis", "diagnostic", "checklist"]
 author: "sophie-martin"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "Le délai standard entre le compromis de vente et la signature chez le notaire est de 2 a 3 mois. Ce délai permet de lever les conditions suspensives (pret bancaire, purge du droit de preemption, obtention des autorisations). L'acheteur dispose de 10 jours de retractation après signature du compromis."
   - question: "Quel budget prévoir pour l'achat d'une maison ?"
     answer: "Aux 100 pour cent du prix d'achat, il faut ajouter : 7 a 8 pour cent de frais de notaire dans l'ancien (2 a 3 pour cent dans le neuf), 1 a 2 pour cent de frais d'agence, le cout du deplacement (décoration, travaux d'urgence). Prévoyez un budget d'environ 10 pour cent au-dessus du prix affiche."
-image: "https://picsum.photos/seed/achat-maison-checklist/1200/800"
-imageAlt: "Visite d'une maison avec des clés"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Maison à vendre, remise de clés"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. Un audit énergétique est désormais obligatoire pour les maisons classees F ou G au DPE.
 
 
-![Visite d'une maison avec des clés](https://picsum.photos/seed/achat-maison-checklist-body/1600/900)
-*Visite d'une maison avec des clés — Photo via Picsum*
+![Maison à vendre, remise de clés](https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=1600&q=80&auto=format&fit=crop)
+*Maison à vendre, remise de clés — Photo via Unsplash*
 ## Achat maison : les grands points a vérifier
 
 **L'achat d'une maison** est l'une des décisions financières les plus importantes d'une vie. Une checklist rigoureuse évite les mauvaises surprises qui peuvent coûter des milliers d'euros de travaux imprevus.

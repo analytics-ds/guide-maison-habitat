@@ -4,7 +4,7 @@ translationKey: "investir-immobilier-locatif-debutant"
 date: 2026-04-11
 lastmod: 2026-04-11
 description: "Investir dans l'immobilier locatif : rentabilité, fiscalité, risques et strategies pour se lancer en 2026 en toute serenite."
-categories: ["Investissement immobilier"]
+categories: ["Financement"]
 tags: ["investissement", "locatif", "rentabilité", "débutant", "patrimoine"]
 author: "sophie-martin"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "La rentabilité brute moyenne d'un investissement locatif se situé entre 4 et 8 pour cent selon la ville. La rentabilité nette (après charges, impots et vacances locatives) tombe a 3 a 5 pour cent. Les villes moyennes du Grand Ouest offrent actuellement les meilleurs rendements (7 a 9 pour cent brut)."
   - question: "Quel regime fiscal choisir en locatif ?"
     answer: "Le regime LMNP (Loueur Meuble Non Professionnel) est généralement le plus avantageux pour les débutants. Il permet d'amortir le bien et de neutraliser fiscalement les revenus locatifs pendant 20 a 30 ans. La location nue au reel est préférable quand il y a beaucoup de travaux a amortir."
-image: "https://picsum.photos/seed/investir-immobilier-locatif-debutant/1200/800"
+image: "https://images.unsplash.com/photo-1565402170291-8491f14678db?w=1600&q=85&auto=format&fit=crop"
 imageAlt: "Immeuble d'investissement locatif"
-imageCredit: "Photo via Picsum"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. Un apport de 10 a 20 pour cent reste nécessaire pour un financement dans de bonnes conditions.
 
 
-![Immeuble d'investissement locatif](https://picsum.photos/seed/investir-immobilier-locatif-debutant-body/1600/900)
-*Immeuble d'investissement locatif — Photo via Picsum*
+![Immeuble d'investissement locatif](https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1600&q=80&auto=format&fit=crop)
+*Immeuble d'investissement locatif — Photo via Unsplash*
 ## Investir dans l'immobilier locatif : les bases
 
 **Investir dans l'immobilier locatif** reste l'une des strategies patrimoniales les plus efficaces pour construire un capital. Le levier du credit permet de demultiplier son effort d'epargne, a condition de choisir le bon bien au bon prix.

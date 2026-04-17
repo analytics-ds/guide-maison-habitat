@@ -4,7 +4,7 @@ translationKey: "renovation-salle-de-bain-guide"
 date: 2026-04-06
 lastmod: 2026-04-06
 description: "Rénovation de salle de bain : étapes clés, budget moyen et pieges a éviter pour un chantier reussi de A a Z."
-categories: ["Travaux et rénovation"]
+categories: ["Travaux & Rénovation"]
 tags: ["salle de bain", "rénovation", "plomberie", "budget", "travaux"]
 author: "claire-beaumont"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "Une rénovation complète prend en moyenne 2 a 3 semaines : 3 jours de demolition, 1 semaine de plomberie et électricité, 1 semaine de carrelage et peinture, puis la pose des équipements. Ajoutez 1 a 2 semaines pour les finitions et sechages."
   - question: "Faut-il un permis pour rénover une salle de bain ?"
     answer: "Pour une rénovation sans modification de l'aspect extérieur du batiment et sans création de surface, aucune autorisation n'est requise en general. En copropriete, vérifiez le reglement : certains travaux (plomberie, colonnes d'evacuation) necessitent une autorisation du syndicat."
-image: "https://picsum.photos/seed/renovation-salle-de-bain-guide/1200/800"
-imageAlt: "Salle de bain rénovée avec douche à l'italienne"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Salle de bain renovee avec douche a l'italienne"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. Un chantier complet dure en moyenne 2 a 3 semaines avec sechages inclus.
 
 
-![Salle de bain rénovée avec douche à l'italienne](https://picsum.photos/seed/renovation-salle-de-bain-guide-body/1600/900)
-*Salle de bain rénovée avec douche à l'italienne — Photo via Picsum*
+![Salle de bain renovee avec douche a l'italienne](https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1600&q=80&auto=format&fit=crop)
+*Salle de bain renovee avec douche a l'italienne — Photo via Unsplash*
 ## Rénovation de salle de bain : étapes clés
 
 La **rénovation de salle de bain** est l'un des chantiers les plus techniques d'une maison. Plomberie, électricité, etancheite, ventilation : les points de vigilance sont nombreux.

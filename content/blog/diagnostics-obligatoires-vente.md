@@ -4,7 +4,7 @@ translationKey: "diagnostics-obligatoires-vente"
 date: 2026-03-19
 lastmod: 2026-03-19
 description: "Diagnostics obligatoires vente : liste complète 2026, couts, duree de validite et penalites en cas d'oubli."
-categories: ["Immobilier"]
+categories: ["Vente"]
 tags: ["diagnostic", "vente immobilière", "DPE", "obligations", "notaire"]
 author: "sophie-martin"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "Les diagnostics immobiliers sont a la charge du vendeur. Leur cout total pour un bien ancien varie de 400 a 800 euros selon la surface et les diagnostics nécessaires. Le vendeur doit faire appel a un diagnostiqueur certifie."
   - question: "Combien de temps sont valables les diagnostics ?"
     answer: "Les durees de validite varient : DPE 10 ans, amiante et plomb illimites si negatifs, termites 6 mois, électricité et gaz 3 ans, ERP 6 mois. Vérifiez bien les dates avant de signer pour ne pas avoir a refaire un diagnostic expire."
-image: "https://picsum.photos/seed/diagnostics-obligatoires-vente/1200/800"
-imageAlt: "Diagnostic immobilier devant une maison"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Diagnostics immobiliers et documents de vente"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. L'absence d'un diagnostic obligatoire peut entrainer l'annulation de la vente ou une reduction de prix.
 
 
-![Diagnostic immobilier devant une maison](https://picsum.photos/seed/diagnostics-obligatoires-vente-body/1600/900)
-*Diagnostic immobilier devant une maison — Photo via Picsum*
+![Diagnostics immobiliers et documents de vente](https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1600&q=80&auto=format&fit=crop)
+*Diagnostics immobiliers et documents de vente — Photo via Unsplash*
 ## Diagnostics obligatoires vente : panorama 2026
 
 Les **diagnostics obligatoires vente immobilière** évoluent régulièrement. En 2026, le Dossier de Diagnostic Technique (DDT) reste le document central de toute vente immobilière.

@@ -4,7 +4,7 @@ translationKey: "fiscalite-investissement-immobilier"
 date: 2026-04-08
 lastmod: 2026-04-08
 description: "Real estate investment taxation: panorama of LMNP, unfurnished, Pinel and SCPI regimes to optimize rental income."
-categories: ["Real estate investment"]
+categories: ["Financing"]
 tags: ["taxation", "LMNP", "rental income", "Pinel", "taxes"]
 author: "sophie-martin"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "LMNP regime allows depreciating the property (excluding land) over 20 to 30 years, generally between 2 and 3 percent per year. This accounting expense is added to real charges and can fully neutralize taxable rents for 20 to 30 years, resulting in near tax exemption."
   - question: "Are SCPIs a good investment?"
     answer: "SCPIs offer an average yield of 4 to 5.5 percent in 2026 with an accessible entry ticket (1000 to 10 000 euros). They are taxed as rental income (marginal) but diversify risk and eliminate management. Recommended for passive or complementary investment."
-image: "https://picsum.photos/seed/fiscalite-investissement-immobilier/1200/800"
-imageAlt: "Documents fiscaux et calculs immobiliers"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Documents fiscaux et calculs d'investissement"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. Pinel scheme ended in 2024 but Denormandie and LLI remain active.
 
 
-![Documents fiscaux et calculs immobiliers](https://picsum.photos/seed/fiscalite-investissement-immobilier-body/1600/900)
-*Documents fiscaux et calculs immobiliers — Photo via Picsum*
+![Documents fiscaux et calculs d'investissement](https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1600&q=80&auto=format&fit=crop)
+*Documents fiscaux et calculs d'investissement — Photo via Unsplash*
 ## Real estate investment taxation: 2026 overview
 
 **Real estate investment taxation** in France rests on several regimes according to rental type and investment volume. The right tax choice can double net yield.

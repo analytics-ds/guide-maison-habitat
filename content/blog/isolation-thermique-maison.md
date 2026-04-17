@@ -4,7 +4,7 @@ translationKey: "isolation-thermique-maison"
 date: 2026-04-09
 lastmod: 2026-04-09
 description: "Isolation thermique de la maison : par ou commencer, quels materiaux choisir et quelles aides financières mobiliser."
-categories: ["Travaux et rénovation"]
+categories: ["Travaux & Rénovation"]
 tags: ["isolation", "thermique", "rénovation", "economies d'énergie", "aides"]
 author: "claire-beaumont"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "Il n'existe pas un meilleur isolant universel : le choix depend du support, du budget et des performances visees. La laine de verre reste le meilleur rapport qualité prix. La ouate de cellulose et la laine de bois sont plus ecologiques. Le polyurethane offre la meilleure performance par cm d'epaisseur."
   - question: "Quelles aides pour l'isolation en 2026 ?"
     answer: "MaPrimeRenov', les Certificats d'Economies d'Énergie (CEE), l'eco-PTZ et la TVA a 5,5 pour cent restent les principales aides. Un menage aux revenus moyens peut cumuler plusieurs milliers d'euros d'aides sur un chantier d'isolation globale."
-image: "https://picsum.photos/seed/isolation-thermique-maison/1200/800"
+image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1600&q=85&auto=format&fit=crop"
 imageAlt: "Travaux d'isolation thermique d'une maison"
-imageCredit: "Photo via Picsum"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. Un audit énergétique est obligatoire avant certains travaux et finance jusqu'a 500 euros par l'État.
 
 
-![Travaux d'isolation thermique d'une maison](https://picsum.photos/seed/isolation-thermique-maison-body/1600/900)
-*Travaux d'isolation thermique d'une maison — Photo via Picsum*
+![Travaux d'isolation thermique d'une maison](https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1600&q=80&auto=format&fit=crop)
+*Travaux d'isolation thermique d'une maison — Photo via Unsplash*
 ## Isolation thermique de la maison : l'ordre des priorites
 
 L'ADEME rappelle que **l'isolation thermique de la maison** est le levier n1 pour reduire sa facture d'énergie. Une maison mal isolée perd en moyenne 30 pour cent de sa chaleur par le toit, 25 pour cent par les murs, 15 pour cent par les fenêtres et 10 pour cent par le plancher.

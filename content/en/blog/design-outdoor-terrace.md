@@ -4,7 +4,7 @@ translationKey: "amenager-terrasse-exterieure"
 date: 2026-04-03
 lastmod: 2026-04-03
 description: "How to design an outdoor terrace: flooring, furniture, plants and lighting choices for a successful outdoor space."
-categories: ["Garden"]
+categories: ["Interior Design & Decor"]
 tags: ["terrace", "outdoor", "design", "furniture", "plants"]
 author: "claire-beaumont"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "Exotic wood (ipe, teak) lasts 25 to 30 years but is expensive. Composite requires no maintenance and lasts 20 years. Large-format tile is the most durable (50 years and more) and resists frost well if rated R11 or higher."
   - question: "What plants for a terrace?"
     answer: "Prefer plants resistant to exposure: lavender, dwarf olive, grasses for full sun. In shade, opt for ferns, hostas or sacred bamboo. Climbing plants (clematis, jasmine) structure the vertical space."
-image: "https://picsum.photos/seed/amenager-terrasse-exterieure/1200/800"
-imageAlt: "Terrasse extérieure aménagée avec mobilier outdoor"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Terrasse exterieure amenagee avec mobilier"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. Indirect outdoor lighting transforms terrace use in the evening and increases usage time by 40 percent.
 
 
-![Terrasse extérieure aménagée avec mobilier outdoor](https://picsum.photos/seed/amenager-terrasse-exterieure-body/1600/900)
-*Terrasse extérieure aménagée avec mobilier outdoor — Photo via Picsum*
+![Terrasse exterieure amenagee avec mobilier](https://images.unsplash.com/photo-1505692433770-36f19f51681d?w=1600&q=80&auto=format&fit=crop)
+*Terrasse exterieure amenagee avec mobilier — Photo via Unsplash*
 ## Designing an outdoor terrace: where to start
 
 **Designing an outdoor terrace** starts with analyzing the existing: exposure, sunlight, neighbors, usable surface. A south-facing terrace requires shade, a north-facing terrace requires bright colors.

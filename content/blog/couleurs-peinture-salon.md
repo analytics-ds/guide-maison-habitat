@@ -4,7 +4,7 @@ translationKey: "couleurs-peinture-salon"
 date: 2026-03-25
 lastmod: 2026-03-25
 description: "Couleurs peinture salon : comment bien choisir les teintes selon la lumière, la taille et le style de la pièce."
-categories: ["Décoration"]
+categories: ["Aménagement & Décoration"]
 tags: ["peinture", "salon", "couleurs", "deco", "ambiance"]
 author: "claire-beaumont"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "Pour agrandir visuellement un salon, privilégiez les tons clairs : blanc casse, beige, gris perle. Peignez les murs dans la même teinte que le plafond pour supprimer la limité visuelle. Une couleur plus foncee sur le mur du fond peut créer un effet de profondeur."
   - question: "Comment associer les couleurs dans un salon ?"
     answer: "La regle classique des 60-30-10 fonctionne bien : 60 pour cent de la couleur dominante (murs, grands meubles), 30 pour cent de la couleur secondaire (textiles, rideaux), 10 pour cent de la couleur accent (coussins, objets deco). Évitez de depasser 3 couleurs principales."
-image: "https://picsum.photos/seed/couleurs-peinture-salon/1200/800"
+image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1600&q=85&auto=format&fit=crop"
 imageAlt: "Salon peint dans des tons chauds et naturels"
-imageCredit: "Photo via Picsum"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. Un test sur grand echantillon (minimum 1 m2) est indispensable avant de peindre toute la pièce.
 
 
-![Salon peint dans des tons chauds et naturels](https://picsum.photos/seed/couleurs-peinture-salon-body/1600/900)
-*Salon peint dans des tons chauds et naturels — Photo via Picsum*
+![Salon peint dans des tons chauds et naturels](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1600&q=80&auto=format&fit=crop)
+*Salon peint dans des tons chauds et naturels — Photo via Unsplash*
 ## Couleurs peinture salon : les critères de choix
 
 Choisir la **couleur peinture salon** est une décision impactante. Une mauvaise teinte peut assombrir la pièce ou la rendre inconfortable. Trois critères principaux guident le choix.

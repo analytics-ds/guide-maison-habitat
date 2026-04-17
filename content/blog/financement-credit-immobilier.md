@@ -4,7 +4,7 @@ translationKey: "financement-credit-immobilier"
 date: 2026-04-14
 lastmod: 2026-04-14
 description: "Financement credit immobilier : taux, apport, duree, assurance emprunteur et strategies pour optimiser son pret en 2026."
-categories: ["Immobilier"]
+categories: ["Financement"]
 tags: ["credit immobilier", "financement", "taux", "pret", "banque"]
 author: "sophie-martin"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "Les banques exigent généralement un apport d'au moins 10 pour cent du prix d'achat pour couvrir les frais de notaire. Un apport de 20 pour cent est souvent nécessaire pour obtenir les meilleurs taux. Certains profils (primo-accedants, jeunes actifs) peuvent négocier un financement a 100 pour cent avec de solides garanties."
   - question: "Quelle duree de pret immobilier choisir ?"
     answer: "La duree standard est de 20 a 25 ans en 2026. 25 ans reste la duree maximale autorisee par le HCSF. Plus la duree est longue, plus le taux est élevé mais la mensualite baisse. Un pret de 20 ans offre souvent le meilleur compromis entre cout total et mensualites supportables."
-image: "https://picsum.photos/seed/financement-credit-immobilier/1200/800"
-imageAlt: "Signature d'un contrat de prêt immobilier"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Calcul de credit immobilier"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. Le taux d'endettement maximal légal est de 35 pour cent des revenus nets.
 
 
-![Signature d'un contrat de prêt immobilier](https://picsum.photos/seed/financement-credit-immobilier-body/1600/900)
-*Signature d'un contrat de prêt immobilier — Photo via Picsum*
+![Calcul de credit immobilier](https://images.unsplash.com/photo-1579621970795-87facc2f976d?w=1600&q=80&auto=format&fit=crop)
+*Calcul de credit immobilier — Photo via Unsplash*
 ## Financement credit immobilier : les fondamentaux 2026
 
 Le **financement credit immobilier** repose sur un équilibre entre apport, duree, taux et assurance. Maitriser ces quatre leviers permet d'obtenir un pret aux meilleures conditions.

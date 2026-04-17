@@ -4,7 +4,7 @@ translationKey: "campagne-ou-ville-choisir"
 date: 2026-04-01
 lastmod: 2026-04-01
 description: "Country or city: complete comparison (prices, transport, services, employment, schools) to decide based on your profile and budget."
-categories: ["Where to live"]
+categories: ["Buying"]
 tags: ["countryside", "city", "place to live", "choice", "quality of life"]
 author: "sophie-martin"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "Average housing budget in the country is 30 to 50 percent lower than in major cities. However, transport budget increases by 200 to 500 euros per month (car, fuel, maintenance). Net savings generally range between 300 and 800 euros per month for a household."
   - question: "Is country living suited for remote work?"
     answer: "Remote work has reshuffled the cards since 2020. About 30 percent of active people on partial remote work consider moving to the countryside. Key criteria: available fiber optic, proximity to a train station (under 30 min), presence of shops under 15 min by car."
-image: "https://picsum.photos/seed/campagne-ou-ville-choisir/1200/800"
-imageAlt: "Contraste entre ville et campagne"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Maison a la campagne entouree de verdure"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. Air quality, space and quiet are the 3 most cited assets by neo-rurals.
 
 
-![Contraste entre ville et campagne](https://picsum.photos/seed/campagne-ou-ville-choisir-body/1600/900)
-*Contraste entre ville et campagne — Photo via Picsum*
+![Maison a la campagne entouree de verdure](https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=1600&q=80&auto=format&fit=crop)
+*Maison a la campagne entouree de verdure — Photo via Unsplash*
 ## Country or city: the big trade-off
 
 **Country or city**: this choice deeply structures daily life, budget and often career. Since the 2020 health crisis, the balance has shifted: 15 percent increase in residential migrations to rural areas.

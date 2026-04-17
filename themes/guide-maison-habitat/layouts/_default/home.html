@@ -3,55 +3,55 @@
 
 <section class="hero">
     <div class="container">
-        <h1 class="hero-title">Guide<br>Maison &amp; Habitat</h1>
-        <div class="hero-right">
-            <p class="hero-tagline">{{ if eq $lang "en" }}News, expert advice, comparisons and rankings for real estate, investment, decor and home.{{ else }}Actualite, conseils d'experts, comparatifs et classements pour l'immobilier, l'investissement, la deco et la maison.{{ end }}</p>
-            <a href="{{ "blog/" | relLangURL }}" class="hero-cta-inline">{{ if eq $lang "en" }}Explore articles{{ else }}Explorer le blog{{ end }}</a>
-        </div>
+        <span class="hero-eyebrow">{{ if eq $lang "en" }}Real estate expertise{{ else }}L'expertise immobilière{{ end }}</span>
+        <h1 class="hero-title">{{ if eq $lang "en" }}Your guide to real estate <em>& home</em>{{ else }}Votre guide pour l'immobilier <em>& la maison</em>{{ end }}</h1>
+        <p class="hero-description">{{ if eq $lang "en" }}Practical advice, comparisons and guides on buying, selling, renting, financing, insurance, interior design and renovation.{{ else }}Conseils pratiques, comparatifs et guides sur l'achat, la vente, la location, le financement, l'assurance, l'aménagement et les travaux.{{ end }}</p>
+        <a href="{{ "blog/" | relLangURL }}" class="hero-cta">{{ if eq $lang "en" }}Explore the blog{{ else }}Explorer le blog{{ end }}</a>
     </div>
 </section>
 
-<section class="categories-section">
+<section class="section-alt">
     <div class="container">
-        <span class="section-label">{{ if eq $lang "en" }}Our universes{{ else }}Nos univers{{ end }}</span>
-        <h2 class="section-title">{{ if eq $lang "en" }}Explore our categories{{ else }}Explorez nos categories{{ end }}</h2>
+        <h2 class="section-title section-title-center">{{ if eq $lang "en" }}Our categories{{ else }}Nos catégories{{ end }}</h2>
+        <p class="section-subtitle">{{ if eq $lang "en" }}Everything you need to know about your real estate journey.{{ else }}Tout ce qu'il faut savoir pour votre parcours immobilier.{{ end }}</p>
         <div class="grid-categories">
-            {{ range .Site.Taxonomies.categories }}
-            <a href="{{ .Page.RelPermalink }}" class="category-card">
-                <h3>{{ .Page.Title }}</h3>
-                <span class="category-count">{{ .Count }} {{ if gt .Count 1 }}articles{{ else }}article{{ end }}</span>
+            {{ range .Site.Menus.main }}
+            {{ if ne .Identifier "blog" }}
+            <a href="{{ .URL | relURL }}" class="category-card">
+                <h3>{{ .Name }}</h3>
             </a>
+            {{ end }}
             {{ end }}
         </div>
     </div>
 </section>
 
-<section class="latest-section">
+<section>
     <div class="container">
-        <span class="section-label">{{ if eq $lang "en" }}Latest{{ else }}Les dernieres publications{{ end }}</span>
-        <h2 class="section-title">{{ if eq $lang "en" }}Latest articles{{ else }}Derniers articles{{ end }}</h2>
+        <h2 class="section-title section-title-center">{{ if eq $lang "en" }}Latest articles{{ else }}Derniers articles{{ end }}</h2>
         <div class="grid-articles">
             {{ range first 6 (where .Site.RegularPages "Section" "blog") }}
-            <article class="article-card">
-                <a href="{{ .RelPermalink }}" class="article-card-image-wrapper" aria-label="{{ .Title }}">
+            <a href="{{ .RelPermalink }}" class="article-card">
+                <div class="article-card-image-wrapper">
                     {{ if .Params.image }}
-                    <img src="{{ .Params.image | relURL }}" alt="{{ .Params.imageAlt | default .Title }}" class="article-card-image" loading="lazy" width="600" height="400">
+                    <img src="{{ .Params.image }}" alt="{{ .Params.imageAlt | default .Title }}" class="article-card-image" loading="lazy" width="600" height="450">
                     {{ else }}
                     <span class="article-card-image article-card-image-placeholder" aria-hidden="true">{{ slicestr .Title 0 1 }}</span>
                     {{ end }}
-                </a>
+                </div>
                 <div class="article-card-body">
                     <div class="article-meta">
                         {{ with .Params.categories }}
                         <span class="article-category">{{ index . 0 }}</span>
+                        <span class="meta-dot">·</span>
                         {{ end }}
                         <time>{{ .Date.Format "2 January 2006" }}</time>
                     </div>
-                    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                    <h3>{{ .Title }}</h3>
                     <p>{{ .Description }}</p>
-                    <a href="{{ .RelPermalink }}" class="read-more">{{ if eq $lang "en" }}Read more ↗{{ else }}Lire la suite ↗{{ end }}</a>
+                    <span class="read-more">{{ if eq $lang "en" }}Read →{{ else }}Lire →{{ end }}</span>
                 </div>
-            </article>
+            </a>
             {{ end }}
         </div>
     </div>

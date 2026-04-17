@@ -4,7 +4,7 @@ translationKey: "financement-credit-immobilier"
 date: 2026-04-14
 lastmod: 2026-04-14
 description: "Home loan financing: rates, down payment, duration, borrower insurance and strategies to optimize your loan in 2026."
-categories: ["Real estate"]
+categories: ["Financing"]
 tags: ["home loan", "financing", "rate", "loan", "bank"]
 author: "sophie-martin"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "Banks generally require a down payment of at least 10 percent of the purchase price to cover notary fees. A 20 percent down payment is often necessary to obtain the best rates. Some profiles can negotiate 100 percent financing with strong guarantees."
   - question: "What home loan duration to choose?"
     answer: "Standard duration is 20 to 25 years in 2026. 25 years remains the maximum allowed by French regulations. The longer the duration, the higher the rate but the lower the monthly payment. A 20-year loan often offers the best compromise between total cost and affordability."
-image: "https://picsum.photos/seed/financement-credit-immobilier/1200/800"
-imageAlt: "Signature d'un contrat de prêt immobilier"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Calcul de credit immobilier"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. The legal maximum debt-to-income ratio in France is 35 percent of net income.
 
 
-![Signature d'un contrat de prêt immobilier](https://picsum.photos/seed/financement-credit-immobilier-body/1600/900)
-*Signature d'un contrat de prêt immobilier — Photo via Picsum*
+![Calcul de credit immobilier](https://images.unsplash.com/photo-1579621970795-87facc2f976d?w=1600&q=80&auto=format&fit=crop)
+*Calcul de credit immobilier — Photo via Unsplash*
 ## Home loan financing: the 2026 fundamentals
 
 **Home loan financing** rests on a balance between down payment, duration, rate and insurance. Mastering these four levers allows obtaining a loan on the best conditions.

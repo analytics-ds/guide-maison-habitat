@@ -4,7 +4,7 @@ translationKey: "amenager-petit-salon"
 date: 2026-04-15
 lastmod: 2026-04-15
 description: "Aménager un petit salon : les regles d'or pour optimiser l'espace, la lumière et les rangements sans sacrifier le confort."
-categories: ["Aménagement intérieur"]
+categories: ["Aménagement & Décoration"]
 tags: ["petit espace", "salon", "optimisation", "mobilier", "deco"]
 author: "claire-beaumont"
 faq:
@@ -14,9 +14,9 @@ faq:
     answer: "Les tons clairs (blanc casse, beige, gris perle) renvoient la lumière et agrandissent visuellement la pièce. Un seul pan de mur plus fonce peut apporter de la profondeur sans assombrir l'espace."
   - question: "Quel type de canape pour un petit salon ?"
     answer: "Un canape 2 places compact (180 a 200 cm) ou un canape d'angle reversible avec coffre de rangement. Évitez les modeles profonds qui mangent visuellement la pièce."
-image: "https://picsum.photos/seed/amenager-petit-salon/1200/800"
-imageAlt: "Salon compact et lumineux avec canapé 2 places"
-imageCredit: "Photo via Picsum"
+image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1600&q=85&auto=format&fit=crop"
+imageAlt: "Salon moderne et lumineux avec canape et deco"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 ---
 
@@ -27,8 +27,8 @@ readingTime: true
 > 4. Un grand miroir place face a une source de lumière double visuellement le volume percu.
 
 
-![Salon compact et lumineux avec canapé 2 places](https://picsum.photos/seed/amenager-petit-salon-body/1600/900)
-*Salon compact et lumineux avec canapé 2 places — Photo via Picsum*
+![Salon moderne et lumineux avec canape et deco](https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=1600&q=80&auto=format&fit=crop)
+*Salon moderne et lumineux avec canape et deco — Photo via Unsplash*
 ## Aménager un petit salon : les bases
 
 Un petit salon de moins de 15 m2 demandé une reflexion sur chaque mètre carre. Contrairement aux idées recues, **aménager un petit salon** ne veut pas dire sacrifier le confort : il faut simplement choisir moins mais mieux.
