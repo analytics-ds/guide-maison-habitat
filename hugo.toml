@@ -13,6 +13,7 @@ enableGitInfo = false
     languageCode = "fr-FR"
     languageName = "Francais"
     weight = 1
+    contentDir = "content"
     title = "Guide Maison & Habitat"
     [languages.fr.params]
       description = "Guide Maison & Habitat : immobilier, investissement, amenagement, travaux, deco et jardin. Conseils d'experts, comparatifs et guides pratiques."
@@ -21,6 +22,7 @@ enableGitInfo = false
     languageCode = "en-US"
     languageName = "English"
     weight = 2
+    contentDir = "content/en"
     title = "Guide Maison & Habitat"
     [languages.en.params]
       description = "Guide Maison & Habitat: real estate, investment, interior design, renovation, decor and garden. Expert advice, comparisons and practical guides."
