@@ -6,29 +6,23 @@
         <span class="hero-eyebrow">{{ if eq $lang "en" }}Real estate expertise{{ else }}L'expertise immobilière{{ end }}</span>
         <h1 class="hero-title">{{ if eq $lang "en" }}Your guide to real estate <em>& home</em>{{ else }}Votre guide pour l'immobilier <em>& la maison</em>{{ end }}</h1>
         <p class="hero-description">{{ if eq $lang "en" }}Practical advice, comparisons and guides on buying, selling, renting, financing, insurance, interior design and renovation.{{ else }}Conseils pratiques, comparatifs et guides sur l'achat, la vente, la location, le financement, l'assurance, l'aménagement et les travaux.{{ end }}</p>
-        <a href="{{ "blog/" | relLangURL }}" class="hero-cta">{{ if eq $lang "en" }}Explore the blog{{ else }}Explorer le blog{{ end }}</a>
-    </div>
-</section>
-
-<section class="section-alt">
-    <div class="container">
-        <h2 class="section-title section-title-center">{{ if eq $lang "en" }}Our categories{{ else }}Nos catégories{{ end }}</h2>
-        <p class="section-subtitle">{{ if eq $lang "en" }}Everything you need to know about your real estate journey.{{ else }}Tout ce qu'il faut savoir pour votre parcours immobilier.{{ end }}</p>
-        <div class="grid-categories">
+        <nav class="category-pills" aria-label="{{ if eq $lang "en" }}Categories{{ else }}Catégories{{ end }}">
+            <a href="{{ "blog/" | relLangURL }}" class="category-pill category-pill-active">{{ if eq $lang "en" }}All{{ else }}Tous{{ end }}</a>
             {{ range .Site.Menus.main }}
             {{ if ne .Identifier "blog" }}
-            <a href="{{ .URL | relURL }}" class="category-card">
-                <h3>{{ .Name }}</h3>
-            </a>
+            <a href="{{ .URL | relURL }}" class="category-pill">{{ .Name }}</a>
             {{ end }}
             {{ end }}
-        </div>
+        </nav>
     </div>
 </section>
 
 <section>
     <div class="container">
-        <h2 class="section-title section-title-center">{{ if eq $lang "en" }}Latest articles{{ else }}Derniers articles{{ end }}</h2>
+        <div class="section-heading">
+            <h2 class="section-title">{{ if eq $lang "en" }}Latest articles{{ else }}Derniers articles{{ end }}</h2>
+            <a href="{{ "blog/" | relLangURL }}" class="section-heading-link">{{ if eq $lang "en" }}View all{{ else }}Tout voir{{ end }}</a>
+        </div>
         <div class="grid-articles">
             {{ range first 6 (where .Site.RegularPages "Section" "blog") }}
             <a href="{{ .RelPermalink }}" class="article-card">
@@ -53,6 +47,9 @@
                 </div>
             </a>
             {{ end }}
+        </div>
+        <div class="section-cta">
+            <a href="{{ "blog/" | relLangURL }}" class="btn-primary">{{ if eq $lang "en" }}Explore all articles{{ else }}Explorer tous les articles{{ end }}</a>
         </div>
     </div>
 </section>
