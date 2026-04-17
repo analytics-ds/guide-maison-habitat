@@ -18,35 +18,27 @@
     </div>
 </section>
 
-{{/* --- Une section compacte par categorie (3 articles) --- */}}
+{{/* --- Sections compactes : uniquement Achat / Vente / Financement --- */}}
 {{ $catMap := dict
-    "achat" "Achat"
-    "vente" "Vente"
-    "location" "Location"
-    "financement" "Financement"
-    "assurance" "Assurance"
-    "amenagement" "Aménagement et Décoration"
-    "travaux" "Travaux et Rénovation"
-    "buying" "Buying"
-    "selling" "Selling"
-    "rental" "Rental"
-    "financing" "Financing"
-    "insurance" "Insurance"
-    "interior" "Interior Design and Decor"
-    "renovation" "Renovation"
+    "achat" (dict "key" "Achat" "url" "/categories/achat/" "name" "Achat")
+    "vente" (dict "key" "Vente" "url" "/categories/vente/" "name" "Vente")
+    "financement" (dict "key" "Financement" "url" "/categories/financement/" "name" "Financement")
+    "buying" (dict "key" "Buying" "url" "/en/categories/buying/" "name" "Buying")
+    "selling" (dict "key" "Selling" "url" "/en/categories/selling/" "name" "Selling")
+    "financing" (dict "key" "Financing" "url" "/en/categories/financing/" "name" "Financing")
 }}
+{{ $featuredIds := cond (eq $lang "en") (slice "buying" "selling" "financing") (slice "achat" "vente" "financement") }}
+
 <div class="home-categories">
-{{ range .Site.Menus.main }}
-{{ if ne .Identifier "blog" }}
-{{ $menuEntry := . }}
-{{ $catKey := index $catMap .Identifier }}
-{{ $catArticles := where $allBlog ".Params.categories" "intersect" (slice $catKey) }}
+{{ range $featuredIds }}
+{{ $cat := index $catMap . }}
+{{ $catArticles := where $allBlog ".Params.categories" "intersect" (slice $cat.key) }}
 {{ if $catArticles }}
 <section class="home-cat-section">
     <div class="container">
         <div class="section-heading section-heading-compact">
-            <h2 class="section-title-compact">{{ $menuEntry.Name }}</h2>
-            <a href="{{ $menuEntry.URL | relURL }}" class="section-heading-link">{{ if eq $lang "en" }}View all{{ else }}Tout voir{{ end }}</a>
+            <h2 class="section-title-compact">{{ $cat.name }}</h2>
+            <a href="{{ $cat.url | relURL }}" class="section-heading-link">{{ if eq $lang "en" }}View all{{ else }}Tout voir{{ end }}</a>
         </div>
         <div class="grid-articles grid-articles-compact">
             {{ range first 3 $catArticles }}
@@ -57,24 +49,12 @@
 </section>
 {{ end }}
 {{ end }}
-{{ end }}
 </div>
 
-{{/* --- Section derniers articles (en bas de page) --- */}}
-<section class="home-latest">
+{{/* --- CTA final --- */}}
+<section class="home-final-cta">
     <div class="container">
-        <div class="section-heading">
-            <h2 class="section-title">{{ if eq $lang "en" }}Latest articles{{ else }}Derniers articles{{ end }}</h2>
-            <a href="{{ "blog/" | relLangURL }}" class="section-heading-link">{{ if eq $lang "en" }}View all{{ else }}Tout voir{{ end }}</a>
-        </div>
-        <div class="grid-articles">
-            {{ range first 6 $allBlog }}
-            {{ partial "article-card.html" (dict "page" . "lang" $lang) }}
-            {{ end }}
-        </div>
-        <div class="section-cta">
-            <a href="{{ "blog/" | relLangURL }}" class="btn-primary">{{ if eq $lang "en" }}Explore all articles{{ else }}Explorer tous les articles{{ end }}</a>
-        </div>
+        <a href="{{ "blog/" | relLangURL }}" class="btn-primary">{{ if eq $lang "en" }}Discover the blog{{ else }}Découvrir le blog{{ end }}</a>
     </div>
 </section>
 
