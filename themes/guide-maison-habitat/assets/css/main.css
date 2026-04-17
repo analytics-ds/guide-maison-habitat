@@ -1129,8 +1129,14 @@ section { padding: var(--space-lg) 0; }
     letter-spacing: -0.01em;
 }
 .grid-articles-compact {
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    grid-template-columns: repeat(3, 1fr);
     gap: var(--space-md);
+}
+@media (max-width: 900px) {
+    .grid-articles-compact { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 600px) {
+    .grid-articles-compact { grid-template-columns: 1fr; }
 }
 .article-card-compact .article-card-image-wrapper {
     aspect-ratio: 16/10;
