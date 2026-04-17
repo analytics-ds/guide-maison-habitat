@@ -71,23 +71,23 @@ Pour une salle de bain adaptee aux personnes âgées ou à mobilité réduite, M
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>Combien coûte la rénovation d'une salle de bain ?</summary>
 
 Le budget moyen d'une rénovation de salle de bain complète se situé entre 5000 et 15000 euros pour une pièce de 5 à 8 m2. Une rénovation légère (rafraichissement, changement de meuble vasque) tourne autour de 3000 euros, contre 15000 à 25000 euros pour une rénovation haut de gamme avec déplacement des arrivees d'eau.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Combien de temps dure une rénovation de salle de bain ?</summary>
 
 Une rénovation complète prend en moyenne 2 à 3 semaines : 3 jours de démolition, 1 semaine de plomberie et électricité, 1 semaine de carrelage et peinture, puis la pose des équipements. Ajoutez 1 à 2 semaines pour les finitions et sechages.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Faut-il un permis pour rénover une salle de bain ?</summary>
 
 Pour une rénovation sans modification de l'aspect extérieur du batiment et sans création de surface, aucune autorisation n'est requise en general. En copropriete, vérifiez le reglement : certains travaux (plomberie, colonnes d'evacuation) nécessitent une autorisation du syndicat.
 
-</détails>
+</details>

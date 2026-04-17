@@ -81,23 +81,23 @@ Pour les débutants, notre [guide investissement locatif](/blog/investir-immobil
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>Quel regime fiscal choisir pour un investissement locatif ?</summary>
 
 Le choix depend du type de location et du niveau de charges. LMNP reel est optimal pour la location meublee (amortissement du bien). Pour la location nue, le regime reel est préférable si les charges dépassent 30 pour cent des loyers. Les dispositifs Pinel et Denormandie offrent une réduction d'impôt mais imposent des contraintes (plafond loyers, duree).
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Comment fonctionne la fiscalité LMNP ?</summary>
 
 Le regime LMNP permet d'amortir le bien immobilier (hors terrain) sur 20 à 30 ans, généralement entre 2 et 3 pour cent par an. Cette charge comptable s'ajouté aux charges reelles et peut neutraliser totalement les loyers imposables pendant 20 à 30 ans, aboutissant à une quasi-defiscalisation.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Les SCPI sont-elles un bon investissement ?</summary>
 
 Les SCPI offrent un rendement moyen de 4 à 5,5 pour cent en 2026 avec un ticket d'entree accessible (1000 à 10 000 euros). Elles sont fiscalisees aux revenus fonciers (marginaux) mais diversifient le risque et dispensent de la gestion. A privilégier pour un investissement passif ou complementaire.
 
-</détails>
+</details>

@@ -66,23 +66,23 @@ Le rangement vertical est la cle. Etageres hautes, bibliotheque colonne, meubles
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>Comment aménager un petit salon de moins de 15 m2 ?</summary>
 
 Dans un salon de moins de 15 m2, il faut privilégier un canape 2 places, une table basse ronde et un mur de rangements verticaux. Misez sur les couleurs claires, un grand miroir pour agrandir visuellement la pièce et un tapis de maximum 60 pour cent de la surface au sol.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quelle couleur choisir pour un petit salon ?</summary>
 
 Les tons clairs (blanc casse, beige, gris perle) renvoient la lumière et agrandissent visuellement la pièce. Un seul pan de mur plus fonce peut apporter de la profondeur sans assombrir l'espace.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quel type de canape pour un petit salon ?</summary>
 
 Un canape 2 places compact (180 à 200 cm) ou un canape d'angle reversible avec coffre de rangement. Évitez les modèles profonds qui mangent visuellement la pièce.
 
-</détails>
+</details>

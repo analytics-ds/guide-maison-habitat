@@ -78,23 +78,23 @@ Pour arbitrer entre achat et location avant de se lancer, consultez notre [compa
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>Quel est le taux moyen d'un credit immobilier en 2026 ?</summary>
 
 En début 2026, les taux moyens d'un credit immobilier se situent entre 3,3 et 3,8 pour cent sur 20 ans, selon le profil de l'emprunteur. Les meilleurs dossiers (apport supérieur à 20 pour cent, CDI cadre, revenus élevés) obtiennent des taux sous 3,2 pour cent. Les emprunteurs primo-accedants avec peu d'apport peuvent dépasser 4 pour cent.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quel apport minimum pour un credit immobilier ?</summary>
 
 Les banques exigent généralement un apport d'au moins 10 pour cent du prix d'achat pour couvrir les frais de notaire. Un apport de 20 pour cent est souvent nécessaire pour obtenir les meilleurs taux. Certains profils (primo-accedants, jeunes actifs) peuvent négocier un financement à 100 pour cent avec de solides garanties.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quelle duree de pret immobilier choisir ?</summary>
 
 La duree standard est de 20 à 25 ans en 2026. 25 ans reste la duree maximale autorisee par le HCSF. Plus la duree est longue, plus le taux est élevé mais la mensualité baisse. Un pret de 20 ans offre souvent le meilleur compromis entre cout total et mensualités supportables.
 
-</détails>
+</details>

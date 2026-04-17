@@ -74,23 +74,23 @@ Les critères à regarder sont le lambda (conductivite thermique, plus il est ba
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>Par ou commencer l'isolation thermique d'une maison ?</summary>
 
 Commencez par la toiture : elle représente jusqu'à 30 pour cent des deperditions thermiques d'une maison mal isolée. Ensuite viennent les murs (20 à 25 pour cent), les fenêtres (10 à 15 pour cent), puis le plancher bas (7 à 10 pour cent). C'est l'ordre le plus rentable en termes de retour sur investissement.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quel est le meilleur isolant thermique ?</summary>
 
 Il n'existe pas un meilleur isolant universel : le choix depend du support, du budget et des performances visees. La laine de verre reste le meilleur rapport qualité prix. La ouate de cellulose et la laine de bois sont plus ecologiques. Le polyurethane offre la meilleure performance par cm d'epaisseur.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quelles aides pour l'isolation en 2026 ?</summary>
 
 MaPrimeRenov', les Certificats d'Economies d'Énergie (CEE), l'eco-PTZ et la TVA à 5,5 pour cent restent les principales aides. Un ménage aux revenus moyens peut cumuler plusieurs milliers d'euros d'aides sur un chantier d'isolation globale.
 
-</détails>
+</details>

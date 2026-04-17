@@ -82,23 +82,23 @@ Pour comprendre le financement d'un investissement locatif, consultez notre [gui
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>Comment investir dans l'immobilier locatif quand on débute ?</summary>
 
 Pour un premier investissement locatif, visez un bien ancien dans une ville moyenne (entre 100 000 et 200 000 habitants), avec une rentabilité brute supérieure à 6 pour cent. Évitez Paris et les grandes métropoles en tete de marche. Privilégiez un T2 ou T3 en état correct, finance avec un apport de 10 à 20 pour cent sur 20 ans.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quelle rentabilité attendre d'un investissement locatif ?</summary>
 
 La rentabilité brute moyenne d'un investissement locatif se situé entre 4 et 8 pour cent selon la ville. La rentabilité nette (après charges, impôts et vacances locatives) tombe à 3 à 5 pour cent. Les villes moyennes du Grand Ouest offrent actuellement les meilleurs rendements (7 à 9 pour cent brut).
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quel regime fiscal choisir en locatif ?</summary>
 
 Le regime LMNP (Loueur Meuble Non Professionnel) est généralement le plus avantageux pour les débutants. Il permet d'amortir le bien et de neutraliser fiscalement les revenus locatifs pendant 20 à 30 ans. La location nue au reel est préférable quand il y à beaucoup de travaux à amortir.
 
-</détails>
+</details>

@@ -97,23 +97,23 @@ Si vous optez pour l'Ile-de-France, consultez notre [guide ou vivre en Ile-de-Fr
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>Vivre à la campagne ou en ville : lequel est le mieux ?</summary>
 
 Il n'y à pas de meilleur choix universel. La ville offre emploi, services et diversité culturelle mais coûte plus cher. La campagne offre espace, calme et budget allege mais nécessité souvent une voiture et limité les services de proximité. Le bon choix depend du mode de vie, du budget et de la situation familiale.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Combien economise-t-on en vivant à la campagne ?</summary>
 
 Le budget logement moyen à la campagne est 30 à 50 pour cent inférieur à celui des grandes villes. En revanche, le budget transport augmente de 200 à 500 euros par mois (voiture, carburant, entretien). L'economie nette oscille généralement entre 300 et 800 euros par mois pour un ménage.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Vivre à la campagne est-il adapte au teletravail ?</summary>
 
 Le teletravail à rebat les cartes depuis 2020. Environ 30 pour cent des actifs en teletravail partiel envisagent une installation à la campagne. Les critères clés : fibre optique disponible, proximité d'une gare SNCF (moins de 30 min), présence de commerces à moins de 15 min en voiture.
 
-</détails>
+</details>

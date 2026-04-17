@@ -76,23 +76,23 @@ Le choix de la finition compte autant que la couleur elle-meme :
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>Quelle couleur de peinture choisir pour un salon ?</summary>
 
 Le choix de la couleur depend de trois critères : l'orientation (tons chauds au nord, tons frais au sud), la taille (tons clairs pour agrandir, fonces pour cocooner) et le style recherche. Les valeurs sures 2026 sont le beige chaud, le vert sauge, le terracotta et le bleu denim.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quelle couleur pour agrandir un salon ?</summary>
 
 Pour agrandir visuellement un salon, privilégiez les tons clairs : blanc casse, beige, gris perle. Peignez les murs dans la même teinte que le plafond pour supprimer la limité visuelle. Une couleur plus foncee sur le mur du fond peut créer un effet de profondeur.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Comment associer les couleurs dans un salon ?</summary>
 
 La règle classique des 60-30-10 fonctionne bien : 60 pour cent de la couleur dominante (murs, grands meubles), 30 pour cent de la couleur secondaire (textiles, rideaux), 10 pour cent de la couleur accent (coussins, objets déco). Évitez de dépasser 3 couleurs principales.
 
-</détails>
+</details>

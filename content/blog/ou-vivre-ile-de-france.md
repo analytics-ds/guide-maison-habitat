@@ -87,23 +87,23 @@ Pour arbitrer achat ou location, consultez [notre comparatif](/blog/acheter-ou-l
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>Ou vivre en Ile-de-France en 2026 ?</summary>
 
 Les villes les plus recherchees en Ile-de-France hors Paris en 2026 sont Vincennes, Versailles et Saint-Maur pour les familles, Montreuil et Saint-Ouen pour les jeunes actifs, Rueil-Malmaison et Sceaux pour un bon équilibre prix / qualité de vie. Les Yvelines et les Hauts-de-Seine concentrent les meilleurs revenus ; la Seine-et-Marne et l'Essonne offrent les prix les plus accessibles.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quel est le prix moyen de l'immobilier en Ile-de-France ?</summary>
 
 En début 2026, les prix moyens par departement sont : Paris 9800 euros/m2, Hauts-de-Seine 7200 euros/m2, Yvelines 4500 euros/m2, Seine-Saint-Denis 4100 euros/m2, Val-de-Marne 4900 euros/m2, Essonne 3200 euros/m2, Val-d'Oise 3400 euros/m2, Seine-et-Marne 2800 euros/m2. Ecart allant de 1 à 4 entre le moins cher et le plus cher.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quelle est la meilleure banlieue pour une famille en Ile-de-France ?</summary>
 
 Pour une famille, les villes avec la meilleure qualité de vie sont : Saint-Maur-des-Fosses (94), Vincennes (94), Sceaux (92), Versailles (78), Maisons-Laffitte (78), Rueil-Malmaison (92). Critères évalués : écoles, espaces verts, commerces de proximité, transports, sécurité.
 
-</détails>
+</details>

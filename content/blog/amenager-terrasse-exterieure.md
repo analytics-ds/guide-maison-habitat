@@ -67,23 +67,23 @@ Un eclairage extérieur indirect (guirlandes LED, bornes basses, lampes solaires
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>Comment aménager une terrasse extérieure ?</summary>
 
 Pour aménager une terrasse extérieure, commencez par définir les zones d'usage (repas, detente, coin plantes). Choisissez un revêtement adapte à l'exposition (bois, composite, carrelage), un mobilier outdoor resistant aux UV et à la pluie, puis structurez avec des pots et un eclairage tamise. Comptez 40 à 80 euros le m2 en moyenne pour un aménagement complet.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quel revêtement choisir pour une terrasse ?</summary>
 
 Le bois exotique (ipe, teck) dure 25 à 30 ans mais coûte cher. Le composite ne demandé pas d'entretien et vit 20 ans. Le carrelage grand format est le plus durable (50 ans et plus) et resiste bien au gel si classe R11 ou supérieur.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quelle plante pour une terrasse ?</summary>
 
 Privilégiez les plantes resistantes à l'exposition : lavande, olivier nain, graminees pour le plein soleil. Au nord ou à l'ombre, optez pour des fougeres, hostas ou bambous sacres. Les plantes grimpantes (clematites, jasmin) structurent l'espace vertical.
 
-</détails>
+</details>

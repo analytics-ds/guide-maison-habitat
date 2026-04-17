@@ -76,23 +76,23 @@ L'absence d'un diagnostic obligatoire expose le vendeur à plusieurs risques :
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>Quels sont les diagnostics obligatoires pour vendre une maison en 2026 ?</summary>
 
 Les diagnostics obligatoires en 2026 sont : DPE (performance énergétique), amiante (pour les biens avant 1997), plomb (biens avant 1949), termites (zones à risque), électricité (installation de plus de 15 ans), gaz (installation de plus de 15 ans), ERP (risques naturels et technologiques), assainissement non collectif si concerne, et audit énergétique pour les maisons F et G.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Qui paie les diagnostics immobiliers ?</summary>
 
 Les diagnostics immobiliers sont à la charge du vendeur. Leur cout total pour un bien ancien varie de 400 à 800 euros selon la surface et les diagnostics nécessaires. Le vendeur doit faire appel à un diagnostiqueur certifie.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Combien de temps sont valables les diagnostics ?</summary>
 
 Les durees de validité varient : DPE 10 ans, amiante et plomb illimites si négatifs, termites 6 mois, électricité et gaz 3 ans, ERP 6 mois. Vérifiez bien les dates avant de signer pour ne pas avoir à refaire un diagnostic expire.
 
-</détails>
+</details>

@@ -71,23 +71,23 @@ Pour approfondir la question du financement, consultez notre guide [financement 
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>Acheter ou louer : qu'est-ce qui est le plus rentable ?</summary>
 
 La rentabilité de l'achat dépasse celle de la location en moyenne après 7 à 10 ans de detention. En dessous de 5 ans, la location reste plus avantageuse compte tenu des frais d'acquisition (notaire, credit, travaux). Au-delà de 10 ans, l'achat devient systematiquement plus rentable dans les zones à forte demandé.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quels critères pour choisir entre achat et location ?</summary>
 
 Quatre critères principaux : la duree de résidence envisagee (plus de 7 ans = achat), la stabilité professionnelle (CDI favorisé l'achat), l'apport disponible (10 à 20 pour cent du prix recommandé) et la mobilité souhaitee (la location offre plus de flexibilite geographique).
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Combien coûte reellement un achat immobilier ?</summary>
 
 Au prix d'achat s'ajoutent les frais de notaire (7 à 8 pour cent dans l'ancien), les frais d'agence (1 à 5 pour cent), les frais de dossier bancaire (500 à 2500 euros) et les frais de garantie du prêt (1 à 2 pour cent). Prévoyez un budget global de 10 à 12 pour cent au-dessus du prix affiche.
 
-</détails>
+</details>

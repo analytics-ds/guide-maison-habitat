@@ -80,23 +80,23 @@ Le toucher compte autant que la vue. Les matières cocooning sont :
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>Comment créer une déco cocooning ?</summary>
 
 Pour créer une déco cocooning, misez sur les matières douces (velours, laine, boucle), les couleurs chaudes et naturelles (terracotta, beige, brun), un eclairage multi-sources indirect et des textiles superposes (tapis, plaids, coussins). L'objectif est de multiplier les couches de confort visuel et tactile.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quelles couleurs pour une déco cocooning ?</summary>
 
 Les couleurs cocooning sont les tons chauds et terreux : beige, sable, terracotta, cannelle, brun glacé, vert sauge, blanc casse. Évitez les couleurs froides (bleu électrique, blanc pur) qui creent une distance visuelle. Ajoutez du noir ou du bois fonce pour structurer sans durcir.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Comment rendre un salon plus chaleureux ?</summary>
 
 Pour rendre un salon plus chaleureux, superposez les textiles (tapis epais, plaids, coussins de tailles variées), multipliez les sourcés de lumière douce (lampadaires, lampes à poser, bougies), ajoutez du bois naturel et des matières nobles (lin, laine, velours). Quelques plantes vertes completent l'ambiance.
 
-</détails>
+</details>

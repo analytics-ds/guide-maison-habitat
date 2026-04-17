@@ -74,23 +74,23 @@ Certaines plantes s'entraident. Exemples :
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>Comment créer un potager quand on est débutant ?</summary>
 
 Pour créer un potager quand on est débutant, commencez petit : 10 à 15 m2 suffisent pour produire des salades, tomates, radis et herbes aromatiques. Choisissez un emplacement ensoleille (6 heures de soleil minimum), un sol meuble et aéré. Respectez les rotations et les bonnes associations pour limiter maladies et ravageurs.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quels legumes faciles pour débuter un potager ?</summary>
 
 Les legumes les plus simples à cultiver sont : radis (récolte en 3 semaines), salade, tomate cerise, courgette, haricot vert, herbes aromatiques (basilic, persil, ciboulette). Ces cultures pardonnent les petites erreurs et produisent generealement des la première année.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quelle surface pour un potager familial ?</summary>
 
 Pour nourrir partiellement une famille de 4 personnes, comptez 50 à 100 m2. Pour une autonomie végétale complète (hors cereales), il faut au moins 200 m2 bien entretenus. Un débutant peut démarrer sur 10 à 15 m2 et agrandir progressivement.
 
-</détails>
+</details>

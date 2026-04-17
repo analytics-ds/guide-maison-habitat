@@ -75,23 +75,23 @@ Au-delà du prix affiche, plusieurs postes alourdissent la facture :
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>Que vérifier avant d'acheter une maison ?</summary>
 
 Avant d'acheter une maison, vérifiez : l'état general (toiture, charpente, humidite), les diagnostics obligatoires (DPE, amiante, plomb, électricité), les servitudes et l'urbanisme (PLU), le reglement de lotissement ou de copropriete, les travaux à prévoir, la fiscalité locale (taxe fonciere) et le voisinage.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Combien de temps entre compromis et signature ?</summary>
 
 Le délai standard entre le compromis de vente et la signature chez le notaire est de 2 à 3 mois. Ce délai permet de lever les conditions suspensives (pret bancaire, purge du droit de preemption, obtention des autorisations). L'acheteur dispose de 10 jours de rétractation après signature du compromis.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quel budget prévoir pour l'achat d'une maison ?</summary>
 
 Aux 100 pour cent du prix d'achat, il faut ajouter : 7 à 8 pour cent de frais de notaire dans l'ancien (2 à 3 pour cent dans le neuf), 1 à 2 pour cent de frais d'agence, le cout du déplacement (décoration, travaux d'urgence). Prévoyez un budget d'environ 10 pour cent au-dessus du prix affiche.
 
-</détails>
+</details>

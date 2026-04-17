@@ -75,23 +75,23 @@ Pour protéger votre emprunt, consultez notre [guide assurance emprunteur](/blog
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>L'assurance habitation est-elle obligatoire ?</summary>
 
 Elle est obligatoire pour les locataires (risques locatifs minimum) et les copropriétaires (responsabilité civile depuis la loi ALUR 2014). Pour les propriétaires d'une maison individuelle hors copropriété, elle n'est pas obligatoire mais vivement recommandée : sans elle, vous supportez seul tous les dommages à votre bien et aux tiers.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Combien coûte une assurance habitation en moyenne ?</summary>
 
 En 2026, le tarif moyen est de 180 à 300 euros par an pour un appartement locataire, 250 à 400 euros pour un appartement propriétaire et 350 à 650 euros pour une maison individuelle. Les écarts peuvent atteindre 40 pour cent entre assureurs à garanties équivalentes : la comparaison est essentielle.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Peut-on résilier son assurance habitation à tout moment ?</summary>
 
 Depuis la loi Hamon (2015), oui : après la première année d'engagement, vous pouvez résilier votre assurance habitation à tout moment, sans frais ni justification. Le nouvel assureur s'occupé généralement de la résiliation auprès de l'ancien. Avant la première année, la résiliation n'est possible qu'à l'échéance annuelle (avec préavis 2 mois).
 
-</détails>
+</details>

@@ -67,23 +67,23 @@ Pour approfondir la fiscalité, consultez notre [guide fiscalité investissement
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>Location vide ou meublée : laquelle est la plus rentable ?</summary>
 
 La location meublée offre généralement un loyer 10 à 20 pour cent supérieur et une fiscalité plus avantageuse via le LMNP. Cependant, le turn-over locatif est plus élevé et les charges d'équipement réduisent la marge. La rentabilité nette se rejoint souvent, avec un léger avantage au meublé en zones à forte demandé.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quels meubles sont obligatoires en location meublée ?</summary>
 
 Le décret du 31 juillet 2015 liste 11 éléments obligatoires : literie avec couette, dispositif d'occultation fenêtres chambres, plaques de cuisson, four ou micro-ondes, réfrigérateur avec congélateur, vaisselle, ustensiles de cuisine, table et sièges, étagères de rangement, luminaires et matériel d'entretien adapté.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Quelle durée de bail pour une location meublée ?</summary>
 
 Le bail meublé standard est d'1 an renouvelable tacitement. Pour un locataire étudiant, un bail spécifique de 9 mois non renouvelable est possible. Le bail mobilité (1 à 10 mois) s'adresse aux étudiants, stagiaires et professionnels en mission.
 
-</détails>
+</details>

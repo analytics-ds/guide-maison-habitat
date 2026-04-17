@@ -71,23 +71,23 @@ Pour le financement du bien, consultez notre [guide crédit immobilier](/blog/fi
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>L'assurance emprunteur est-elle obligatoire ?</summary>
 
 Elle n'est pas obligatoire légalement, mais systématiquement exigée par les banques pour accorder un crédit immobilier. Les garanties minimales sont décès et PTIA. Pour un crédit immobilier de plus de 200 000 euros ou sur plus de 15 ans, les garanties ITT et IPT sont également demandées par la plupart des banques.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Combien peut-on économiser avec la délégation d'assurance ?</summary>
 
 La délégation d'assurance emprunteur fait économiser en moyenne 10 000 à 20 000 euros sur la durée d'un crédit immobilier de 20 ans. Pour un profil jeune non-fumeur, l'écart peut atteindre 50 à 70 pour cent entre l'assurance groupe de la banque et un contrat individuel.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Peut-on changer d'assurance emprunteur en cours de prêt ?</summary>
 
 Oui, depuis la loi Lemoine de juin 2022, le changement est possible à tout moment, sans frais ni justification, à condition que les nouvelles garanties soient équivalentes aux précédentes. La banque à 10 jours ouvrés pour accepter ou refuser (refus obligatoirement motivé). Les économies peuvent être de plusieurs milliers d'euros.
 
-</détails>
+</details>

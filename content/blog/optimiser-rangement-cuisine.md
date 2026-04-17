@@ -70,23 +70,23 @@ Les meubles d'angle sont souvent mal exploites. Les aménagements types plateau 
 
 ## Questions fréquentes
 
-<détails>
+<details>
 <summary>Comment optimiser le rangement d'une petite cuisine ?</summary>
 
 Pour optimiser le rangement d'une petite cuisine, exploitez la hauteur sous plafond avec des colonnes hautes, installez des tiroirs profonds (plus pratiques que les placards classiques) et utilisez les côtés des meubles pour fixer des barres à ustensiles. Vous pouvez gagner jusqu'à 30 pour cent d'espace de stockage.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Tiroirs ou placards : que choisir ?</summary>
 
 Les tiroirs sont plus ergonomiques : vous voyez et atteignez tout le contenu sans vous baisser. Ils sont recommandés pour les casseroles, assiettes et ustensiles. Les placards restent utiles pour les objets léger utilisés moins fréquemment.
 
-</détails>
+</details>
 
-<détails>
+<details>
 <summary>Combien coûte une cuisine bien aménagée ?</summary>
 
 Une cuisine équipée bien aménagée coûte entre 3500 et 15000 euros selon la gamme et la surface. Le prix moyen d'une cuisine sur mesure tourne autour de 8000 euros pour 10 m2.
 
-</détails>
+</details>
