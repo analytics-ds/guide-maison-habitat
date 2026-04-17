@@ -8,6 +8,9 @@ defaultContentLanguageInSubdir = false
 enableRobotsTXT = false
 enableGitInfo = false
 
+# Desactiver la page index des taxonomies (/categories/, /tags/)
+disableKinds = ["taxonomy"]
+
 [languages]
   [languages.fr]
     languageCode = "fr-FR"

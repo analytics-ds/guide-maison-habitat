@@ -1,6 +1,7 @@
 {{ define "main" }}
 {{ $lang := .Site.Language.Lang }}
 {{ $isEN := eq $lang "en" }}
+{{ $blogLabel := cond $isEN "Blog" "Blog" }}
 
 <div class="container">
     <nav class="breadcrumb" aria-label="{{ if $isEN }}Breadcrumb{{ else }}Fil d'Ariane{{ end }}">
@@ -9,20 +10,21 @@
                 <a href="{{ "/" | relLangURL }}">{{ if $isEN }}Home{{ else }}Accueil{{ end }}</a>
                 <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
             </li>
-            {{ if eq .Section "categories" }}
+            {{/* Pour les pages de categorie : Accueil > Blog > Nom de la cat */}}
+            {{ if eq .Kind "term" }}
             <li class="breadcrumb-item">
-                <a href="{{ "categories/" | relLangURL }}">{{ if $isEN }}Categories{{ else }}Catégories{{ end }}</a>
+                <a href="{{ "blog/" | relLangURL }}">{{ $blogLabel }}</a>
                 <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
             </li>
-            {{ else if eq .Section "blog" }}
-            <li class="breadcrumb-item">
-                <a href="{{ "blog/" | relLangURL }}">Blog</a>
-                <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
-            </li>
-            {{ end }}
             <li class="breadcrumb-item">
                 <span aria-current="page">{{ .Title }}</span>
             </li>
+            {{ else }}
+            {{/* Pour /blog/ et autres sections : Accueil > Nom de la section (sans doublon) */}}
+            <li class="breadcrumb-item">
+                <span aria-current="page">{{ .Title }}</span>
+            </li>
+            {{ end }}
         </ol>
     </nav>
 </div>
