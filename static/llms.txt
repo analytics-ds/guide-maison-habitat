@@ -1,0 +1,60 @@
+# Guide Maison & Habitat
+
+> Guide Maison & Habitat : immobilier, investissement, amenagement, travaux, deco et jardin. Conseils d'experts, comparatifs et guides pratiques.
+
+## A propos
+
+Guide Maison & Habitat est un media independant francais dedie a l'immobilier et a la maison. Nous publions des articles, comparatifs et classements pour aider les proprietaires, acquereurs, investisseurs et amateurs de deco a faire les bons choix. Notre expertise couvre deux grands univers : l'immobilier (achat, vente, location, investissement, ou vivre) et la maison (amenagement, travaux, decoration, jardin).
+
+## Contenu principal
+
+### Univers Immobilier
+- Immobilier : achat, vente, location, credit, diagnostics, actualites du marche
+- Investissement immobilier : locatif, SCPI, LMNP, fiscalite, strategies patrimoniales
+- Ou vivre : guides regionaux, comparatifs villes, prix au m2, ville vs campagne
+
+### Univers Maison
+- Amenagement interieur : conseils piece par piece (salon, cuisine, chambre, bureau)
+- Travaux et renovation : guides travaux, budgets, aides financieres, choix des artisans
+- Decoration : tendances, couleurs, styles, mobilier, textiles
+- Jardin : amenagement exterieur, terrasse, potager, plantes, entretien
+
+## Articles recents
+
+### Immobilier
+- Acheter ou louer : comment choisir en 2026
+- Financement credit immobilier : le guide complet 2026
+- Achat maison : la checklist indispensable avant de signer
+- Diagnostics obligatoires vente immobiliere : liste 2026
+
+### Investissement immobilier
+- Investir dans l'immobilier locatif : guide pour debutants
+- Fiscalite investissement immobilier : choisir le bon regime
+
+### Ou vivre
+- Ou vivre en Ile-de-France : guide comparatif 2026
+- Campagne ou ville : comment choisir son lieu de vie
+
+### Amenagement interieur
+- Amenager un petit salon : les regles d'or
+- Optimiser le rangement de sa cuisine : guide complet
+
+### Travaux et renovation
+- Isolation thermique de la maison : par ou commencer
+- Renovation de salle de bain : guide complet et budget
+
+### Decoration
+- Tendances deco cocooning : creer un interieur chaleureux
+- Couleurs peinture salon : le guide pour bien choisir
+
+### Jardin
+- Amenager une terrasse exterieure : idees et conseils
+- Creer un potager pour debutant : les bases
+
+## Informations techniques
+
+- Generateur : Hugo
+- Hebergement : GitHub Pages
+- Langues : francais (principal), anglais (/en/)
+- Sitemap : https://guide-maison-habitat.fr/sitemap.xml
+- RSS : https://guide-maison-habitat.fr/index.xml

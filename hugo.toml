@@ -1,0 +1,137 @@
+baseURL = "https://guide-maison-habitat.fr/"
+title = "Guide Maison & Habitat"
+theme = "guide-maison-habitat"
+
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = false
+
+enableRobotsTXT = true
+enableGitInfo = false
+
+[languages]
+  [languages.fr]
+    languageCode = "fr-FR"
+    languageName = "Francais"
+    weight = 1
+    title = "Guide Maison & Habitat"
+    [languages.fr.params]
+      description = "Guide Maison & Habitat : immobilier, investissement, amenagement, travaux, deco et jardin. Conseils d'experts, comparatifs et guides pratiques."
+
+  [languages.en]
+    languageCode = "en-US"
+    languageName = "English"
+    weight = 2
+    title = "Guide Maison & Habitat"
+    [languages.en.params]
+      description = "Guide Maison & Habitat: real estate, investment, interior design, renovation, decor and garden. Expert advice, comparisons and practical guides."
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Menu FR
+[[languages.fr.menus.main]]
+  name = "Immobilier"
+  url = "/categories/immobilier/"
+  weight = 1
+[[languages.fr.menus.main]]
+  name = "Investissement"
+  url = "/categories/investissement-immobilier/"
+  weight = 2
+[[languages.fr.menus.main]]
+  name = "Ou vivre"
+  url = "/categories/ou-vivre/"
+  weight = 3
+[[languages.fr.menus.main]]
+  name = "Amenagement"
+  url = "/categories/amenagement-interieur/"
+  weight = 4
+[[languages.fr.menus.main]]
+  name = "Travaux"
+  url = "/categories/travaux-et-renovation/"
+  weight = 5
+[[languages.fr.menus.main]]
+  name = "Decoration"
+  url = "/categories/decoration/"
+  weight = 6
+[[languages.fr.menus.main]]
+  name = "Jardin"
+  url = "/categories/jardin/"
+  weight = 7
+[[languages.fr.menus.main]]
+  name = "Le Blog"
+  url = "/blog/"
+  weight = 99
+
+# Menu EN
+[[languages.en.menus.main]]
+  name = "Real estate"
+  url = "/en/categories/real-estate/"
+  weight = 1
+[[languages.en.menus.main]]
+  name = "Investment"
+  url = "/en/categories/real-estate-investment/"
+  weight = 2
+[[languages.en.menus.main]]
+  name = "Where to live"
+  url = "/en/categories/where-to-live/"
+  weight = 3
+[[languages.en.menus.main]]
+  name = "Interior design"
+  url = "/en/categories/interior-design/"
+  weight = 4
+[[languages.en.menus.main]]
+  name = "Renovation"
+  url = "/en/categories/renovation-and-works/"
+  weight = 5
+[[languages.en.menus.main]]
+  name = "Decoration"
+  url = "/en/categories/decoration/"
+  weight = 6
+[[languages.en.menus.main]]
+  name = "Garden"
+  url = "/en/categories/garden/"
+  weight = 7
+[[languages.en.menus.main]]
+  name = "The Blog"
+  url = "/en/blog/"
+  weight = 99
+
+[params]
+  primary = "#3D4A2A"
+  primaryLight = "#5A6B45"
+  background = "#F4EFE3"
+  backgroundAlt = "#E8E2D0"
+  accent = "#3D4A2A"
+  cta = "#3D4A2A"
+  ctaHover = "#2A3419"
+  text = "#1A1A14"
+  textLight = "#5A5A52"
+  border = "#D6CFBA"
+  fontHeading = "Fraunces"
+  fontBody = "Inter"
+  fontUI = "Inter"
+  default_og_image = "/images/og-default.jpg"
+  logo = "/favicon.svg"
+  founding_year = "2026"
+  expertise = ["Immobilier", "Investissement immobilier", "Amenagement interieur", "Renovation", "Decoration", "Jardin"]
+  og_locale_alternate = "en_US"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = true
+
+[related]
+  includeNewer = true
+  threshold = 80
+  [[related.indices]]
+    name = "categories"
+    weight = 100
+  [[related.indices]]
+    name = "tags"
+    weight = 80
