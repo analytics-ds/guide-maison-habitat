@@ -575,6 +575,11 @@ section { padding: var(--space-lg) 0; }
     gap: var(--space-lg);
     align-items: start;
 }
+.article-layout-simple {
+    max-width: var(--container-narrow);
+    margin: 0 auto;
+    padding: 0 var(--space-md);
+}
 .article-sidebar {
     position: sticky; top: 100px;
     max-height: calc(100vh - 120px);

@@ -100,8 +100,8 @@
             {{ end }}{{ end }}
         </div>
 
-        <!-- Layout 2 colonnes : sidebar TOC + contenu -->
-        <div class="article-layout">
+        <!-- Layout : 2 colonnes (TOC + contenu) pour les articles de blog, simple colonne centree pour le reste -->
+        <div class="{{ if $isBlog }}article-layout{{ else }}article-layout-simple{{ end }}">
 
             <!-- Sidebar : Table of Contents sticky -->
             {{ $headings := .TableOfContents }}
