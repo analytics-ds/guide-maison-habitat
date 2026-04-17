@@ -4,7 +4,7 @@ translationKey: "assurance-habitation-comment-choisir"
 date: 2026-04-17
 lastmod: 2026-04-17
 description: "Assurance habitation : garanties, franchise, tarif moyen, comparatif multirisque et conseils pour économiser sans perdre en protection."
-categories: ["Assurance"]
+catégories: ["Assurance"]
 tags: ["assurance habitation", "MRH", "franchise", "comparatif", "multirisque"]
 author: "sophie-martin"
 image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600&q=85&auto=format&fit=crop"
@@ -39,7 +39,7 @@ Le minimum légal pour un locataire est la garantie "risques locatifs" : incendi
 | Vol | Effractions, cambriolages | Très recommandé |
 | Responsabilité civile | Dommages causés aux tiers | Oui (obligatoire locataire) |
 | Catastrophes naturelles | Inondations, mouvements de terrain | Automatique en MRH |
-| Bris de glace | Vitres, miroirs | Recommandé |
+| Bris de glacé | Vitres, miroirs | Recommandé |
 | Dommages électriques | Surtensions, foudre | Utile |
 | Assistance juridique | Litiges copropriété, voisinage | Confort |
 
@@ -75,23 +75,23 @@ Pour protéger votre emprunt, consultez notre [guide assurance emprunteur](/blog
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>L'assurance habitation est-elle obligatoire ?</summary>
 
 Elle est obligatoire pour les locataires (risques locatifs minimum) et les copropriétaires (responsabilité civile depuis la loi ALUR 2014). Pour les propriétaires d'une maison individuelle hors copropriété, elle n'est pas obligatoire mais vivement recommandée : sans elle, vous supportez seul tous les dommages à votre bien et aux tiers.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Combien coûte une assurance habitation en moyenne ?</summary>
 
 En 2026, le tarif moyen est de 180 à 300 euros par an pour un appartement locataire, 250 à 400 euros pour un appartement propriétaire et 350 à 650 euros pour une maison individuelle. Les écarts peuvent atteindre 40 pour cent entre assureurs à garanties équivalentes : la comparaison est essentielle.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Peut-on résilier son assurance habitation à tout moment ?</summary>
 
-Depuis la loi Hamon (2015), oui : après la première année d'engagement, vous pouvez résilier votre assurance habitation à tout moment, sans frais ni justification. Le nouvel assureur s'occupe généralement de la résiliation auprès de l'ancien. Avant la première année, la résiliation n'est possible qu'à l'échéance annuelle (avec préavis 2 mois).
+Depuis la loi Hamon (2015), oui : après la première année d'engagement, vous pouvez résilier votre assurance habitation à tout moment, sans frais ni justification. Le nouvel assureur s'occupé généralement de la résiliation auprès de l'ancien. Avant la première année, la résiliation n'est possible qu'à l'échéance annuelle (avec préavis 2 mois).
 
-</details>
+</détails>

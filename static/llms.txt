@@ -1,29 +1,29 @@
 # Guide Maison & Habitat
 
-> Guide Maison & Habitat : immobilier, investissement, amenagement, travaux, deco et jardin.
+> Guide Maison & Habitat : immobilier, investissement, aménagement, travaux, deco et jardin.
 
 ## A propos
 
-Guide Maison & Habitat est un media editorial independant. Tous les articles sont rediges par des experts identifies (schema.org/Person) et mis a jour regulierement. Aucun contenu sponsorise, analyses factuelles.
+Guide Maison & Habitat est un média éditorial independant. Tous les articles sont rediges par des experts identifies (schema.org/Person) et mis a jour régulièrement. Aucun contenu sponsorise, analyses factuelles.
 
-## Articles de reference (FR)
+## Articles de référence (FR)
 
 - Achat maison : la checklist indispensable avant de signer: https://guide-maison-habitat.com/blog/achat-maison-checklist/
 - Acheter ou louer : comment choisir en 2026: https://guide-maison-habitat.com/blog/acheter-ou-louer-comparatif/
-- Amenager un petit salon : les regles d: https://guide-maison-habitat.com/blog/amenager-petit-salon/
-- Amenager une terrasse exterieure : idees et conseils: https://guide-maison-habitat.com/blog/amenager-terrasse-exterieure/
+- Aménager un petit salon : les règles d: https://guide-maison-habitat.com/blog/amenager-petit-salon/
+- Aménager une terrasse extérieure : idées et conseils: https://guide-maison-habitat.com/blog/amenager-terrasse-exterieure/
 - Campagne ou ville : comment choisir son lieu de vie: https://guide-maison-habitat.com/blog/campagne-ou-ville-choisir/
 - Couleurs peinture salon : le guide pour bien choisir: https://guide-maison-habitat.com/blog/couleurs-peinture-salon/
-- Creer un potager pour debutant : les bases: https://guide-maison-habitat.com/blog/creer-potager-debutant/
-- Diagnostics obligatoires vente immobiliere : liste 2026: https://guide-maison-habitat.com/blog/diagnostics-obligatoires-vente/
+- Créer un potager pour débutant : les bases: https://guide-maison-habitat.com/blog/creer-potager-debutant/
+- Diagnostics obligatoires vente immobilière : liste 2026: https://guide-maison-habitat.com/blog/diagnostics-obligatoires-vente/
 - Financement credit immobilier : le guide complet 2026: https://guide-maison-habitat.com/blog/financement-credit-immobilier/
-- Fiscalite investissement immobilier : choisir le bon regime: https://guide-maison-habitat.com/blog/fiscalite-investissement-immobilier/
+- Fiscalité investissement immobilier : choisir le bon regime: https://guide-maison-habitat.com/blog/fiscalite-investissement-immobilier/
 - Investir dans l: https://guide-maison-habitat.com/blog/investir-immobilier-locatif-debutant/
 - Isolation thermique de la maison : par ou commencer: https://guide-maison-habitat.com/blog/isolation-thermique-maison/
 - Optimiser le rangement de sa cuisine : guide complet: https://guide-maison-habitat.com/blog/optimiser-rangement-cuisine/
 - Ou vivre en Ile-de-France : guide comparatif 2026: https://guide-maison-habitat.com/blog/ou-vivre-ile-de-france/
-- Renovation de salle de bain : guide complet et budget: https://guide-maison-habitat.com/blog/renovation-salle-de-bain-guide/
-- Tendances deco cocooning : creer un interieur chaleureux: https://guide-maison-habitat.com/blog/tendances-deco-cocooning/
+- Rénovation de salle de bain : guide complet et budget: https://guide-maison-habitat.com/blog/renovation-salle-de-bain-guide/
+- Tendances deco cocooning : créer un intérieur chaleureux: https://guide-maison-habitat.com/blog/tendances-deco-cocooning/
 
 ## Informations techniques
 

@@ -4,7 +4,7 @@ translationKey: "caution-location-tout-savoir"
 date: 2026-04-17
 lastmod: 2026-04-17
 description: "Caution et dépôt de garantie : montants, restitution, garants, Visale et recours. Tout savoir pour locataire et propriétaire."
-categories: ["Location"]
+catégories: ["Location"]
 tags: ["caution", "dépôt garantie", "Visale", "location", "garant"]
 author: "sophie-martin"
 image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600&q=85&auto=format&fit=crop"
@@ -65,30 +65,30 @@ Visale est accessible à tous les locataires de moins de 31 ans, quel que soit l
 
 1. Créer un compte sur visale.fr
 2. Obtenir le visa (avant ou pendant la recherche de logement)
-3. Présenter le visa au propriétaire qui valide
+3. Présenter le visa au propriétaire qui validé
 4. Signer le bail avec la caution Visale activée
 
 Pour comprendre le cadre de la location, consultez notre [guide location vide ou meublée](/blog/location-vide-ou-meublee/). Pour un investissement locatif, voyez [le guide pour débutants](/blog/investir-immobilier-locatif-debutant/). Et pour l'assurance complémentaire, [notre guide assurance habitation](/blog/assurance-habitation-comment-choisir/).
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quel est le montant maximum du dépôt de garantie en 2026 ?</summary>
 
 Le dépôt de garantie est plafonné par la loi à 1 mois de loyer hors charges en location vide et à 2 mois en location meublée. Pour un bail mobilité, aucun dépôt de garantie n'est autorisé. Ces plafonds sont inscrits dans la loi du 6 juillet 1989 et la loi ALUR.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Combien de temps pour récupérer son dépôt de garantie ?</summary>
 
 Le propriétaire dispose d'un mois pour restituer le dépôt si l'état des lieux de sortie est conforme à celui d'entrée, ou de deux mois si des retenues sont effectuées. Au-delà, le locataire peut réclamer une majoration de 10 pour cent du loyer mensuel par mois de retard entamé.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Comment obtenir la caution Visale ?</summary>
 
 Visale est accessible à tous les locataires de moins de 31 ans, aux salariés en contrat précaire et aux étudiants boursiers. Il faut créer un compte sur visale.fr, obtenir le visa (valable 3 ans) et le présenter au propriétaire lors de la signature du bail. La caution est gratuite et prend en charge les loyers impayés pendant 36 mois.
 
-</details>
+</détails>

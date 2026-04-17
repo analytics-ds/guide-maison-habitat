@@ -4,7 +4,7 @@ translationKey: "location-vide-ou-meublee"
 date: 2026-04-17
 lastmod: 2026-04-17
 description: "Location vide ou meublée : comparatif complet des avantages, durées de bail, fiscalité et rentabilité pour faire le bon choix."
-categories: ["Location"]
+catégories: ["Location"]
 tags: ["location", "meublée", "bail", "fiscalité", "propriétaire"]
 author: "sophie-martin"
 image: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1600&q=85&auto=format&fit=crop"
@@ -28,7 +28,7 @@ Le choix entre **location vide ou meublée** influe directement sur le loyer, la
 
 ### Le cadre juridique
 
-La location vide relève de la loi du 6 juillet 1989 avec un bail de 3 ans (6 ans si bailleur personne morale). La location meublée a son propre régime avec un bail d'1 an (9 mois pour étudiants, non renouvelable automatiquement).
+La location vide relève de la loi du 6 juillet 1989 avec un bail de 3 ans (6 ans si bailleur personne morale). La location meublée à son propre régime avec un bail d'1 an (9 mois pour étudiants, non renouvelable automatiquement).
 
 ## Comparatif vide vs meublée
 
@@ -63,27 +63,27 @@ La location meublée relève des BIC (Bénéfices Industriels et Commerciaux) et
 4. Calculer le coût d'équipement pour le meublé
 5. Arbitrer selon l'objectif (rendement vs stabilité)
 
-Pour approfondir la fiscalité, consultez notre [guide fiscalité investissement immobilier](/blog/fiscalite-investissement-immobilier/). Pour le financement d'un bien locatif, voyez [le guide crédit immobilier](/blog/financement-credit-immobilier/). Et pour débuter, [l'investissement locatif pour débutants](/blog/investir-immobilier-locatif-debutant/) donne toutes les clés.
+Pour approfondir la fiscalité, consultez notre [guide fiscalité investissement immobilier](/blog/fiscalite-investissement-immobilier/). Pour le financement d'un bien locatif, voyez [le guide crédit immobilier](/blog/financement-credit-immobilier/). Et pour débuter, [l'investissement locatif pour débutants](/blog/investir-immobilier-locatif-debutant/) donné toutes les clés.
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Location vide ou meublée : laquelle est la plus rentable ?</summary>
 
-La location meublée offre généralement un loyer 10 à 20 pour cent supérieur et une fiscalité plus avantageuse via le LMNP. Cependant, le turn-over locatif est plus élevé et les charges d'équipement réduisent la marge. La rentabilité nette se rejoint souvent, avec un léger avantage au meublé en zones à forte demande.
+La location meublée offre généralement un loyer 10 à 20 pour cent supérieur et une fiscalité plus avantageuse via le LMNP. Cependant, le turn-over locatif est plus élevé et les charges d'équipement réduisent la marge. La rentabilité nette se rejoint souvent, avec un léger avantage au meublé en zones à forte demandé.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quels meubles sont obligatoires en location meublée ?</summary>
 
 Le décret du 31 juillet 2015 liste 11 éléments obligatoires : literie avec couette, dispositif d'occultation fenêtres chambres, plaques de cuisson, four ou micro-ondes, réfrigérateur avec congélateur, vaisselle, ustensiles de cuisine, table et sièges, étagères de rangement, luminaires et matériel d'entretien adapté.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle durée de bail pour une location meublée ?</summary>
 
 Le bail meublé standard est d'1 an renouvelable tacitement. Pour un locataire étudiant, un bail spécifique de 9 mois non renouvelable est possible. Le bail mobilité (1 à 10 mois) s'adresse aux étudiants, stagiaires et professionnels en mission.
 
-</details>
+</détails>

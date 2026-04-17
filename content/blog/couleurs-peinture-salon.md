@@ -4,7 +4,7 @@ translationKey: "couleurs-peinture-salon"
 date: 2026-03-25
 lastmod: 2026-03-25
 description: "Couleurs peinture salon : comment bien choisir les teintes selon la lumière, la taille et le style de la pièce."
-categories: ["Amenagement et Decoration"]
+catégories: ["Aménagement et Décoration"]
 tags: ["peinture", "salon", "couleurs", "deco", "ambiance"]
 author: "claire-beaumont"
 faq:
@@ -13,7 +13,7 @@ faq:
   - question: "Quelle couleur pour agrandir un salon ?"
     answer: "Pour agrandir visuellement un salon, privilégiez les tons clairs : blanc casse, beige, gris perle. Peignez les murs dans la même teinte que le plafond pour supprimer la limité visuelle. Une couleur plus foncee sur le mur du fond peut créer un effet de profondeur."
   - question: "Comment associer les couleurs dans un salon ?"
-    answer: "La regle classique des 60-30-10 fonctionne bien : 60 pour cent de la couleur dominante (murs, grands meubles), 30 pour cent de la couleur secondaire (textiles, rideaux), 10 pour cent de la couleur accent (coussins, objets deco). Évitez de depasser 3 couleurs principales."
+    answer: "La règle classique des 60-30-10 fonctionne bien : 60 pour cent de la couleur dominante (murs, grands meubles), 30 pour cent de la couleur secondaire (textiles, rideaux), 10 pour cent de la couleur accent (coussins, objets deco). Évitez de dépasser 3 couleurs principales."
 image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1600&q=85&auto=format&fit=crop"
 imageAlt: "Salon peint dans des tons chauds et naturels"
 imageCredit: "Photo via Unsplash"
@@ -22,8 +22,8 @@ readingTime: true
 
 > **En bref :**
 > 1. Une couleur foncee sur le mur du fond peut agrandir visuellement la pièce de 20 a 30 pour cent.
-> 2. Les tons chauds compensent le manque de lumière d'une pièce orientee au nord.
-> 3. La regle des 60-30-10 équilibre naturellement la palette d'un salon.
+> 2. Les tons chauds compensent le manque de lumière d'une pièce orientée au nord.
+> 3. La règle des 60-30-10 équilibre naturellement la palette d'un salon.
 > 4. Un test sur grand echantillon (minimum 1 m2) est indispensable avant de peindre toute la pièce.
 
 
@@ -35,7 +35,7 @@ Choisir la **couleur peinture salon** est une décision impactante. Une mauvaise
 
 ### L'orientation de la pièce
 
-| Orientation | Lumière | Tons recommandes |
+| Orientation | Lumière | Tons recommandés |
 |---------------|---------|-------------------|
 | Nord | Froide, faible | Beige, terracotta, jaune doux |
 | Sud | Chaude, forte | Bleu, vert sauge, blanc |
@@ -49,9 +49,9 @@ Les tendances peinture 2026 restent dans le registre des teintes apaisantes et n
 > "Après des années de gris, les Français reviennent aux couleurs chaudes et terreuses. Le vert sauge est en tete des ventes depuis 18 mois."
 > — Tollens, rapport tendances 2025
 
-## La regle des 60-30-10
+## La règle des 60-30-10
 
-Cette regle de décoration est utilisée par la majorite des architectes d'intérieur :
+Cette règle de décoration est utilisée par la majorité des architectes d'intérieur :
 
 - **60 pour cent couleur dominante** : murs, canape, grand tapis
 - **30 pour cent couleur secondaire** : rideaux, fauteuils, textiles
@@ -74,25 +74,25 @@ Le choix de la finition compte autant que la couleur elle-meme :
 4. Observer pendant 48 h avec différents eclairages
 5. Valider le choix final
 
-## Questions frequentes
+## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quelle couleur de peinture choisir pour un salon ?</summary>
 
 Le choix de la couleur depend de trois critères : l'orientation (tons chauds au nord, tons frais au sud), la taille (tons clairs pour agrandir, fonces pour cocooner) et le style recherche. Les valeurs sures 2026 sont le beige chaud, le vert sauge, le terracotta et le bleu denim.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle couleur pour agrandir un salon ?</summary>
 
 Pour agrandir visuellement un salon, privilégiez les tons clairs : blanc casse, beige, gris perle. Peignez les murs dans la même teinte que le plafond pour supprimer la limité visuelle. Une couleur plus foncee sur le mur du fond peut créer un effet de profondeur.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Comment associer les couleurs dans un salon ?</summary>
 
-La regle classique des 60-30-10 fonctionne bien : 60 pour cent de la couleur dominante (murs, grands meubles), 30 pour cent de la couleur secondaire (textiles, rideaux), 10 pour cent de la couleur accent (coussins, objets deco). Évitez de depasser 3 couleurs principales.
+La règle classique des 60-30-10 fonctionne bien : 60 pour cent de la couleur dominante (murs, grands meubles), 30 pour cent de la couleur secondaire (textiles, rideaux), 10 pour cent de la couleur accent (coussins, objets deco). Évitez de dépasser 3 couleurs principales.
 
-</details>
+</détails>

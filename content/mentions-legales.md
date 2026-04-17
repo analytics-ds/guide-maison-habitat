@@ -18,15 +18,15 @@ Le site est hébergé par GitHub, Inc.
 
 ## Propriété intellectuelle
 
-L'ensemble des contenus de ce site (textes, images, logo) est protege par les lois françaises et internationales sur la propriété intellectuelle. Toute reproduction, même partielle, est interdite sans autorisation écrite prealable.
+L'ensemble des contenus de ce site (textes, images, logo) est protege par les lois françaises et internationales sur la propriété intellectuelle. Toute reproduction, même partielle, est interdite sans autorisation écrite préalable.
 
-## Donnees personnelles
+## Données personnelles
 
-Ce site ne collecte pas de données personnelles sans consentement explicite. Les formulaires de contact eventuels sont soumis au RGPD. Pour toute question relative a vos données, contactez : **données@guide-maison-habitat.fr**.
+Ce site ne collecte pas de données personnelles sans consentement explicite. Les formulaires de contact eventuels sont soumis au RGPD. Pour toute question relative à vos données, contactez : **données@guide-maison-habitat.fr**.
 
 ## Cookies
 
-Ce site utilisé des cookies techniques nécessaires a son fonctionnement. Aucun cookie publicitaire ou de tracking n'est déposé sans votre consentement.
+Ce site utilisé des cookies techniques nécessaires à son fonctionnement. Aucun cookie publicitaire ou de tracking n'est déposé sans votre consentement.
 
 ## Droit applicable
 

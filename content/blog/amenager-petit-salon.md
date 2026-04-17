@@ -1,10 +1,10 @@
 ---
-title: "Aménager un petit salon : les regles d'or"
+title: "Aménager un petit salon : les règles d'or"
 translationKey: "amenager-petit-salon"
 date: 2026-04-15
 lastmod: 2026-04-15
-description: "Aménager un petit salon : les regles d'or pour optimiser l'espace, la lumière et les rangements sans sacrifier le confort."
-categories: ["Amenagement et Decoration"]
+description: "Aménager un petit salon : les règles d'or pour optimiser l'espace, la lumière et les rangements sans sacrifier le confort."
+catégories: ["Aménagement et Décoration"]
 tags: ["petit espace", "salon", "optimisation", "mobilier", "deco"]
 author: "claire-beaumont"
 faq:
@@ -13,7 +13,7 @@ faq:
   - question: "Quelle couleur choisir pour un petit salon ?"
     answer: "Les tons clairs (blanc casse, beige, gris perle) renvoient la lumière et agrandissent visuellement la pièce. Un seul pan de mur plus fonce peut apporter de la profondeur sans assombrir l'espace."
   - question: "Quel type de canape pour un petit salon ?"
-    answer: "Un canape 2 places compact (180 a 200 cm) ou un canape d'angle reversible avec coffre de rangement. Évitez les modeles profonds qui mangent visuellement la pièce."
+    answer: "Un canape 2 places compact (180 a 200 cm) ou un canape d'angle reversible avec coffre de rangement. Évitez les modèles profonds qui mangent visuellement la pièce."
 image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1600&q=85&auto=format&fit=crop"
 imageAlt: "Salon moderne et lumineux avec canape et deco"
 imageCredit: "Photo via Unsplash"
@@ -22,24 +22,24 @@ readingTime: true
 
 > **En bref :**
 > 1. Dans un petit salon de moins de 15 m2, limitez le mobilier a 3 grosses pièces maximum pour garder la circulation libre.
-> 2. Les couleurs claires reflechissent jusqu'a 80 pour cent de la lumière et agrandissent visuellement la pièce.
-> 3. Le rangement vertical (etageres hautes, meubles colonne) libere l'espace au sol et donné une impression de hauteur sous plafond.
-> 4. Un grand miroir place face a une source de lumière double visuellement le volume percu.
+> 2. Les couleurs claires reflechissent jusqu'à 80 pour cent de la lumière et agrandissent visuellement la pièce.
+> 3. Le rangement vertical (etageres hautes, meubles colonne) libéré l'espace au sol et donné une impression de hauteur sous plafond.
+> 4. Un grand miroir place face à une source de lumière double visuellement le volume percu.
 
 
 ![Salon moderne et lumineux avec canape et deco](https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=1600&q=80&auto=format&fit=crop)
-*Salon moderne et lumineux avec canape et deco — Photo via Unsplash*
+*Salon moderne et lumineux avec canape et déco — Photo via Unsplash*
 ## Aménager un petit salon : les bases
 
-Un petit salon de moins de 15 m2 demandé une reflexion sur chaque mètre carre. Contrairement aux idées recues, **aménager un petit salon** ne veut pas dire sacrifier le confort : il faut simplement choisir moins mais mieux.
+Un petit salon de moins de 15 m2 demandé une réflexion sur chaque mètre carre. Contrairement aux idées recues, **aménager un petit salon** ne veut pas dire sacrifier le confort : il faut simplement choisir moins mais mieux.
 
 ### Mesurer avant d'acheter
 
-Avant tout achat, dessinez un plan a l'echelle 1/50. Reportez-y les dimensions des murs, des fenêtres et des radiateurs. Cela évite les mauvaises surprises a la livraison.
+Avant tout achat, dessinez un plan a l'echelle 1/50. Reportez-y les dimensions des murs, des fenêtres et des radiateurs. Cela évite les mauvaises surprises à la livraison.
 
 ## Choisir le mobilier adapte
 
-Le canape est la pièce centrale. Privilégiez un modele 2 places de 180 a 200 cm, compact mais confortable. Les canapes avec coffre de rangement intégré sont precieux dans un petit espace.
+Le canape est la pièce centrale. Privilégiez un modèle 2 places de 180 a 200 cm, compact mais confortable. Les canapes avec coffre de rangement intégré sont precieux dans un petit espace.
 
 ### Les dimensions a retenir
 
@@ -55,7 +55,7 @@ Les tons clairs sont vos allies. Un blanc casse ou un beige reflechit la lumièr
 
 ## Optimiser les rangements
 
-Le rangement vertical est la cle. Etageres hautes, bibliotheque colonne, meubles d'angle : tout ce qui monte libere l'espace au sol. Un mur entier de rangements peut remplacer avantageusement plusieurs petits meubles disperses.
+Le rangement vertical est la cle. Etageres hautes, bibliotheque colonne, meubles d'angle : tout ce qui monté libéré l'espace au sol. Un mur entier de rangements peut remplacer avantageusement plusieurs petits meubles disperses.
 
 ### Étapes pour bien choisir
 
@@ -64,25 +64,25 @@ Le rangement vertical est la cle. Etageres hautes, bibliotheque colonne, meubles
 3. Choisir des rangements intégrés du sol au plafond
 4. Laisser une zone d'air au-dessus du canape
 
-## Questions frequentes
+## Questions fréquentes
 
-<details>
+<détails>
 <summary>Comment aménager un petit salon de moins de 15 m2 ?</summary>
 
 Dans un salon de moins de 15 m2, il faut privilégier un canape 2 places, une table basse ronde et un mur de rangements verticaux. Misez sur les couleurs claires, un grand miroir pour agrandir visuellement la pièce et un tapis de maximum 60 pour cent de la surface au sol.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle couleur choisir pour un petit salon ?</summary>
 
 Les tons clairs (blanc casse, beige, gris perle) renvoient la lumière et agrandissent visuellement la pièce. Un seul pan de mur plus fonce peut apporter de la profondeur sans assombrir l'espace.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel type de canape pour un petit salon ?</summary>
 
-Un canape 2 places compact (180 a 200 cm) ou un canape d'angle reversible avec coffre de rangement. Évitez les modeles profonds qui mangent visuellement la pièce.
+Un canape 2 places compact (180 a 200 cm) ou un canape d'angle reversible avec coffre de rangement. Évitez les modèles profonds qui mangent visuellement la pièce.
 
-</details>
+</détails>
