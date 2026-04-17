@@ -4,7 +4,7 @@ translationKey: "amenager-terrasse-exterieure"
 date: 2026-04-03
 lastmod: 2026-04-03
 description: "How to design an outdoor terrace: flooring, furniture, plants and lighting choices for a successful outdoor space."
-categories: ["Interior Design & Decor"]
+categories: ["Interior Design and Decor"]
 tags: ["terrace", "outdoor", "design", "furniture", "plants"]
 author: "claire-beaumont"
 faq:

@@ -4,7 +4,7 @@ translationKey: "tendances-deco-cocooning"
 date: 2026-03-28
 lastmod: 2026-03-28
 description: "Tendances deco cocooning : couleurs, matières, textiles et astuces pour créer un intérieur chaleureux et apaisant."
-categories: ["Aménagement & Décoration"]
+categories: ["Amenagement et Decoration"]
 tags: ["cocooning", "deco", "tendances", "ambiance", "confort"]
 author: "claire-beaumont"
 faq:

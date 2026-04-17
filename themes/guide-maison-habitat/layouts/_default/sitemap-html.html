@@ -45,16 +45,17 @@
       </div>
       {{ end }}
 
-      {{/* --- Categories --- */}}
+      {{/* --- Categories : filtre via chemin absolu du fichier source --- */}}
       {{ $localCats := slice }}
       {{ range (where .Site.Pages "Section" "categories") }}
+        {{ $catPage := . }}
         {{ if eq .Kind "term" }}
-          {{ with .File }}{{ if hasSuffix .LogicalName "_index.md" }}
-            {{ $isEnPage := hasPrefix $.RelPermalink "/en/" }}
-            {{ if or (and $isEN $isEnPage) (and (not $isEN) (not $isEnPage)) }}
-              {{ $localCats = $localCats | append $ }}
-            {{ end }}
-          {{ end }}{{ end }}
+          {{ $fileName := "" }}
+          {{ with .File }}{{ $fileName = .Filename }}{{ end }}
+          {{ $isEnFile := in $fileName "/content/en/" }}
+          {{ if and (ne $fileName "") (or (and $isEN $isEnFile) (and (not $isEN) (not $isEnFile))) }}
+            {{ $localCats = $localCats | append $catPage }}
+          {{ end }}
         {{ end }}
       {{ end }}
       {{ if $localCats }}
@@ -73,13 +74,9 @@
       {{/* --- Authors --- */}}
       {{ $auths := slice }}
       {{ range (where .Site.Pages "Section" "authors") }}
-        {{ if eq .Kind "term" }}
-          {{ with .File }}{{ if hasSuffix .LogicalName "_index.md" }}
-            {{ $isEnPage := hasPrefix $.RelPermalink "/en/" }}
-            {{ if or (and $isEN $isEnPage) (and (not $isEN) (not $isEnPage)) }}
-              {{ $auths = $auths | append $ }}
-            {{ end }}
-          {{ end }}{{ end }}
+        {{ $authPage := . }}
+        {{ if and (eq .Kind "term") (eq .Lang $currentLang) }}
+          {{ $auths = $auths | append $authPage }}
         {{ end }}
       {{ end }}
       {{ if $auths }}

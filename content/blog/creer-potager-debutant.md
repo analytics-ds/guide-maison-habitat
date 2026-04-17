@@ -4,7 +4,7 @@ translationKey: "creer-potager-debutant"
 date: 2026-03-31
 lastmod: 2026-03-31
 description: "Créer un potager pour débutant : surface, legumes faciles, calendrier et premiers gestes pour une recolte reussie."
-categories: ["Aménagement & Décoration"]
+categories: ["Amenagement et Decoration"]
 tags: ["potager", "jardin", "débutant", "legumes", "permaculture"]
 author: "claire-beaumont"
 faq:

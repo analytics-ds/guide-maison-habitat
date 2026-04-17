@@ -4,7 +4,7 @@ translationKey: "couleurs-peinture-salon"
 date: 2026-03-25
 lastmod: 2026-03-25
 description: "Living room paint colors: how to choose the right shades based on light, room size and style."
-categories: ["Interior Design & Decor"]
+categories: ["Interior Design and Decor"]
 tags: ["paint", "living room", "colors", "decor", "ambience"]
 author: "claire-beaumont"
 faq:

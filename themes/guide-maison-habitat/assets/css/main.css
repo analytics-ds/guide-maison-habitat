@@ -552,7 +552,7 @@ section { padding: var(--space-lg) 0; }
 }
 
 .article-hero-image {
-    max-width: var(--container); margin: 0 auto var(--space-lg);
+    max-width: var(--container); margin: var(--space-md) auto var(--space-lg);
     padding: 0 var(--space-md);
 }
 .article-hero-image img {

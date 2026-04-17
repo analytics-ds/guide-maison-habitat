@@ -4,7 +4,7 @@ translationKey: "amenager-petit-salon"
 date: 2026-04-15
 lastmod: 2026-04-15
 description: "How to design a small living room: golden rules to optimize space, light and storage without sacrificing comfort."
-categories: ["Interior Design & Decor"]
+categories: ["Interior Design and Decor"]
 tags: ["small space", "living room", "optimization", "furniture", "decor"]
 author: "claire-beaumont"
 faq:

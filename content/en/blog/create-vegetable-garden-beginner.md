@@ -4,7 +4,7 @@ translationKey: "creer-potager-debutant"
 date: 2026-03-31
 lastmod: 2026-03-31
 description: "Create a vegetable garden for beginners: size, easy vegetables, calendar and first steps for a successful harvest."
-categories: ["Interior Design & Decor"]
+categories: ["Interior Design and Decor"]
 tags: ["vegetable garden", "garden", "beginner", "vegetables", "permaculture"]
 author: "claire-beaumont"
 faq:

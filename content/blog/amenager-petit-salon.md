@@ -4,7 +4,7 @@ translationKey: "amenager-petit-salon"
 date: 2026-04-15
 lastmod: 2026-04-15
 description: "Aménager un petit salon : les regles d'or pour optimiser l'espace, la lumière et les rangements sans sacrifier le confort."
-categories: ["Aménagement & Décoration"]
+categories: ["Amenagement et Decoration"]
 tags: ["petit espace", "salon", "optimisation", "mobilier", "deco"]
 author: "claire-beaumont"
 faq:

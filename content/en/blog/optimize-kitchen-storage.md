@@ -4,7 +4,7 @@ translationKey: "optimiser-rangement-cuisine"
 date: 2026-04-12
 lastmod: 2026-04-12
 description: "Optimize kitchen storage: practical tips and smart equipment to gain up to 30 percent more space."
-categories: ["Interior Design & Decor"]
+categories: ["Interior Design and Decor"]
 tags: ["kitchen", "storage", "optimization", "organization", "furniture"]
 author: "claire-beaumont"
 faq:

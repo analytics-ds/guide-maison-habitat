@@ -4,7 +4,7 @@ translationKey: "amenager-terrasse-exterieure"
 date: 2026-04-03
 lastmod: 2026-04-03
 description: "Aménager une terrasse extérieure : choix du revetement, mobilier, vegetation et eclairage pour un espace outdoor reussi."
-categories: ["Aménagement & Décoration"]
+categories: ["Amenagement et Decoration"]
 tags: ["terrasse", "extérieur", "aménagement", "mobilier", "plantes"]
 author: "claire-beaumont"
 faq:

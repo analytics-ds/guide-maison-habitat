@@ -4,7 +4,7 @@ translationKey: "tendances-deco-cocooning"
 date: 2026-03-28
 lastmod: 2026-03-28
 description: "Cocooning decor trends: colors, materials, textiles and tips to create a warm and soothing interior."
-categories: ["Interior Design & Decor"]
+categories: ["Interior Design and Decor"]
 tags: ["cocooning", "decor", "trends", "ambience", "comfort"]
 author: "claire-beaumont"
 faq:

@@ -4,7 +4,7 @@ translationKey: "optimiser-rangement-cuisine"
 date: 2026-04-12
 lastmod: 2026-04-12
 description: "Optimiser le rangement de sa cuisine : astuces pratiques et équipements malins pour gagner jusqu'a 30 pour cent d'espace."
-categories: ["Aménagement & Décoration"]
+categories: ["Amenagement et Decoration"]
 tags: ["cuisine", "rangement", "optimisation", "organisation", "mobilier"]
 author: "claire-beaumont"
 faq:
