@@ -51,10 +51,21 @@
 {{ end }}
 </div>
 
-{{/* --- CTA final --- */}}
-<section class="home-final-cta">
+{{/* --- Section derniers articles (en bas de page) --- */}}
+<section class="home-latest">
     <div class="container">
-        <a href="{{ "blog/" | relLangURL }}" class="btn-primary">{{ if eq $lang "en" }}Discover the blog{{ else }}Découvrir le blog{{ end }}</a>
+        <div class="section-heading">
+            <h2 class="section-title">{{ if eq $lang "en" }}Latest articles{{ else }}Derniers articles{{ end }}</h2>
+            <a href="{{ "blog/" | relLangURL }}" class="section-heading-link">{{ if eq $lang "en" }}View all{{ else }}Tout voir{{ end }}</a>
+        </div>
+        <div class="grid-articles">
+            {{ range first 6 $allBlog }}
+            {{ partial "article-card.html" (dict "page" . "lang" $lang) }}
+            {{ end }}
+        </div>
+        <div class="section-cta">
+            <a href="{{ "blog/" | relLangURL }}" class="btn-primary">{{ if eq $lang "en" }}Discover the blog{{ else }}Découvrir le blog{{ end }}</a>
+        </div>
     </div>
 </section>
 
