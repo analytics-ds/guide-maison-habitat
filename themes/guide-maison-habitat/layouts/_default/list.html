@@ -1,5 +1,31 @@
 {{ define "main" }}
 {{ $lang := .Site.Language.Lang }}
+{{ $isEN := eq $lang "en" }}
+
+<div class="container">
+    <nav class="breadcrumb" aria-label="{{ if $isEN }}Breadcrumb{{ else }}Fil d'Ariane{{ end }}">
+        <ol class="breadcrumb-list">
+            <li class="breadcrumb-item">
+                <a href="{{ "/" | relLangURL }}">{{ if $isEN }}Home{{ else }}Accueil{{ end }}</a>
+                <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
+            </li>
+            {{ if eq .Section "categories" }}
+            <li class="breadcrumb-item">
+                <a href="{{ "categories/" | relLangURL }}">{{ if $isEN }}Categories{{ else }}Catégories{{ end }}</a>
+                <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
+            </li>
+            {{ else if eq .Section "blog" }}
+            <li class="breadcrumb-item">
+                <a href="{{ "blog/" | relLangURL }}">Blog</a>
+                <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
+            </li>
+            {{ end }}
+            <li class="breadcrumb-item">
+                <span aria-current="page">{{ .Title }}</span>
+            </li>
+        </ol>
+    </nav>
+</div>
 
 <section class="list-header">
     <div class="container">
