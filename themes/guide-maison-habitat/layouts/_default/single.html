@@ -103,7 +103,7 @@
 
             <!-- Sidebar : Table of Contents sticky -->
             {{ $headings := .TableOfContents }}
-            {{ if $headings }}
+            {{ if and $isBlog $headings }}
             <aside class="article-sidebar">
                 <nav class="toc" aria-label="Sommaire">
                     <div class="toc-title">
@@ -120,6 +120,7 @@
                     {{ .Content }}
                 </div>
 
+                {{ if $isBlog }}
                 <!-- Tags en bas d'article -->
                 <div class="article-tags-bottom">
                     {{ range .Params.tags }}
@@ -178,7 +179,7 @@
                     <div class="article-nav">
                         {{ with .PrevInSection }}
                         <a href="{{ .RelPermalink }}" class="nav-prev">
-                            <span class="nav-label">Article precedent</span>
+                            <span class="nav-label">Article précédent</span>
                             <span class="nav-title">{{ .Title }}</span>
                         </a>
                         {{ end }}
@@ -190,6 +191,7 @@
                         {{ end }}
                     </div>
                 </nav>
+                {{ end }}
             </div>
         </div>
 
