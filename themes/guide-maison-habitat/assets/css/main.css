@@ -1850,3 +1850,199 @@ img {
         height: 240px;
     }
 }
+
+/* === Logo image + text dans header === */
+.site-logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+}
+.site-logo-img {
+    width: 36px;
+    height: 36px;
+    flex-shrink: 0;
+}
+.site-logo-text {
+    font-family: var(--font-heading);
+    font-style: italic;
+    font-weight: 900;
+    font-size: 1.3rem;
+    color: var(--primary);
+    letter-spacing: -0.01em;
+    line-height: 1;
+}
+
+/* === Dropdown menu (Maison) === */
+.site-nav {
+    gap: var(--space-sm);
+    align-items: center;
+}
+.nav-item-parent {
+    position: relative;
+}
+.nav-chevron {
+    font-size: 0.7rem;
+    margin-left: 2px;
+    display: inline-block;
+    transition: transform var(--transition-fast);
+}
+.nav-item-parent:hover .nav-chevron,
+.nav-item-parent:focus-within .nav-chevron {
+    transform: rotate(180deg);
+}
+.nav-dropdown {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%) translateY(8px);
+    background: var(--background);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+    min-width: 220px;
+    padding: 8px 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity var(--transition-fast), visibility var(--transition-fast), transform var(--transition-fast);
+    z-index: 200;
+}
+.nav-item-parent:hover .nav-dropdown,
+.nav-item-parent:focus-within .nav-dropdown {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(0);
+}
+.nav-dropdown-link {
+    display: block;
+    padding: 10px 18px;
+    font-family: var(--font-ui);
+    font-size: 0.92rem;
+    font-weight: 500;
+    color: var(--text);
+    text-decoration: none;
+    transition: background-color var(--transition-fast), color var(--transition-fast);
+    white-space: nowrap;
+}
+.nav-dropdown-link:hover {
+    background: var(--background-alt);
+    color: var(--primary);
+}
+
+/* Mobile nav enfants */
+.nav-link-mobile-parent {
+    font-weight: 600;
+    color: var(--primary) !important;
+}
+.nav-link-mobile-child {
+    padding-left: var(--space-sm) !important;
+    font-size: 0.9rem !important;
+    color: var(--text-light) !important;
+}
+
+/* === Page hub Maison === */
+.hub-intro {
+    padding: var(--space-xl) 0 var(--space-lg);
+    text-align: center;
+}
+.hub-intro h1 {
+    font-family: var(--font-heading);
+    font-style: italic;
+    font-weight: 900;
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    letter-spacing: -0.02em;
+    color: var(--primary);
+    line-height: 1.05;
+    margin-bottom: var(--space-sm);
+}
+.hub-intro p {
+    max-width: 640px;
+    margin: 0 auto;
+    color: var(--text);
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+.hub-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: var(--space-md);
+    padding-bottom: var(--space-xl);
+}
+.hub-card {
+    background: var(--primary);
+    color: var(--white);
+    padding: var(--space-lg) var(--space-md);
+    border-radius: var(--radius-xl);
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+    transition: transform var(--transition-base), box-shadow var(--transition-base);
+}
+.hub-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+    color: var(--white);
+}
+.hub-card h2 {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: 1.4rem;
+    line-height: 1.2;
+    margin: 0;
+}
+.hub-card p {
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    opacity: 0.9;
+    margin: 0;
+}
+.hub-card-cta {
+    margin-top: auto;
+    font-family: var(--font-ui);
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding-top: var(--space-sm);
+}
+.hub-card-cta::after {
+    content: " ↗";
+}
+
+/* === Image inline dans article === */
+.article-content img {
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius-lg);
+    margin: var(--space-md) 0;
+    display: block;
+}
+.article-content figure {
+    margin: var(--space-md) 0;
+}
+.article-content figcaption {
+    font-family: var(--font-ui);
+    font-size: 0.85rem;
+    color: var(--text-light);
+    text-align: right;
+    margin-top: var(--space-xs);
+    font-style: italic;
+}
+
+@media (max-width: 768px) {
+    .site-logo-text {
+        font-size: 1rem;
+    }
+    .site-logo-img {
+        width: 30px;
+        height: 30px;
+    }
+    .nav-dropdown {
+        position: static;
+        transform: none;
+        box-shadow: none;
+        opacity: 1;
+        visibility: visible;
+        display: none;
+    }
+}

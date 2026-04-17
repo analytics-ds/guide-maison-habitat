@@ -1,4 +1,4 @@
-baseURL = "https://guide-maison-habitat.fr/"
+baseURL = "https://analytics-ds.github.io/guide-maison-habitat/"
 title = "Guide Maison & Habitat"
 theme = "guide-maison-habitat"
 
@@ -11,11 +11,11 @@ enableGitInfo = false
 [languages]
   [languages.fr]
     languageCode = "fr-FR"
-    languageName = "Francais"
+    languageName = "Français"
     weight = 1
     title = "Guide Maison & Habitat"
     [languages.fr.params]
-      description = "Guide Maison & Habitat : immobilier, investissement, amenagement, travaux, deco et jardin. Conseils d'experts, comparatifs et guides pratiques."
+      description = "Guide Maison & Habitat : immobilier, investissement, où vivre, travaux, déco et jardin. Conseils d'experts, comparatifs et guides pratiques."
 
   [languages.en]
     languageCode = "en-US"
@@ -23,76 +23,102 @@ enableGitInfo = false
     weight = 2
     title = "Guide Maison & Habitat"
     [languages.en.params]
-      description = "Guide Maison & Habitat: real estate, investment, interior design, renovation, decor and garden. Expert advice, comparisons and practical guides."
+      description = "Guide Maison & Habitat: real estate, investment, where to live, renovation, decor and garden. Expert advice, comparisons and practical guides."
 
 [taxonomies]
   category = "categories"
   tag = "tags"
 
-# Menu FR
+# Menu FR — priorité immobilier, maison en regroupement
 [[languages.fr.menus.main]]
+  identifier = "immobilier"
   name = "Immobilier"
   url = "/categories/immobilier/"
   weight = 1
 [[languages.fr.menus.main]]
+  identifier = "investissement"
   name = "Investissement"
   url = "/categories/investissement-immobilier/"
   weight = 2
 [[languages.fr.menus.main]]
-  name = "Ou vivre"
+  identifier = "ou-vivre"
+  name = "Où vivre"
   url = "/categories/ou-vivre/"
   weight = 3
 [[languages.fr.menus.main]]
-  name = "Amenagement"
-  url = "/categories/amenagement-interieur/"
+  identifier = "maison"
+  name = "Maison"
+  url = "/maison/"
   weight = 4
+  [[languages.fr.menus.main]]
+    parent = "maison"
+    name = "Aménagement intérieur"
+    url = "/categories/amenagement-interieur/"
+    weight = 1
+  [[languages.fr.menus.main]]
+    parent = "maison"
+    name = "Travaux & rénovation"
+    url = "/categories/travaux-et-renovation/"
+    weight = 2
+  [[languages.fr.menus.main]]
+    parent = "maison"
+    name = "Décoration"
+    url = "/categories/decoration/"
+    weight = 3
+  [[languages.fr.menus.main]]
+    parent = "maison"
+    name = "Jardin"
+    url = "/categories/jardin/"
+    weight = 4
 [[languages.fr.menus.main]]
-  name = "Travaux"
-  url = "/categories/travaux-et-renovation/"
-  weight = 5
-[[languages.fr.menus.main]]
-  name = "Decoration"
-  url = "/categories/decoration/"
-  weight = 6
-[[languages.fr.menus.main]]
-  name = "Jardin"
-  url = "/categories/jardin/"
-  weight = 7
-[[languages.fr.menus.main]]
+  identifier = "blog"
   name = "Le Blog"
   url = "/blog/"
   weight = 99
 
 # Menu EN
 [[languages.en.menus.main]]
+  identifier = "real-estate"
   name = "Real estate"
   url = "/en/categories/real-estate/"
   weight = 1
 [[languages.en.menus.main]]
+  identifier = "investment"
   name = "Investment"
   url = "/en/categories/real-estate-investment/"
   weight = 2
 [[languages.en.menus.main]]
+  identifier = "where-to-live"
   name = "Where to live"
   url = "/en/categories/where-to-live/"
   weight = 3
 [[languages.en.menus.main]]
-  name = "Interior design"
-  url = "/en/categories/interior-design/"
+  identifier = "home"
+  name = "Home & Garden"
+  url = "/en/home-garden/"
   weight = 4
+  [[languages.en.menus.main]]
+    parent = "home"
+    name = "Interior design"
+    url = "/en/categories/interior-design/"
+    weight = 1
+  [[languages.en.menus.main]]
+    parent = "home"
+    name = "Renovation"
+    url = "/en/categories/renovation-and-works/"
+    weight = 2
+  [[languages.en.menus.main]]
+    parent = "home"
+    name = "Decoration"
+    url = "/en/categories/decoration/"
+    weight = 3
+  [[languages.en.menus.main]]
+    parent = "home"
+    name = "Garden"
+    url = "/en/categories/garden/"
+    weight = 4
 [[languages.en.menus.main]]
-  name = "Renovation"
-  url = "/en/categories/renovation-and-works/"
-  weight = 5
-[[languages.en.menus.main]]
-  name = "Decoration"
-  url = "/en/categories/decoration/"
-  weight = 6
-[[languages.en.menus.main]]
-  name = "Garden"
-  url = "/en/categories/garden/"
-  weight = 7
-[[languages.en.menus.main]]
+  identifier = "blog"
   name = "The Blog"
   url = "/en/blog/"
   weight = 99
@@ -112,9 +138,9 @@ enableGitInfo = false
   fontBody = "Inter"
   fontUI = "Inter"
   default_og_image = "/images/og-default.jpg"
-  logo = "/favicon.svg"
+  logo = "/logo.svg"
   founding_year = "2026"
-  expertise = ["Immobilier", "Investissement immobilier", "Amenagement interieur", "Renovation", "Decoration", "Jardin"]
+  expertise = ["Immobilier", "Investissement immobilier", "Où vivre", "Aménagement intérieur", "Rénovation", "Décoration", "Jardin"]
   og_locale_alternate = "en_US"
 
 [markup]

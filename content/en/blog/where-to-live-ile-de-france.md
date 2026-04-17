@@ -14,6 +14,9 @@ faq:
     answer: "In early 2026, average prices per department are: Paris 9800 euros/sqm, Hauts-de-Seine 7200, Yvelines 4500, Seine-Saint-Denis 4100, Val-de-Marne 4900, Essonne 3200, Val-d'Oise 3400, Seine-et-Marne 2800. Ratio of 1 to 4 between cheapest and most expensive."
   - question: "What is the best suburb for a family in Ile-de-France?"
     answer: "For a family, cities with the best quality of life are: Saint-Maur-des-Fosses (94), Vincennes (94), Sceaux (92), Versailles (78), Maisons-Laffitte (78), Rueil-Malmaison (92). Evaluated criteria: schools, green spaces, local shops, transport, security."
+image: "https://picsum.photos/seed/ou-vivre-ile-de-france/1200/800"
+imageAlt: "Vue aérienne de Paris et sa banlieue"
+imageCredit: "Photo via Picsum"
 readingTime: true
 ---
 
@@ -23,6 +26,9 @@ readingTime: true
 > 3. The Grand Paris Express metro, gradually launched until 2030, reshuffles price maps in the outer suburbs.
 > 4. A Paris vs suburb trade-off can gain 30 to 50 percent of surface for the same budget.
 
+
+![Vue aérienne de Paris et sa banlieue](https://picsum.photos/seed/ou-vivre-ile-de-france-body/1600/900)
+*Vue aérienne de Paris et sa banlieue — Photo via Picsum*
 ## Where to live in Ile-de-France: major trends
 
 **Where to live in Ile-de-France** no longer boils down to Paris intramuros. Inner and outer suburbs offer quality of life often superior to equivalent budgets, especially for families.

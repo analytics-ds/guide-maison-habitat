@@ -14,6 +14,9 @@ faq:
     answer: "A complete renovation takes on average 2 to 3 weeks: 3 days of demolition, 1 week of plumbing and electricity, 1 week of tiling and painting, then equipment installation. Add 1 to 2 weeks for finishes and drying."
   - question: "Do I need a permit to renovate a bathroom?"
     answer: "For a renovation without modification of the external appearance and without creating surface, no authorization is generally required. In a condominium, check the rules: some works (plumbing, drain columns) require union authorization."
+image: "https://picsum.photos/seed/renovation-salle-de-bain-guide/1200/800"
+imageAlt: "Salle de bain rénovée avec douche à l'italienne"
+imageCredit: "Photo via Picsum"
 readingTime: true
 ---
 
@@ -23,6 +26,9 @@ readingTime: true
 > 3. Relocating water inlets can cost up to 2500 euros: limit these changes if the budget is tight.
 > 4. A complete project takes on average 2 to 3 weeks including drying.
 
+
+![Salle de bain rénovée avec douche à l'italienne](https://picsum.photos/seed/renovation-salle-de-bain-guide-body/1600/900)
+*Salle de bain rénovée avec douche à l'italienne — Photo via Picsum*
 ## Bathroom renovation: key steps
 
 **Bathroom renovation** is one of the most technical projects in a home. Plumbing, electricity, waterproofing, ventilation: there are many points of vigilance.

@@ -14,6 +14,9 @@ faq:
     answer: "Exotic wood (ipe, teak) lasts 25 to 30 years but is expensive. Composite requires no maintenance and lasts 20 years. Large-format tile is the most durable (50 years and more) and resists frost well if rated R11 or higher."
   - question: "What plants for a terrace?"
     answer: "Prefer plants resistant to exposure: lavender, dwarf olive, grasses for full sun. In shade, opt for ferns, hostas or sacred bamboo. Climbing plants (clematis, jasmine) structure the vertical space."
+image: "https://picsum.photos/seed/amenager-terrasse-exterieure/1200/800"
+imageAlt: "Terrasse extérieure aménagée avec mobilier outdoor"
+imageCredit: "Photo via Picsum"
 readingTime: true
 ---
 
@@ -23,6 +26,9 @@ readingTime: true
 > 3. Potted plants structure a terrace without major works.
 > 4. Indirect outdoor lighting transforms terrace use in the evening and increases usage time by 40 percent.
 
+
+![Terrasse extérieure aménagée avec mobilier outdoor](https://picsum.photos/seed/amenager-terrasse-exterieure-body/1600/900)
+*Terrasse extérieure aménagée avec mobilier outdoor — Photo via Picsum*
 ## Designing an outdoor terrace: where to start
 
 **Designing an outdoor terrace** starts with analyzing the existing: exposure, sunlight, neighbors, usable surface. A south-facing terrace requires shade, a north-facing terrace requires bright colors.

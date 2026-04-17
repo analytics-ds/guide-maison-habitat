@@ -14,6 +14,9 @@ faq:
     answer: "Four main criteria: planned residence duration (over 7 years = buy), professional stability (permanent contract favors buying), available down payment (10 to 20 percent recommended) and desired mobility (renting offers more geographic flexibility)."
   - question: "How much does a real estate purchase really cost?"
     answer: "To the purchase price, add notary fees (7 to 8 percent in France for old properties), agency fees (1 to 5 percent), bank file fees (500 to 2500 euros) and loan guarantee fees (1 to 2 percent). Plan an overall budget 10 to 12 percent above the listed price."
+image: "https://picsum.photos/seed/acheter-ou-louer-comparatif/1200/800"
+imageAlt: "Immeubles résidentiels et maison individuelle"
+imageCredit: "Photo via Picsum"
 readingTime: true
 ---
 
@@ -23,6 +26,9 @@ readingTime: true
 > 3. Renting offers valuable mobility but builds no long-term wealth.
 > 4. A down payment of 10 to 20 percent is now required by most banks for a purchase.
 
+
+![Immeubles résidentiels et maison individuelle](https://picsum.photos/seed/acheter-ou-louer-comparatif-body/1600/900)
+*Immeubles résidentiels et maison individuelle — Photo via Picsum*
 ## Buy or rent: the debate in 2026
 
 **Buy or rent** is one of the most common financial questions. In 2026, with real estate rates stabilizing around 3.5 to 4 percent and prices slightly dropping in several major cities, trade-offs evolve.

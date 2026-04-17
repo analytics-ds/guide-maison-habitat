@@ -14,6 +14,9 @@ faq:
     answer: "Light tones (off-white, beige, light grey) reflect light and visually enlarge the room. A single darker accent wall can add depth without darkening the space."
   - question: "What type of sofa for a small living room?"
     answer: "A compact 2-seater sofa (180 to 200 cm) or a reversible corner sofa with built-in storage. Avoid deep models that visually consume the room."
+image: "https://picsum.photos/seed/amenager-petit-salon/1200/800"
+imageAlt: "Salon compact et lumineux avec canapé 2 places"
+imageCredit: "Photo via Picsum"
 readingTime: true
 ---
 
@@ -23,6 +26,9 @@ readingTime: true
 > 3. Vertical storage (high shelves, column furniture) frees floor space and adds perceived ceiling height.
 > 4. A large mirror placed opposite a light source visually doubles the perceived volume.
 
+
+![Salon compact et lumineux avec canapé 2 places](https://picsum.photos/seed/amenager-petit-salon-body/1600/900)
+*Salon compact et lumineux avec canapé 2 places — Photo via Picsum*
 ## Designing a small living room: the basics
 
 A small living room under 15 sqm requires thinking about every square meter. Contrary to popular belief, **designing a small living room** does not mean sacrificing comfort: just choose less but better.

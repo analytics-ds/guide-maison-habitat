@@ -14,6 +14,9 @@ faq:
     answer: "Cocooning colors are warm earthy tones: beige, sand, terracotta, cinnamon, glazed brown, sage green, off-white. Avoid cold colors (electric blue, pure white) that create visual distance. Add black or dark wood to structure without hardening."
   - question: "How to make a living room warmer?"
     answer: "To make a living room warmer, layer textiles (thick rug, throws, cushions of various sizes), multiply soft light sources (floor lamps, table lamps, candles), add natural wood and noble materials (linen, wool, velvet). A few green plants complete the ambience."
+image: "https://picsum.photos/seed/tendances-deco-cocooning/1200/800"
+imageAlt: "Intérieur cocooning avec textiles et lumière douce"
+imageCredit: "Photo via Picsum"
 readingTime: true
 ---
 
@@ -23,6 +26,9 @@ readingTime: true
 > 3. Earthy colors (terracotta, beige, glazed brown) dominate the 2026 cocooning palette.
 > 4. Layered textiles (rugs, throws, cushions) add 30 to 50 percent of visual comfort.
 
+
+![Intérieur cocooning avec textiles et lumière douce](https://picsum.photos/seed/tendances-deco-cocooning-body/1600/900)
+*Intérieur cocooning avec textiles et lumière douce — Photo via Picsum*
 ## Cocooning decor trends: the fundamentals
 
 **Cocooning decor trends** are based on a simple principle: creating a comforting cocoon by layering materials, colors and lights. The goal is not minimalism nor industrial style, but sensory comfort.

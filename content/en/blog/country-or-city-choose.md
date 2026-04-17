@@ -14,6 +14,9 @@ faq:
     answer: "Average housing budget in the country is 30 to 50 percent lower than in major cities. However, transport budget increases by 200 to 500 euros per month (car, fuel, maintenance). Net savings generally range between 300 and 800 euros per month for a household."
   - question: "Is country living suited for remote work?"
     answer: "Remote work has reshuffled the cards since 2020. About 30 percent of active people on partial remote work consider moving to the countryside. Key criteria: available fiber optic, proximity to a train station (under 30 min), presence of shops under 15 min by car."
+image: "https://picsum.photos/seed/campagne-ou-ville-choisir/1200/800"
+imageAlt: "Contraste entre ville et campagne"
+imageCredit: "Photo via Picsum"
 readingTime: true
 ---
 
@@ -23,6 +26,9 @@ readingTime: true
 > 3. Remote work has tripled interest in rural areas since 2020.
 > 4. Air quality, space and quiet are the 3 most cited assets by neo-rurals.
 
+
+![Contraste entre ville et campagne](https://picsum.photos/seed/campagne-ou-ville-choisir-body/1600/900)
+*Contraste entre ville et campagne — Photo via Picsum*
 ## Country or city: the big trade-off
 
 **Country or city**: this choice deeply structures daily life, budget and often career. Since the 2020 health crisis, the balance has shifted: 15 percent increase in residential migrations to rural areas.

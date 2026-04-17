@@ -14,6 +14,9 @@ faq:
     answer: "The standard delay between purchase agreement and signing at the notary is 2 to 3 months. This delay allows lifting suspensive conditions (bank loan, preemption, permits). The buyer has 10 days of retraction after signing the agreement."
   - question: "What budget to plan for buying a home?"
     answer: "On top of the 100 percent purchase price, add: 7 to 8 percent notary fees for old properties (2 to 3 percent new build), 1 to 2 percent agency fees, relocation costs (decor, urgent works). Plan a budget around 10 percent above the listed price."
+image: "https://picsum.photos/seed/achat-maison-checklist/1200/800"
+imageAlt: "Visite d'une maison avec des clés"
+imageCredit: "Photo via Picsum"
 readingTime: true
 ---
 
@@ -23,6 +26,9 @@ readingTime: true
 > 3. Retraction delay after signing the purchase agreement is 10 calendar days.
 > 4. An energy audit is now mandatory for homes rated F or G in the French energy diagnostic (DPE).
 
+
+![Visite d'une maison avec des clés](https://picsum.photos/seed/achat-maison-checklist-body/1600/900)
+*Visite d'une maison avec des clés — Photo via Picsum*
 ## Buying a home: the main points to check
 
 **Buying a home** is one of the most important financial decisions of a lifetime. A rigorous checklist avoids unpleasant surprises that can cost thousands of euros in unexpected works.

@@ -14,6 +14,9 @@ faq:
     answer: "The simplest vegetables to grow are: radishes (harvest in 3 weeks), salad, cherry tomatoes, zucchini, green beans, herbs (basil, parsley, chives). These crops forgive small mistakes and generally produce from the first year."
   - question: "What size for a family vegetable garden?"
     answer: "To partially feed a family of 4, count 50 to 100 sqm. For complete vegetable autonomy (excluding cereals), at least 200 well-maintained sqm are needed. A beginner can start on 10 to 15 sqm and gradually expand."
+image: "https://picsum.photos/seed/creer-potager-debutant/1200/800"
+imageAlt: "Potager avec planches de légumes"
+imageCredit: "Photo via Picsum"
 readingTime: true
 ---
 
@@ -23,6 +26,9 @@ readingTime: true
 > 3. Easy vegetables (radish, salad, tomato, zucchini) are the right starting point.
 > 4. Thick mulch divides water needs by 3 and limits weeding.
 
+
+![Potager avec planches de légumes](https://picsum.photos/seed/creer-potager-debutant-body/1600/900)
+*Potager avec planches de légumes — Photo via Picsum*
 ## Creating a vegetable garden for beginners: the steps
 
 **Creating a vegetable garden as a beginner** requires simple but essential preparation. The first criterion is location: a corner of the garden facing south or southwest, sheltered from wind, near a water point.

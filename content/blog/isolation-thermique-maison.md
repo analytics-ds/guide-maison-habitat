@@ -3,67 +3,73 @@ title: "Isolation thermique de la maison : par ou commencer"
 translationKey: "isolation-thermique-maison"
 date: 2026-04-09
 lastmod: 2026-04-09
-description: "Isolation thermique de la maison : par ou commencer, quels materiaux choisir et quelles aides financieres mobiliser."
-categories: ["Travaux et renovation"]
-tags: ["isolation", "thermique", "renovation", "economies d'energie", "aides"]
+description: "Isolation thermique de la maison : par ou commencer, quels materiaux choisir et quelles aides financières mobiliser."
+categories: ["Travaux et rénovation"]
+tags: ["isolation", "thermique", "rénovation", "economies d'énergie", "aides"]
 author: "claire-beaumont"
 faq:
   - question: "Par ou commencer l'isolation thermique d'une maison ?"
-    answer: "Commencez par la toiture : elle represente jusqu'a 30 pour cent des deperditions thermiques d'une maison mal isolee. Ensuite viennent les murs (20 a 25 pour cent), les fenetres (10 a 15 pour cent), puis le plancher bas (7 a 10 pour cent). C'est l'ordre le plus rentable en termes de retour sur investissement."
+    answer: "Commencez par la toiture : elle represente jusqu'a 30 pour cent des deperditions thermiques d'une maison mal isolée. Ensuite viennent les murs (20 a 25 pour cent), les fenêtres (10 a 15 pour cent), puis le plancher bas (7 a 10 pour cent). C'est l'ordre le plus rentable en termes de retour sur investissement."
   - question: "Quel est le meilleur isolant thermique ?"
-    answer: "Il n'existe pas un meilleur isolant universel : le choix depend du support, du budget et des performances visees. La laine de verre reste le meilleur rapport qualite prix. La ouate de cellulose et la laine de bois sont plus ecologiques. Le polyurethane offre la meilleure performance par cm d'epaisseur."
+    answer: "Il n'existe pas un meilleur isolant universel : le choix depend du support, du budget et des performances visees. La laine de verre reste le meilleur rapport qualité prix. La ouate de cellulose et la laine de bois sont plus ecologiques. Le polyurethane offre la meilleure performance par cm d'epaisseur."
   - question: "Quelles aides pour l'isolation en 2026 ?"
-    answer: "MaPrimeRenov', les Certificats d'Economies d'Energie (CEE), l'eco-PTZ et la TVA a 5,5 pour cent restent les principales aides. Un menage aux revenus moyens peut cumuler plusieurs milliers d'euros d'aides sur un chantier d'isolation globale."
+    answer: "MaPrimeRenov', les Certificats d'Economies d'Énergie (CEE), l'eco-PTZ et la TVA a 5,5 pour cent restent les principales aides. Un menage aux revenus moyens peut cumuler plusieurs milliers d'euros d'aides sur un chantier d'isolation globale."
+image: "https://picsum.photos/seed/isolation-thermique-maison/1200/800"
+imageAlt: "Travaux d'isolation thermique d'une maison"
+imageCredit: "Photo via Picsum"
 readingTime: true
 ---
 
 > **En bref :**
 > 1. La toiture represente jusqu'a 30 pour cent des deperditions : c'est le chantier prioritaire.
-> 2. Les murs isoles par l'exterieur font gagner en moyenne 25 pour cent sur la facture de chauffage.
+> 2. Les murs isolés par l'extérieur font gagner en moyenne 25 pour cent sur la facture de chauffage.
 > 3. MaPrimeRenov' peut prendre en charge jusqu'a 75 pour cent du cout pour les menages modestes en 2026.
-> 4. Un audit energetique est obligatoire avant certains travaux et finance jusqu'a 500 euros par l'Etat.
+> 4. Un audit énergétique est obligatoire avant certains travaux et finance jusqu'a 500 euros par l'État.
 
+
+![Travaux d'isolation thermique d'une maison](https://picsum.photos/seed/isolation-thermique-maison-body/1600/900)
+*Travaux d'isolation thermique d'une maison — Photo via Picsum*
 ## Isolation thermique de la maison : l'ordre des priorites
 
-L'ADEME rappelle que **l'isolation thermique de la maison** est le levier n1 pour reduire sa facture d'energie. Une maison mal isolee perd en moyenne 30 pour cent de sa chaleur par le toit, 25 pour cent par les murs, 15 pour cent par les fenetres et 10 pour cent par le plancher.
+L'ADEME rappelle que **l'isolation thermique de la maison** est le levier n1 pour reduire sa facture d'énergie. Une maison mal isolée perd en moyenne 30 pour cent de sa chaleur par le toit, 25 pour cent par les murs, 15 pour cent par les fenêtres et 10 pour cent par le plancher.
 
-### Audit energetique : l'etape prealable
+### Audit énergétique : l'étape prealable
 
-Un audit energetique realise par un professionnel RGE identifie les points faibles et hierarchise les travaux. Il coute entre 500 et 1000 euros mais est finance en partie par MaPrimeRenov'.
+Un audit énergétique réalisé par un professionnel RGE identifié les points faibles et hierarchise les travaux. Il coûte entre 500 et 1000 euros mais est finance en partie par MaPrimeRenov'.
 
 ## Les grands postes d'isolation
 
-### Toiture : combles perdus ou amenages
+### Toiture : combles perdus ou aménagés
 
-L'isolation des combles perdus est la plus simple et la plus rentable. Comptez entre 20 et 50 euros par m2 pose. Pour les combles amenages, la pose d'un isolant entre et sous chevrons monte a 80 a 150 euros par m2.
+L'isolation des combles perdus est la plus simple et la plus rentable. Comptez entre 20 et 50 euros par m2 pose. Pour les combles aménagés, la pose d'un isolant entre et sous chevrons monte a 80 a 150 euros par m2.
 
 ### Murs : ITE ou ITI
 
 | Methode | Avantages | Cout au m2 |
 |---------|-----------|--------------|
-| Isolation par l'exterieur (ITE) | Pas de perte de surface, meilleure performance | 120 a 200 euros |
-| Isolation par l'interieur (ITI) | Moins couteuse, chantier plus rapide | 40 a 80 euros |
+| Isolation par l'extérieur (ITE) | Pas de perte de surface, meilleure performance | 120 a 200 euros |
+| Isolation par l'intérieur (ITI) | Moins couteuse, chantier plus rapide | 40 a 80 euros |
 
 ## Choisir le bon isolant
 
 > "Un bon isolant, c'est d'abord un isolant bien pose. La mise en oeuvre compte plus que le materiau choisi."
-> — ADEME, Guide renovation 2024
+> — ADEME, Guide rénovation 2024
 
-Les criteres a regarder sont le lambda (conductivite thermique, plus il est bas mieux c'est), la resistance thermique R et l'origine (naturelle ou synthetique).
+Les critères a regarder sont le lambda (conductivite thermique, plus il est bas mieux c'est), la resistance thermique R et l'origine (naturelle ou synthetique).
 
-## Les aides financieres 2026
+## Les aides financières 2026
 
 - MaPrimeRenov' : jusqu'a 75 pour cent du cout pour les menages modestes
-- Certificats d'Economies d'Energie (CEE) : primes versees par les fournisseurs
+- Certificats d'Economies d'Énergie (CEE) : primes versees par les fournisseurs
 - Eco-PTZ : pret a taux zero jusqu'a 50 000 euros
 - TVA reduite a 5,5 pour cent sur la pose et les materiaux
 
-### Etapes pour monter un dossier d'aide
+### Étapes pour monter un dossier d'aide
 
 1. Realiser un devis avec un artisan RGE
-2. Deposer la demande d'aide AVANT signature du devis
+2. Deposer la demandé d'aide AVANT signature du devis
 3. Attendre la notification d'accord
-4. Faire realiser les travaux
+4. Faire réaliser les travaux
 5. Envoyer les factures pour versement
 
 ## Questions frequentes
@@ -71,20 +77,20 @@ Les criteres a regarder sont le lambda (conductivite thermique, plus il est bas 
 <details>
 <summary>Par ou commencer l'isolation thermique d'une maison ?</summary>
 
-Commencez par la toiture : elle represente jusqu'a 30 pour cent des deperditions thermiques d'une maison mal isolee. Ensuite viennent les murs (20 a 25 pour cent), les fenetres (10 a 15 pour cent), puis le plancher bas (7 a 10 pour cent). C'est l'ordre le plus rentable en termes de retour sur investissement.
+Commencez par la toiture : elle represente jusqu'a 30 pour cent des deperditions thermiques d'une maison mal isolée. Ensuite viennent les murs (20 a 25 pour cent), les fenêtres (10 a 15 pour cent), puis le plancher bas (7 a 10 pour cent). C'est l'ordre le plus rentable en termes de retour sur investissement.
 
 </details>
 
 <details>
 <summary>Quel est le meilleur isolant thermique ?</summary>
 
-Il n'existe pas un meilleur isolant universel : le choix depend du support, du budget et des performances visees. La laine de verre reste le meilleur rapport qualite prix. La ouate de cellulose et la laine de bois sont plus ecologiques. Le polyurethane offre la meilleure performance par cm d'epaisseur.
+Il n'existe pas un meilleur isolant universel : le choix depend du support, du budget et des performances visees. La laine de verre reste le meilleur rapport qualité prix. La ouate de cellulose et la laine de bois sont plus ecologiques. Le polyurethane offre la meilleure performance par cm d'epaisseur.
 
 </details>
 
 <details>
 <summary>Quelles aides pour l'isolation en 2026 ?</summary>
 
-MaPrimeRenov', les Certificats d'Economies d'Energie (CEE), l'eco-PTZ et la TVA a 5,5 pour cent restent les principales aides. Un menage aux revenus moyens peut cumuler plusieurs milliers d'euros d'aides sur un chantier d'isolation globale.
+MaPrimeRenov', les Certificats d'Economies d'Énergie (CEE), l'eco-PTZ et la TVA a 5,5 pour cent restent les principales aides. Un menage aux revenus moyens peut cumuler plusieurs milliers d'euros d'aides sur un chantier d'isolation globale.
 
 </details>

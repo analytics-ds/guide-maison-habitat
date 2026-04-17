@@ -14,6 +14,9 @@ faq:
     answer: "To visually enlarge a living room, favor light tones: off-white, beige, pearl grey. Paint walls in the same shade as the ceiling to remove visual limit. A darker color on the back wall can create depth."
   - question: "How to combine colors in a living room?"
     answer: "The classic 60-30-10 rule works well: 60 percent dominant color (walls, large furniture), 30 percent secondary (textiles, curtains), 10 percent accent (cushions, decor objects). Avoid exceeding 3 main colors."
+image: "https://picsum.photos/seed/couleurs-peinture-salon/1200/800"
+imageAlt: "Salon peint dans des tons chauds et naturels"
+imageCredit: "Photo via Picsum"
 readingTime: true
 ---
 
@@ -23,6 +26,9 @@ readingTime: true
 > 3. The 60-30-10 rule naturally balances a living room palette.
 > 4. A large sample test (minimum 1 sqm) is essential before painting the whole room.
 
+
+![Salon peint dans des tons chauds et naturels](https://picsum.photos/seed/couleurs-peinture-salon-body/1600/900)
+*Salon peint dans des tons chauds et naturels — Photo via Picsum*
 ## Living room paint colors: choice criteria
 
 Choosing **living room paint colors** is an impactful decision. A wrong shade can darken the room or make it uncomfortable. Three main criteria guide the choice.

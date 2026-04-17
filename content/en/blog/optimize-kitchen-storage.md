@@ -14,6 +14,9 @@ faq:
     answer: "Drawers are more ergonomic: you can see and reach everything without bending. They are recommended for pots, plates and utensils. Cabinets remain useful for lighter items used less frequently."
   - question: "How much does a well-designed kitchen cost?"
     answer: "A well-designed fitted kitchen costs between 3500 and 15000 euros depending on the range and surface. The average price of a custom kitchen is around 8000 euros for 10 sqm."
+image: "https://picsum.photos/seed/optimiser-rangement-cuisine/1200/800"
+imageAlt: "Cuisine moderne avec tiroirs profonds et rangements optimisés"
+imageCredit: "Photo via Picsum"
 readingTime: true
 ---
 
@@ -23,6 +26,9 @@ readingTime: true
 > 3. A clear countertop improves workflow and the visual perception of space.
 > 4. Interior drawer layouts (dividers, cutlery) prevent 80 percent of everyday clutter.
 
+
+![Cuisine moderne avec tiroirs profonds et rangements optimisés](https://picsum.photos/seed/optimiser-rangement-cuisine-body/1600/900)
+*Cuisine moderne avec tiroirs profonds et rangements optimisés — Photo via Picsum*
 ## Optimizing kitchen storage: basic principles
 
 A well-organized kitchen is a working kitchen. **Optimizing kitchen storage** starts with an audit: what do I keep, what do I really use? A study shows that 30 percent of utensils in a French kitchen are never used.

@@ -14,6 +14,9 @@ faq:
     answer: "LMNP regime allows depreciating the property (excluding land) over 20 to 30 years, generally between 2 and 3 percent per year. This accounting expense is added to real charges and can fully neutralize taxable rents for 20 to 30 years, resulting in near tax exemption."
   - question: "Are SCPIs a good investment?"
     answer: "SCPIs offer an average yield of 4 to 5.5 percent in 2026 with an accessible entry ticket (1000 to 10 000 euros). They are taxed as rental income (marginal) but diversify risk and eliminate management. Recommended for passive or complementary investment."
+image: "https://picsum.photos/seed/fiscalite-investissement-immobilier/1200/800"
+imageAlt: "Documents fiscaux et calculs immobiliers"
+imageCredit: "Photo via Picsum"
 readingTime: true
 ---
 
@@ -23,6 +26,9 @@ readingTime: true
 > 3. SCPIs offer average 2026 yield between 4 and 5.5 percent, without management.
 > 4. Pinel scheme ended in 2024 but Denormandie and LLI remain active.
 
+
+![Documents fiscaux et calculs immobiliers](https://picsum.photos/seed/fiscalite-investissement-immobilier-body/1600/900)
+*Documents fiscaux et calculs immobiliers — Photo via Picsum*
 ## Real estate investment taxation: 2026 overview
 
 **Real estate investment taxation** in France rests on several regimes according to rental type and investment volume. The right tax choice can double net yield.

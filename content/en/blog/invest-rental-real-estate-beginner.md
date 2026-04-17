@@ -14,6 +14,9 @@ faq:
     answer: "Average gross yield of a rental investment is between 4 and 8 percent depending on the city. Net yield (after charges, taxes and vacancies) drops to 3 to 5 percent. Mid-sized cities in western France currently offer the best returns (7 to 9 percent gross)."
   - question: "Which tax regime to choose for rental?"
     answer: "The LMNP (Non-Professional Furnished Lessor) regime in France is generally the most advantageous for beginners. It allows depreciating the property and neutralizing rental income tax for 20 to 30 years. Real unfurnished rental is preferable when there are many works to depreciate."
+image: "https://picsum.photos/seed/investir-immobilier-locatif-debutant/1200/800"
+imageAlt: "Immeuble d'investissement locatif"
+imageCredit: "Photo via Picsum"
 readingTime: true
 ---
 
@@ -23,6 +26,9 @@ readingTime: true
 > 3. Mid-sized cities (100 000 to 200 000 inhabitants) offer the best yield-risk compromise.
 > 4. A 10 to 20 percent down payment remains necessary for financing under good conditions.
 
+
+![Immeuble d'investissement locatif](https://picsum.photos/seed/investir-immobilier-locatif-debutant-body/1600/900)
+*Immeuble d'investissement locatif — Photo via Picsum*
 ## Invest in rental real estate: the basics
 
 **Investing in rental real estate** remains one of the most effective wealth strategies. Credit leverage multiplies the savings effort, provided you choose the right property at the right price.

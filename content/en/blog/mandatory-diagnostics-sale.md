@@ -14,6 +14,9 @@ faq:
     answer: "Property diagnostics are at the seller's expense. Their total cost for an old property varies from 400 to 800 euros depending on surface and required diagnostics. The seller must use a certified diagnostician."
   - question: "How long are diagnostics valid?"
     answer: "Validity periods vary: DPE 10 years, asbestos and lead unlimited if negative, termites 6 months, electricity and gas 3 years, ERP 6 months. Check dates before signing so as not to have to redo an expired diagnostic."
+image: "https://picsum.photos/seed/diagnostics-obligatoires-vente/1200/800"
+imageAlt: "Diagnostic immobilier devant une maison"
+imageCredit: "Photo via Picsum"
 readingTime: true
 ---
 
@@ -23,6 +26,9 @@ readingTime: true
 > 3. An energy audit is mandatory for homes rated F or G since April 2023.
 > 4. The absence of a mandatory diagnostic can lead to sale cancellation or price reduction.
 
+
+![Diagnostic immobilier devant une maison](https://picsum.photos/seed/diagnostics-obligatoires-vente-body/1600/900)
+*Diagnostic immobilier devant une maison — Photo via Picsum*
 ## Mandatory diagnostics for property sale: 2026 overview
 
 **Mandatory diagnostics for property sale** evolve regularly. In 2026, the Technical Diagnostic File (DDT) remains the central document of any property sale.
