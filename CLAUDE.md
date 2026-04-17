@@ -2,25 +2,25 @@
 
 Ce repo est un template pour créer des sites blogs statiques avec Hugo, optimises SEO/GEO, heberges gratuitement sur GitHub Pages.
 
-## Comment ca marche
+## Comment ça marche
 
-Ce repo ne contient pas de site. Il contient les **instructions et templates** pour que Claude Code genere un site complet automatiquement.
+Ce repo ne contient pas de site. Il contient les **instructions et templates** pour que Claude Code génère un site complet automatiquement.
 
 ### Premier lancement
 
-1. L'utilisateur connecte Claude Code a ce repo
+1. L'utilisateur connecte Claude Code à ce repo
 2. L'utilisateur tape `/create-site`
 3. Claude pose les questions nécessaires (nom du site, couleurs, catégories, etc.)
-4. Claude genere tout le site Hugo, les fichiers SEO, et configure le deploiement
+4. Claude génère tout le site Hugo, les fichiers SEO, et configure le deploiement
 5. L'utilisateur push sur GitHub, active GitHub Pages, le site est en ligne
 
 ### Utilisation courante
 
 - `/create-article` : créer un nouvel article de blog (choix parmi plusieurs types : article standard, comparatif). Push automatiquement sur GitHub si le repo est configure
-- `/seo-setup` : generer ou mettre a jour les fichiers SEO techniques de base (robots.txt, llms.txt, sitemap, structured data)
+- `/seo-setup` : générer ou mettre à jour les fichiers SEO techniques de base (robots.txt, llms.txt, sitemap, structured data)
 - `/seo` : mode interactif pour modifier/ajouter des éléments SEO (meta tags, JSON-LD, audit on-page, etc.)
 - `/serve` : lancer le serveur Hugo en local (previsualisation sur `http://localhost:1313/`)
-- `/share` : lancer Hugo + ngrok pour partager le site via un lien public (accessible par n'importe qui)
+- `/share` : lancer Hugo + ngrok pour partager le site vià un lien public (accessible par n'importe qui)
 - `/github-setup` : créer un repo GitHub, push le code et activer GitHub Pages (mise en ligne du site)
 - `/github-deploy` : push les modifications vers GitHub et declencher le deploiement
 
@@ -57,7 +57,7 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
     │       ├── author.json       ← Person (auteur)
     │       ├── breadcrumb.json   ← BreadcrumbList
     │       ├── website.json      ← WebSite (avec publisher @id)
-    │       └── faq.json          ← FAQPage (genere auto depuis frontmatter)
+    │       └── faq.json          ← FAQPage (génère auto depuis frontmatter)
     ├── layouts/
     │   ├── baseof.html           ← Layout de base (skip-to-content, fonts non-bloquantes, favicon)
     │   ├── home.html             ← Page d'accueil
@@ -74,10 +74,10 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 ## Contexte du site
 
 > Cette section est remplie automatiquement par le skill `/create-site`.
-> Elle permet a Claude de connaitre le contexte du site pour les futures actions.
+> Elle permet à Claude de connaitre le contexte du site pour les futures actions.
 
 - **Nom du site** : Guide Maison & Habitat
-- **Description (FR)** : Guide Maison & Habitat : immobilier, investissement, aménagement, travaux, deco et jardin. Conseils d'experts, comparatifs et guides pratiques.
+- **Description (FR)** : Guide Maison & Habitat : immobilier, investissement, aménagement, travaux, déco et jardin. Conseils d'experts, comparatifs et guides pratiques.
 - **Description (EN)** : Guide Maison & Habitat: real estate, investment, interior design, rénovation, decor and garden. Expert advice, comparisons and practical guides.
 - **URL** : https://guide-maison-habitat.fr/
 - **Charte graphique** : style éditorial vert olive + creme chaud (inspiration Armonia Excursions : typo serif italic impactante, cards arrondies, CTA pill sombres, fleches ↗)
@@ -94,7 +94,7 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
   - border : `#D6CFBA`
 - **Polices** : Fraunces (titres, italic pour hero et logos), Inter (corps + UI)
 - **Langue principale** : français (version EN active en sous-dossier `/en/`)
-- **Architecture SEO** : 2 silos thematiques clairs pour positionnement expert immobilier + maison
+- **Architecture SEO** : 2 silos thématiques clairs pour positionnement expert immobilier + maison
   - **Univers Immobilier** (3 cats) : Immobilier, Investissement immobilier, Ou vivre
   - **Univers Maison** (4 cats) : Aménagement intérieur, Travaux et rénovation, Décoration, Jardin
 - **Catégories (FR ↔ EN)** :
@@ -109,56 +109,56 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
   - `claire-beaumont` : aménagement, travaux, décoration, jardin (auteur principal par defaut)
   - `sophie-martin` : immobilier, investissement immobilier, ou vivre (finance/patrimoine)
 - **Maillage interne** : chaque article des cats Immobilier / Investissement / Ou vivre doit contenir au moins 3 liens internes vers d'autres articles de ces 3 cats pour renforcer le cocon semantique immobilier.
-- **Avatars** : non generes. Prompts dans `.claude/templates/data/avatar-prompts.md`. Les placeholders (1ere lettre du nom sur fond colore) s'affichent en attendant.
-- **Image OG par defaut** : `/images/og-default.jpg` a créer (1200x630). Non présente pour l'instant.
+- **Avatars** : non générés. Prompts dans `.claude/templates/data/avatar-prompts.md`. Les placeholders (1ere lettre du nom sur fond colore) s'affichent en attendant.
+- **Image OG par defaut** : `/images/og-default.jpg` à créer (1200x630). Non présente pour l'instant.
 
 ## Suivi des publications (MEMORY.md)
 
-Le fichier `MEMORY.md` à la racine tracé tous les articles publies, classes par semaine. Il est mis a jour automatiquement par `/create-article`.
+Le fichier `MEMORY.md` à la racine tracé tous les articles publiés, classes par semaine. Il est mis à jour automatiquement par `/create-article`.
 
-**Limite de publication : 4 articles par semaine maximum.** Avant chaque création d'article, le système vérifié le quota. Si 4 articles sont déjà publies dans la semaine en cours, l'utilisateur est averti.
+**Limite de publication : 4 articles par semaine maximum.** Avant chaque création d'article, le système vérifié le quota. Si 4 articles sont déjà publiés dans la semaine en cours, l'utilisateur est averti.
 
-Cette limité sert a éviter la publication en masse et a maintenir un rythme de publication régulier, ce qui est meilleur pour le SEO.
+Cette limité sert à éviter la publication en masse et à maintenir un rythme de publication régulier, ce qui est meilleur pour le SEO.
 
 ## Règles générales
 
-- **Bilinguisme obligatoire (langue principale + EN)** : tous les blogs generes par ce template sont bilingues. La langue principale est servie à la racine (`/`), la version anglaise en sous-dossier `/en/`. Hugo gere le multilingue via la convention de dossiers `content/` (principale) et `content/en/` (anglais). Chaque article et page à une paire de fichiers avec un `translationKey` identique dans le frontmatter. Le header contient un language switcher automatique. Les balises hreflang sont generees automatiquement par le partial `seo-head.html`. **Ne JAMAIS generer un site ou un article dans une seule langue** — c'est systematiquement FR + EN (ou la langue principale + EN)
+- **Bilinguisme obligatoire (langue principale + EN)** : tous les blogs générés par ce template sont bilingues. La langue principale est servie à la racine (`/`), la version anglaise en sous-dossier `/en/`. Hugo géré le multilingue vià la convention de dossiers `content/` (principale) et `content/en/` (anglais). Chaque article et page à une paire de fichiers avec un `translationKey` identique dans le frontmatter. Le header contient un language switcher automatique. Les balises hreflang sont générées automatiquement par le partial `seo-head.html`. **Ne JAMAIS générer un site ou un article dans une seule langue** — c'est systematiquement FR + EN (ou la langue principale + EN)
 - Toujours utiliser `relURL` dans les templates Hugo pour les liens (compatibilite GitHub Pages)
 - Les articles vont dans `content/blog/` (langue principale) et `content/en/blog/` (anglais)
 - Les slugs sont en minuscules, sans accents, mots separes par des tirets
-- Ne JAMAIS utiliser `&` dans les noms de catégories ou de tags — toujours remplacer par "et" (Hugo genere un double tiret `--` dans le slug, ce qui casse les URLs)
+- Ne JAMAIS utiliser `&` dans les noms de catégories ou de tags — toujours remplacer par "et" (Hugo génère un double tiret `--` dans le slug, ce qui casse les URLs)
 - Le ton des articles est impersonnel (pas de je/tu/nous/vous) sauf instruction contraire
 - Les specs d'article (mots minimum, H2, blocs obligatoires) dependent du type choisi — lire les `<!-- NOTES POUR CLAUDE -->` dans chaque template d'article
-- Chaque article doit contenir au minimum 3 liens internes contextuels vers d'autres articles du blog. L'ancre de chaque lien doit contenir le mot-cle principal de l'article cible. **Maillage intra-langue uniquement** : un article FR ne mail que des articles FR, un article EN ne mail que des articles EN (le lien vers la traduction est gere par le language switcher du header)
-- **Système d'auteurs partage** : 6 auteurs fictifs definis dans `data/authors.yaml` (copie depuis `.claude/templates/data/authors.yaml` à la création du site). Chaque auteur a un id-slug, un nom, un type (person/organization), un avatar, des `jobTitle`/`role`/`bio` bilingues FR/EN, une liste d'`expertise` et une liste de `topics` (mots-cles pour la sélection automatique). Les auteurs disponibles : `thomas-durand` (tech), `magalie-ergoz` (mode/beaute), `claire-beaumont` (maison/habitat), `laura-verdier` (santé/bien-etre), `kevin-moreau` (transport/mobilité), `sophie-martin` (finance/patrimoine)
+- Chaque article doit contenir au minimum 3 liens internes contextuels vers d'autres articles du blog. L'ancre de chaque lien doit contenir le mot-cle principal de l'article cible. **Maillage intra-langue uniquement** : un article FR ne mail que des articles FR, un article EN ne mail que des articles EN (le lien vers la traduction est géré par le language switcher du header)
+- **Système d'auteurs partage** : 6 auteurs fictifs definis dans `data/authors.yaml` (copie depuis `.claude/templates/data/authors.yaml` à la création du site). Chaque auteur à un id-slug, un nom, un type (person/organization), un avatar, des `jobTitle`/`role`/`bio` bilingues FR/EN, une liste d'`expertise` et une liste de `topics` (mots-cles pour la sélection automatique). Les auteurs disponibles : `thomas-durand` (tech), `magalie-ergoz` (mode/beaute), `claire-beaumont` (maison/habitat), `laura-verdier` (santé/bien-etre), `kevin-moreau` (transport/mobilité), `sophie-martin` (finance/patrimoine)
 - **Selection automatique de l'auteur** : dans le frontmatter d'un article, le champ `author` contient l'**ID slug** de l'auteur (ex: `author: thomas-durand`), pas son nom complet. La skill `/create-article` sélectionné automatiquement l'auteur le plus pertinent selon les `topics` et `expertise` qui matchent avec le sujet de l'article. Si aucun match clair, l'auteur principal du site (defini dans la section "Contexte du site" de ce CLAUDE.md) est utilisé
 - **Avatars des auteurs** : fichiers WebP 512x512 dans `static/images/authors/[id].webp`. Style unifie "flat illustration portrait". Prompts de generation documentes dans `.claude/templates/data/avatar-prompts.md`. Si l'avatar est manquant, un placeholder coloree avec la 1ere lettre du nom s'affiche
-- **JSON-LD Author** : le partial `seo-head.html` genere automatiquement un schema.org/Person (ou Organization) complet depuis les données de `data/authors.yaml` (name, jobTitle, description, knowsAbout, image, sameAs, worksFor)
+- **JSON-LD Author** : le partial `seo-head.html` génère automatiquement un schema.org/Person (ou Organization) complet depuis les données de `data/authors.yaml` (name, jobTitle, description, knowsAbout, image, sameAs, worksFor)
 - **Bloc auteur en bas d'article** : le layout `single.html` affiche automatiquement un encart avec avatar, nom, role, bio complète et expertise de l'auteur, traduit dans la langue de l'article (FR ou EN)
-- Les templates SEO dans `.claude/templates/seo/` sont editables par l'utilisateur — toujours lire la version en place avant de generer
+- Les templates SEO dans `.claude/templates/seo/` sont editables par l'utilisateur — toujours lire la version en place avant de générer
 - Pour ajouter un nouveau type d'article, créer un `.md` dans `.claude/templates/articles/` — il sera automatiquement propose par `/create-article`
 - Pour ajouter un schema JSON-LD, créer un `.json` dans `.claude/templates/seo/structured-data/` et utiliser `/seo` pour l'intégrer
 - Chaque article doit avoir un champ `lastmod` dans le frontmatter (= date de dernière modification). Il est utilisé par le sitemap XML, le sitemap HTML et le schema JSON-LD
-- Quand un article est modifié, toujours mettre a jour le champ `lastmod` avec la date du jour
+- Quand un article est modifié, toujours mettre à jour le champ `lastmod` avec la date du jour
 - Le sitemap HTML (`/plan-du-site/`) se regenere automatiquement à chaque build Hugo
 - Toujours build et vérifier (`hugo`) avant de commit
-- Chaque article doit avoir un champ `faq` dans le frontmatter (liste de questions/réponses) pour generer automatiquement le schema FAQPage JSON-LD. Minimum 3 questions
+- Chaque article doit avoir un champ `faq` dans le frontmatter (liste de questions/réponses) pour générer automatiquement le schema FAQPage JSON-LD. Minimum 3 questions
 - Chaque article à une image hero OBLIGATOIRE, recuperee automatiquement par `.claude/scripts/fetch-image.sh` au moment de `/create-article`. L'image provient de l'API publique Openverse (federe Wikimedia, Flickr, etc.), filtree sur les licences autorisant l'usage commercial et la modification (CC BY, CC BY-SA, CC0, PDM). Convertie en WebP automatiquement si `cwebp` est installé. Stockee dans `static/images/blog/[slug].webp`
-- Le frontmatter contient 3 champs liés a l'image : `image` (chemin Hugo), `imageAlt` (texte alternatif FR, max 125 car), `imageCredit` (attribution du photographe). Ces 3 champs sont remplis automatiquement par le script
-- L'image est affichee : (1) dans les cards de la homepage et des pages de liste, (2) en bannière côté a côté avec le titre sur la page article, (3) dans og:image pour les partages sociaux, (4) dans le schema Article JSON-LD
-- Le credit photo est affiche sous l'image de l'article (petite mention en italique alignee a droite). Obligatoire pour respecter les licences CC BY et CC BY-SA
+- Le frontmatter contient 3 champs liés à l'image : `image` (chemin Hugo), `imageAlt` (texte alternatif FR, max 125 car), `imageCredit` (attribution du photographe). Ces 3 champs sont remplis automatiquement par le script
+- L'image est affichee : (1) dans les cards de la homepage et des pages de liste, (2) en bannière côté à côté avec le titre sur la page article, (3) dans og:image pour les partages sociaux, (4) dans le schema Article JSON-LD
+- Le credit photo est affiche sous l'image de l'article (petite mention en italique alignee à droite). Obligatoire pour respecter les licences CC BY et CC BY-SA
 - Les Google Fonts sont chargees en non-bloquant (média="print" + swap JS) pour de meilleures performances
 - Le layout inclut un lien "Skip to content" pour l'accessibilite
 - Les navigations ont des `aria-label` pour les lecteurs d'ecran
-- Le CSS respecte `prefers-reduced-motion` pour desactiver les animations si l'utilisateur le demandé
-- Les articles affichent une table des matières (TOC) sticky en sidebar, generee automatiquement par Hugo
-- Les articles similaires sont affiches en bas de page, calcules par Hugo via la config `[related]` dans hugo.toml
+- Le CSS respecté `prefers-reduced-motion` pour desactiver les animations si l'utilisateur le demandé
+- Les articles affichent une table des matières (TOC) sticky en sidebar, générée automatiquement par Hugo
+- Les articles similaires sont affiches en bas de page, calcules par Hugo vià la config `[related]` dans hugo.toml
 
-## Comment répondre a l'utilisateur
+## Comment répondre à l'utilisateur
 
 - Tutoiement, ton decontracte
 - Pas de jargon technique sans explication
-- Reponses structurees avec listes a puces
+- Reponses structurees avec listes à puces
 - Pas d'emoji sauf demandé explicite
 
 
@@ -170,7 +170,7 @@ Cette limité sert a éviter la publication en masse et a maintenir un rythme de
 
 ### 1. Le sitemap XML (robots + bots)
 
-Hugo genere automatiquement les sitemaps via :
+Hugo génère automatiquement les sitemaps via :
 - `layouts/sitemapindex.xml` -> `/sitemap.xml` (l index qui référence les sitemaps par langue)
 - `layouts/sitemap.xml` -> `/fr/sitemap.xml` + `/en/sitemap.xml` (urlsets par langue)
 
@@ -182,13 +182,13 @@ grep "<nouveau-slug>" public/fr/sitemap.xml public/en/sitemap.xml
 
 ### 2. Le plan de site HTML (utilisateurs + bots)
 
-Page `/plan-du-site/` (FR) et `/en/site-map/` (EN) rendues via `layouts/_default/sitemap-html.html`. Elles listent toutes les pages groupees par section (Pages principales, Blog, Catégories, Auteurs, Pages légales). Mise a jour automatique au build Hugo.
+Page `/plan-du-site/` (FR) et `/en/site-map/` (EN) rendues via `layouts/_default/sitemap-html.html`. Elles listent toutes les pages groupees par section (Pages principales, Blog, Catégories, Auteurs, Pages légales). Mise à jour automatique au build Hugo.
 
 **LE LIEN VERS `/plan-du-site/` DOIT ETRE PRESENT DANS LE FOOTER DE TOUTES LES PAGES** (via `layouts/partials/footer.html`).
 
 ### 3. La page auteur
 
-Page `/authors/<slug-auteur>/` qui liste automatiquement tous les articles dont le frontmatter contient `author: <slug>`. Vérifier que le slug de l auteur dans le frontmatter correspond a un auteur defini dans `data/authors.yaml`.
+Page `/authors/<slug-auteur>/` qui liste automatiquement tous les articles dont le frontmatter contient `author: <slug>`. Vérifier que le slug de l auteur dans le frontmatter correspond à un auteur defini dans `data/authors.yaml`.
 
 ### 4. La liste du blog
 
@@ -196,11 +196,11 @@ Page `/blog/` qui liste les articles par date decroissante. Hugo l inclut automa
 
 ### 5. Le JSON-LD Article (SEO / schema.org)
 
-L article genere automatiquement son schema.org/Article via `seo-head.html` (date, auteur, headline, image).
+L article génère automatiquement son schema.org/Article via `seo-head.html` (date, auteur, headline, image).
 
 ### 6. Le fichier llms.txt (referencement IA)
 
-Le fichier `static/llms.txt` à la racine du site liste toutes les URLs stratégiques destinees aux LLMs (ChatGPT, Claude, Perplexity, etc.).
+Le fichier `static/llms.txt` à la racine du site liste toutes les URLs stratégiques destinées aux LLMs (ChatGPT, Claude, Perplexity, etc.).
 
 **À chaque publication ou modification de contenu, ajouter la nouvelle URL dans la section appropriee du fichier `static/llms.txt`.**
 
@@ -211,7 +211,7 @@ Structure attendue :
 
 > Description courte et factuelle du site
 
-## A propos
+## À propos
 
 Description éditoriale (methodologie, independance, auteurs experts, etc.)
 
@@ -264,7 +264,7 @@ grep "<titre>" public/authors/<slug>/index.html
 # 5. Vérifier le footer (plan-du-site doit être présent)
 grep "plan-du-site" public/index.html
 
-# 6. Vérifier llms.txt (mise a jour manuelle)
+# 6. Vérifier llms.txt (mise à jour manuelle)
 grep "<titre>" static/llms.txt
 
 # 7. Commit + push

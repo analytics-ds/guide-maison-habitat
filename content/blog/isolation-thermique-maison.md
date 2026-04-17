@@ -3,17 +3,17 @@ title: "Isolation thermique de la maison : par ou commencer"
 translationKey: "isolation-thermique-maison"
 date: 2026-04-09
 lastmod: 2026-04-09
-description: "Isolation thermique de la maison : par ou commencer, quels materiaux choisir et quelles aides financières mobiliser."
+description: "Isolation thermique de la maison : par ou commencer, quels matériaux choisir et quelles aides financières mobiliser."
 catégories: ["Travaux et Rénovation"]
 tags: ["isolation", "thermique", "rénovation", "economies d'énergie", "aides"]
 author: "claire-beaumont"
 faq:
   - question: "Par ou commencer l'isolation thermique d'une maison ?"
-    answer: "Commencez par la toiture : elle represente jusqu'à 30 pour cent des deperditions thermiques d'une maison mal isolée. Ensuite viennent les murs (20 a 25 pour cent), les fenêtres (10 a 15 pour cent), puis le plancher bas (7 a 10 pour cent). C'est l'ordre le plus rentable en termes de retour sur investissement."
+    answer: "Commencez par la toiture : elle représente jusqu'à 30 pour cent des deperditions thermiques d'une maison mal isolée. Ensuite viennent les murs (20 à 25 pour cent), les fenêtres (10 à 15 pour cent), puis le plancher bas (7 à 10 pour cent). C'est l'ordre le plus rentable en termes de retour sur investissement."
   - question: "Quel est le meilleur isolant thermique ?"
     answer: "Il n'existe pas un meilleur isolant universel : le choix depend du support, du budget et des performances visees. La laine de verre reste le meilleur rapport qualité prix. La ouate de cellulose et la laine de bois sont plus ecologiques. Le polyurethane offre la meilleure performance par cm d'epaisseur."
   - question: "Quelles aides pour l'isolation en 2026 ?"
-    answer: "MaPrimeRenov', les Certificats d'Economies d'Énergie (CEE), l'eco-PTZ et la TVA a 5,5 pour cent restent les principales aides. Un ménage aux revenus moyens peut cumuler plusieurs milliers d'euros d'aides sur un chantier d'isolation globale."
+    answer: "MaPrimeRenov', les Certificats d'Economies d'Énergie (CEE), l'eco-PTZ et la TVA à 5,5 pour cent restent les principales aides. Un ménage aux revenus moyens peut cumuler plusieurs milliers d'euros d'aides sur un chantier d'isolation globale."
 image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1600&q=85&auto=format&fit=crop"
 imageAlt: "Travaux d'isolation thermique d'une maison"
 imageCredit: "Photo via Unsplash"
@@ -21,7 +21,7 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. La toiture represente jusqu'à 30 pour cent des deperditions : c'est le chantier prioritaire.
+> 1. La toiture représente jusqu'à 30 pour cent des deperditions : c'est le chantier prioritaire.
 > 2. Les murs isolés par l'extérieur font gagner en moyenne 25 pour cent sur la facture de chauffage.
 > 3. MaPrimeRenov' peut prendre en charge jusqu'à 75 pour cent du cout pour les ménages modestes en 2026.
 > 4. Un audit énergétique est obligatoire avant certains travaux et finance jusqu'à 500 euros par l'État.
@@ -41,28 +41,28 @@ Un audit énergétique réalisé par un professionnel RGE identifié les points 
 
 ### Toiture : combles perdus ou aménagés
 
-L'isolation des combles perdus est la plus simple et la plus rentable. Comptez entre 20 et 50 euros par m2 pose. Pour les combles aménagés, la pose d'un isolant entre et sous chevrons monté a 80 a 150 euros par m2.
+L'isolation des combles perdus est la plus simple et la plus rentable. Comptez entre 20 et 50 euros par m2 pose. Pour les combles aménagés, la pose d'un isolant entre et sous chevrons monté à 80 à 150 euros par m2.
 
 ### Murs : ITE ou ITI
 
-| Methode | Avantages | Cout au m2 |
+| Méthode | Avantages | Cout au m2 |
 |---------|-----------|--------------|
-| Isolation par l'extérieur (ITE) | Pas de perte de surface, meilleure performance | 120 a 200 euros |
-| Isolation par l'intérieur (ITI) | Moins couteuse, chantier plus rapide | 40 a 80 euros |
+| Isolation par l'extérieur (ITE) | Pas de perte de surface, meilleure performance | 120 à 200 euros |
+| Isolation par l'intérieur (ITI) | Moins couteuse, chantier plus rapide | 40 à 80 euros |
 
 ## Choisir le bon isolant
 
-> "Un bon isolant, c'est d'abord un isolant bien pose. La mise en oeuvre compte plus que le materiau choisi."
+> "Un bon isolant, c'est d'abord un isolant bien pose. La mise en oeuvre compte plus que le matériau choisi."
 > — ADEME, Guide rénovation 2024
 
-Les critères a regarder sont le lambda (conductivite thermique, plus il est bas mieux c'est), la resistance thermique R et l'origine (naturelle ou synthétique).
+Les critères à regarder sont le lambda (conductivite thermique, plus il est bas mieux c'est), la résistance thermique R et l'origine (naturelle ou synthétique).
 
 ## Les aides financières 2026
 
 - MaPrimeRenov' : jusqu'à 75 pour cent du cout pour les ménages modestes
 - Certificats d'Economies d'Énergie (CEE) : primes versees par les fournisseurs
-- Eco-PTZ : pret a taux zero jusqu'à 50 000 euros
-- TVA réduite a 5,5 pour cent sur la pose et les materiaux
+- Eco-PTZ : pret à taux zero jusqu'à 50 000 euros
+- TVA réduite à 5,5 pour cent sur la pose et les matériaux
 
 ### Étapes pour monter un dossier d'aide
 
@@ -77,7 +77,7 @@ Les critères a regarder sont le lambda (conductivite thermique, plus il est bas
 <détails>
 <summary>Par ou commencer l'isolation thermique d'une maison ?</summary>
 
-Commencez par la toiture : elle represente jusqu'à 30 pour cent des deperditions thermiques d'une maison mal isolée. Ensuite viennent les murs (20 a 25 pour cent), les fenêtres (10 a 15 pour cent), puis le plancher bas (7 a 10 pour cent). C'est l'ordre le plus rentable en termes de retour sur investissement.
+Commencez par la toiture : elle représente jusqu'à 30 pour cent des deperditions thermiques d'une maison mal isolée. Ensuite viennent les murs (20 à 25 pour cent), les fenêtres (10 à 15 pour cent), puis le plancher bas (7 à 10 pour cent). C'est l'ordre le plus rentable en termes de retour sur investissement.
 
 </détails>
 
@@ -91,6 +91,6 @@ Il n'existe pas un meilleur isolant universel : le choix depend du support, du b
 <détails>
 <summary>Quelles aides pour l'isolation en 2026 ?</summary>
 
-MaPrimeRenov', les Certificats d'Economies d'Énergie (CEE), l'eco-PTZ et la TVA a 5,5 pour cent restent les principales aides. Un ménage aux revenus moyens peut cumuler plusieurs milliers d'euros d'aides sur un chantier d'isolation globale.
+MaPrimeRenov', les Certificats d'Economies d'Énergie (CEE), l'eco-PTZ et la TVA à 5,5 pour cent restent les principales aides. Un ménage aux revenus moyens peut cumuler plusieurs milliers d'euros d'aides sur un chantier d'isolation globale.
 
 </détails>

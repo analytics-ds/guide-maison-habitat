@@ -9,7 +9,7 @@ tags: ["cuisine", "rangement", "optimisation", "organisation", "mobilier"]
 author: "claire-beaumont"
 faq:
   - question: "Comment optimiser le rangement d'une petite cuisine ?"
-    answer: "Pour optimiser le rangement d'une petite cuisine, exploitez la hauteur sous plafond avec des colonnes hautes, installez des tiroirs profonds (plus pratiques que les placards classiques) et utilisez les côtés des meubles pour fixer des barres a ustensiles. Vous pouvez gagner jusqu'à 30 pour cent d'espace de stockage."
+    answer: "Pour optimiser le rangement d'une petite cuisine, exploitez la hauteur sous plafond avec des colonnes hautes, installez des tiroirs profonds (plus pratiques que les placards classiques) et utilisez les côtés des meubles pour fixer des barres à ustensiles. Vous pouvez gagner jusqu'à 30 pour cent d'espace de stockage."
   - question: "Tiroirs ou placards : que choisir ?"
     answer: "Les tiroirs sont plus ergonomiques : vous voyez et atteignez tout le contenu sans vous baisser. Ils sont recommandés pour les casseroles, assiettes et ustensiles. Les placards restent utiles pour les objets léger utilisés moins fréquemment."
   - question: "Combien coûte une cuisine bien aménagée ?"
@@ -23,7 +23,7 @@ readingTime: true
 > **En bref :**
 > 1. Les tiroirs profonds offrent 40 pour cent de capacité en plus que les placards classiques pour un même encombrement.
 > 2. Exploiter la hauteur sous plafond avec des colonnes permet de gagner jusqu'à 30 pour cent de rangement.
-> 3. Un plan de travail dégagé ameliore la fluidite du travail et la perception visuelle de l'espace.
+> 3. Un plan de travail dégagé amélioré la fluidite du travail et la perception visuelle de l'espace.
 > 4. Les aménagements intérieurs de tiroirs (séparateurs, couverts) evitent 80 pour cent du desordre quotidien.
 
 
@@ -31,7 +31,7 @@ readingTime: true
 *Cuisine moderne avec rangements optimises — Photo via Unsplash*
 ## Optimiser le rangement de sa cuisine : principes de base
 
-Une cuisine bien rangee est une cuisine qui fonctionne. **Optimiser le rangement de sa cuisine** commence par un audit : qu'est-ce que je garde, qu'est-ce que j'utilisé vraiment ? Une étude de l'INSEE montre que 30 pour cent des ustensiles d'une cuisine française ne servent jamais.
+Une cuisine bien rangée est une cuisine qui fonctionne. **Optimiser le rangement de sa cuisine** commence par un audit : qu'est-ce que je garde, qu'est-ce que j'utilisé vraiment ? Une étude de l'INSEE montre que 30 pour cent des ustensiles d'une cuisine française ne servent jamais.
 
 ### La règle du triangle d'activité
 
@@ -46,8 +46,8 @@ Les tiroirs profonds sont le plus grand progrès de ces 20 dernières années en
 | Critère | Tiroirs | Placards |
 |---------|---------|----------|
 | Ergonomie | Excellente | Moyenne |
-| Capacité utile | 80 a 90 pour cent | 60 a 70 pour cent |
-| Cout supplémentaire | +15 a 25 pour cent | Référence |
+| Capacité utile | 80 à 90 pour cent | 60 à 70 pour cent |
+| Cout supplémentaire | +15 à 25 pour cent | Référence |
 
 ## Exploiter chaque recoin
 
@@ -56,12 +56,12 @@ Les meubles d'angle sont souvent mal exploites. Les aménagements types plateau 
 ## Les accessoires malins
 
 - Porte-couteaux magnetique fixe au mur
-- Barres a ustensiles au-dessus du plan de travail
+- Barres à ustensiles au-dessus du plan de travail
 - Etageres sous placards haut pour epices
 - Separateurs de tiroirs modulables
 - Corbeilles de tri intégrées sous l'evier
 
-### Methode d'organisation
+### Méthode d'organisation
 
 1. Vider entierement la cuisine
 2. Trier en 3 catégories (garde, donné, jette)
@@ -73,7 +73,7 @@ Les meubles d'angle sont souvent mal exploites. Les aménagements types plateau 
 <détails>
 <summary>Comment optimiser le rangement d'une petite cuisine ?</summary>
 
-Pour optimiser le rangement d'une petite cuisine, exploitez la hauteur sous plafond avec des colonnes hautes, installez des tiroirs profonds (plus pratiques que les placards classiques) et utilisez les côtés des meubles pour fixer des barres a ustensiles. Vous pouvez gagner jusqu'à 30 pour cent d'espace de stockage.
+Pour optimiser le rangement d'une petite cuisine, exploitez la hauteur sous plafond avec des colonnes hautes, installez des tiroirs profonds (plus pratiques que les placards classiques) et utilisez les côtés des meubles pour fixer des barres à ustensiles. Vous pouvez gagner jusqu'à 30 pour cent d'espace de stockage.
 
 </détails>
 

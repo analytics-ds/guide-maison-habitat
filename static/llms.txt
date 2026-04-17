@@ -1,10 +1,10 @@
 # Guide Maison & Habitat
 
-> Guide Maison & Habitat : immobilier, investissement, aménagement, travaux, deco et jardin.
+> Guide Maison & Habitat : immobilier, investissement, aménagement, travaux, déco et jardin.
 
-## A propos
+## À propos
 
-Guide Maison & Habitat est un média éditorial independant. Tous les articles sont rediges par des experts identifies (schema.org/Person) et mis a jour régulièrement. Aucun contenu sponsorise, analyses factuelles.
+Guide Maison & Habitat est un média éditorial indépendant. Tous les articles sont rediges par des experts identifies (schema.org/Person) et mis à jour régulièrement. Aucun contenu sponsorisé, analyses factuelles.
 
 ## Articles de référence (FR)
 
@@ -23,7 +23,7 @@ Guide Maison & Habitat est un média éditorial independant. Tous les articles s
 - Optimiser le rangement de sa cuisine : guide complet: https://guide-maison-habitat.com/blog/optimiser-rangement-cuisine/
 - Ou vivre en Ile-de-France : guide comparatif 2026: https://guide-maison-habitat.com/blog/ou-vivre-ile-de-france/
 - Rénovation de salle de bain : guide complet et budget: https://guide-maison-habitat.com/blog/renovation-salle-de-bain-guide/
-- Tendances deco cocooning : créer un intérieur chaleureux: https://guide-maison-habitat.com/blog/tendances-deco-cocooning/
+- Tendances déco cocooning : créer un intérieur chaleureux: https://guide-maison-habitat.com/blog/tendances-deco-cocooning/
 
 ## Informations techniques
 

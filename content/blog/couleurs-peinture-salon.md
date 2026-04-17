@@ -5,7 +5,7 @@ date: 2026-03-25
 lastmod: 2026-03-25
 description: "Couleurs peinture salon : comment bien choisir les teintes selon la lumière, la taille et le style de la pièce."
 catégories: ["Aménagement et Décoration"]
-tags: ["peinture", "salon", "couleurs", "deco", "ambiance"]
+tags: ["peinture", "salon", "couleurs", "déco", "ambiance"]
 author: "claire-beaumont"
 faq:
   - question: "Quelle couleur de peinture choisir pour un salon ?"
@@ -13,7 +13,7 @@ faq:
   - question: "Quelle couleur pour agrandir un salon ?"
     answer: "Pour agrandir visuellement un salon, privilégiez les tons clairs : blanc casse, beige, gris perle. Peignez les murs dans la même teinte que le plafond pour supprimer la limité visuelle. Une couleur plus foncee sur le mur du fond peut créer un effet de profondeur."
   - question: "Comment associer les couleurs dans un salon ?"
-    answer: "La règle classique des 60-30-10 fonctionne bien : 60 pour cent de la couleur dominante (murs, grands meubles), 30 pour cent de la couleur secondaire (textiles, rideaux), 10 pour cent de la couleur accent (coussins, objets deco). Évitez de dépasser 3 couleurs principales."
+    answer: "La règle classique des 60-30-10 fonctionne bien : 60 pour cent de la couleur dominante (murs, grands meubles), 30 pour cent de la couleur secondaire (textiles, rideaux), 10 pour cent de la couleur accent (coussins, objets déco). Évitez de dépasser 3 couleurs principales."
 image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1600&q=85&auto=format&fit=crop"
 imageAlt: "Salon peint dans des tons chauds et naturels"
 imageCredit: "Photo via Unsplash"
@@ -21,7 +21,7 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. Une couleur foncee sur le mur du fond peut agrandir visuellement la pièce de 20 a 30 pour cent.
+> 1. Une couleur foncee sur le mur du fond peut agrandir visuellement la pièce de 20 à 30 pour cent.
 > 2. Les tons chauds compensent le manque de lumière d'une pièce orientée au nord.
 > 3. La règle des 60-30-10 équilibre naturellement la palette d'un salon.
 > 4. Un test sur grand echantillon (minimum 1 m2) est indispensable avant de peindre toute la pièce.
@@ -61,14 +61,14 @@ Cette règle de décoration est utilisée par la majorité des architectes d'int
 
 Le choix de la finition compte autant que la couleur elle-meme :
 
-- Mate : profonde mais fragile, reserver aux murs sans frottement
+- Mate : profonde mais fragile, réserver aux murs sans frottement
 - Satinee : lessivable, bon compromis pour un salon
 - Brillante : reflete la lumière, parfaite pour les boiseries
 - Velours : moderne, lessivable, entre mat et satin
 
-### Methode pour choisir la bonne teinte
+### Méthode pour choisir la bonne teinte
 
-1. Observer la pièce a différentes heures de la journee
+1. Observer la pièce à différentes heures de la journee
 2. Selectionner 3 teintes coup de coeur
 3. Acheter des testeurs et peindre des echantillons de 1 m2
 4. Observer pendant 48 h avec différents eclairages
@@ -93,6 +93,6 @@ Pour agrandir visuellement un salon, privilégiez les tons clairs : blanc casse,
 <détails>
 <summary>Comment associer les couleurs dans un salon ?</summary>
 
-La règle classique des 60-30-10 fonctionne bien : 60 pour cent de la couleur dominante (murs, grands meubles), 30 pour cent de la couleur secondaire (textiles, rideaux), 10 pour cent de la couleur accent (coussins, objets deco). Évitez de dépasser 3 couleurs principales.
+La règle classique des 60-30-10 fonctionne bien : 60 pour cent de la couleur dominante (murs, grands meubles), 30 pour cent de la couleur secondaire (textiles, rideaux), 10 pour cent de la couleur accent (coussins, objets déco). Évitez de dépasser 3 couleurs principales.
 
 </détails>

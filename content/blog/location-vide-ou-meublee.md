@@ -16,7 +16,7 @@ readingTime: true
 > **En bref :**
 > 1. La location meublée offre un loyer 10 à 20 pour cent supérieur à la location vide dans les grandes villes.
 > 2. Le bail meublé est d'1 an renouvelable (9 mois pour étudiants), contre 3 ans en vide.
-> 3. Le régime LMNP permet une quasi-défiscalisation des loyers via l'amortissement.
+> 3. Le régime LMNP permet une quasi-défiscalisation des loyers vià l'amortissement.
 > 4. La vacance locative est plus fréquente en meublé (turn-over plus élevé).
 
 ![Salon meublé prêt à louer](https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=1600&q=80&auto=format&fit=crop)

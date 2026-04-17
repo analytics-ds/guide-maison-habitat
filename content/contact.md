@@ -6,7 +6,7 @@ translationKey: "contact"
 
 ## Nous contacter
 
-Pour toute question, suggestion d'article ou demandé de partenariat, ecrivez-nous a :
+Pour toute question, suggestion d'article ou demandé de partenariat, ecrivez-nous à :
 
 **contact@guide-maison-habitat.fr**
 
@@ -14,11 +14,11 @@ Nous repondons sous 48 h ouvrees.
 
 ## Signaler une erreur
 
-Si vous identifiez une information inexacte dans un article, signalez-le a :
+Si vous identifiez une information inexacte dans un article, signalez-le à :
 
 **corrections@guide-maison-habitat.fr**
 
-Nous prenons au serieux toutes les remontees et mettons a jour nos contenus régulièrement.
+Nous prenons au serieux toutes les remontees et mettons à jour nos contenus régulièrement.
 
 ## Partenariats et presse
 

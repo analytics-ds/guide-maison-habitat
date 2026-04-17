@@ -1,5 +1,5 @@
 ---
-title: "Assurance habitation : comment bien la choisir en 2026"
+title: "Assurance habitation : comment bien là choisir en 2026"
 translationKey: "assurance-habitation-comment-choisir"
 date: 2026-04-17
 lastmod: 2026-04-17

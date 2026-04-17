@@ -44,7 +44,7 @@ readingTime: true
 
 ## La délégation d'assurance
 
-> "La loi Lemoine de 2022 a libéralisé l'assurance emprunteur. Les emprunteurs peuvent désormais changer d'assurance à tout moment, sans frais ni délai, à condition que les garanties soient équivalentes."
+> "La loi Lemoine de 2022 à libéralisé l'assurance emprunteur. Les emprunteurs peuvent désormais changer d'assurance à tout moment, sans frais ni délai, à condition que les garanties soient équivalentes."
 > — Ministère de l'Économie
 
 La délégation consiste à souscrire l'assurance auprès d'un autre organisme que la banque. Les économies moyennes sont de 10 000 à 20 000 euros sur la durée d'un crédit immobilier.
@@ -88,6 +88,6 @@ La délégation d'assurance emprunteur fait économiser en moyenne 10 000 à 20 
 <détails>
 <summary>Peut-on changer d'assurance emprunteur en cours de prêt ?</summary>
 
-Oui, depuis la loi Lemoine de juin 2022, le changement est possible à tout moment, sans frais ni justification, à condition que les nouvelles garanties soient équivalentes aux précédentes. La banque a 10 jours ouvrés pour accepter ou refuser (refus obligatoirement motivé). Les économies peuvent être de plusieurs milliers d'euros.
+Oui, depuis la loi Lemoine de juin 2022, le changement est possible à tout moment, sans frais ni justification, à condition que les nouvelles garanties soient équivalentes aux précédentes. La banque à 10 jours ouvrés pour accepter ou refuser (refus obligatoirement motivé). Les économies peuvent être de plusieurs milliers d'euros.
 
 </détails>
