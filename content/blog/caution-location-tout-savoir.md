@@ -4,7 +4,7 @@ translationKey: "caution-location-tout-savoir"
 date: 2026-04-17
 lastmod: 2026-04-17
 description: "Caution et dépôt de garantie : montants, restitution, garants, Visale et recours. Tout savoir pour locataire et propriétaire."
-catégories: ["Location"]
+categories: ["Location"]
 tags: ["caution", "dépôt garantie", "Visale", "location", "garant"]
 author: "sophie-martin"
 image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600&q=85&auto=format&fit=crop"

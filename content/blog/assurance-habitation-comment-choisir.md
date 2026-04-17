@@ -4,7 +4,7 @@ translationKey: "assurance-habitation-comment-choisir"
 date: 2026-04-17
 lastmod: 2026-04-17
 description: "Assurance habitation : garanties, franchise, tarif moyen, comparatif multirisque et conseils pour économiser sans perdre en protection."
-catégories: ["Assurance"]
+categories: ["Assurance"]
 tags: ["assurance habitation", "MRH", "franchise", "comparatif", "multirisque"]
 author: "sophie-martin"
 image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600&q=85&auto=format&fit=crop"

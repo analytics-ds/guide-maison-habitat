@@ -4,7 +4,7 @@ translationKey: "investir-immobilier-locatif-debutant"
 date: 2026-04-11
 lastmod: 2026-04-11
 description: "Investir dans l'immobilier locatif : rentabilité, fiscalité, risques et stratégies pour se lancer en 2026 en toute serenite."
-catégories: ["Financement"]
+categories: ["Financement"]
 tags: ["investissement", "locatif", "rentabilité", "débutant", "patrimoine"]
 author: "sophie-martin"
 faq:

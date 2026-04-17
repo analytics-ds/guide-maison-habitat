@@ -4,7 +4,7 @@ translationKey: "diagnostics-obligatoires-vente"
 date: 2026-03-19
 lastmod: 2026-03-19
 description: "Diagnostics obligatoires vente : liste complète 2026, couts, duree de validité et pénalités en cas d'oubli."
-catégories: ["Vente"]
+categories: ["Vente"]
 tags: ["diagnostic", "vente immobilière", "DPE", "obligations", "notaire"]
 author: "sophie-martin"
 faq:

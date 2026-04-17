@@ -4,7 +4,7 @@ translationKey: "fiscalite-investissement-immobilier"
 date: 2026-04-08
 lastmod: 2026-04-08
 description: "Fiscalité investissement immobilier : panorama des regimes LMNP, foncier, Pinel et SCPI pour optimiser ses revenus locatifs."
-catégories: ["Financement"]
+categories: ["Financement"]
 tags: ["fiscalité", "LMNP", "revenus fonciers", "Pinel", "impôts"]
 author: "sophie-martin"
 faq:

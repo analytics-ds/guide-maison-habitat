@@ -4,7 +4,7 @@ translationKey: "campagne-ou-ville-choisir"
 date: 2026-04-01
 lastmod: 2026-04-01
 description: "Campagne ou ville : comparatif complet (prix, transports, services, emploi, écoles) pour trancher selon son profil et son budget."
-catégories: ["Achat"]
+categories: ["Achat"]
 tags: ["campagne", "ville", "lieu de vie", "choix", "qualité de vie"]
 author: "sophie-martin"
 faq:

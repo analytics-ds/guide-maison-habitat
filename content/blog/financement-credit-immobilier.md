@@ -4,7 +4,7 @@ translationKey: "financement-credit-immobilier"
 date: 2026-04-14
 lastmod: 2026-04-14
 description: "Financement credit immobilier : taux, apport, duree, assurance emprunteur et stratégies pour optimiser son pret en 2026."
-catégories: ["Financement"]
+categories: ["Financement"]
 tags: ["credit immobilier", "financement", "taux", "pret", "banque"]
 author: "sophie-martin"
 faq:

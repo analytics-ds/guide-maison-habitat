@@ -4,7 +4,7 @@ translationKey: "ou-vivre-ile-de-france"
 date: 2026-04-05
 lastmod: 2026-04-05
 description: "Ou vivre en Ile-de-France : panorama des villes et departements, prix au m2, temps de trajet et qualité de vie pour choisir."
-catégories: ["Achat"]
+categories: ["Achat"]
 tags: ["Ile-de-France", "Paris", "banlieue", "ou vivre", "prix immobilier"]
 author: "sophie-martin"
 faq:

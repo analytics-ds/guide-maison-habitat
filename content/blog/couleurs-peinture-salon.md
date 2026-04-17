@@ -4,7 +4,7 @@ translationKey: "couleurs-peinture-salon"
 date: 2026-03-25
 lastmod: 2026-03-25
 description: "Couleurs peinture salon : comment bien choisir les teintes selon la lumière, la taille et le style de la pièce."
-catégories: ["Aménagement et Décoration"]
+categories: ["Aménagement et Décoration"]
 tags: ["peinture", "salon", "couleurs", "déco", "ambiance"]
 author: "claire-beaumont"
 faq:

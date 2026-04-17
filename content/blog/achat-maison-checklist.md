@@ -4,7 +4,7 @@ translationKey: "achat-maison-checklist"
 date: 2026-03-22
 lastmod: 2026-03-22
 description: "Achat maison : la checklist des points à vérifier avant de signer le compromis et éviter les mauvaises surprises."
-catégories: ["Achat"]
+categories: ["Achat"]
 tags: ["achat immobilier", "maison", "compromis", "diagnostic", "checklist"]
 author: "sophie-martin"
 faq:

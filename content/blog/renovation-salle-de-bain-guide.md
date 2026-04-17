@@ -4,7 +4,7 @@ translationKey: "renovation-salle-de-bain-guide"
 date: 2026-04-06
 lastmod: 2026-04-06
 description: "Rénovation de salle de bain : étapes clés, budget moyen et pieges à éviter pour un chantier réussi de A à Z."
-catégories: ["Travaux et Rénovation"]
+categories: ["Travaux et Rénovation"]
 tags: ["salle de bain", "rénovation", "plomberie", "budget", "travaux"]
 author: "claire-beaumont"
 faq:

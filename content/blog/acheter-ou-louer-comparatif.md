@@ -4,7 +4,7 @@ translationKey: "acheter-ou-louer-comparatif"
 date: 2026-04-16
 lastmod: 2026-04-16
 description: "Acheter ou louer : comparatif complet des avantages, couts reels et duree de detention pour trancher en 2026."
-catégories: ["Achat"]
+categories: ["Achat"]
 tags: ["achat", "location", "comparatif", "immobilier", "décision"]
 author: "sophie-martin"
 faq:

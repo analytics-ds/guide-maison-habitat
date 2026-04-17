@@ -4,7 +4,7 @@ translationKey: "isolation-thermique-maison"
 date: 2026-04-09
 lastmod: 2026-04-09
 description: "Isolation thermique de la maison : par ou commencer, quels matériaux choisir et quelles aides financières mobiliser."
-catégories: ["Travaux et Rénovation"]
+categories: ["Travaux et Rénovation"]
 tags: ["isolation", "thermique", "rénovation", "economies d'énergie", "aides"]
 author: "claire-beaumont"
 faq:

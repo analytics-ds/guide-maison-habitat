@@ -4,7 +4,7 @@ translationKey: "location-vide-ou-meublee"
 date: 2026-04-17
 lastmod: 2026-04-17
 description: "Location vide ou meublée : comparatif complet des avantages, durées de bail, fiscalité et rentabilité pour faire le bon choix."
-catégories: ["Location"]
+categories: ["Location"]
 tags: ["location", "meublée", "bail", "fiscalité", "propriétaire"]
 author: "sophie-martin"
 image: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1600&q=85&auto=format&fit=crop"

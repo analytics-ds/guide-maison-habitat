@@ -4,7 +4,7 @@ translationKey: "assurance-emprunteur-guide"
 date: 2026-04-17
 lastmod: 2026-04-17
 description: "Assurance emprunteur : délégation, garanties, TAEA, économies possibles et stratégies pour optimiser son contrat immobilier en 2026."
-catégories: ["Assurance"]
+categories: ["Assurance"]
 tags: ["assurance emprunteur", "délégation", "TAEA", "crédit immobilier"]
 author: "sophie-martin"
 image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=85&auto=format&fit=crop"
