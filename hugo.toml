@@ -137,3 +137,8 @@ enableGitInfo = false
   [[related.indices]]
     name = "tags"
     weight = 80
+
+# Desactiver la minification XML pour avoir un sitemap lisible
+[minify]
+  disableXML = true
+
