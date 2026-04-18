@@ -964,7 +964,7 @@ section { padding: var(--space-lg) 0; }
 }
 .footer-container { max-width: var(--container-wide); margin: 0 auto; padding: 0 var(--space-md); }
 .footer-grid {
-    display: grid; grid-template-columns: 2fr 1fr 1fr;
+    display: grid; grid-template-columns: 1.6fr 1fr 1fr 1fr;
     gap: var(--space-lg);
     margin-bottom: var(--space-md);
 }
@@ -1177,13 +1177,13 @@ section { padding: var(--space-lg) 0; }
     margin-top: var(--space-lg);
 }
 
-/* --- Banniere simulateurs sur la home (style editorial premium sombre) --- */
+/* --- Banniere simulateurs sur la home (cream bronze premium) --- */
 .simulators-banner {
     padding: var(--space-xl) 0;
     background:
-        radial-gradient(1200px 400px at 50% 0%, rgba(176, 137, 104, 0.14), transparent 60%),
-        linear-gradient(180deg, #1B1B1B 0%, #242220 100%);
-    color: var(--background);
+        radial-gradient(900px 300px at 50% 0%, rgba(176, 137, 104, 0.18), transparent 70%),
+        linear-gradient(180deg, #EADBC2 0%, #E2D0B2 100%);
+    color: var(--text);
     position: relative;
     overflow: hidden;
 }
@@ -1202,15 +1202,15 @@ section { padding: var(--space-lg) 0; }
     margin-right: auto;
 }
 .simulators-banner-heading .hero-eyebrow {
-    color: var(--accent-light);
+    color: var(--primary);
     margin-bottom: var(--space-sm);
 }
 .simulators-banner-heading .section-title {
-    color: var(--background);
+    color: var(--primary);
     margin-bottom: var(--space-sm);
 }
 .simulators-banner-heading .section-subtitle {
-    color: rgba(250, 247, 242, 0.72);
+    color: rgba(27, 27, 27, 0.7);
     margin-bottom: 0;
 }
 .simulators-grid {
@@ -1243,7 +1243,7 @@ section { padding: var(--space-lg) 0; }
 }
 .simulator-tile:hover {
     transform: translateY(-6px);
-    box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.35), 0 0 0 1px rgba(176, 137, 104, 0.3);
+    box-shadow: 0 18px 38px -12px rgba(27, 27, 27, 0.22), 0 0 0 1px rgba(176, 137, 104, 0.35);
     color: var(--text);
 }
 .simulator-tile:hover::before { opacity: 1; }
