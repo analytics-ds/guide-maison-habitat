@@ -3,13 +3,23 @@
 {{ $allBlog := where .Site.RegularPages "Section" "blog" }}
 
 <section class="hero hero-v2">
-    <div class="container">
-        <span class="hero-eyebrow">{{ if eq $lang "en" }}Real estate, demystified{{ else }}L'immobilier, simplifié{{ end }}</span>
-        <h1 class="hero-title">{{ if eq $lang "en" }}Make your next <span class="hero-title-accent">real estate</span> move with confidence{{ else }}Réussissez votre projet <span class="hero-title-accent">immobilier</span> en toute confiance{{ end }}</h1>
-        <p class="hero-description">{{ if eq $lang "en" }}Fact-based analyses, clear comparisons and zero jargon to decode buying, selling, renting, financing, insurance, interior design and renovation.{{ else }}Analyses factuelles, comparatifs clairs et zéro jargon pour décoder l'achat, la vente, la location, le financement, l'assurance, l'aménagement et les travaux.{{ end }}</p>
-        <div class="hero-ctas">
-            <a href="{{ "blog/" | relLangURL }}" class="btn-hero-primary">{{ if eq $lang "en" }}Explore the blog{{ else }}Explorer le blog{{ end }}</a>
-            <a href="{{ "simulateurs/" | relLangURL }}" class="btn-hero-secondary">{{ if eq $lang "en" }}View simulators{{ else }}Voir les simulateurs{{ end }}</a>
+    <div class="container hero-grid">
+        <div class="hero-text">
+            <span class="hero-eyebrow">{{ if eq $lang "en" }}Real estate, demystified{{ else }}L'immobilier, simplifié{{ end }}</span>
+            <h1 class="hero-title">{{ if eq $lang "en" }}Make your next <span class="hero-title-accent">real estate</span> move with confidence{{ else }}Réussissez votre projet <span class="hero-title-accent">immobilier</span> en toute confiance{{ end }}</h1>
+            <p class="hero-description">{{ if eq $lang "en" }}Fact-based analyses, clear comparisons and zero jargon to decode buying, selling, renting, financing, insurance, interior design and renovation.{{ else }}Analyses factuelles, comparatifs clairs et zéro jargon pour décoder l'achat, la vente, la location, le financement, l'assurance, l'aménagement et les travaux.{{ end }}</p>
+            <div class="hero-ctas">
+                <a href="{{ "blog/" | relLangURL }}" class="btn-hero-primary">{{ if eq $lang "en" }}Explore the blog{{ else }}Explorer le blog{{ end }}</a>
+                <a href="{{ "simulateurs/" | relLangURL }}" class="btn-hero-secondary">{{ if eq $lang "en" }}View simulators{{ else }}Voir les simulateurs{{ end }}</a>
+            </div>
+        </div>
+        <div class="hero-visual">
+            <figure class="hero-image hero-image-main">
+                <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=85&auto=format&fit=crop" alt="Intérieur d'une maison moderne avec terrasse" loading="eager" width="640" height="800">
+            </figure>
+            <figure class="hero-image hero-image-accent">
+                <img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=900&q=85&auto=format&fit=crop" alt="Salon lumineux avec mobilier contemporain" loading="eager" width="420" height="520">
+            </figure>
         </div>
     </div>
 </section>
