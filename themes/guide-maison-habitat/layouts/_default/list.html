@@ -37,6 +37,24 @@
     </div>
 </section>
 
+{{/* --- Pills categories (meme mise en forme que la home) --- */}}
+{{ if or (and (eq .Kind "section") (eq .Section "blog")) (eq .Kind "term") }}
+<section class="home-cat-pills-section">
+    <div class="container">
+        <h2 class="home-cat-pills-title">{{ if $isEN }}Our topics{{ else }}Nos thématiques{{ end }}</h2>
+        <nav class="category-pills" aria-label="{{ if $isEN }}Categories{{ else }}Catégories{{ end }}">
+            <a href="{{ "blog/" | relLangURL }}" class="category-pill{{ if and (eq .Kind "section") (eq .Section "blog") }} category-pill-active{{ end }}">{{ if $isEN }}All{{ else }}Tous{{ end }}</a>
+            {{ $currentURL := .RelPermalink }}
+            {{ range .Site.Menus.main }}
+            {{ if and (ne .Identifier "blog") (ne .Identifier "simulateurs") (ne .Identifier "simulators") }}
+            <a href="{{ .URL | relURL }}" class="category-pill{{ if eq .URL $currentURL }} category-pill-active{{ end }}">{{ .Name }}</a>
+            {{ end }}
+            {{ end }}
+        </nav>
+    </div>
+</section>
+{{ end }}
+
 <section class="list-content">
     <div class="container">
         <div class="articles-list">
