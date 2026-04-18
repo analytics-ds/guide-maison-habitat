@@ -15,32 +15,32 @@ thomas-durand:
   avatar: /images/authors/thomas-durand.jpg
   linkedinUrl: ""
   jobTitle:
-    fr: Redacteur en chef & analyste tech
+    fr: Rédacteur en chef & analyste tech
     en: Editor-in-Chief & tech analyst
   role:
-    fr: Redacteur en chef & analyste tech
+    fr: Rédacteur en chef & analyste tech
     en: Editor-in-Chief & tech analyst
   bio:
-    fr: "Thomas Durand est redacteur en chef. Passionne de technologie, il teste et compare les solutions numeriques pour aider les professionnels et particuliers a faire les bons choix."
+    fr: "Thomas Durand est rédacteur en chef. Passionné de technologie, il teste et compare les solutions numeriques pour aider les professionnels et particuliers a faire les bons choix."
     en: "Thomas Durand is Editor-in-Chief. Passionate about technology, he tests and compares digital solutions to help professionals and individuals make the right choices."
   expertise:
     - SaaS
     - Cloud Computing
-    - Cybersecurite
-    - Outils de productivite
+    - Cybersécurité
+    - Outils de productivité
     - Intelligence artificielle
-    - Materiel informatique
+    - Matériel informatique
   topics:
     - tech
     - technologie
     - saas
     - logiciel
     - cloud
-    - cybersecurite
-    - securite informatique
+    - cybersécurité
+    - sécurité informatique
     - ia
     - intelligence artificielle
-    - productivite
+    - productivité
     - outils pro
     - b2b
     - informatique
@@ -53,17 +53,17 @@ magalie-ergoz:
   avatar: /images/authors/magalie-ergoz.jpg
   linkedinUrl: ""
   jobTitle:
-    fr: Blogueuse mode & beaute
+    fr: Blogueuse mode & beauté
     en: Fashion & beauty blogger
   role:
-    fr: Specialiste mode & beaute
+    fr: Spécialiste mode & beauté
     en: Fashion & beauty specialist
   bio:
-    fr: "Magalie Ergoz est blogueuse specialisee en mode et beaute. Elle teste et compare les marques pour aider ses lectrices et lecteurs a trouver les meilleurs produits au juste prix."
+    fr: "Magalie Ergoz est blogueuse spécialisée en mode et beauté. Elle teste et compare les marques pour aider ses lectrices et lecteurs a trouver les meilleurs produits au juste prix."
     en: "Magalie Ergoz is a fashion and beauty blogger. She tests and compares brands to help her readers find the best products at the right price."
   expertise:
     - Mode
-    - Beaute
+    - Beauté
     - Cosmetiques
     - Accessoires
     - Skincare
@@ -71,7 +71,7 @@ magalie-ergoz:
   topics:
     - mode
     - fashion
-    - beaute
+    - beauté
     - cosmetique
     - maquillage
     - skincare
@@ -88,30 +88,30 @@ claire-beaumont:
   avatar: /images/authors/claire-beaumont.jpg
   linkedinUrl: ""
   jobTitle:
-    fr: Architecte d'interieur & blogueuse deco
+    fr: Architecte d'intérieur & blogueuse deco
     en: Interior designer & home blogger
   role:
-    fr: Experte habitat & renovation
-    en: Home & renovation expert
+    fr: Experte habitat & rénovation
+    en: Home & rénovation expert
   bio:
-    fr: "Claire Beaumont est architecte d'interieur de formation et blogueuse depuis plus de 10 ans. Elle teste et compare outils, materiaux et prestataires pour aider particuliers et bricoleurs a reussir leurs projets habitat."
+    fr: "Claire Beaumont est architecte d'intérieur de formation et blogueuse depuis plus de 10 ans. Elle teste et compare outils, materiaux et prestataires pour aider particuliers et bricoleurs a reussir leurs projets habitat."
     en: "Claire Beaumont is a trained interior designer and has been blogging for over 10 years. She tests and compares tools, materials and service providers to help homeowners and DIYers succeed in their home projects."
   expertise:
-    - Renovation
-    - Decoration interieure
+    - Rénovation
+    - Décoration intérieure
     - Bricolage
-    - Amenagement exterieur
+    - Aménagement extérieur
     - Materiaux de construction
     - Mobilier
   topics:
     - maison
     - habitat
-    - renovation
-    - decoration
+    - rénovation
+    - décoration
     - bricolage
-    - amenagement
+    - aménagement
     - jardin
-    - exterieur
+    - extérieur
     - mobilier
     - outillage
     - construction
@@ -126,23 +126,23 @@ laura-verdier:
   avatar: /images/authors/laura-verdier.jpg
   linkedinUrl: ""
   jobTitle:
-    fr: Journaliste sante & bien-etre
+    fr: Journaliste santé & bien-être
     en: Health & wellness journalist
   role:
-    fr: Specialiste nutrition & bien-etre
+    fr: Spécialiste nutrition & bien-être
     en: Nutrition & wellness specialist
   bio:
-    fr: "Laura Verdier est journaliste specialisee en sante, nutrition et bien-etre depuis 8 ans. Elle decortique les marques, les etudes et les tendances pour offrir a ses lecteurs une information fiable et accessible."
+    fr: "Laura Verdier est journaliste spécialisée en santé, nutrition et bien-être depuis 8 ans. Elle decortique les marques, les etudes et les tendances pour offrir a ses lecteurs une information fiable et accessible."
     en: "Laura Verdier has been a journalist specializing in health, nutrition, and wellness for 8 years. She dissects brands, studies, and trends to provide her readers with reliable and accessible information."
   expertise:
     - Nutrition
-    - Bien-etre
+    - Bien-être
     - Complements alimentaires
     - Medecine douce
     - Fitness
     - Sommeil
   topics:
-    - sante
+    - santé
     - bien etre
     - nutrition
     - alimentation
@@ -164,17 +164,17 @@ kevin-moreau:
   avatar: /images/authors/kevin-moreau.jpg
   linkedinUrl: ""
   jobTitle:
-    fr: Journaliste auto & mobilite
+    fr: Journaliste auto & mobilité
     en: Auto & mobility journalist
   role:
-    fr: Specialiste transport & mobilite
+    fr: Spécialiste transport & mobilité
     en: Transport & mobility specialist
   bio:
-    fr: "Kevin Moreau couvre l'actualite automobile et des nouvelles mobilites depuis 12 ans. Il teste vehicules, solutions de transport et services de voyage pour guider les lecteurs dans leurs choix."
+    fr: "Kevin Moreau couvre l'actualite automobile et des nouvelles mobilités depuis 12 ans. Il teste véhicules, solutions de transport et services de voyage pour guider les lecteurs dans leurs choix."
     en: "Kevin Moreau has covered automotive news and new mobility for 12 years. He tests vehicles, transport solutions and travel services to guide readers in their choices."
   expertise:
     - Automobile
-    - Mobilite electrique
+    - Mobilité electrique
     - Transport urbain
     - Voyage
     - Train
@@ -187,14 +187,14 @@ kevin-moreau:
     - moto
     - velo
     - trottinette
-    - mobilite
+    - mobilité
     - electrique
-    - vehicule
+    - véhicule
     - voyage
     - train
     - avion
     - deplacement
-    - location vehicule
+    - location véhicule
 
 sophie-martin:
   id: sophie-martin
@@ -206,22 +206,22 @@ sophie-martin:
     fr: Journaliste finance & patrimoine
     en: Finance & wealth journalist
   role:
-    fr: Specialiste epargne & investissement
+    fr: Spécialiste épargne & investissement
     en: Savings & investment specialist
   bio:
-    fr: "Sophie Martin est journaliste financiere independante depuis 10 ans. Elle analyse et compare produits d'epargne, solutions d'investissement et strategies patrimoniales pour democratiser la finance personnelle."
-    en: "Sophie Martin has been an independent financial journalist for 10 years. She analyzes and compares savings products, investment solutions and wealth strategies to democratize personal finance."
+    fr: "Sophie Martin est journaliste financière indépendante depuis 10 ans. Elle analyse et compare produits d'épargne, solutions d'investissement et stratégies patrimoniales pour démocratiser la finance personnelle."
+    en: "Sophie Martin has been an independent financial journalist for 10 years. She analyzes and compares savings products, investment solutions and wealth stratégies to democratize personal finance."
   expertise:
-    - Epargne
+    - Épargne
     - Investissement
     - Immobilier locatif
-    - Fiscalite
+    - Fiscalité
     - Assurance vie
     - Bourse
   topics:
     - finance
     - placement
-    - epargne
+    - épargne
     - investissement
     - bourse
     - immobilier locatif
@@ -229,7 +229,7 @@ sophie-martin:
     - assurance vie
     - pel
     - livret
-    - fiscalite
+    - fiscalité
     - impot
     - patrimoine
     - retraite
