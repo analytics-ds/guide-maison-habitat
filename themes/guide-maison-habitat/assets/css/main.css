@@ -1162,89 +1162,142 @@ section { padding: var(--space-lg) 0; }
     margin-top: var(--space-lg);
 }
 
-/* --- Banniere simulateurs sur la home --- */
+/* --- Banniere simulateurs sur la home (style editorial premium) --- */
 .simulators-banner {
     padding: var(--space-xl) 0;
-    background: var(--primary);
-    color: var(--background);
+    background: var(--background-alt);
+    position: relative;
 }
-.simulators-banner .hero-eyebrow {
-    color: var(--accent-light);
-}
-.simulators-banner .section-title {
-    color: var(--background);
-    margin-bottom: var(--space-sm);
-}
-.simulators-banner .section-subtitle {
-    color: rgba(250, 247, 242, 0.75);
+.simulators-banner::before {
+    content: '';
+    position: absolute; top: 0; left: 50%;
+    transform: translateX(-50%);
+    width: 40px; height: 1px;
+    background: var(--accent);
 }
 .simulators-banner-heading {
     text-align: center;
     margin-bottom: var(--space-lg);
+    max-width: 620px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.simulators-banner-heading .hero-eyebrow {
+    margin-bottom: var(--space-sm);
+}
+.simulators-banner-heading .section-title {
+    margin-bottom: var(--space-sm);
+}
+.simulators-banner-heading .section-subtitle {
+    margin-bottom: 0;
 }
 .simulators-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: var(--space-md);
+    gap: var(--space-sm);
 }
 .simulator-tile {
-    background: rgba(250, 247, 242, 0.06);
-    border: 1px solid rgba(250, 247, 242, 0.12);
+    position: relative;
+    background: var(--background);
+    border: 1px solid var(--border);
     border-radius: var(--radius-lg);
-    padding: var(--space-md);
-    color: var(--background);
+    padding: var(--space-md) var(--space-sm) var(--space-sm);
+    color: var(--text);
     text-decoration: none;
     display: flex;
     flex-direction: column;
-    gap: 10px;
-    transition: background-color var(--transition-base), border-color var(--transition-base), transform var(--transition-base);
+    gap: 12px;
+    transition: border-color var(--transition-base), transform var(--transition-base), box-shadow var(--transition-base);
+    overflow: hidden;
+}
+.simulator-tile::after {
+    content: '';
+    position: absolute; left: 0; right: 0; bottom: 0;
+    height: 2px;
+    background: var(--accent);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform var(--transition-base);
 }
 .simulator-tile:hover {
-    background: rgba(250, 247, 242, 0.1);
     border-color: var(--accent);
-    transform: translateY(-3px);
-    color: var(--background);
+    transform: translateY(-4px);
+    box-shadow: 0 12px 30px rgba(27, 27, 27, 0.06);
+    color: var(--text);
+}
+.simulator-tile:hover::after { transform: scaleX(1); }
+.simulator-tile-number {
+    font-family: var(--font-heading);
+    font-size: 2.6rem;
+    font-weight: 500;
+    font-style: italic;
+    color: var(--accent);
+    line-height: 1;
+    letter-spacing: -0.02em;
+    margin-bottom: 2px;
 }
 .simulator-tile-icon {
     display: inline-flex;
     align-items: center; justify-content: center;
-    width: 44px; height: 44px;
+    width: 48px; height: 48px;
     border-radius: 50%;
-    background: rgba(176, 137, 104, 0.18);
-    color: var(--accent-light);
-    margin-bottom: 4px;
+    background: var(--background-alt);
+    color: var(--primary);
+    border: 1px solid var(--border);
+    transition: background-color var(--transition-base), color var(--transition-base);
+}
+.simulator-tile:hover .simulator-tile-icon {
+    background: var(--primary);
+    color: var(--background);
+    border-color: var(--primary);
 }
 .simulator-tile h3 {
     font-family: var(--font-heading);
-    font-size: 1.35rem;
+    font-size: 1.75rem;
     font-weight: 500;
     font-style: italic;
-    color: var(--background);
+    color: var(--primary);
     margin: 0;
-    letter-spacing: -0.01em;
+    line-height: 1.05;
+    letter-spacing: -0.02em;
 }
 .simulator-tile p {
     font-family: var(--font-body);
-    font-size: 0.88rem;
-    color: rgba(250, 247, 242, 0.7);
-    line-height: 1.5;
+    font-size: 0.9rem;
+    color: var(--text-light);
+    line-height: 1.55;
     margin: 0;
     flex: 1;
 }
 .simulator-tile-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
     font-family: var(--font-ui);
-    font-size: 0.78rem;
-    font-weight: 500;
+    font-size: 0.72rem;
+    font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: 0.12em;
-    color: var(--accent-light);
+    letter-spacing: 0.14em;
+    color: var(--primary);
+    padding-top: var(--space-sm);
+    border-top: 1px solid var(--border);
+    margin-top: var(--space-xs);
+    transition: color var(--transition-fast);
 }
+.simulator-tile-link::after {
+    content: '→';
+    font-size: 0.95rem;
+    transition: transform var(--transition-base);
+}
+.simulator-tile:hover .simulator-tile-link { color: var(--accent); }
+.simulator-tile:hover .simulator-tile-link::after { transform: translateX(4px); }
 
 @media (max-width: 1024px) {
     .simulators-grid { grid-template-columns: repeat(2, 1fr); }
 }
 @media (max-width: 600px) {
     .simulators-grid { grid-template-columns: 1fr; }
+    .simulator-tile h3 { font-size: 1.5rem; }
 }
 
 /* --- Formulaires simulateurs (page dediee) --- */
