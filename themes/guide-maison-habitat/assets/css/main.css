@@ -1177,12 +1177,10 @@ section { padding: var(--space-lg) 0; }
     margin-top: var(--space-lg);
 }
 
-/* --- Banniere simulateurs sur la home (cream bronze premium) --- */
+/* --- Banniere simulateurs sur la home (blanc premium) --- */
 .simulators-banner {
     padding: var(--space-xl) 0;
-    background:
-        radial-gradient(900px 300px at 50% 0%, rgba(176, 137, 104, 0.18), transparent 70%),
-        linear-gradient(180deg, #EADBC2 0%, #E2D0B2 100%);
+    background: var(--white);
     color: var(--text);
     position: relative;
     overflow: hidden;
