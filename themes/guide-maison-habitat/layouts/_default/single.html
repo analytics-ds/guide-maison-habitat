@@ -90,7 +90,7 @@
 
             <div class="article-main">
                 {{ if $isBlog }}
-                {{/* --- Bande auteur en haut --- */}}
+                {{/* --- Bande auteur + tags en haut --- */}}
                 <div class="article-author-bar article-author-bar-top">
                     {{ with $authorData }}
                     <div class="author-info">
@@ -114,6 +114,13 @@
                     </div>
                     {{ end }}
                 </div>
+                {{ with .Params.tags }}
+                <div class="article-tags-top">
+                    {{ range . }}
+                    <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
+                    {{ end }}
+                </div>
+                {{ end }}
                 {{ end }}
 
                 <div class="prose article-content">
@@ -121,13 +128,6 @@
                 </div>
 
                 {{ if $isBlog }}
-                {{/* --- Tags --- */}}
-                <div class="article-tags-bottom">
-                    {{ range .Params.tags }}
-                    <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
-                    {{ end }}
-                </div>
-
                 {{/* --- Bloc auteur --- */}}
                 {{ with $authorData }}
                 <aside class="author-box" aria-label="A propos de l'auteur">
@@ -143,8 +143,8 @@
                         {{ with index .bio $lang }}<p class="author-box-bio">{{ . }}</p>{{ end }}
                         {{ with .expertise }}
                         <div class="author-box-expertise">
-                            <span class="author-box-expertise-label">Expertise :</span>
-                            {{ range $i, $e := . }}{{ if $i }}, {{ end }}<span class="author-box-expertise-item">{{ $e }}</span>{{ end }}
+                            <span class="author-box-expertise-label">Expertise</span>
+                            {{ range . }}<span class="author-box-expertise-item">{{ . }}</span>{{ end }}
                         </div>
                         {{ end }}
                     </div>
