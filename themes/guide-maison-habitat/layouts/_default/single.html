@@ -159,6 +159,9 @@
     {{ if and $isBlog (or .PrevInSection .NextInSection) }}
     <section class="article-nav-section">
         <div class="container">
+            <div class="section-heading section-heading-nav">
+                <h2 class="section-title">Poursuivre la lecture</h2>
+            </div>
             <nav class="article-nav-wrapper" aria-label="Navigation articles">
                 <div class="article-nav">
                     {{ with .PrevInSection }}

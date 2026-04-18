@@ -1214,7 +1214,7 @@ p.article-description-on-image {
 
 /* Related articles section (hors wrapper blanc, sur fond creme) */
 .related-articles-section {
-    padding: var(--space-xl) 0 var(--space-lg);
+    padding: var(--space-lg) 0 var(--space-xl);
     background: var(--background);
 }
 .related-articles-section .container {
@@ -1432,11 +1432,33 @@ p.article-description-on-image {
 
 /* Article navigation (prev/next) - cards premium hors wrapper blanc */
 .article-nav-section {
-    padding: var(--space-lg) 0 var(--space-md);
+    padding: var(--space-lg) 0 0;
     background: var(--background);
 }
 .article-nav-section .container { max-width: var(--container); }
-.article-nav-wrapper { margin: 0; padding: 0; }
+.article-nav-wrapper {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+.section-heading-nav {
+    display: flex;
+    align-items: baseline;
+    margin-bottom: var(--space-md);
+}
+.section-heading-nav .section-title {
+    font-family: var(--font-heading);
+    font-size: clamp(1.8rem, 3.2vw, 2.4rem);
+    font-weight: 500;
+    font-style: italic;
+    color: var(--primary);
+    margin: 0;
+    letter-spacing: -0.01em;
+    text-align: left;
+}
+.article-nav-section + .related-articles-section {
+    padding-top: var(--space-lg);
+}
 .article-nav {
     display: grid;
     grid-template-columns: 1fr 1fr;
