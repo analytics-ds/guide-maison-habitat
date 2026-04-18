@@ -11,7 +11,7 @@ faq:
   - question: "Comment aménager une terrasse extérieure ?"
     answer: "Pour aménager une terrasse extérieure, commencez par définir les zones d'usage (repas, detente, coin plantes). Choisissez un revêtement adapte à l'exposition (bois, composite, carrelage), un mobilier outdoor resistant aux UV et à la pluie, puis structurez avec des pots et un eclairage tamise. Comptez 40 à 80 euros le m2 en moyenne pour un aménagement complet."
   - question: "Quel revêtement choisir pour une terrasse ?"
-    answer: "Le bois exotique (ipe, teck) dure 25 à 30 ans mais coûte cher. Le composite ne demandé pas d'entretien et vit 20 ans. Le carrelage grand format est le plus durable (50 ans et plus) et resiste bien au gel si classe R11 ou supérieur."
+    answer: "Le bois exotique (ipe, teck) dure 25 à 30 ans mais coûte cher. Le composite ne demande pas d'entretien et vit 20 ans. Le carrelage grand format est le plus durable (50 ans et plus) et resiste bien au gel si classe R11 ou supérieur."
   - question: "Quelle plante pour une terrasse ?"
     answer: "Privilégiez les plantes resistantes à l'exposition : lavande, olivier nain, graminees pour le plein soleil. Au nord ou à l'ombre, optez pour des fougeres, hostas ou bambous sacres. Les plantes grimpantes (clematites, jasmin) structurent l'espace vertical."
 image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1600&q=85&auto=format&fit=crop"
@@ -21,7 +21,7 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. Un revêtement adapte à l'exposition prolongé la duree de vie de la terrasse de 30 à 50 pour cent.
+> 1. Un revêtement adapte à l'exposition prolongé la durée de vie de la terrasse de 30 à 50 pour cent.
 > 2. Le mobilier outdoor de qualité (aluminium, teck, resine tressee) dure 10 ans ou plus sans entretien lourd.
 > 3. Les plantes en pot permettent de structurer une terrasse sans travaux lourds.
 > 4. Un eclairage extérieur indirect transformé l'usage de la terrasse en soiree et augmente son temps d'utilisation de 40 pour cent.
@@ -29,7 +29,7 @@ readingTime: true
 
 ## Aménager une terrasse extérieure : par ou commencer
 
-**Aménager une terrasse extérieure** commence par une analyse de l'existant : exposition, ensoleillement, vis-a-vis, surface utile. Une terrasse sud demandé de l'ombre, une terrasse nord demandé des couleurs lumineuses.
+**Aménager une terrasse extérieure** commence par une analyse de l'existant : exposition, ensoleillement, vis-a-vis, surface utile. Une terrasse sud demande de l'ombre, une terrasse nord demande des couleurs lumineuses.
 
 ### Définir les zones d'usage
 
@@ -75,7 +75,7 @@ Pour aménager une terrasse extérieure, commencez par définir les zones d'usag
 <details>
 <summary>Quel revêtement choisir pour une terrasse ?</summary>
 
-Le bois exotique (ipe, teck) dure 25 à 30 ans mais coûte cher. Le composite ne demandé pas d'entretien et vit 20 ans. Le carrelage grand format est le plus durable (50 ans et plus) et resiste bien au gel si classe R11 ou supérieur.
+Le bois exotique (ipe, teck) dure 25 à 30 ans mais coûte cher. Le composite ne demande pas d'entretien et vit 20 ans. Le carrelage grand format est le plus durable (50 ans et plus) et resiste bien au gel si classe R11 ou supérieur.
 
 </details>
 

@@ -3,7 +3,7 @@ title: "Financement credit immobilier : le guide complet 2026"
 translationKey: "financement-credit-immobilier"
 date: 2026-04-14
 lastmod: 2026-04-14
-description: "Financement credit immobilier : taux, apport, duree, assurance emprunteur et stratégies pour optimiser son pret en 2026."
+description: "Financement credit immobilier : taux, apport, durée, assurance emprunteur et stratégies pour optimiser son pret en 2026."
 categories: ["Financement"]
 tags: ["credit immobilier", "financement", "taux", "pret", "banque"]
 author: "sophie-martin"
@@ -12,8 +12,8 @@ faq:
     answer: "En début 2026, les taux moyens d'un credit immobilier se situent entre 3,3 et 3,8 pour cent sur 20 ans, selon le profil de l'emprunteur. Les meilleurs dossiers (apport supérieur à 20 pour cent, CDI cadre, revenus élevés) obtiennent des taux sous 3,2 pour cent. Les emprunteurs primo-accedants avec peu d'apport peuvent dépasser 4 pour cent."
   - question: "Quel apport minimum pour un credit immobilier ?"
     answer: "Les banques exigent généralement un apport d'au moins 10 pour cent du prix d'achat pour couvrir les frais de notaire. Un apport de 20 pour cent est souvent nécessaire pour obtenir les meilleurs taux. Certains profils (primo-accedants, jeunes actifs) peuvent négocier un financement à 100 pour cent avec de solides garanties."
-  - question: "Quelle duree de pret immobilier choisir ?"
-    answer: "La duree standard est de 20 à 25 ans en 2026. 25 ans reste la duree maximale autorisee par le HCSF. Plus la duree est longue, plus le taux est élevé mais la mensualité baisse. Un pret de 20 ans offre souvent le meilleur compromis entre cout total et mensualités supportables."
+  - question: "Quelle durée de pret immobilier choisir ?"
+    answer: "La durée standard est de 20 à 25 ans en 2026. 25 ans reste la durée maximale autorisee par le HCSF. Plus la durée est longue, plus le taux est élevé mais la mensualité baisse. Un pret de 20 ans offre souvent le meilleur compromis entre coût total et mensualités supportables."
 image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=85&auto=format&fit=crop"
 imageAlt: "Calcul de credit immobilier"
 imageCredit: "Photo via Unsplash"
@@ -29,7 +29,7 @@ readingTime: true
 
 ## Financement credit immobilier : les fondamentaux 2026
 
-Le **financement credit immobilier** repose sur un équilibre entre apport, duree, taux et assurance. Maitriser ces quatre leviers permet d'obtenir un pret aux meilleures conditions.
+Le **financement credit immobilier** repose sur un équilibre entre apport, durée, taux et assurance. Maitriser ces quatre leviers permet d'obtenir un pret aux meilleures conditions.
 
 ### Les taux 2026 par profil
 
@@ -48,7 +48,7 @@ Les taux évoluent selon le profil de l'emprunteur. Les banques distinguent gén
 
 ## Les règles du HCSF
 
-> "Le Haut Conseil de Stabilite Financière limité depuis 2022 le taux d'endettement maximal à 35 pour cent des revenus nets et la duree de pret à 25 ans."
+> "Le Haut Conseil de Stabilite Financière limité depuis 2022 le taux d'endettement maximal à 35 pour cent des revenus nets et la durée de pret à 25 ans."
 > — Banque de France, rapport 2024
 
 Ces règles s'imposent à toutes les banques sauf derogation accordee dans 20 pour cent des dossiers.
@@ -91,8 +91,8 @@ Les banques exigent généralement un apport d'au moins 10 pour cent du prix d'a
 </details>
 
 <details>
-<summary>Quelle duree de pret immobilier choisir ?</summary>
+<summary>Quelle durée de pret immobilier choisir ?</summary>
 
-La duree standard est de 20 à 25 ans en 2026. 25 ans reste la duree maximale autorisee par le HCSF. Plus la duree est longue, plus le taux est élevé mais la mensualité baisse. Un pret de 20 ans offre souvent le meilleur compromis entre cout total et mensualités supportables.
+La durée standard est de 20 à 25 ans en 2026. 25 ans reste la durée maximale autorisee par le HCSF. Plus la durée est longue, plus le taux est élevé mais la mensualité baisse. Un pret de 20 ans offre souvent le meilleur compromis entre coût total et mensualités supportables.
 
 </details>

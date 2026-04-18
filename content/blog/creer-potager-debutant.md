@@ -29,7 +29,7 @@ readingTime: true
 
 ## Créer un potager pour débutant : les étapes
 
-**Créer un potager pour débutant** demandé une préparation simple mais essentielle. Le premier critère est l'emplacement : un coin du jardin expose sud ou sud-ouest, à l'abri du vent, pres d'un point d'eau.
+**Créer un potager pour débutant** demande une préparation simple mais essentielle. Le premier critère est l'emplacement : un coin du jardin expose sud ou sud-ouest, à l'abri du vent, pres d'un point d'eau.
 
 ### Préparer le sol
 
@@ -47,7 +47,7 @@ Un sol de potager doit être meuble, aéré et riche en matière organique. Si v
 
 ## Le calendrier des travaux
 
-Le calendrier potager se cale sur les saisons et la région. Les semis de printemps commencent fin fevrier sous abri, en pleine terre à partir d'avril. L'ete demandé surveillance et arrosage. L'automne est la saison des plantations perennes et du paillage.
+Le calendrier potager se cale sur les saisons et la région. Les semis de printemps commencent fin fevrier sous abri, en pleine terre à partir d'avril. L'ete demande surveillance et arrosage. L'automne est la saison des plantations perennes et du paillage.
 
 > "La réussite d'un potager tient plus à la regularite qu'au travail intensif. Mieux vaut 15 minutes par jour que 3 heures le dimanche."
 > — Pascal Poot, jardinier et conferencier
@@ -65,7 +65,7 @@ Certaines plantes s'entraident. Exemples :
 
 1. Choisir l'emplacement (ensoleille, pres d'un point d'eau)
 2. Préparer le sol (ameublir, amender au compost)
-3. Tracer les planches (1,20 m de large maximum pour acceder des deux côtés)
+3. Tracer les planches (1,20 m de large maximum pour accèder des deux côtés)
 4. Planifier les cultures (6 à 8 legumes maximum la première année)
 5. Semer ou planter au bon moment
 6. Pailler et arroser régulièrement

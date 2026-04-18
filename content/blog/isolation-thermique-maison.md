@@ -23,7 +23,7 @@ readingTime: true
 > **En bref :**
 > 1. La toiture représente jusqu'à 30 pour cent des deperditions : c'est le chantier prioritaire.
 > 2. Les murs isolés par l'extérieur font gagner en moyenne 25 pour cent sur la facture de chauffage.
-> 3. MaPrimeRenov' peut prendre en charge jusqu'à 75 pour cent du cout pour les ménages modestes en 2026.
+> 3. MaPrimeRenov' peut prendre en charge jusqu'à 75 pour cent du coût pour les ménages modestes en 2026.
 > 4. Un audit énergétique est obligatoire avant certains travaux et finance jusqu'à 500 euros par l'État.
 
 
@@ -57,7 +57,7 @@ Les critères à regarder sont le lambda (conductivite thermique, plus il est ba
 
 ## Les aides financières 2026
 
-- MaPrimeRenov' : jusqu'à 75 pour cent du cout pour les ménages modestes
+- MaPrimeRenov' : jusqu'à 75 pour cent du coût pour les ménages modestes
 - Certificats d'Economies d'Énergie (CEE) : primes versees par les fournisseurs
 - Eco-PTZ : pret à taux zero jusqu'à 50 000 euros
 - TVA réduite à 5,5 pour cent sur la pose et les matériaux
@@ -65,7 +65,7 @@ Les critères à regarder sont le lambda (conductivite thermique, plus il est ba
 ### Étapes pour monter un dossier d'aide
 
 1. Réaliser un devis avec un artisan RGE
-2. Déposer la demandé d'aide AVANT signature du devis
+2. Déposer la demande d'aide AVANT signature du devis
 3. Attendre la notification d'accord
 4. Faire réaliser les travaux
 5. Envoyer les factures pour versement

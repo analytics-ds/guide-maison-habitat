@@ -129,8 +129,8 @@ Cette limité sert à éviter la publication en masse et à maintenir un rythme 
 - Ne JAMAIS utiliser `&` dans les noms de catégories ou de tags — toujours remplacer par "et" (Hugo génère un double tiret `--` dans le slug, ce qui casse les URLs)
 - Le ton des articles est impersonnel (pas de je/tu/nous/vous) sauf instruction contraire
 - Les specs d'article (mots minimum, H2, blocs obligatoires) dependent du type choisi — lire les `<!-- NOTES POUR CLAUDE -->` dans chaque template d'article
-- Chaque article doit contenir au minimum 3 liens internes contextuels vers d'autres articles du blog. L'ancre de chaque lien doit contenir le mot-cle principal de l'article cible. **Maillage intra-langue uniquement** : un article FR ne mail que des articles FR, un article EN ne mail que des articles EN (le lien vers la traduction est géré par le language switcher du header)
-- **Système d'auteurs partage** : 6 auteurs fictifs definis dans `data/authors.yaml` (copie depuis `.claude/templates/data/authors.yaml` à la création du site). Chaque auteur à un id-slug, un nom, un type (person/organization), un avatar, des `jobTitle`/`role`/`bio` bilingues FR/EN, une liste d'`expertise` et une liste de `topics` (mots-cles pour la sélection automatique). Les auteurs disponibles : `thomas-durand` (tech), `magalie-ergoz` (mode/beaute), `claire-beaumont` (maison/habitat), `laura-verdier` (santé/bien-etre), `kevin-moreau` (transport/mobilité), `sophie-martin` (finance/patrimoine)
+- Chaque article doit contenir au minimum 3 liens internes contextuels vers d'autres articles du blog. L'ancre de chaque lien doit contenir le mot-clé principal de l'article cible. **Maillage intra-langue uniquement** : un article FR ne mail que des articles FR, un article EN ne mail que des articles EN (le lien vers la traduction est géré par le language switcher du header)
+- **Système d'auteurs partage** : 6 auteurs fictifs definis dans `data/authors.yaml` (copie depuis `.claude/templates/data/authors.yaml` à la création du site). Chaque auteur à un id-slug, un nom, un type (person/organization), un avatar, des `jobTitle`/`role`/`bio` bilingues FR/EN, une liste d'`expertise` et une liste de `topics` (mots-clés pour la sélection automatique). Les auteurs disponibles : `thomas-durand` (tech), `magalie-ergoz` (mode/beaute), `claire-beaumont` (maison/habitat), `laura-verdier` (santé/bien-etre), `kevin-moreau` (transport/mobilité), `sophie-martin` (finance/patrimoine)
 - **Selection automatique de l'auteur** : dans le frontmatter d'un article, le champ `author` contient l'**ID slug** de l'auteur (ex: `author: thomas-durand`), pas son nom complet. La skill `/create-article` sélectionné automatiquement l'auteur le plus pertinent selon les `topics` et `expertise` qui matchent avec le sujet de l'article. Si aucun match clair, l'auteur principal du site (defini dans la section "Contexte du site" de ce CLAUDE.md) est utilisé
 - **Avatars des auteurs** : fichiers WebP 512x512 dans `static/images/authors/[id].webp`. Style unifie "flat illustration portrait". Prompts de generation documentes dans `.claude/templates/data/avatar-prompts.md`. Si l'avatar est manquant, un placeholder coloree avec la 1ere lettre du nom s'affiche
 - **JSON-LD Author** : le partial `seo-head.html` génère automatiquement un schema.org/Person (ou Organization) complet depuis les données de `data/authors.yaml` (name, jobTitle, description, knowsAbout, image, sameAs, worksFor)
@@ -159,7 +159,7 @@ Cette limité sert à éviter la publication en masse et à maintenir un rythme 
 - Tutoiement, ton decontracte
 - Pas de jargon technique sans explication
 - Reponses structurees avec listes à puces
-- Pas d'emoji sauf demandé explicite
+- Pas d'emoji sauf demande explicite
 
 
 

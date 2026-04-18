@@ -29,7 +29,7 @@ readingTime: true
 
 ## Aménager un petit salon : les bases
 
-Un petit salon de moins de 15 m2 demandé une réflexion sur chaque mètre carre. Contrairement aux idées recues, **aménager un petit salon** ne veut pas dire sacrifier le confort : il faut simplement choisir moins mais mieux.
+Un petit salon de moins de 15 m2 demande une réflexion sur chaque mètre carre. Contrairement aux idées recues, **aménager un petit salon** ne veut pas dire sacrifier le confort : il faut simplement choisir moins mais mieux.
 
 ### Mesurer avant d'acheter
 
@@ -53,7 +53,7 @@ Les tons clairs sont vos allies. Un blanc casse ou un beige reflechit la lumièr
 
 ## Optimiser les rangements
 
-Le rangement vertical est la cle. Etageres hautes, bibliotheque colonne, meubles d'angle : tout ce qui monté libéré l'espace au sol. Un mur entier de rangements peut remplacer avantageusement plusieurs petits meubles disperses.
+Le rangement vertical est la clé. Etageres hautes, bibliotheque colonne, meubles d'angle : tout ce qui monté libéré l'espace au sol. Un mur entier de rangements peut remplacer avantageusement plusieurs petits meubles disperses.
 
 ### Étapes pour bien choisir
 

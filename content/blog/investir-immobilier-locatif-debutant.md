@@ -56,9 +56,9 @@ Les 4 regimes courants :
 - **LMNP reel** : amortissement du bien, quasi-defiscalisation
 - **Location nue micro-foncier** : abattement 30 pour cent, simple
 - **Location nue au reel** : deduction charges et travaux
-- **Pinel / Denormandie / LLI** : defiscalisation sur engagement de duree
+- **Pinel / Denormandie / LLI** : defiscalisation sur engagement de durée
 
-## Les pieges à éviter
+## Les pièges à éviter
 
 - Acheter trop cher pour être bien situé : la rentabilité s'effondre
 - Négliger la gestion locative (vacance, impayes, dégradations)

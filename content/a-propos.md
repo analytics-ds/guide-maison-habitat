@@ -6,7 +6,7 @@ translationKey: "about"
 
 ## Qui nous sommes
 
-Guide Maison & Habitat est un média indépendant dédié à l'immobilier et à la maison. Nous publions chaque semaine des articles, comparatifs et classements pour aider les propriétaires, acquéreurs et amateurs de déco à faire les bons choix.
+Guide Maison & Habitat est un média indépendant dédié à l'immobilier et à la maison. Nous publions chaque semaine des articlés, comparatifs et classements pour aider les propriétaires, acquéreurs et amateurs de déco à faire les bons choix.
 
 ## Notre mission
 

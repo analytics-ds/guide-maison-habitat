@@ -3,7 +3,7 @@ title: "Rénovation de salle de bain : guide complet et budget"
 translationKey: "renovation-salle-de-bain-guide"
 date: 2026-04-06
 lastmod: 2026-04-06
-description: "Rénovation de salle de bain : étapes clés, budget moyen et pieges à éviter pour un chantier réussi de A à Z."
+description: "Rénovation de salle de bain : étapes clés, budget moyen et pièges à éviter pour un chantier réussi de A à Z."
 categories: ["Travaux et Rénovation"]
 tags: ["salle de bain", "rénovation", "plomberie", "budget", "travaux"]
 author: "claire-beaumont"
@@ -45,12 +45,12 @@ Avant de demander un devis, posez sur papier vos priorites : douche ou baignoire
 | Meuble vasque | 10 pour cent | 500 à 1500 euros |
 | Électricité, plomberie | 10 pour cent | 500 à 1500 euros |
 
-## Les pieges à éviter
+## Les pièges à éviter
 
 > "Le premier piege est de sous-estimer l'etancheite. Une salle de bain mal etanchee se degrade en 2 à 3 ans."
 > — Fédération Française du Batiment
 
-Faites systematiquement vérifier la pose du système d'étanchéité liquide (SEL) sous carrelage par un professionnel. Ce poste ne se voit pas mais conditionne la duree de vie du chantier.
+Faites systematiquement vérifier la pose du système d'étanchéité liquide (SEL) sous carrelage par un professionnel. Ce poste ne se voit pas mais conditionne la durée de vie du chantier.
 
 ## Les étapes du chantier
 

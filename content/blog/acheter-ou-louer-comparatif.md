@@ -3,7 +3,7 @@ title: "Acheter ou louer : comment choisir en 2026"
 translationKey: "acheter-ou-louer-comparatif"
 date: 2026-04-16
 lastmod: 2026-04-16
-description: "Acheter ou louer : comparatif complet des avantages, couts reels et duree de detention pour trancher en 2026."
+description: "Acheter ou louer : comparatif complet des avantages, coûts reels et durée de detention pour trancher en 2026."
 categories: ["Achat"]
 tags: ["achat", "location", "comparatif", "immobilier", "décision"]
 author: "sophie-martin"
@@ -11,7 +11,7 @@ faq:
   - question: "Acheter ou louer : qu'est-ce qui est le plus rentable ?"
     answer: "La rentabilité de l'achat dépasse celle de la location en moyenne après 7 à 10 ans de detention. En dessous de 5 ans, la location reste plus avantageuse compte tenu des frais d'acquisition (notaire, credit, travaux). Au-delà de 10 ans, l'achat devient systematiquement plus rentable dans les zones à forte demandé."
   - question: "Quels critères pour choisir entre achat et location ?"
-    answer: "Quatre critères principaux : la duree de résidence envisagee (plus de 7 ans = achat), la stabilité professionnelle (CDI favorisé l'achat), l'apport disponible (10 à 20 pour cent du prix recommandé) et la mobilité souhaitee (la location offre plus de flexibilite geographique)."
+    answer: "Quatre critères principaux : la durée de résidence envisagee (plus de 7 ans = achat), la stabilité professionnelle (CDI favorisé l'achat), l'apport disponible (10 à 20 pour cent du prix recommandé) et la mobilité souhaitee (la location offre plus de flexibilite geographique)."
   - question: "Combien coûte reellement un achat immobilier ?"
     answer: "Au prix d'achat s'ajoutent les frais de notaire (7 à 8 pour cent dans l'ancien), les frais d'agence (1 à 5 pour cent), les frais de dossier bancaire (500 à 2500 euros) et les frais de garantie du prêt (1 à 2 pour cent). Prévoyez un budget global de 10 à 12 pour cent au-dessus du prix affiche."
 image: "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=1600&q=85&auto=format&fit=crop"
@@ -31,9 +31,9 @@ readingTime: true
 
 **Acheter ou louer** est une des questions financières les plus fréquentes en France. En 2026, avec des taux immobiliers qui se stabilisent autour de 3,5 à 4 pour cent et des prix en légère baisse dans plusieurs grandes villes, les arbitrages évoluent.
 
-### Le critère n1 : la duree
+### Le critère n1 : la durée
 
-La duree de detention envisagee est le critère décisif. Une simulation fine montre que l'achat devient avantageux à partir de 7 ans dans la majorité des villes françaises.
+La durée de detention envisagee est le critère décisif. Une simulation fine montre que l'achat devient avantageux à partir de 7 ans dans la majorité des villes françaises.
 
 ## Le comparatif chiffre
 
@@ -54,12 +54,12 @@ La location reste le bon choix si :
 
 - La mobilité professionnelle est élevée
 - L'apport personnel est inférieur à 10 pour cent du prix
-- La duree envisagee est inférieure à 5 ans
+- La durée envisagee est inférieure à 5 ans
 - Le marche local est atypique (forte volatilite, baisse attendue)
 
 ## Méthode pour trancher
 
-1. Estimer la duree de résidence probable
+1. Estimer la durée de résidence probable
 2. Calculer son taux d'endettement maximal (35 pour cent des revenus)
 3. Chiffrer les frais reels d'achat incluant toutes les charges
 4. Comparer avec une simulation de location sur la même période
@@ -79,7 +79,7 @@ La rentabilité de l'achat dépasse celle de la location en moyenne après 7 à 
 <details>
 <summary>Quels critères pour choisir entre achat et location ?</summary>
 
-Quatre critères principaux : la duree de résidence envisagee (plus de 7 ans = achat), la stabilité professionnelle (CDI favorisé l'achat), l'apport disponible (10 à 20 pour cent du prix recommandé) et la mobilité souhaitee (la location offre plus de flexibilite geographique).
+Quatre critères principaux : la durée de résidence envisagee (plus de 7 ans = achat), la stabilité professionnelle (CDI favorisé l'achat), l'apport disponible (10 à 20 pour cent du prix recommandé) et la mobilité souhaitee (la location offre plus de flexibilite geographique).
 
 </details>
 

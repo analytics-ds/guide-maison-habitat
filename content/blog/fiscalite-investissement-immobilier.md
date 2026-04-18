@@ -9,7 +9,7 @@ tags: ["fiscalité", "LMNP", "revenus fonciers", "Pinel", "impôts"]
 author: "sophie-martin"
 faq:
   - question: "Quel regime fiscal choisir pour un investissement locatif ?"
-    answer: "Le choix depend du type de location et du niveau de charges. LMNP reel est optimal pour la location meublee (amortissement du bien). Pour la location nue, le regime reel est préférable si les charges dépassent 30 pour cent des loyers. Les dispositifs Pinel et Denormandie offrent une réduction d'impôt mais imposent des contraintes (plafond loyers, duree)."
+    answer: "Le choix depend du type de location et du niveau de charges. LMNP reel est optimal pour la location meublee (amortissement du bien). Pour la location nue, le regime reel est préférable si les charges dépassent 30 pour cent des loyers. Les dispositifs Pinel et Denormandie offrent une réduction d'impôt mais imposent des contraintes (plafond loyers, durée)."
   - question: "Comment fonctionne la fiscalité LMNP ?"
     answer: "Le regime LMNP permet d'amortir le bien immobilier (hors terrain) sur 20 à 30 ans, généralement entre 2 et 3 pour cent par an. Cette charge comptable s'ajouté aux charges reelles et peut neutraliser totalement les loyers imposables pendant 20 à 30 ans, aboutissant à une quasi-defiscalisation."
   - question: "Les SCPI sont-elles un bon investissement ?"
@@ -82,7 +82,7 @@ Pour les débutants, notre [guide investissement locatif](/blog/investir-immobil
 <details>
 <summary>Quel regime fiscal choisir pour un investissement locatif ?</summary>
 
-Le choix depend du type de location et du niveau de charges. LMNP reel est optimal pour la location meublee (amortissement du bien). Pour la location nue, le regime reel est préférable si les charges dépassent 30 pour cent des loyers. Les dispositifs Pinel et Denormandie offrent une réduction d'impôt mais imposent des contraintes (plafond loyers, duree).
+Le choix depend du type de location et du niveau de charges. LMNP reel est optimal pour la location meublee (amortissement du bien). Pour la location nue, le regime reel est préférable si les charges dépassent 30 pour cent des loyers. Les dispositifs Pinel et Denormandie offrent une réduction d'impôt mais imposent des contraintes (plafond loyers, durée).
 
 </details>
 

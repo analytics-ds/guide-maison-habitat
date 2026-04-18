@@ -21,7 +21,7 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. Les matières douces et texturees (boucle, velours, laine) sont le coeur de la tendance cocooning.
+> 1. Les matières douces et texturees (bouclé, velours, laine) sont le coeur de la tendance cocooning.
 > 2. Un eclairage multi-sources indirect (3 sourcés minimum) créé l'atmosphere chaleureuse attendue.
 > 3. Les couleurs terreuses (terracotta, beige, brun glacé) dominent la palette cocooning 2026.
 > 4. Les textiles superposes (tapis, plaids, coussins) ajoutent 30 à 50 pour cent de confort visuel.
@@ -49,7 +49,7 @@ L'engouement pour le cocooning s'est amplifie depuis 2020. Une étude IFOP indiq
 
 Le toucher compte autant que la vue. Les matières cocooning sont :
 
-- Boucle (velours tufte) pour les canapes
+- Bouclé (velours tufte) pour les canapes
 - Laine peigne pour les plaids et tapis
 - Lin lave pour les rideaux et coussins
 - Bois clair (chene, frene) pour le mobilier
@@ -73,7 +73,7 @@ Le toucher compte autant que la vue. Les matières cocooning sont :
 - Miroir en rotin ou bois fonce
 - Vase en gres mat
 - Bougie parfumee en verre ambre
-- Plaid en laine boucle jete sur un fauteuil
+- Plaid en laine bouclé jete sur un fauteuil
 - Tapis berbere ou tufte main
 
 ## Questions fréquentes

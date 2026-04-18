@@ -44,7 +44,7 @@ Plusieurs dispositifs permettent au locataire de rassurer le propriétaire :
 ## La restitution du dépôt de garantie
 
 > "Le propriétaire dispose d'un mois pour restituer le dépôt si l'état des lieux de sortie est conforme, ou deux mois en cas de retenues. Au-delà, une majoration de 10 pour cent du loyer par mois de retard est due."
-> — Loi ALUR, article 22
+> — Loi ALUR, articlé 22
 
 ### Les retenues autorisées
 

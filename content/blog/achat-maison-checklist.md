@@ -13,7 +13,7 @@ faq:
   - question: "Combien de temps entre compromis et signature ?"
     answer: "Le délai standard entre le compromis de vente et la signature chez le notaire est de 2 à 3 mois. Ce délai permet de lever les conditions suspensives (pret bancaire, purge du droit de preemption, obtention des autorisations). L'acheteur dispose de 10 jours de rétractation après signature du compromis."
   - question: "Quel budget prévoir pour l'achat d'une maison ?"
-    answer: "Aux 100 pour cent du prix d'achat, il faut ajouter : 7 à 8 pour cent de frais de notaire dans l'ancien (2 à 3 pour cent dans le neuf), 1 à 2 pour cent de frais d'agence, le cout du déplacement (décoration, travaux d'urgence). Prévoyez un budget d'environ 10 pour cent au-dessus du prix affiche."
+    answer: "Aux 100 pour cent du prix d'achat, il faut ajouter : 7 à 8 pour cent de frais de notaire dans l'ancien (2 à 3 pour cent dans le neuf), 1 à 2 pour cent de frais d'agence, le coût du déplacement (décoration, travaux d'urgence). Prévoyez un budget d'environ 10 pour cent au-dessus du prix affiche."
 image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1600&q=85&auto=format&fit=crop"
 imageAlt: "Maison à vendre, remise de clés"
 imageCredit: "Photo via Unsplash"
@@ -90,6 +90,6 @@ Le délai standard entre le compromis de vente et la signature chez le notaire e
 <details>
 <summary>Quel budget prévoir pour l'achat d'une maison ?</summary>
 
-Aux 100 pour cent du prix d'achat, il faut ajouter : 7 à 8 pour cent de frais de notaire dans l'ancien (2 à 3 pour cent dans le neuf), 1 à 2 pour cent de frais d'agence, le cout du déplacement (décoration, travaux d'urgence). Prévoyez un budget d'environ 10 pour cent au-dessus du prix affiche.
+Aux 100 pour cent du prix d'achat, il faut ajouter : 7 à 8 pour cent de frais de notaire dans l'ancien (2 à 3 pour cent dans le neuf), 1 à 2 pour cent de frais d'agence, le coût du déplacement (décoration, travaux d'urgence). Prévoyez un budget d'environ 10 pour cent au-dessus du prix affiche.
 
 </details>

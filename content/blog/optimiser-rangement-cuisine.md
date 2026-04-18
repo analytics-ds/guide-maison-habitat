@@ -37,7 +37,7 @@ Le triangle evier, plaque de cuisson, refrigerateur doit rester libre et court. 
 
 ## Les solutions qui changent tout
 
-Les tiroirs profonds sont le plus grand progrès de ces 20 dernières années en matière de rangement de cuisine. Ils permettent d'acceder à toute la profondeur du meuble sans se baisser.
+Les tiroirs profonds sont le plus grand progrès de ces 20 dernières années en matière de rangement de cuisine. Ils permettent d'accèder à toute la profondeur du meuble sans se baisser.
 
 ### Comparatif tiroirs vs placards
 

@@ -21,7 +21,7 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. Le cout du logement à la campagne est 30 à 50 pour cent inférieur à celui des grandes villes.
+> 1. Le coût du logement à la campagne est 30 à 50 pour cent inférieur à celui des grandes villes.
 > 2. Le budget transport à la campagne augmente en moyenne de 200 à 500 euros par mois.
 > 3. Le teletravail à multiplié par 3 l'intérêt pour les zones rurales depuis 2020.
 > 4. La qualité de l'air, l'espace et le calme sont les 3 atouts les plus cites par les neo-ruraux.
@@ -77,7 +77,7 @@ Pour trancher rationnellement :
 
 Plusieurs erreurs fréquentes lors de ce choix :
 
-- Sous-estimer le cout reel des déplacements quotidiens
+- Sous-estimer le coût reel des déplacements quotidiens
 - Oublier l'usure psychologique des longs trajets
 - Ne pas anticiper les besoins des enfants adolescents
 - Négliger la solitude ou l'isolement à la campagne
