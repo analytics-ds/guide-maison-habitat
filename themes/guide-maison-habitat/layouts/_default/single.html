@@ -73,21 +73,7 @@
 
     {{/* --- Corps de l'article (fond blanc sur fond creme) --- */}}
     <div class="article-body-wrapper">
-        <div class="{{ if $isBlog }}article-layout{{ else }}article-layout-simple{{ end }}">
-            {{/* --- Sidebar TOC (blog uniquement) --- */}}
-            {{ $headings := .TableOfContents }}
-            {{ if and $isBlog $headings }}
-            <aside class="article-sidebar">
-                <nav class="toc" aria-label="Sommaire">
-                    <div class="toc-title">
-                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="15" y2="12"/><line x1="3" y1="18" x2="18" y2="18"/></svg>
-                        Sommaire
-                    </div>
-                    {{ .TableOfContents }}
-                </nav>
-            </aside>
-            {{ end }}
-
+        <div class="article-layout-simple">
             <div class="article-main">
                 {{ if $isBlog }}
                 {{/* --- Bande auteur + tags en haut --- */}}
@@ -120,6 +106,23 @@
                     <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
                     {{ end }}
                 </div>
+                {{ end }}
+
+                {{/* --- Sommaire en haut (style box elegant) --- */}}
+                {{ $headings := .TableOfContents }}
+                {{ if $headings }}
+                <details class="article-toc-box" open>
+                    <summary class="article-toc-summary">
+                        <span class="article-toc-summary-left">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="15" y2="12"/><line x1="3" y1="18" x2="18" y2="18"/></svg>
+                            Sommaire
+                        </span>
+                        <span class="article-toc-summary-toggle" aria-hidden="true"></span>
+                    </summary>
+                    <div class="article-toc-content">
+                        {{ .TableOfContents }}
+                    </div>
+                </details>
                 {{ end }}
                 {{ end }}
 
@@ -245,8 +248,8 @@
     var observer = new IntersectionObserver(function(entries) {
         entries.forEach(function(entry) {
             if (entry.isIntersecting) {
-                document.querySelectorAll('.toc a').forEach(function(a) { a.classList.remove('toc-active'); });
-                var link = document.querySelector('.toc a[href="#' + entry.target.id + '"]');
+                document.querySelectorAll('.article-toc-content a').forEach(function(a) { a.classList.remove('toc-active'); });
+                var link = document.querySelector('.article-toc-content a[href="#' + entry.target.id + '"]');
                 if (link) link.classList.add('toc-active');
             }
         });
