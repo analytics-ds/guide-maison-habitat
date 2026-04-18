@@ -1161,3 +1161,181 @@ section { padding: var(--space-lg) 0; }
     background: var(--background-alt);
     margin-top: var(--space-lg);
 }
+
+/* --- Banniere simulateurs sur la home --- */
+.simulators-banner {
+    padding: var(--space-xl) 0;
+    background: var(--primary);
+    color: var(--background);
+}
+.simulators-banner .hero-eyebrow {
+    color: var(--accent-light);
+}
+.simulators-banner .section-title {
+    color: var(--background);
+    margin-bottom: var(--space-sm);
+}
+.simulators-banner .section-subtitle {
+    color: rgba(250, 247, 242, 0.75);
+}
+.simulators-banner-heading {
+    text-align: center;
+    margin-bottom: var(--space-lg);
+}
+.simulators-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--space-md);
+}
+.simulator-tile {
+    background: rgba(250, 247, 242, 0.06);
+    border: 1px solid rgba(250, 247, 242, 0.12);
+    border-radius: var(--radius-lg);
+    padding: var(--space-md);
+    color: var(--background);
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    transition: background-color var(--transition-base), border-color var(--transition-base), transform var(--transition-base);
+}
+.simulator-tile:hover {
+    background: rgba(250, 247, 242, 0.1);
+    border-color: var(--accent);
+    transform: translateY(-3px);
+    color: var(--background);
+}
+.simulator-tile-icon {
+    display: inline-flex;
+    align-items: center; justify-content: center;
+    width: 44px; height: 44px;
+    border-radius: 50%;
+    background: rgba(176, 137, 104, 0.18);
+    color: var(--accent-light);
+    margin-bottom: 4px;
+}
+.simulator-tile h3 {
+    font-family: var(--font-heading);
+    font-size: 1.35rem;
+    font-weight: 500;
+    font-style: italic;
+    color: var(--background);
+    margin: 0;
+    letter-spacing: -0.01em;
+}
+.simulator-tile p {
+    font-family: var(--font-body);
+    font-size: 0.88rem;
+    color: rgba(250, 247, 242, 0.7);
+    line-height: 1.5;
+    margin: 0;
+    flex: 1;
+}
+.simulator-tile-link {
+    font-family: var(--font-ui);
+    font-size: 0.78rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent-light);
+}
+
+@media (max-width: 1024px) {
+    .simulators-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 600px) {
+    .simulators-grid { grid-template-columns: 1fr; }
+}
+
+/* --- Formulaires simulateurs (page dediee) --- */
+.simulator-card {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: var(--space-md);
+    margin: var(--space-md) 0 var(--space-lg);
+}
+.simulator-form {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-sm);
+}
+.sim-field {
+    display: flex; flex-direction: column; gap: 6px;
+}
+.sim-field label {
+    font-family: var(--font-ui);
+    font-size: 0.82rem; font-weight: 500;
+    color: var(--text);
+}
+.sim-field input,
+.sim-field select {
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    color: var(--text);
+    background: var(--background);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 0.55rem 0.75rem;
+    transition: border-color var(--transition-fast);
+}
+.sim-field input:focus,
+.sim-field select:focus {
+    outline: none;
+    border-color: var(--accent);
+}
+.simulator-form button {
+    grid-column: 1 / -1;
+    justify-self: start;
+    margin-top: 4px;
+    cursor: pointer;
+    border: none;
+}
+.simulator-result {
+    margin-top: var(--space-md);
+    padding-top: var(--space-md);
+    border-top: 1px solid var(--border);
+}
+.sim-result-main {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-bottom: var(--space-sm);
+}
+.sim-result-label {
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--text-muted);
+}
+.sim-result-value {
+    font-family: var(--font-heading);
+    font-size: 2.4rem;
+    font-weight: 600;
+    font-style: italic;
+    color: var(--accent);
+    line-height: 1.1;
+}
+.sim-result-details {
+    list-style: none; padding: 0;
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    color: var(--text);
+    display: flex; flex-direction: column; gap: 6px;
+}
+.sim-result-details li { padding: 4px 0; }
+.sim-result-details strong {
+    color: var(--primary);
+    font-weight: 600;
+}
+.sim-disclaimer {
+    margin-top: var(--space-sm);
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    font-style: italic;
+}
+@media (max-width: 600px) {
+    .simulator-form { grid-template-columns: 1fr; }
+    .sim-result-value { font-size: 2rem; }
+}
