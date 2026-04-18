@@ -170,24 +170,6 @@
 </section>
 {{ end }}
 
-{{/* --- Ils nous font reference (sources officielles) --- */}}
-{{ if eq $lang "fr" }}
-<section class="home-sources">
-    <div class="container">
-        <span class="home-sources-label">Ils nous font référence</span>
-        <ul class="home-sources-list">
-            <li>Banque de France</li>
-            <li>INSEE</li>
-            <li>ADEME</li>
-            <li>Notaires de France</li>
-            <li>Fédération Française du Bâtiment</li>
-            <li>MaPrimeRénov'</li>
-            <li>Ministère du Logement</li>
-        </ul>
-    </div>
-</section>
-{{ end }}
-
 {{/* --- Notre methode editoriale --- */}}
 {{ if eq $lang "fr" }}
 <section class="home-method">
@@ -230,56 +212,65 @@
 </section>
 {{ end }}
 
-{{/* --- L'equipe experte --- */}}
+{{/* --- L'equipe experte (carrousel) --- */}}
 {{ if eq $lang "fr" }}
+{{ $teamOrder := slice "sophie-martin" "claire-beaumont" "thomas-durand" "laura-verdier" "magalie-ergoz" "kevin-moreau" }}
 <section class="home-team">
     <div class="container">
         <div class="home-team-heading">
             <h2 class="section-title section-title-center">L'équipe experte</h2>
-            <p class="section-subtitle">Deux plumes au service d'une information factuelle et accessible sur l'immobilier et la maison.</p>
+            <p class="section-subtitle">Des plumes identifiées au service d'une information factuelle et accessible sur l'immobilier et la maison.</p>
         </div>
-        <div class="home-team-grid">
-            {{ $sophie := index .Site.Data.authors "sophie-martin" }}
-            {{ $claire := index .Site.Data.authors "claire-beaumont" }}
-            {{ with $sophie }}
-            <a href="{{ printf "authors/%s/" (.id | urlize) | relLangURL }}" class="team-card">
-                {{ with .avatar }}
-                <img src="{{ . | relURL }}" alt="{{ $sophie.name }}" class="team-card-avatar" width="120" height="120" loading="lazy">
-                {{ else }}
-                <span class="team-card-avatar team-card-avatar-placeholder" aria-hidden="true">{{ slicestr .name 0 1 }}</span>
+        <div class="home-team-carousel" data-team-carousel>
+            <button type="button" class="team-carousel-btn team-carousel-btn-prev" aria-label="Précédent" data-carousel-prev>
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+            </button>
+            <div class="home-team-track" data-carousel-track>
+                {{ range $teamOrder }}
+                {{ $author := index $.Site.Data.authors . }}
+                {{ with $author }}
+                <a href="{{ printf "authors/%s/" (.id | urlize) | relLangURL }}" class="team-card">
+                    {{ with .avatar }}
+                    <img src="{{ . | relURL }}" alt="{{ $author.name }}" class="team-card-avatar" width="120" height="120" loading="lazy">
+                    {{ else }}
+                    <span class="team-card-avatar team-card-avatar-placeholder" aria-hidden="true">{{ slicestr .name 0 1 }}</span>
+                    {{ end }}
+                    <span class="team-card-role">{{ index .role "fr" }}</span>
+                    <h3 class="team-card-name">{{ .name }}</h3>
+                    <p class="team-card-bio">{{ index .bio "fr" }}</p>
+                    {{ with .expertise }}
+                    <div class="team-card-expertise">
+                        {{ range first 3 . }}<span class="team-card-expertise-item">{{ . }}</span>{{ end }}
+                    </div>
+                    {{ end }}
+                    <span class="team-card-link">Voir ses articles →</span>
+                </a>
                 {{ end }}
-                <span class="team-card-role">{{ index .role "fr" }}</span>
-                <h3 class="team-card-name">{{ .name }}</h3>
-                <p class="team-card-bio">{{ index .bio "fr" }}</p>
-                {{ with .expertise }}
-                <div class="team-card-expertise">
-                    {{ range first 4 . }}<span class="team-card-expertise-item">{{ . }}</span>{{ end }}
-                </div>
                 {{ end }}
-                <span class="team-card-link">Voir ses articles →</span>
-            </a>
-            {{ end }}
-            {{ with $claire }}
-            <a href="{{ printf "authors/%s/" (.id | urlize) | relLangURL }}" class="team-card">
-                {{ with .avatar }}
-                <img src="{{ . | relURL }}" alt="{{ $claire.name }}" class="team-card-avatar" width="120" height="120" loading="lazy">
-                {{ else }}
-                <span class="team-card-avatar team-card-avatar-placeholder" aria-hidden="true">{{ slicestr .name 0 1 }}</span>
-                {{ end }}
-                <span class="team-card-role">{{ index .role "fr" }}</span>
-                <h3 class="team-card-name">{{ .name }}</h3>
-                <p class="team-card-bio">{{ index .bio "fr" }}</p>
-                {{ with .expertise }}
-                <div class="team-card-expertise">
-                    {{ range first 4 . }}<span class="team-card-expertise-item">{{ . }}</span>{{ end }}
-                </div>
-                {{ end }}
-                <span class="team-card-link">Voir ses articles →</span>
-            </a>
-            {{ end }}
+            </div>
+            <button type="button" class="team-carousel-btn team-carousel-btn-next" aria-label="Suivant" data-carousel-next>
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+            </button>
         </div>
     </div>
 </section>
+<script>
+(function() {
+    document.querySelectorAll('[data-team-carousel]').forEach(function(root) {
+        var track = root.querySelector('[data-carousel-track]');
+        var prev = root.querySelector('[data-carousel-prev]');
+        var next = root.querySelector('[data-carousel-next]');
+        if (!track) return;
+        function scrollBy(dir) {
+            var card = track.querySelector('.team-card');
+            var step = card ? card.offsetWidth + 24 : 340;
+            track.scrollBy({ left: dir * step, behavior: 'smooth' });
+        }
+        if (prev) prev.addEventListener('click', function() { scrollBy(-1); });
+        if (next) next.addEventListener('click', function() { scrollBy(1); });
+    });
+})();
+</script>
 {{ end }}
 
 {{/* --- Section derniers articles (en bas de page) --- */}}

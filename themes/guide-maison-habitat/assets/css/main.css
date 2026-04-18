@@ -2894,13 +2894,56 @@ p.article-description-on-image {
     margin-left: auto;
     margin-right: auto;
 }
-.home-team-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: var(--space-md);
-    max-width: 980px;
-    margin: 0 auto;
+.home-team-carousel {
+    position: relative;
+    display: flex;
+    align-items: stretch;
+    gap: var(--space-sm);
 }
+.home-team-track {
+    flex: 1;
+    display: flex;
+    gap: var(--space-md);
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    padding: 4px 4px var(--space-sm);
+    margin: 0 -4px;
+    scrollbar-width: thin;
+    scrollbar-color: var(--border) transparent;
+}
+.home-team-track::-webkit-scrollbar { height: 6px; }
+.home-team-track::-webkit-scrollbar-track { background: transparent; }
+.home-team-track::-webkit-scrollbar-thumb {
+    background: var(--border);
+    border-radius: 3px;
+}
+.home-team-track .team-card {
+    flex: 0 0 340px;
+    scroll-snap-align: start;
+}
+.team-carousel-btn {
+    flex-shrink: 0;
+    align-self: center;
+    width: 48px; height: 48px;
+    border-radius: 50%;
+    background: var(--white);
+    border: 1px solid var(--border);
+    color: var(--primary);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 14px -6px rgba(27, 27, 27, 0.12);
+    transition: background-color var(--transition-base), color var(--transition-base), border-color var(--transition-base), transform var(--transition-base);
+}
+.team-carousel-btn:hover {
+    background: var(--primary);
+    color: var(--background);
+    border-color: var(--primary);
+    transform: scale(1.05);
+}
+.team-carousel-btn:active { transform: scale(0.96); }
 .team-card {
     position: relative;
     display: flex;
@@ -3011,5 +3054,6 @@ p.article-description-on-image {
     padding-left: 3px;
 }
 @media (max-width: 760px) {
-    .home-team-grid { grid-template-columns: 1fr; }
+    .team-carousel-btn { display: none; }
+    .home-team-track .team-card { flex: 0 0 85%; }
 }
