@@ -676,7 +676,7 @@ section { padding: var(--space-lg) 0; }
 /* --- Hero avec image en background --- */
 .article-hero-bg {
     position: relative;
-    min-height: 560px;
+    min-height: 480px;
     display: flex;
     overflow: hidden;
     color: var(--white);
@@ -706,14 +706,14 @@ section { padding: var(--space-lg) 0; }
     flex-direction: column;
     justify-content: space-between;
     width: 100%;
-    min-height: 520px;
+    min-height: 420px;
 }
 .article-hero-bg-text {
     max-width: 900px;
-    margin-top: auto;
+    margin-top: var(--space-md);
 }
 .breadcrumb-on-image {
-    margin: 0 0 auto;
+    margin: 0;
 }
 .breadcrumb-on-image .breadcrumb-item,
 .breadcrumb-on-image .breadcrumb-item a {
