@@ -1,0 +1,90 @@
+{{ define "main" }}
+{{ $lang := .Site.Language.Lang }}
+{{ $isEN := eq $lang "en" }}
+
+<div class="container">
+    <nav class="breadcrumb" aria-label="{{ if $isEN }}Breadcrumb{{ else }}Fil d'Ariane{{ end }}">
+        <ol class="breadcrumb-list">
+            <li class="breadcrumb-item">
+                <a href="{{ "/" | relLangURL }}">{{ if $isEN }}Home{{ else }}Accueil{{ end }}</a>
+                <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12"/></svg>
+            </li>
+            <li class="breadcrumb-item"><span aria-current="page">{{ .Title }}</span></li>
+        </ol>
+    </nav>
+</div>
+
+<section class="list-header">
+    <div class="container">
+        <span class="list-eyebrow">{{ if $isEN }}Free tools{{ else }}Outils gratuits{{ end }}</span>
+        <h1>{{ .Title }}</h1>
+        {{ with .Description }}<p class="list-description">{{ . }}</p>{{ end }}
+    </div>
+</section>
+
+<section class="simulators-index">
+    <div class="container">
+        <div class="simulators-grid">
+            <a href="{{ "simulateurs/capacite-emprunt/" | relLangURL }}" class="simulator-tile">
+                <span class="simulator-tile-left">
+                    <span class="simulator-tile-number">01</span>
+                    <span class="simulator-tile-icon" aria-hidden="true">
+                        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 7h8M8 11h8M8 15h5"/></svg>
+                    </span>
+                </span>
+                <span class="simulator-tile-body">
+                    <h3>{{ if $isEN }}Borrowing capacity{{ else }}Capacité d'emprunt{{ end }}</h3>
+                    <p>{{ if $isEN }}The maximum amount you can borrow based on your income.{{ else }}Le montant maximal empruntable selon vos revenus.{{ end }}</p>
+                </span>
+                <span class="simulator-tile-link" aria-label="{{ if $isEN }}Start simulation{{ else }}Lancer la simulation{{ end }}"></span>
+            </a>
+            <a href="{{ "simulateurs/mensualites/" | relLangURL }}" class="simulator-tile">
+                <span class="simulator-tile-left">
+                    <span class="simulator-tile-number">02</span>
+                    <span class="simulator-tile-icon" aria-hidden="true">
+                        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12h4l3-9 4 18 3-9h4"/></svg>
+                    </span>
+                </span>
+                <span class="simulator-tile-body">
+                    <h3>{{ if $isEN }}Loan monthly payment{{ else }}Mensualités de prêt{{ end }}</h3>
+                    <p>{{ if $isEN }}Your monthly payments and the total credit cost.{{ else }}Vos mensualités et le coût total du crédit.{{ end }}</p>
+                </span>
+                <span class="simulator-tile-link" aria-label="{{ if $isEN }}Start simulation{{ else }}Lancer la simulation{{ end }}"></span>
+            </a>
+            <a href="{{ "simulateurs/frais-notaire/" | relLangURL }}" class="simulator-tile">
+                <span class="simulator-tile-left">
+                    <span class="simulator-tile-number">03</span>
+                    <span class="simulator-tile-icon" aria-hidden="true">
+                        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 3 8v2h18V8l-9-5ZM5 10v9M19 10v9M9 10v9M15 10v9M3 21h18"/></svg>
+                    </span>
+                </span>
+                <span class="simulator-tile-body">
+                    <h3>{{ if $isEN }}Notary fees{{ else }}Frais de notaire{{ end }}</h3>
+                    <p>{{ if $isEN }}Acquisition fees for a new or old property.{{ else }}Les frais d'acquisition pour un bien neuf ou ancien.{{ end }}</p>
+                </span>
+                <span class="simulator-tile-link" aria-label="{{ if $isEN }}Start simulation{{ else }}Lancer la simulation{{ end }}"></span>
+            </a>
+            <a href="{{ "simulateurs/pret-taux-zero/" | relLangURL }}" class="simulator-tile">
+                <span class="simulator-tile-left">
+                    <span class="simulator-tile-number">04</span>
+                    <span class="simulator-tile-icon" aria-hidden="true">
+                        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M9 9h6M9 15h6M10 9l4 6"/></svg>
+                    </span>
+                </span>
+                <span class="simulator-tile-body">
+                    <h3>{{ if $isEN }}Zero-rate loan{{ else }}Prêt à taux zéro{{ end }}</h3>
+                    <p>{{ if $isEN }}Your PTZ amount according to zone and household.{{ else }}Votre montant PTZ selon la zone et le foyer.{{ end }}</p>
+                </span>
+                <span class="simulator-tile-link" aria-label="{{ if $isEN }}Start simulation{{ else }}Lancer la simulation{{ end }}"></span>
+            </a>
+        </div>
+
+        {{ with .Content }}
+        <div class="simulators-intro">
+            {{ . }}
+        </div>
+        {{ end }}
+    </div>
+</section>
+
+{{ end }}

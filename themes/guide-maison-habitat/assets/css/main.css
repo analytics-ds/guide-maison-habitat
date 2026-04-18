@@ -1179,6 +1179,44 @@ section { padding: var(--space-lg) 0; }
     margin-top: 0;
 }
 
+/* --- Page index /simulateurs/ --- */
+.simulators-index {
+    padding: var(--space-md) 0 var(--space-xl);
+}
+.simulators-intro {
+    max-width: var(--container-narrow);
+    margin: var(--space-xl) auto 0;
+    padding-top: var(--space-lg);
+    border-top: 1px solid var(--border);
+    font-family: var(--font-body);
+    font-size: 1.02rem;
+    line-height: 1.8;
+    color: var(--text);
+}
+.simulators-intro h2 {
+    font-family: var(--font-heading);
+    font-size: 1.9rem;
+    font-weight: 500;
+    font-style: italic;
+    color: var(--primary);
+    margin: 0 0 var(--space-sm);
+    letter-spacing: -0.01em;
+}
+.simulators-intro p { margin-bottom: var(--space-sm); }
+.simulators-intro ul {
+    margin-bottom: var(--space-sm);
+    padding-left: var(--space-md);
+}
+.simulators-intro li { margin-bottom: 6px; }
+.simulators-intro strong { color: var(--primary); font-weight: 600; }
+.simulators-intro a {
+    color: var(--primary);
+    text-decoration: underline;
+    text-decoration-color: var(--accent);
+    text-underline-offset: 3px;
+}
+.simulators-intro a:hover { color: var(--accent); }
+
 /* --- Banniere simulateurs sur la home (creme) --- */
 .simulators-banner {
     padding: var(--space-xl) 0;
