@@ -62,15 +62,6 @@
             {{ range first 3 $catArticles }}
             {{ partial "article-card.html" (dict "page" . "lang" $lang "compact" true) }}
             {{ end }}
-            {{ if lt (len $catArticles) 3 }}
-            <a href="{{ $cat.url | relURL }}" class="article-card article-card-see-all">
-                <span class="article-card-see-all-inner">
-                    <span class="article-card-see-all-label">{{ if eq $lang "en" }}Discover{{ else }}Découvrir{{ end }}</span>
-                    <span class="article-card-see-all-title">{{ if eq $lang "en" }}All articles<br><em>{{ $cat.name }}</em>{{ else }}Tous les articles<br><em>{{ $cat.name }}</em>{{ end }}</span>
-                    <span class="article-card-see-all-arrow" aria-hidden="true">→</span>
-                </span>
-            </a>
-            {{ end }}
         </div>
     </div>
 </section>
