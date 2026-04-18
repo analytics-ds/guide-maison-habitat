@@ -29,14 +29,22 @@
     </nav>
 </div>
 
-<section class="list-header">
+{{ $showPills := or (and (eq .Kind "section") (eq .Section "blog")) (eq .Kind "term") }}
+<section class="list-header{{ if $showPills }} list-header-with-pills{{ end }}">
     <div class="container">
+        <span class="list-eyebrow">
+            {{ if eq .Kind "term" }}
+                {{ if $isEN }}Category{{ else }}Catégorie{{ end }}
+            {{ else }}
+                {{ if $isEN }}Articles & guides{{ else }}Articles & guides{{ end }}
+            {{ end }}
+            <span class="list-eyebrow-count">· {{ len .Pages }}</span>
+        </span>
         <h1>{{ .Title }}</h1>
         {{ with .Description }}<p class="list-description">{{ . }}</p>{{ end }}
-        <span class="list-count">{{ len .Pages }} {{ if gt (len .Pages) 1 }}articles{{ else }}article{{ end }}</span>
 
         {{/* --- Pills categories integres dans le header --- */}}
-        {{ if or (and (eq .Kind "section") (eq .Section "blog")) (eq .Kind "term") }}
+        {{ if $showPills }}
         <nav class="category-pills category-pills-header" aria-label="{{ if $isEN }}Categories{{ else }}Catégories{{ end }}">
             <a href="{{ "blog/" | relLangURL }}" class="category-pill{{ if and (eq .Kind "section") (eq .Section "blog") }} category-pill-active{{ end }}">{{ if $isEN }}All{{ else }}Tous{{ end }}</a>
             {{ $currentURL := .RelPermalink }}
