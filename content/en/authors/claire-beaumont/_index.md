@@ -1,6 +1,6 @@
 ---
-title: "Claire Beaumont"
-description: "Claire Beaumont — Home & renovation expert. Claire Beaumont is a trained interior designer and has been blogging for over 10 years. She tests and compares tools, materials and service "
+title: "Ambre Lacassagne"
+description: "Ambre Lacassagne, interior architect, shares her methods to optimize small spaces, volumes and flow in your home."
 slug: "claire-beaumont"
 translationKey: "author-claire-beaumont"
 ---

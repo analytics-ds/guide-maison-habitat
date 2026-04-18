@@ -1,11 +1,37 @@
 {{ define "main" }}
 {{ $lang := .Site.Language.Lang }}
+{{ $blogPages := where site.RegularPages "Section" "blog" }}
+{{ $totalArticles := len $blogPages }}
+{{ $authorCount := len .Site.Data.authors }}
+
 <section class="authors-list-hero">
     <div class="container">
+        <nav class="breadcrumb" aria-label="{{ i18n "breadcrumb_label" | default "Breadcrumb" }}">
+            <ol class="breadcrumb-list">
+                <li class="breadcrumb-item"><a href="{{ "/" | relLangURL }}">{{ i18n "breadcrumb_home" | default "Accueil" }}</a></li>
+                <li class="breadcrumb-item"><span aria-current="page">{{ .Title }}</span></li>
+            </ol>
+        </nav>
+        <span class="eyebrow">{{ i18n "authors_eyebrow" | default "Équipe éditoriale" }}</span>
         <h1>{{ .Title }}</h1>
         {{ with .Description }}<p class="hero-description">{{ . }}</p>{{ end }}
+        <div class="authors-list-stats">
+            <div class="authors-stat">
+                <span class="authors-stat-value">{{ $authorCount }}</span>
+                <span class="authors-stat-label">{{ i18n "authors_stat_experts" | default "experts indépendants" }}</span>
+            </div>
+            <div class="authors-stat">
+                <span class="authors-stat-value">{{ $totalArticles }}</span>
+                <span class="authors-stat-label">{{ i18n "authors_stat_articles" | default "guides publiés" }}</span>
+            </div>
+            <div class="authors-stat">
+                <span class="authors-stat-value">7</span>
+                <span class="authors-stat-label">{{ i18n "authors_stat_themes" | default "thématiques couvertes" }}</span>
+            </div>
+        </div>
     </div>
 </section>
+
 <section class="authors-grid-section">
     <div class="container">
         <div class="authors-grid">
@@ -13,15 +39,44 @@
             {{ $articles := where site.RegularPages "Params.author" $slug }}
             {{ $articles = where $articles "Section" "blog" }}
             {{ $count := len $articles }}
-            <a href="{{ (printf "authors/%s/" $slug) | relLangURL }}" class="author-card">
-                {{ with $data.avatar }}<img src="{{ . | relURL }}" alt="{{ $data.name }}" class="author-card-avatar" width="80" height="80" loading="lazy">{{ end }}
-                <div class="author-card-body">
-                    <h3>{{ $data.name }}</h3>
-                    {{ with index $data.role $lang }}<p class="author-card-role">{{ . }}</p>{{ end }}
-                    <span class="author-card-count">{{ $count }} article{{ if gt $count 1 }}s{{ end }}</span>
+            <article class="author-card">
+                <div class="author-card-header">
+                    {{ with $data.avatar }}<img src="{{ . | relURL }}" alt="{{ $data.name }}" class="author-card-avatar" width="96" height="96" loading="lazy">{{ else }}<span class="author-card-avatar author-card-avatar-placeholder" aria-hidden="true">{{ slicestr $data.name 0 1 }}</span>{{ end }}
+                    <div class="author-card-identity">
+                        <h2 class="author-card-name">{{ $data.name }}</h2>
+                        {{ with index $data.jobTitle $lang }}<p class="author-card-job">{{ . }}</p>{{ end }}
+                    </div>
                 </div>
-            </a>
+                {{ with index $data.bio $lang }}<p class="author-card-bio">{{ . | truncate 180 }}</p>{{ end }}
+                {{ with $data.expertise }}
+                <div class="author-card-tags">
+                    {{ range first 3 . }}<span class="author-tag">{{ . }}</span>{{ end }}
+                </div>
+                {{ end }}
+                <div class="author-card-footer">
+                    <span class="author-card-count">{{ $count }} {{ if eq $lang "en" }}article{{ if gt $count 1 }}s{{ end }}{{ else }}article{{ if gt $count 1 }}s{{ end }}{{ end }}</span>
+                    <a href="{{ (printf "authors/%s/" $slug) | relLangURL }}" class="author-card-link">{{ i18n "author_card_cta" | default "Voir le profil" }} <span aria-hidden="true">↗</span></a>
+                </div>
+            </article>
             {{ end }}
+        </div>
+    </div>
+</section>
+
+<section class="authors-method">
+    <div class="container">
+        <div class="authors-method-grid">
+            <div>
+                <span class="eyebrow">{{ i18n "method_eyebrow" | default "Méthode éditoriale" }}</span>
+                <h2>{{ i18n "authors_method_title" | default "Comment nos experts produisent les contenus" }}</h2>
+                <p>{{ i18n "authors_method_intro" | default "Chaque guide suit un processus strict : recherche sourcée, comparaison terrain, relecture juridique si nécessaire, puis validation par le rédacteur en chef avant mise en ligne." }}</p>
+            </div>
+            <ul class="authors-method-list">
+                <li><strong>{{ i18n "method_1_title" | default "Sources vérifiées" }}</strong><span>{{ i18n "method_1_desc" | default "Textes officiels (code civil, HCSF, ANIL), études sectorielles et données INSEE." }}</span></li>
+                <li><strong>{{ i18n "method_2_title" | default "Expérience terrain" }}</strong><span>{{ i18n "method_2_desc" | default "Chaque rédacteur exerce ou a exercé son métier (agence, cabinet de courtage, chantier, bureau d'architecte)." }}</span></li>
+                <li><strong>{{ i18n "method_3_title" | default "Mises à jour régulières" }}</strong><span>{{ i18n "method_3_desc" | default "Les guides sont revus à chaque évolution réglementaire ou fiscale significative." }}</span></li>
+                <li><strong>{{ i18n "method_4_title" | default "Indépendance" }}</strong><span>{{ i18n "method_4_desc" | default "Aucun partenariat commercial ne dicte nos recommandations, les comparatifs restent neutres." }}</span></li>
+            </ul>
         </div>
     </div>
 </section>

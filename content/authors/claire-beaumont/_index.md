@@ -1,6 +1,6 @@
 ---
-title: "Claire Beaumont"
-description: "Claire Beaumont — Experte habitat & rénovation. Claire Beaumont est architecte d'intérieur de formation et blogueuse depuis plus de 10 ans. Elle teste et compare outils, matériaux et prest"
+title: "Ambre Lacassagne"
+description: "Ambre Lacassagne, architecte d'intérieur, partage ses méthodes pour optimiser petits espaces, volumes et circulations dans votre logement."
 slug: "claire-beaumont"
 translationKey: "author-claire-beaumont"
 ---

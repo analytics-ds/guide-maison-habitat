@@ -1,6 +1,6 @@
 ---
-title: "Magalie Ergoz"
-description: "Magalie Ergoz — Fashion & beauty specialist. Magalie Ergoz is a fashion and beauty blogger. She tests and compares brands to help her readers find the best products at the right price."
+title: "Inès Brissac"
+description: "Inès Brissac, home stager and interior décorator, advises on trends, color palettes and furniture for harmonious and lasting décor."
 slug: "magalie-ergoz"
 translationKey: "author-magalie-ergoz"
 ---

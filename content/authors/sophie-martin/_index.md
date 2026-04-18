@@ -1,6 +1,6 @@
 ---
-title: "Sophie Martin"
-description: "Sophie Martin — Specialiste épargne & investissement. Sophie Martin est journaliste financière indépendante depuis 10 ans. Elle analyse et compare produits d'épargne, solutions d'investissement "
+title: "Héloïse Valadier"
+description: "Héloïse Valadier, courtière en crédit immobilier depuis 10 ans, analyse financement, investissement locatif et fiscalité pour optimiser vos acquisitions."
 slug: "sophie-martin"
 translationKey: "author-sophie-martin"
 ---

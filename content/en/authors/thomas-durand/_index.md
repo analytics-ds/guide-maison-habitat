@@ -1,6 +1,6 @@
 ---
-title: "Thomas Durand"
-description: "Thomas Durand — Editor-in-Chief & tech analyst. Thomas Durand is Editor-in-Chief. Passionate about technology, he tests and compares digital solutions to help professionals and individuals"
+title: "Rémi Castagnier"
+description: "Rémi Castagnier, Editor-in-Chief of Guide Maison & Habitat and former real estate négociator, decodes the market, purchase and sale procedures for individuals."
 slug: "thomas-durand"
 translationKey: "author-thomas-durand"
 ---

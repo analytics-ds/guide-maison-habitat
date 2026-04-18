@@ -1,6 +1,6 @@
 ---
-title: "Kevin Moreau"
-description: "Kevin Moreau — Specialiste transport & mobilité. Kevin Moreau couvre l'actualite automobile et des nouvelles mobilites depuis 12 ans. Il teste véhicules, solutions de transport et services "
+title: "Adrien Vasseur"
+description: "Adrien Vasseur, ancien conducteur de travaux pendant 15 ans, décortique chantiers, matériaux et devis pour piloter ses travaux de rénovation sans surprise."
 slug: "kevin-moreau"
 translationKey: "author-kevin-moreau"
 ---
