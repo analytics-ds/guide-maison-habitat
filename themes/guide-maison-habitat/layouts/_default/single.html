@@ -150,6 +150,42 @@
                     </div>
                 </aside>
                 {{ end }}
+
+                {{/* --- Navigation prev/next --- */}}
+                {{ if or .PrevInSection .NextInSection }}
+                <nav class="article-nav-wrapper" aria-label="Navigation articles">
+                    <div class="article-nav">
+                        {{ with .PrevInSection }}
+                        <a href="{{ .RelPermalink }}" class="nav-card nav-card-prev">
+                            <span class="nav-card-label">
+                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+                                Article précédent
+                            </span>
+                            <span class="nav-card-title">{{ .Title }}</span>
+                            {{ with .Params.categories }}
+                            <span class="nav-card-category">{{ index . 0 }}</span>
+                            {{ end }}
+                        </a>
+                        {{ else }}
+                        <span class="nav-card-placeholder"></span>
+                        {{ end }}
+                        {{ with .NextInSection }}
+                        <a href="{{ .RelPermalink }}" class="nav-card nav-card-next">
+                            <span class="nav-card-label">
+                                Article suivant
+                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+                            </span>
+                            <span class="nav-card-title">{{ .Title }}</span>
+                            {{ with .Params.categories }}
+                            <span class="nav-card-category">{{ index . 0 }}</span>
+                            {{ end }}
+                        </a>
+                        {{ else }}
+                        <span class="nav-card-placeholder"></span>
+                        {{ end }}
+                    </div>
+                </nav>
+                {{ end }}
                 {{ end }}
             </div>
         </div>
@@ -193,26 +229,6 @@
         </div>
     </section>
     {{ end }}
-
-    {{/* --- Navigation prev/next (en bas, sous related articles) --- */}}
-    <nav class="article-footer" aria-label="Navigation articles">
-        <div class="container">
-            <div class="article-nav">
-                {{ with .PrevInSection }}
-                <a href="{{ .RelPermalink }}" class="nav-prev">
-                    <span class="nav-label">← Article précédent</span>
-                    <span class="nav-title">{{ .Title }}</span>
-                </a>
-                {{ end }}
-                {{ with .NextInSection }}
-                <a href="{{ .RelPermalink }}" class="nav-next">
-                    <span class="nav-label">Article suivant →</span>
-                    <span class="nav-title">{{ .Title }}</span>
-                </a>
-                {{ end }}
-            </div>
-        </div>
-    </nav>
     {{ end }}
 </article>
 
