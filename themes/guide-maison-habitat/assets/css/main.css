@@ -676,79 +676,109 @@ section { padding: var(--space-lg) 0; }
 /* --- Hero avec image en background --- */
 .article-hero-bg {
     position: relative;
-    min-height: 520px;
+    min-height: 560px;
     display: flex;
-    align-items: stretch;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    overflow: hidden;
     color: var(--white);
-    margin-bottom: calc(-1 * var(--space-lg));
     padding: var(--space-md) 0 calc(var(--space-xl) + var(--space-lg));
+    margin-bottom: calc(-1 * var(--space-lg));
+}
+.article-hero-bg-img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    z-index: 0;
 }
 .article-hero-bg-overlay {
-    position: absolute; inset: 0;
-    background: linear-gradient(180deg, rgba(27, 27, 27, 0.35) 0%, rgba(27, 27, 27, 0.55) 55%, rgba(27, 27, 27, 0.85) 100%);
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background:
+        linear-gradient(180deg, rgba(0, 0, 0, 0.35) 0%, rgba(0, 0, 0, 0.55) 45%, rgba(0, 0, 0, 0.8) 100%);
 }
 .article-hero-bg-inner {
     position: relative;
     z-index: 2;
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
+    justify-content: space-between;
     width: 100%;
+    min-height: 520px;
 }
 .article-hero-bg-text {
     max-width: 900px;
     margin-top: auto;
 }
 .breadcrumb-on-image {
-    margin-bottom: auto;
-    padding-top: var(--space-sm);
+    margin: 0 0 auto;
 }
 .breadcrumb-on-image .breadcrumb-item,
-.breadcrumb-on-image .breadcrumb-item a,
-.breadcrumb-on-image .breadcrumb-item span { color: rgba(255, 255, 255, 0.85); }
-.breadcrumb-on-image .breadcrumb-item a:hover { color: var(--accent-light); }
-.breadcrumb-on-image .breadcrumb-sep { color: rgba(255, 255, 255, 0.4); }
+.breadcrumb-on-image .breadcrumb-item a {
+    color: rgba(255, 255, 255, 0.85) !important;
+}
+.breadcrumb-on-image .breadcrumb-item span {
+    color: var(--white) !important;
+}
+.breadcrumb-on-image .breadcrumb-item a:hover {
+    color: var(--accent-light) !important;
+}
+.breadcrumb-on-image .breadcrumb-sep {
+    color: rgba(255, 255, 255, 0.45) !important;
+}
 .article-meta-on-image {
     font-family: var(--font-ui);
     font-size: 0.78rem;
+    font-weight: 500;
     text-transform: uppercase;
     letter-spacing: 0.14em;
-    color: rgba(255, 255, 255, 0.88);
+    color: rgba(255, 255, 255, 0.9);
     display: flex;
     align-items: center;
     gap: 12px;
     flex-wrap: wrap;
     margin-bottom: var(--space-sm);
 }
-.article-meta-on-image .article-category {
+.article-category-on-image {
     color: var(--accent-light);
     font-weight: 600;
+    text-decoration: none;
+    letter-spacing: 0.14em;
 }
-.article-meta-on-image .meta-separator { color: rgba(255, 255, 255, 0.45); }
-.article-meta-on-image time,
-.article-meta-on-image .article-reading-time { color: rgba(255, 255, 255, 0.8); }
-.article-meta-on-image .article-reading-time { display: inline-flex; align-items: center; gap: 6px; }
-.article-title-on-image {
+.article-category-on-image:hover { color: var(--white); }
+.meta-separator-on-image { color: rgba(255, 255, 255, 0.45); }
+.article-meta-on-image time { color: rgba(255, 255, 255, 0.85); }
+.article-reading-time-on-image {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: rgba(255, 255, 255, 0.85);
+}
+.article-hero-bg .article-title-on-image,
+h1.article-title-on-image {
     font-family: var(--font-heading);
     font-size: clamp(2.2rem, 5vw, 4rem);
     font-weight: 600;
     font-style: italic;
     line-height: 1.05;
     letter-spacing: -0.02em;
-    color: var(--white);
+    color: var(--white) !important;
     margin: 0 0 var(--space-sm);
     max-width: 900px;
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
 }
-.article-description-on-image {
+.article-hero-bg .article-description-on-image,
+p.article-description-on-image {
     font-family: var(--font-body);
     font-size: 1.15rem;
     line-height: 1.55;
-    color: rgba(255, 255, 255, 0.88);
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.92) !important;
     max-width: 720px;
     margin: 0 0 var(--space-sm);
+    text-shadow: 0 1px 6px rgba(0, 0, 0, 0.25);
 }
 
 /* --- Wrapper blanc sur fond creme (contenu article) --- */
@@ -760,7 +790,7 @@ section { padding: var(--space-lg) 0; }
     max-width: 1280px;
     margin: 0 auto;
     padding: var(--space-lg) clamp(1.5rem, 4vw, 3rem);
-    box-shadow: 0 -6px 30px -18px rgba(27, 27, 27, 0.15);
+    box-shadow: 0 -6px 30px -18px rgba(27, 27, 27, 0.18);
 }
 .article-hero-simple {
     padding-top: var(--space-md);

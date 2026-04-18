@@ -9,7 +9,8 @@
 <article class="single-article">
     {{ if and $isBlog .Params.image }}
     {{/* --- Hero avec image en background --- */}}
-    <section class="article-hero-bg" style="background-image: url('{{ .Params.image }}');">
+    <section class="article-hero-bg">
+        <img src="{{ .Params.image }}" alt="{{ .Params.imageAlt | default .Title }}" class="article-hero-bg-img" loading="eager" fetchpriority="high">
         <div class="article-hero-bg-overlay"></div>
         <div class="container article-hero-bg-inner">
             <nav class="breadcrumb breadcrumb-on-image" aria-label="Fil d'Ariane">
@@ -32,21 +33,21 @@
                 </ol>
             </nav>
             <div class="article-hero-bg-text">
-                <div class="article-meta article-meta-on-image">
+                <div class="article-meta-on-image">
                     {{ with .Params.categories }}
-                    <a href="{{ printf "categories/%s/" (index . 0 | urlize) | relURL }}" class="article-category">{{ index . 0 }}</a>
-                    <span class="meta-separator">·</span>
+                    <a href="{{ printf "categories/%s/" (index . 0 | urlize) | relURL }}" class="article-category-on-image">{{ index . 0 }}</a>
+                    <span class="meta-separator-on-image">·</span>
                     {{ end }}
                     <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
-                    <span class="meta-separator">·</span>
-                    <span class="article-reading-time">
+                    <span class="meta-separator-on-image">·</span>
+                    <span class="article-reading-time-on-image">
                         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
                         {{ .ReadingTime }} min de lecture
                     </span>
                 </div>
-                <h1 class="article-title article-title-on-image">{{ .Title }}</h1>
+                <h1 class="article-title-on-image">{{ .Title }}</h1>
                 {{ with .Description }}
-                <p class="article-description article-description-on-image">{{ . }}</p>
+                <p class="article-description-on-image">{{ . }}</p>
                 {{ end }}
             </div>
         </div>
