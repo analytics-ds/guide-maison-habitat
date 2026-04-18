@@ -34,15 +34,10 @@
         <h1>{{ .Title }}</h1>
         {{ with .Description }}<p class="list-description">{{ . }}</p>{{ end }}
         <span class="list-count">{{ len .Pages }} {{ if gt (len .Pages) 1 }}articles{{ else }}article{{ end }}</span>
-    </div>
-</section>
 
-{{/* --- Pills categories (meme mise en forme que la home) --- */}}
-{{ if or (and (eq .Kind "section") (eq .Section "blog")) (eq .Kind "term") }}
-<section class="home-cat-pills-section">
-    <div class="container">
-        <h2 class="home-cat-pills-title">{{ if $isEN }}Our topics{{ else }}Nos thématiques{{ end }}</h2>
-        <nav class="category-pills" aria-label="{{ if $isEN }}Categories{{ else }}Catégories{{ end }}">
+        {{/* --- Pills categories integres dans le header --- */}}
+        {{ if or (and (eq .Kind "section") (eq .Section "blog")) (eq .Kind "term") }}
+        <nav class="category-pills category-pills-header" aria-label="{{ if $isEN }}Categories{{ else }}Catégories{{ end }}">
             <a href="{{ "blog/" | relLangURL }}" class="category-pill{{ if and (eq .Kind "section") (eq .Section "blog") }} category-pill-active{{ end }}">{{ if $isEN }}All{{ else }}Tous{{ end }}</a>
             {{ $currentURL := .RelPermalink }}
             {{ range .Site.Menus.main }}
@@ -51,9 +46,9 @@
             {{ end }}
             {{ end }}
         </nav>
+        {{ end }}
     </div>
 </section>
-{{ end }}
 
 <section class="list-content">
     <div class="container">

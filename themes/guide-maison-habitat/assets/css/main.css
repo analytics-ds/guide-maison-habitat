@@ -618,6 +618,13 @@ section { padding: var(--space-lg) 0; }
     text-transform: uppercase; letter-spacing: 0.12em;
     display: block; margin-top: var(--space-sm);
 }
+.category-pills-header {
+    justify-content: center;
+    margin: var(--space-md) auto 0;
+    max-width: 900px;
+    padding-top: var(--space-md);
+    border-top: 1px solid var(--border);
+}
 .list-content { padding: var(--space-md) 0 var(--space-xl); }
 .articles-list {
     display: grid;
