@@ -37,32 +37,12 @@
 <div class="home-categories">
 <section class="home-cat-pills-section">
     <div class="container">
-        <nav class="category-pills category-pills-pyramid" aria-label="{{ if eq $lang "en" }}Categories{{ else }}Catégories{{ end }}">
-            {{ $nonBlog := slice }}
+        <nav class="category-pills" aria-label="{{ if eq $lang "en" }}Categories{{ else }}Catégories{{ end }}">
+            <a href="{{ "blog/" | relLangURL }}" class="category-pill category-pill-active">{{ if eq $lang "en" }}All{{ else }}Tous{{ end }}</a>
             {{ range .Site.Menus.main }}
             {{ if and (ne .Identifier "blog") (ne .Identifier "simulateurs") (ne .Identifier "simulators") }}
-            {{ $nonBlog = $nonBlog | append . }}
+            <a href="{{ .URL | relURL }}" class="category-pill">{{ .Name }}</a>
             {{ end }}
-            {{ end }}
-            <div class="pills-row">
-                <a href="{{ "blog/" | relLangURL }}" class="category-pill category-pill-active">{{ if eq $lang "en" }}All{{ else }}Tous{{ end }}</a>
-            </div>
-            {{ with $nonBlog }}
-            <div class="pills-row">
-                {{ range first 2 . }}
-                <a href="{{ .URL | relURL }}" class="category-pill">{{ .Name }}</a>
-                {{ end }}
-            </div>
-            <div class="pills-row">
-                {{ range after 2 (first 5 .) }}
-                <a href="{{ .URL | relURL }}" class="category-pill">{{ .Name }}</a>
-                {{ end }}
-            </div>
-            <div class="pills-row">
-                {{ range after 5 . }}
-                <a href="{{ .URL | relURL }}" class="category-pill">{{ .Name }}</a>
-                {{ end }}
-            </div>
             {{ end }}
         </nav>
     </div>
