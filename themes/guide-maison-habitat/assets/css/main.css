@@ -1303,8 +1303,19 @@ section { padding: var(--space-lg) 0; }
     padding: var(--space-md) 0;
     background: var(--white);
 }
+.home-cat-pills-title {
+    font-family: var(--font-heading);
+    font-size: clamp(1.4rem, 2.2vw, 1.8rem);
+    font-weight: 500;
+    font-style: italic;
+    color: var(--primary);
+    letter-spacing: -0.01em;
+    margin: 0 0 var(--space-sm);
+    text-align: left;
+}
 .home-cat-pills-section .category-pills {
     margin-top: 0;
+    justify-content: flex-start;
 }
 .home-cat-section {
     padding: var(--space-md) 0;

@@ -37,6 +37,7 @@
 <div class="home-categories">
 <section class="home-cat-pills-section">
     <div class="container">
+        <h2 class="home-cat-pills-title">{{ if eq $lang "en" }}Our topics{{ else }}Nos thématiques{{ end }}</h2>
         <nav class="category-pills" aria-label="{{ if eq $lang "en" }}Categories{{ else }}Catégories{{ end }}">
             <a href="{{ "blog/" | relLangURL }}" class="category-pill category-pill-active">{{ if eq $lang "en" }}All{{ else }}Tous{{ end }}</a>
             {{ range .Site.Menus.main }}
