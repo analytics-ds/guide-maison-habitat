@@ -1124,12 +1124,14 @@ section { padding: var(--space-lg) 0; }
     text-align: center;
 }
 
-/* --- Home : sections catégories compactes --- */
+/* --- Home : sections catégories compactes (fond blanc) --- */
 .home-categories {
     padding: var(--space-md) 0;
+    background: var(--white);
 }
 .home-cat-section {
     padding: var(--space-md) 0;
+    background: var(--white);
 }
 .section-heading-compact {
     margin-bottom: var(--space-sm);
@@ -1170,17 +1172,17 @@ section { padding: var(--space-lg) 0; }
     padding: 0;
 }
 
-/* --- Home : section latest en bas --- */
+/* --- Home : section latest en bas (fond blanc) --- */
 .home-latest {
     padding: var(--space-lg) 0 var(--space-xl);
-    background: var(--background-alt);
-    margin-top: var(--space-lg);
+    background: var(--white);
+    margin-top: 0;
 }
 
-/* --- Banniere simulateurs sur la home (blanc premium) --- */
+/* --- Banniere simulateurs sur la home (creme) --- */
 .simulators-banner {
     padding: var(--space-xl) 0;
-    background: var(--white);
+    background: var(--background);
     color: var(--text);
     position: relative;
     overflow: hidden;
@@ -1218,7 +1220,7 @@ section { padding: var(--space-lg) 0; }
 }
 .simulator-tile {
     position: relative;
-    background: var(--background);
+    background: var(--white);
     border: 1px solid var(--border-soft);
     border-radius: 14px;
     padding: 22px 26px;
