@@ -1,5 +1,136 @@
 {{ define "main" }}
 {{ $lang := .Site.Language.Lang }}
+{{ $slug := path.Base .RelPermalink | strings.TrimSuffix "/" }}
+{{ $authorData := index .Site.Data.authors $slug }}
+
+{{ if $authorData }}
+{{/* ========= Page auteur individuelle ========= */}}
+{{ $articles := where .Site.RegularPages "Params.author" $slug }}
+{{ $articles = where $articles "Section" "blog" }}
+{{ $count := len $articles }}
+{{ $cats := slice }}
+{{ range $articles }}{{ range .Params.categories }}{{ $cats = $cats | append . }}{{ end }}{{ end }}
+{{ $cats = $cats | uniq }}
+{{ $lastArticle := "" }}
+{{ with $articles.ByDate.Reverse }}{{ $lastArticle = index . 0 }}{{ end }}
+
+<section class="author-hero">
+    <div class="container">
+        <nav class="breadcrumb" aria-label="{{ i18n "breadcrumb_label" | default "Breadcrumb" }}">
+            <ol class="breadcrumb-list">
+                <li class="breadcrumb-item"><a href="{{ "/" | relLangURL }}">{{ i18n "breadcrumb_home" | default "Accueil" }}</a></li>
+                <li class="breadcrumb-item"><a href="{{ "authors/" | relLangURL }}">{{ i18n "nav_authors" | default "Auteurs" }}</a></li>
+                <li class="breadcrumb-item"><span aria-current="page">{{ $authorData.name }}</span></li>
+            </ol>
+        </nav>
+        <div class="author-hero-grid">
+            <div class="author-hero-main">
+                <div class="author-hero-identity">
+                    {{ with $authorData.avatar }}
+                    <img src="{{ . | relURL }}" alt="{{ $authorData.name }}" class="author-hero-avatar" width="140" height="140" loading="eager">
+                    {{ else }}
+                    <span class="author-hero-avatar author-hero-avatar-placeholder" aria-hidden="true">{{ slicestr $authorData.name 0 1 }}</span>
+                    {{ end }}
+                    <div>
+                        <span class="eyebrow">{{ i18n "author_label" | default "Auteur" }}</span>
+                        <h1 class="author-hero-name">{{ $authorData.name }}</h1>
+                        {{ with index $authorData.jobTitle $lang }}<p class="author-hero-role">{{ . }}</p>{{ end }}
+                    </div>
+                </div>
+                {{ with index $authorData.bio $lang }}<p class="author-hero-bio">{{ . }}</p>{{ end }}
+                {{ with $authorData.expertise }}
+                <div class="author-hero-expertise">
+                    <span class="author-hero-expertise-label">{{ i18n "author_expertise_label" | default "Domaines d'expertise" }}</span>
+                    <div class="author-hero-tags">
+                        {{ range . }}<span class="author-tag">{{ . }}</span>{{ end }}
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+            <aside class="author-hero-aside">
+                <div class="author-stat">
+                    <span class="author-stat-value">{{ $count }}</span>
+                    <span class="author-stat-label">{{ if eq $lang "en" }}guide{{ if gt $count 1 }}s{{ end }} published{{ else }}guide{{ if gt $count 1 }}s{{ end }} publiés{{ end }}</span>
+                </div>
+                {{ if $cats }}
+                <div class="author-stat">
+                    <span class="author-stat-value">{{ len $cats }}</span>
+                    <span class="author-stat-label">{{ if eq $lang "en" }}topic{{ if gt (len $cats) 1 }}s{{ end }} covered{{ else }}thématique{{ if gt (len $cats) 1 }}s{{ end }} couverte{{ if gt (len $cats) 1 }}s{{ end }}{{ end }}</span>
+                </div>
+                {{ end }}
+                {{ if $lastArticle }}
+                <div class="author-stat">
+                    <span class="author-stat-value">{{ $lastArticle.Date.Format "01/2006" }}</span>
+                    <span class="author-stat-label">{{ if eq $lang "en" }}last update{{ else }}dernière publication{{ end }}</span>
+                </div>
+                {{ end }}
+            </aside>
+        </div>
+        {{ if $cats }}
+        <div class="author-topics">
+            <span class="author-topics-label">{{ if eq $lang "en" }}Topics covered on the site:{{ else }}Thématiques traitées sur le site :{{ end }}</span>
+            {{ range $cats }}<span class="author-topic-chip">{{ . }}</span>{{ end }}
+        </div>
+        {{ end }}
+    </div>
+</section>
+
+<section class="author-articles">
+    <div class="container">
+        <div class="section-heading-compact">
+            <h2>{{ i18n "articles_by" | default "Articles par" }} {{ $authorData.name }}</h2>
+            <span class="author-articles-count">{{ $count }} {{ if eq $lang "en" }}article{{ if gt $count 1 }}s{{ end }}{{ else }}article{{ if gt $count 1 }}s{{ end }}{{ end }}</span>
+        </div>
+        {{ if $articles }}
+        <div class="grid-articles">
+            {{ range $articles.ByDate.Reverse }}
+            <article class="article-card">
+                <a href="{{ .RelPermalink }}" class="article-card-image-wrapper" aria-label="{{ .Title }}">
+                    {{ with .Params.categories }}<div class="article-card-badges"><span class="card-badge">{{ index . 0 }}</span></div>{{ end }}
+                    {{ if .Params.image }}
+                    <img src="{{ .Params.image | relURL }}" alt="{{ .Params.imageAlt | default .Title }}" class="article-card-image" loading="lazy" width="600" height="400">
+                    {{ else }}
+                    <span class="article-card-image article-card-image-placeholder" aria-hidden="true">{{ slicestr .Title 0 1 }}</span>
+                    {{ end }}
+                </a>
+                <div class="article-card-body">
+                    <div class="article-meta"><time>{{ .Date.Format "2 January 2006" }}</time></div>
+                    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                    <p>{{ .Description }}</p>
+                </div>
+            </article>
+            {{ end }}
+        </div>
+        {{ else }}
+        <p>{{ i18n "no_articles_author" | default "Aucun article encore publié par cet auteur." }}</p>
+        {{ end }}
+    </div>
+</section>
+
+<section class="author-other">
+    <div class="container">
+        <div class="section-heading-compact">
+            <h2>{{ if eq $lang "en" }}Other experts{{ else }}Les autres experts{{ end }}</h2>
+            <a href="{{ "authors/" | relLangURL }}" class="all-authors-link">{{ if eq $lang "en" }}See all{{ else }}Voir tous{{ end }} <span aria-hidden="true">↗</span></a>
+        </div>
+        <div class="author-other-grid">
+            {{ range $otherSlug, $otherData := .Site.Data.authors }}
+            {{ if ne $otherSlug $slug }}
+            <a href="{{ (printf "authors/%s/" $otherSlug) | relLangURL }}" class="author-mini-card">
+                {{ with $otherData.avatar }}<img src="{{ . | relURL }}" alt="{{ $otherData.name }}" class="author-mini-avatar" width="56" height="56" loading="lazy">{{ else }}<span class="author-mini-avatar author-mini-avatar-placeholder" aria-hidden="true">{{ slicestr $otherData.name 0 1 }}</span>{{ end }}
+                <div>
+                    <strong>{{ $otherData.name }}</strong>
+                    {{ with index $otherData.jobTitle $lang }}<span>{{ . }}</span>{{ end }}
+                </div>
+            </a>
+            {{ end }}
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+{{ else }}
+{{/* ========= Liste de tous les auteurs ========= */}}
 {{ $blogPages := where site.RegularPages "Section" "blog" }}
 {{ $totalArticles := len $blogPages }}
 {{ $authorCount := len .Site.Data.authors }}
@@ -35,8 +166,8 @@
 <section class="authors-grid-section">
     <div class="container">
         <div class="authors-grid">
-            {{ range $slug, $data := .Site.Data.authors }}
-            {{ $articles := where site.RegularPages "Params.author" $slug }}
+            {{ range $rangeSlug, $data := .Site.Data.authors }}
+            {{ $articles := where site.RegularPages "Params.author" $rangeSlug }}
             {{ $articles = where $articles "Section" "blog" }}
             {{ $count := len $articles }}
             <article class="author-card">
@@ -54,8 +185,8 @@
                 </div>
                 {{ end }}
                 <div class="author-card-footer">
-                    <span class="author-card-count">{{ $count }} {{ if eq $lang "en" }}article{{ if gt $count 1 }}s{{ end }}{{ else }}article{{ if gt $count 1 }}s{{ end }}{{ end }}</span>
-                    <a href="{{ (printf "authors/%s/" $slug) | relLangURL }}" class="author-card-link">{{ i18n "author_card_cta" | default "Voir le profil" }} <span aria-hidden="true">↗</span></a>
+                    <span class="author-card-count">{{ $count }} article{{ if gt $count 1 }}s{{ end }}</span>
+                    <a href="{{ (printf "authors/%s/" $rangeSlug) | relLangURL }}" class="author-card-link">{{ i18n "author_card_cta" | default "Voir le profil" }} <span aria-hidden="true">↗</span></a>
                 </div>
             </article>
             {{ end }}
@@ -80,4 +211,5 @@
         </div>
     </div>
 </section>
+{{ end }}
 {{ end }}
