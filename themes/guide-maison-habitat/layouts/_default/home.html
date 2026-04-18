@@ -2,19 +2,15 @@
 {{ $lang := .Site.Language.Lang }}
 {{ $allBlog := where .Site.RegularPages "Section" "blog" }}
 
-<section class="hero">
+<section class="hero hero-v2">
     <div class="container">
-        <span class="hero-eyebrow">{{ if eq $lang "en" }}Real estate expertise{{ else }}L'expertise immobilière{{ end }}</span>
-        <h1 class="hero-title">{{ if eq $lang "en" }}Your guide to real estate <em>& home</em>{{ else }}Votre guide pour l'immobilier <em>& la maison</em>{{ end }}</h1>
-        <p class="hero-description">{{ if eq $lang "en" }}Practical advice, comparisons and guides on buying, selling, renting, financing, insurance, interior design and renovation.{{ else }}Conseils pratiques, comparatifs et guides sur l'achat, la vente, la location, le financement, l'assurance, l'aménagement et les travaux.{{ end }}</p>
-        <nav class="category-pills" aria-label="{{ if eq $lang "en" }}Categories{{ else }}Catégories{{ end }}">
-            <a href="{{ "blog/" | relLangURL }}" class="category-pill category-pill-active">{{ if eq $lang "en" }}All{{ else }}Tous{{ end }}</a>
-            {{ range .Site.Menus.main }}
-            {{ if ne .Identifier "blog" }}
-            <a href="{{ .URL | relURL }}" class="category-pill">{{ .Name }}</a>
-            {{ end }}
-            {{ end }}
-        </nav>
+        <span class="hero-eyebrow">{{ if eq $lang "en" }}Real estate, demystified{{ else }}L'immobilier, simplifié{{ end }}</span>
+        <h1 class="hero-title">{{ if eq $lang "en" }}Make your next <span class="hero-title-accent">real estate</span> move with confidence{{ else }}Réussissez votre projet <span class="hero-title-accent">immobilier</span> en toute confiance{{ end }}</h1>
+        <p class="hero-description">{{ if eq $lang "en" }}Fact-based analyses, clear comparisons and zero jargon to decode buying, selling, renting, financing, insurance, interior design and renovation.{{ else }}Analyses factuelles, comparatifs clairs et zéro jargon pour décoder l'achat, la vente, la location, le financement, l'assurance, l'aménagement et les travaux.{{ end }}</p>
+        <div class="hero-ctas">
+            <a href="{{ "blog/" | relLangURL }}" class="btn-hero-primary">{{ if eq $lang "en" }}Explore the blog{{ else }}Explorer le blog{{ end }}</a>
+            <a href="{{ "simulateurs/" | relLangURL }}" class="btn-hero-secondary">{{ if eq $lang "en" }}View simulators{{ else }}Voir les simulateurs{{ end }}</a>
+        </div>
     </div>
 </section>
 
@@ -30,6 +26,18 @@
 {{ $featuredIds := cond (eq $lang "en") (slice "buying" "selling" "financing") (slice "achat" "vente" "financement") }}
 
 <div class="home-categories">
+<section class="home-cat-pills-section">
+    <div class="container">
+        <nav class="category-pills" aria-label="{{ if eq $lang "en" }}Categories{{ else }}Catégories{{ end }}">
+            <a href="{{ "blog/" | relLangURL }}" class="category-pill category-pill-active">{{ if eq $lang "en" }}All{{ else }}Tous{{ end }}</a>
+            {{ range .Site.Menus.main }}
+            {{ if and (ne .Identifier "blog") (ne .Identifier "simulateurs") (ne .Identifier "simulators") }}
+            <a href="{{ .URL | relURL }}" class="category-pill">{{ .Name }}</a>
+            {{ end }}
+            {{ end }}
+        </nav>
+    </div>
+</section>
 {{ range $featuredIds }}
 {{ $cat := index $catMap . }}
 {{ $catArticles := where $allBlog ".Params.categories" "intersect" (slice $cat.key) }}
