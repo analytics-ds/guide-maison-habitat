@@ -786,11 +786,10 @@ p.article-description-on-image {
     position: relative;
     z-index: 3;
     background: var(--white);
-    border-radius: 16px 16px 0 0;
+    border-radius: 16px;
     max-width: 1280px;
-    margin: 0 auto;
+    margin: 0 auto var(--space-lg);
     padding: var(--space-lg) clamp(1.5rem, 4vw, 3rem);
-    box-shadow: 0 -6px 30px -18px rgba(27, 27, 27, 0.18);
 }
 .article-hero-simple {
     padding-top: var(--space-md);
@@ -1470,7 +1469,7 @@ p.article-description-on-image {
     flex-direction: column;
     gap: 8px;
     padding: var(--space-md);
-    background: linear-gradient(135deg, #FAF7F2 0%, #F0ECE3 100%);
+    background: var(--white);
     border: 1px solid var(--border);
     border-radius: 14px;
     text-decoration: none;
