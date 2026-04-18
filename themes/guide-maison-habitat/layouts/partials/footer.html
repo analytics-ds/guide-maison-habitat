@@ -34,6 +34,7 @@
                         {{ if eq $lang "en" }}
                         <li><a href="{{ "/en/" | relURL }}">Home</a></li>
                         <li><a href="{{ "blog/" | relLangURL }}">Blog</a></li>
+                        <li><a href="{{ "authors/" | relLangURL }}">Authors</a></li>
                         <li><a href="{{ "about/" | relLangURL }}">About</a></li>
                         <li><a href="{{ "contact/" | relLangURL }}">Contact</a></li>
                         <li><a href="{{ "site-map/" | relLangURL }}">Site map</a></li>
@@ -41,6 +42,7 @@
                         {{ else }}
                         <li><a href="{{ "/" | relURL }}">Accueil</a></li>
                         <li><a href="{{ "blog/" | relLangURL }}">Blog</a></li>
+                        <li><a href="{{ "authors/" | relLangURL }}">Nos auteurs</a></li>
                         <li><a href="{{ "a-propos/" | relLangURL }}">À propos</a></li>
                         <li><a href="{{ "contact/" | relLangURL }}">Contact</a></li>
                         <li><a href="{{ "plan-du-site/" | relLangURL }}">Plan du site</a></li>
