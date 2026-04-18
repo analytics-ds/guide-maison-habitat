@@ -131,6 +131,21 @@ h1, h2, h3, h4, h5, h6 {
 .nav-link:hover, .nav-link.active { color: var(--primary); }
 .nav-link:hover::after, .nav-link.active::after { transform: scaleX(1); }
 
+.nav-link-featured {
+    padding: 0.45rem 0.9rem;
+    border: 1px solid var(--accent);
+    border-radius: 999px;
+    color: var(--accent) !important;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    transition: background-color var(--transition-fast), color var(--transition-fast) !important;
+}
+.nav-link-featured::after { display: none; }
+.nav-link-featured:hover {
+    background: var(--accent);
+    color: var(--background) !important;
+}
+
 .lang-switcher { position: relative; font-family: var(--font-ui); font-size: 0.85rem; flex-shrink: 0; }
 .lang-switcher-trigger {
     display: flex; align-items: center; gap: 6px;
@@ -1162,17 +1177,21 @@ section { padding: var(--space-lg) 0; }
     margin-top: var(--space-lg);
 }
 
-/* --- Banniere simulateurs sur la home (style editorial premium) --- */
+/* --- Banniere simulateurs sur la home (style editorial premium sombre) --- */
 .simulators-banner {
     padding: var(--space-xl) 0;
-    background: var(--background-alt);
+    background:
+        radial-gradient(1200px 400px at 50% 0%, rgba(176, 137, 104, 0.14), transparent 60%),
+        linear-gradient(180deg, #1B1B1B 0%, #242220 100%);
+    color: var(--background);
     position: relative;
+    overflow: hidden;
 }
 .simulators-banner::before {
     content: '';
     position: absolute; top: 0; left: 50%;
     transform: translateX(-50%);
-    width: 40px; height: 1px;
+    width: 48px; height: 1px;
     background: var(--accent);
 }
 .simulators-banner-heading {
@@ -1183,12 +1202,15 @@ section { padding: var(--space-lg) 0; }
     margin-right: auto;
 }
 .simulators-banner-heading .hero-eyebrow {
+    color: var(--accent-light);
     margin-bottom: var(--space-sm);
 }
 .simulators-banner-heading .section-title {
+    color: var(--background);
     margin-bottom: var(--space-sm);
 }
 .simulators-banner-heading .section-subtitle {
+    color: rgba(250, 247, 242, 0.72);
     margin-bottom: 0;
 }
 .simulators-grid {
@@ -1199,61 +1221,59 @@ section { padding: var(--space-lg) 0; }
 .simulator-tile {
     position: relative;
     background: var(--background);
-    border: 1px solid var(--border);
-    border-radius: var(--radius-lg);
-    padding: var(--space-md) var(--space-sm) var(--space-sm);
+    border: 1px solid transparent;
+    border-radius: 14px;
+    padding: 28px 22px 22px;
     color: var(--text);
     text-decoration: none;
     display: flex;
     flex-direction: column;
-    gap: 12px;
-    transition: border-color var(--transition-base), transform var(--transition-base), box-shadow var(--transition-base);
+    gap: 14px;
+    transition: transform var(--transition-base), box-shadow var(--transition-base), background-color var(--transition-base);
     overflow: hidden;
+    box-shadow: 0 1px 2px rgba(27, 27, 27, 0.04);
 }
-.simulator-tile::after {
+.simulator-tile::before {
     content: '';
-    position: absolute; left: 0; right: 0; bottom: 0;
-    height: 2px;
-    background: var(--accent);
-    transform: scaleX(0);
-    transform-origin: left;
-    transition: transform var(--transition-base);
+    position: absolute; top: 0; left: 0; right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--accent) 0%, var(--accent-light) 100%);
+    opacity: 0;
+    transition: opacity var(--transition-base);
 }
 .simulator-tile:hover {
-    border-color: var(--accent);
-    transform: translateY(-4px);
-    box-shadow: 0 12px 30px rgba(27, 27, 27, 0.06);
+    transform: translateY(-6px);
+    box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.35), 0 0 0 1px rgba(176, 137, 104, 0.3);
     color: var(--text);
 }
-.simulator-tile:hover::after { transform: scaleX(1); }
+.simulator-tile:hover::before { opacity: 1; }
 .simulator-tile-number {
     font-family: var(--font-heading);
-    font-size: 2.6rem;
+    font-size: 3rem;
     font-weight: 500;
     font-style: italic;
     color: var(--accent);
-    line-height: 1;
-    letter-spacing: -0.02em;
-    margin-bottom: 2px;
+    line-height: 0.9;
+    letter-spacing: -0.04em;
+    opacity: 0.9;
 }
 .simulator-tile-icon {
     display: inline-flex;
     align-items: center; justify-content: center;
-    width: 48px; height: 48px;
-    border-radius: 50%;
-    background: var(--background-alt);
+    width: 52px; height: 52px;
+    border-radius: 14px;
+    background: linear-gradient(145deg, var(--background-alt) 0%, var(--border) 100%);
     color: var(--primary);
-    border: 1px solid var(--border);
-    transition: background-color var(--transition-base), color var(--transition-base);
+    transition: background var(--transition-base), color var(--transition-base), transform var(--transition-base);
 }
 .simulator-tile:hover .simulator-tile-icon {
-    background: var(--primary);
-    color: var(--background);
-    border-color: var(--primary);
+    background: linear-gradient(145deg, var(--primary) 0%, var(--primary-light) 100%);
+    color: var(--accent-light);
+    transform: rotate(-4deg) scale(1.05);
 }
 .simulator-tile h3 {
     font-family: var(--font-heading);
-    font-size: 1.75rem;
+    font-size: 1.8rem;
     font-weight: 500;
     font-style: italic;
     color: var(--primary);
@@ -1272,25 +1292,26 @@ section { padding: var(--space-lg) 0; }
 .simulator-tile-link {
     display: inline-flex;
     align-items: center;
-    gap: 6px;
+    gap: 8px;
     font-family: var(--font-ui);
     font-size: 0.72rem;
     font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: 0.14em;
+    letter-spacing: 0.16em;
     color: var(--primary);
     padding-top: var(--space-sm);
+    margin-top: auto;
     border-top: 1px solid var(--border);
-    margin-top: var(--space-xs);
     transition: color var(--transition-fast);
 }
 .simulator-tile-link::after {
     content: '→';
-    font-size: 0.95rem;
+    font-size: 1rem;
     transition: transform var(--transition-base);
+    display: inline-block;
 }
 .simulator-tile:hover .simulator-tile-link { color: var(--accent); }
-.simulator-tile:hover .simulator-tile-link::after { transform: translateX(4px); }
+.simulator-tile:hover .simulator-tile-link::after { transform: translateX(5px); }
 
 @media (max-width: 1024px) {
     .simulators-grid { grid-template-columns: repeat(2, 1fr); }

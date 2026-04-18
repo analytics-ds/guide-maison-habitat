@@ -71,6 +71,45 @@ disableKinds = ["taxonomy"]
   url = "/categories/travaux-et-renovation/"
   weight = 7
 [[languages.fr.menus.main]]
+  identifier = "simulateurs"
+  name = "Simulateurs"
+  url = "/simulateurs/"
+  weight = 8
+[[languages.fr.menus.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog/"
+  weight = 99
+
+# Menu header FR (leger, aere)
+[[languages.fr.menus.header]]
+  identifier = "achat"
+  name = "Achat"
+  url = "/categories/achat/"
+  weight = 1
+[[languages.fr.menus.header]]
+  identifier = "vente"
+  name = "Vente"
+  url = "/categories/vente/"
+  weight = 2
+[[languages.fr.menus.header]]
+  identifier = "location"
+  name = "Location"
+  url = "/categories/location/"
+  weight = 3
+[[languages.fr.menus.header]]
+  identifier = "financement"
+  name = "Financement"
+  url = "/categories/financement/"
+  weight = 4
+[[languages.fr.menus.header]]
+  identifier = "simulateurs"
+  name = "Simulateurs"
+  url = "/simulateurs/"
+  weight = 5
+  [languages.fr.menus.header.params]
+    featured = true
+[[languages.fr.menus.header]]
   identifier = "blog"
   name = "Blog"
   url = "/blog/"
@@ -113,6 +152,45 @@ disableKinds = ["taxonomy"]
   url = "/en/categories/renovation/"
   weight = 7
 [[languages.en.menus.main]]
+  identifier = "simulators"
+  name = "Simulators"
+  url = "/en/simulators/"
+  weight = 8
+[[languages.en.menus.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/en/blog/"
+  weight = 99
+
+# Menu header EN (leger, aere)
+[[languages.en.menus.header]]
+  identifier = "buying"
+  name = "Buying"
+  url = "/en/categories/buying/"
+  weight = 1
+[[languages.en.menus.header]]
+  identifier = "selling"
+  name = "Selling"
+  url = "/en/categories/selling/"
+  weight = 2
+[[languages.en.menus.header]]
+  identifier = "rental"
+  name = "Rental"
+  url = "/en/categories/rental/"
+  weight = 3
+[[languages.en.menus.header]]
+  identifier = "financing"
+  name = "Financing"
+  url = "/en/categories/financing/"
+  weight = 4
+[[languages.en.menus.header]]
+  identifier = "simulators"
+  name = "Simulators"
+  url = "/en/simulators/"
+  weight = 5
+  [languages.en.menus.header.params]
+    featured = true
+[[languages.en.menus.header]]
   identifier = "blog"
   name = "Blog"
   url = "/en/blog/"

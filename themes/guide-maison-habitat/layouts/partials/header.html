@@ -6,8 +6,10 @@
         </a>
 
         <nav class="site-nav" role="navigation" aria-label="Navigation principale">
-            {{ range .Site.Menus.main }}
-            <a href="{{ .URL | relURL }}" class="nav-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}">
+            {{ range .Site.Menus.header }}
+            {{ $isFeatured := false }}
+            {{ with .Params.featured }}{{ $isFeatured = . }}{{ end }}
+            <a href="{{ .URL | relURL }}" class="nav-link{{ if $isFeatured }} nav-link-featured{{ end }}{{ if $.IsMenuCurrent "header" . }} active{{ end }}">
                 {{ .Name }}
             </a>
             {{ end }}
@@ -58,6 +60,7 @@
         {{ range .Site.Menus.main }}
         <a href="{{ .URL | relURL }}" class="nav-link-mobile">{{ .Name }}</a>
         {{ end }}
+        {{/* Simulateurs dans mobile si pas deja dans main */}}
         {{ if gt (len .Site.Languages) 1 }}
         {{- $cLM := .Lang | default "fr" -}}
         {{- $dL := "fr" -}}

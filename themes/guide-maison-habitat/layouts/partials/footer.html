@@ -10,12 +10,23 @@
                 <h4>{{ if eq $lang "en" }}Categories{{ else }}Catégories{{ end }}</h4>
                 <ul>
                     {{ range .Site.Menus.main }}
-                    {{ if ne .Identifier "blog" }}
+                    {{ if and (ne .Identifier "blog") (ne .Identifier "simulateurs") (ne .Identifier "simulators") }}
                     <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
                     {{ end }}
                     {{ end }}
                 </ul>
             </div>
+            {{ if eq $lang "fr" }}
+            <div class="footer-col">
+                <h4>Simulateurs</h4>
+                <ul>
+                    <li><a href="{{ "simulateurs/capacite-emprunt/" | relLangURL }}">Capacité d'emprunt</a></li>
+                    <li><a href="{{ "simulateurs/mensualites/" | relLangURL }}">Mensualités de prêt</a></li>
+                    <li><a href="{{ "simulateurs/frais-notaire/" | relLangURL }}">Frais de notaire</a></li>
+                    <li><a href="{{ "simulateurs/pret-taux-zero/" | relLangURL }}">Prêt à taux zéro</a></li>
+                </ul>
+            </div>
+            {{ end }}
             <div class="footer-col">
                 <h4>{{ if eq $lang "en" }}Navigation{{ else }}Navigation{{ end }}</h4>
                 <nav aria-label="{{ if eq $lang "en" }}Footer navigation{{ else }}Navigation du pied de page{{ end }}">
