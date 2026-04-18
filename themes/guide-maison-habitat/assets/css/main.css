@@ -590,11 +590,11 @@ section { padding: var(--space-lg) 0; }
 }
 .list-header-with-pills {
     padding-bottom: var(--space-lg);
-    background: linear-gradient(180deg, var(--background) 0%, var(--background-alt) 100%);
-    border-bottom: 1px solid var(--border);
+    background: var(--background);
+    border-bottom: none;
 }
 .list-header .container { max-width: var(--container-narrow); }
-.list-header-with-pills .container { max-width: var(--container); }
+.list-header-with-pills .container { max-width: var(--container-wide); }
 .list-eyebrow {
     display: inline-flex;
     align-items: center;
@@ -621,20 +621,45 @@ section { padding: var(--space-lg) 0; }
 }
 .list-description {
     font-family: var(--font-body);
-    font-size: 1.05rem; color: var(--text-light);
-    max-width: 540px; margin: 0 auto;
-    line-height: 1.6;
+    font-size: 1.1rem; color: var(--text-light);
+    max-width: 680px; margin: 0 auto;
+    line-height: 1.65;
 }
+.list-header-with-pills .list-description { max-width: 780px; }
 .list-count { display: none; }
 .category-pills-header {
     justify-content: center;
     margin: var(--space-lg) auto 0;
-    max-width: 1000px;
-    gap: 10px;
+    max-width: none;
+    gap: 12px;
+    border: none;
+    padding-top: 0;
 }
 .category-pills-header .category-pill {
-    padding: 0.55rem 1.2rem;
-    font-size: 0.85rem;
+    padding: 0.7rem 1.5rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    background: var(--white);
+    border: 1px solid var(--border);
+    box-shadow: 0 1px 2px rgba(27, 27, 27, 0.04);
+    transition: all var(--transition-base);
+}
+.category-pills-header .category-pill:hover {
+    background: var(--primary);
+    color: var(--background);
+    border-color: var(--primary);
+    transform: translateY(-2px);
+    box-shadow: 0 10px 24px -10px rgba(27, 27, 27, 0.28);
+}
+.category-pills-header .category-pill-active {
+    background: var(--primary);
+    color: var(--background);
+    border-color: var(--primary);
+    box-shadow: 0 6px 16px -8px rgba(27, 27, 27, 0.35);
+}
+.category-pills-header .category-pill-active:hover {
+    background: var(--cta-hover);
+    border-color: var(--cta-hover);
 }
 .list-content { padding: var(--space-md) 0 var(--space-xl); }
 .articles-list {
