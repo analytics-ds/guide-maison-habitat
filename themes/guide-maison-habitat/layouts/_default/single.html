@@ -1,64 +1,96 @@
 {{ define "main" }}
 {{ $isBlog := eq .Section "blog" }}
+{{ $lang := .Site.Language.Lang }}
+{{ $authorData := dict }}
+{{ with .Params.author }}
+    {{ $authorData = index $.Site.Data.authors . }}
+{{ end }}
 
 <article class="single-article">
-    <div class="container">
-
-        <!-- Breadcrumb visuel -->
-        <nav class="breadcrumb" aria-label="Fil d'Ariane">
-            <ol class="breadcrumb-list">
-                <li class="breadcrumb-item">
-                    <a href="{{ "/" | relURL }}">Accueil</a>
-                    <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
-                </li>
-                {{ if $isBlog }}
-                <li class="breadcrumb-item">
-                    <a href="{{ "blog/" | relURL }}">Blog</a>
-                    <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
-                </li>
-                {{ with .Params.categories }}
-                <li class="breadcrumb-item">
-                    <a href="{{ printf "categories/%s/" (index . 0 | urlize) | relURL }}">{{ index . 0 }}</a>
-                    <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
-                </li>
-                {{ end }}
-                {{ end }}
-                <li class="breadcrumb-item">
-                    <span aria-current="page">{{ .Title }}</span>
-                </li>
-            </ol>
-        </nav>
-
-        <!-- Hero article (titre + image cote a cote) -->
-        <div class="article-hero">
-            <div class="article-hero-text">
-                {{ if $isBlog }}
-                <div class="article-meta">
+    {{ if and $isBlog .Params.image }}
+    {{/* --- Hero avec image en background --- */}}
+    <section class="article-hero-bg" style="background-image: url('{{ .Params.image }}');">
+        <div class="article-hero-bg-overlay"></div>
+        <div class="container article-hero-bg-inner">
+            <nav class="breadcrumb breadcrumb-on-image" aria-label="Fil d'Ariane">
+                <ol class="breadcrumb-list">
+                    <li class="breadcrumb-item">
+                        <a href="{{ "/" | relURL }}">Accueil</a>
+                        <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
+                    </li>
+                    <li class="breadcrumb-item">
+                        <a href="{{ "blog/" | relURL }}">Blog</a>
+                        <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
+                    </li>
+                    {{ with .Params.categories }}
+                    <li class="breadcrumb-item">
+                        <a href="{{ printf "categories/%s/" (index . 0 | urlize) | relURL }}">{{ index . 0 }}</a>
+                        <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
+                    </li>
+                    {{ end }}
+                    <li class="breadcrumb-item"><span aria-current="page">{{ .Title }}</span></li>
+                </ol>
+            </nav>
+            <div class="article-hero-bg-text">
+                <div class="article-meta article-meta-on-image">
                     {{ with .Params.categories }}
                     <a href="{{ printf "categories/%s/" (index . 0 | urlize) | relURL }}" class="article-category">{{ index . 0 }}</a>
-                    {{ end }}
                     <span class="meta-separator">·</span>
-                    <time class="article-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+                    {{ end }}
+                    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
                     <span class="meta-separator">·</span>
                     <span class="article-reading-time">
                         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
                         {{ .ReadingTime }} min de lecture
                     </span>
                 </div>
-                {{ end }}
-
-                <h1 class="article-title">{{ .Title }}</h1>
+                <h1 class="article-title article-title-on-image">{{ .Title }}</h1>
                 {{ with .Description }}
-                <p class="article-description">{{ . }}</p>
+                <p class="article-description article-description-on-image">{{ . }}</p>
                 {{ end }}
+            </div>
+        </div>
+    </section>
+    {{ else }}
+    {{/* --- Hero simple sans image (pages non-blog ou sans image) --- */}}
+    <div class="container">
+        <nav class="breadcrumb" aria-label="Fil d'Ariane">
+            <ol class="breadcrumb-list">
+                <li class="breadcrumb-item">
+                    <a href="{{ "/" | relURL }}">Accueil</a>
+                    <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
+                </li>
+                <li class="breadcrumb-item"><span aria-current="page">{{ .Title }}</span></li>
+            </ol>
+        </nav>
+        <header class="article-hero article-hero-simple">
+            <h1 class="article-title">{{ .Title }}</h1>
+            {{ with .Description }}<p class="article-description">{{ . }}</p>{{ end }}
+        </header>
+    </div>
+    {{ end }}
 
-                {{ $lang := .Site.Language.Lang }}
-                {{ $authorData := dict }}
-                {{ with .Params.author }}
-                    {{ $authorData = index $.Site.Data.authors . }}
-                {{ end }}
+    {{/* --- Corps de l'article (fond blanc sur fond creme) --- */}}
+    <div class="article-body-wrapper">
+        <div class="{{ if $isBlog }}article-layout{{ else }}article-layout-simple{{ end }}">
+            {{/* --- Sidebar TOC (blog uniquement) --- */}}
+            {{ $headings := .TableOfContents }}
+            {{ if and $isBlog $headings }}
+            <aside class="article-sidebar">
+                <nav class="toc" aria-label="Sommaire">
+                    <div class="toc-title">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="15" y2="12"/><line x1="3" y1="18" x2="18" y2="18"/></svg>
+                        Sommaire
+                    </div>
+                    {{ .TableOfContents }}
+                </nav>
+            </aside>
+            {{ end }}
+
+            <div class="article-main">
                 {{ if $isBlog }}
-                <div class="article-author-bar">
+                {{/* --- Bande auteur en haut --- */}}
+                <div class="article-author-bar article-author-bar-top">
                     {{ with $authorData }}
                     <div class="author-info">
                         {{ with .avatar }}
@@ -67,7 +99,7 @@
                         <div class="author-avatar author-avatar-placeholder" aria-hidden="true">{{ slicestr .name 0 1 }}</div>
                         {{ end }}
                         <div class="author-text">
-                            <span class="author-name">{{ .name }}</span>
+                            <span class="author-name">Par {{ .name }}</span>
                             {{ with index .role $lang }}
                             <span class="author-role">{{ . }}</span>
                             {{ end }}
@@ -77,79 +109,40 @@
                     {{ if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }}
                     <div class="article-updated">
                         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 4v6h6"/><path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"/></svg>
-                        {{ if eq $lang "en" }}Updated on {{ .Lastmod.Format "2 January 2006" }}{{ else }}Mis à jour le {{ .Lastmod.Format "2 January 2006" }}{{ end }}
+                        Mis à jour le {{ .Lastmod.Format "2 January 2006" }}
                     </div>
                     {{ end }}
                 </div>
-
-                <div class="article-tags">
-                    {{ range .Params.tags }}
-                    <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
-                    {{ end }}
-                </div>
                 {{ end }}
-            </div>
 
-            {{ if $isBlog }}{{ with .Params.image }}
-            <div class="article-hero-image">
-                <img src="{{ . | relURL }}" alt="{{ with $.Params.imageAlt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" width="600" height="400" loading="eager" fetchpriority="high">
-                {{ with $.Params.imageCredit }}
-                <small class="article-hero-image-credit">{{ . }}</small>
-                {{ end }}
-            </div>
-            {{ end }}{{ end }}
-        </div>
-
-        <!-- Layout : 2 colonnes (TOC + contenu) pour les articles de blog, simple colonne centree pour le reste -->
-        <div class="{{ if $isBlog }}article-layout{{ else }}article-layout-simple{{ end }}">
-
-            <!-- Sidebar : Table of Contents sticky -->
-            {{ $headings := .TableOfContents }}
-            {{ if and $isBlog $headings }}
-            <aside class="article-sidebar">
-                <nav class="toc" aria-label="Sommaire">
-                    <div class="toc-title">
-                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="6" x2="21" y2="6" /><line x1="3" y1="12" x2="15" y2="12" /><line x1="3" y1="18" x2="18" y2="18" /></svg>
-                        Sommaire
-                    </div>
-                    {{ .TableOfContents }}
-                </nav>
-            </aside>
-            {{ end }}
-
-            <div class="article-main">
                 <div class="prose article-content">
                     {{ .Content }}
                 </div>
 
                 {{ if $isBlog }}
-                <!-- Tags en bas d'article -->
+                {{/* --- Tags --- */}}
                 <div class="article-tags-bottom">
                     {{ range .Params.tags }}
                     <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
                     {{ end }}
                 </div>
 
-                <!-- Bloc auteur (bio complete en fin d'article) -->
+                {{/* --- Bloc auteur --- */}}
                 {{ with $authorData }}
-                <aside class="author-box" aria-label="{{ if eq $lang "en" }}About the author{{ else }}A propos de l'auteur{{ end }}">
+                <aside class="author-box" aria-label="A propos de l'auteur">
                     {{ with .avatar }}
                     <img src="{{ . | relURL }}" alt="{{ $authorData.name }}" class="author-box-avatar" width="96" height="96" loading="lazy">
                     {{ else }}
                     <div class="author-box-avatar author-avatar-placeholder" aria-hidden="true">{{ slicestr .name 0 1 }}</div>
                     {{ end }}
                     <div class="author-box-content">
-                        <span class="author-box-label">{{ if eq $lang "en" }}About the author{{ else }}A propos de l'auteur{{ end }}</span>
+                        <span class="author-box-label">{{ if eq $lang "en" }}About the author{{ else }}À propos de l'auteur{{ end }}</span>
                         <h3 class="author-box-name">{{ .name }}</h3>
-                        {{ with index .role $lang }}
-                        <span class="author-box-role">{{ . }}</span>
-                        {{ end }}
-                        {{ with index .bio $lang }}
-                        <p class="author-box-bio">{{ . }}</p>
-                        {{ end }}
+                        {{ with index .role $lang }}<span class="author-box-role">{{ . }}</span>{{ end }}
+                        {{ with index .bio $lang }}<p class="author-box-bio">{{ . }}</p>{{ end }}
                         {{ with .expertise }}
                         <div class="author-box-expertise">
-                            <span class="author-box-expertise-label">{{ if eq $lang "en" }}Expertise:{{ else }}Expertise :{{ end }}</span>
+                            <span class="author-box-expertise-label">Expertise :</span>
                             {{ range $i, $e := . }}{{ if $i }}, {{ end }}<span class="author-box-expertise-item">{{ $e }}</span>{{ end }}
                         </div>
                         {{ end }}
@@ -157,37 +150,18 @@
                 </aside>
                 {{ end }}
 
-                <!-- Articles similaires -->
-                {{ $related := .Site.RegularPages.Related . | first 3 }}
-                {{ if $related }}
-                <aside class="related-articles">
-                    <h2 class="related-title">Articles similaires</h2>
-                    <div class="related-grid">
-                        {{ range $related }}
-                        <a href="{{ .RelPermalink }}" class="related-card">
-                            {{ with .Params.categories }}
-                            <span class="related-category">{{ index . 0 }}</span>
-                            {{ end }}
-                            <h3>{{ .Title }}</h3>
-                            <p>{{ .Description }}</p>
-                        </a>
-                        {{ end }}
-                    </div>
-                </aside>
-                {{ end }}
-
-                <!-- Navigation prev/next -->
+                {{/* --- Navigation prev/next --- */}}
                 <nav class="article-footer" aria-label="Navigation articles">
                     <div class="article-nav">
                         {{ with .PrevInSection }}
                         <a href="{{ .RelPermalink }}" class="nav-prev">
-                            <span class="nav-label">Article précédent</span>
+                            <span class="nav-label">← Article précédent</span>
                             <span class="nav-title">{{ .Title }}</span>
                         </a>
                         {{ end }}
                         {{ with .NextInSection }}
                         <a href="{{ .RelPermalink }}" class="nav-next">
-                            <span class="nav-label">Article suivant</span>
+                            <span class="nav-label">Article suivant →</span>
                             <span class="nav-title">{{ .Title }}</span>
                         </a>
                         {{ end }}
@@ -196,11 +170,50 @@
                 {{ end }}
             </div>
         </div>
-
     </div>
+
+    {{/* --- Articles similaires (dehors du wrapper blanc) --- */}}
+    {{ if $isBlog }}
+    {{ $related := .Site.RegularPages.Related . | first 3 }}
+    {{ if $related }}
+    <section class="related-articles-section">
+        <div class="container">
+            <div class="section-heading">
+                <h2 class="section-title">{{ if eq $lang "en" }}Related articles{{ else }}Articles similaires{{ end }}</h2>
+                <a href="{{ "blog/" | relLangURL }}" class="section-heading-link">{{ if eq $lang "en" }}All articles{{ else }}Tous les articles{{ end }}</a>
+            </div>
+            <div class="related-grid">
+                {{ range $related }}
+                <a href="{{ .RelPermalink }}" class="related-card">
+                    <div class="related-card-image-wrapper">
+                        {{ if .Params.image }}
+                        <img src="{{ .Params.image }}" alt="{{ .Params.imageAlt | default .Title }}" class="related-card-image" loading="lazy" width="500" height="340">
+                        {{ else }}
+                        <span class="related-card-image-placeholder" aria-hidden="true">{{ slicestr .Title 0 1 }}</span>
+                        {{ end }}
+                    </div>
+                    <div class="related-card-body">
+                        <div class="related-card-meta">
+                            {{ with .Params.categories }}
+                            <span class="related-category">{{ index . 0 }}</span>
+                            <span class="meta-dot">·</span>
+                            {{ end }}
+                            <time>{{ .Date.Format "2 January 2006" }}</time>
+                        </div>
+                        <h3>{{ .Title }}</h3>
+                        <p>{{ .Description }}</p>
+                        <span class="related-card-link">{{ if eq $lang "en" }}Read →{{ else }}Lire l'article →{{ end }}</span>
+                    </div>
+                </a>
+                {{ end }}
+            </div>
+        </div>
+    </section>
+    {{ end }}
+    {{ end }}
 </article>
 
-<!-- Highlight active TOC item on scroll -->
+{{/* --- Highlight active TOC item on scroll --- */}}
 <script>
 (function() {
     var observer = new IntersectionObserver(function(entries) {
