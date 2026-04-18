@@ -27,8 +27,6 @@ readingTime: true
 > 4. Un chantier complet dure en moyenne 2 à 3 semaines avec sechages inclus.
 
 
-![Salle de bain rénovée avec douche à l'italienne](https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1600&q=80&auto=format&fit=crop)
-*Salle de bain rénovée avec douche à l'italienne — Photo via Unsplash*
 ## Rénovation de salle de bain : étapes clés
 
 La **rénovation de salle de bain** est l'un des chantiers les plus techniques d'une maison. Plomberie, électricité, etancheite, ventilation : les points de vigilance sont nombreux.

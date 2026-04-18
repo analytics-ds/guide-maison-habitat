@@ -27,8 +27,6 @@ readingTime: true
 > 4. Les aménagements intérieurs de tiroirs (séparateurs, couverts) evitent 80 pour cent du desordre quotidien.
 
 
-![Cuisine moderne avec rangements optimises](https://images.unsplash.com/photo-1556909114-44e3e70034e2?w=1600&q=80&auto=format&fit=crop)
-*Cuisine moderne avec rangements optimises — Photo via Unsplash*
 ## Optimiser le rangement de sa cuisine : principes de base
 
 Une cuisine bien rangée est une cuisine qui fonctionne. **Optimiser le rangement de sa cuisine** commence par un audit : qu'est-ce que je garde, qu'est-ce que j'utilisé vraiment ? Une étude de l'INSEE montre que 30 pour cent des ustensiles d'une cuisine française ne servent jamais.

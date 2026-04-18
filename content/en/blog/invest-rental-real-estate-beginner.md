@@ -27,8 +27,6 @@ readingTime: true
 > 4. A 10 to 20 percent down payment remains necessary for financing under good conditions.
 
 
-![Immeuble d'investissement locatif](https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1600&q=80&auto=format&fit=crop)
-*Immeuble d'investissement locatif — Photo via Unsplash*
 ## Invest in rental real estate: the basics
 
 **Investing in rental real estate** remains one of the most effective wealth strategies. Credit leverage multiplies the savings effort, provided you choose the right property at the right price.

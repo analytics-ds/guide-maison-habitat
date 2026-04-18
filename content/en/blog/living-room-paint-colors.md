@@ -27,8 +27,6 @@ readingTime: true
 > 4. A large sample test (minimum 1 sqm) is essential before painting the whole room.
 
 
-![Salon peint dans des tons chauds et naturels](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1600&q=80&auto=format&fit=crop)
-*Salon peint dans des tons chauds et naturels — Photo via Unsplash*
 ## Living room paint colors: choice criteria
 
 Choosing **living room paint colors** is an impactful decision. A wrong shade can darken the room or make it uncomfortable. Three main criteria guide the choice.

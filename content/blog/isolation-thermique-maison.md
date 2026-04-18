@@ -27,8 +27,6 @@ readingTime: true
 > 4. Un audit énergétique est obligatoire avant certains travaux et finance jusqu'à 500 euros par l'État.
 
 
-![Travaux d'isolation thermique d'une maison](https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1600&q=80&auto=format&fit=crop)
-*Travaux d'isolation thermique d'une maison — Photo via Unsplash*
 ## Isolation thermique de la maison : l'ordre des priorites
 
 L'ADEME rappelle que **l'isolation thermique de la maison** est le levier n1 pour réduire sa facture d'énergie. Une maison mal isolée perd en moyenne 30 pour cent de sa chaleur par le toit, 25 pour cent par les murs, 15 pour cent par les fenêtres et 10 pour cent par le plancher.

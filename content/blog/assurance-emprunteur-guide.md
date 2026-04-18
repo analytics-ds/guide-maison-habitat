@@ -19,8 +19,6 @@ readingTime: true
 > 3. La délégation d'assurance fait économiser en moyenne 10 000 à 20 000 euros sur la durée d'un crédit.
 > 4. Les garanties obligatoires sont décès, PTIA et incapacité de travail ; les garanties optionnelles dépendent du profil.
 
-![Calculs financiers pour assurance emprunteur](https://images.unsplash.com/photo-1579621970795-87facc2f976d?w=1600&q=80&auto=format&fit=crop)
-*Calculs financiers pour assurance emprunteur — Photo via Unsplash*
 
 ## Assurance emprunteur : à quoi ça sert
 

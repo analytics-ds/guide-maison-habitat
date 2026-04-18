@@ -27,8 +27,6 @@ readingTime: true
 > 4. Les dispositifs Pinel prennent fin en 2024 mais Denormandie et LLI restent actifs.
 
 
-![Documents fiscaux et calculs d'investissement](https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1600&q=80&auto=format&fit=crop)
-*Documents fiscaux et calculs d'investissement — Photo via Unsplash*
 ## Fiscalité investissement immobilier : le panorama 2026
 
 La **fiscalité investissement immobilier** en France repose sur plusieurs regimes selon le type de location et le volume d'investissement. Le bon choix fiscal peut doubler la rentabilité nette d'un investissement.

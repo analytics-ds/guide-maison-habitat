@@ -27,8 +27,6 @@ readingTime: true
 > 4. Un audit énergétique est désormais obligatoire pour les maisons classees F ou G au DPE.
 
 
-![Maison à vendre, remise de clés](https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=1600&q=80&auto=format&fit=crop)
-*Maison à vendre, remise de clés — Photo via Unsplash*
 ## Achat maison : les grands points à vérifier
 
 **L'achat d'une maison** est l'une des décisions financières les plus importantes d'une vie. Une checklist rigoureuse évite les mauvaises surprises qui peuvent coûter des milliers d'euros de travaux imprevus.

@@ -27,8 +27,6 @@ readingTime: true
 > 4. Un test sur grand echantillon (minimum 1 m2) est indispensable avant de peindre toute la pièce.
 
 
-![Salon peint dans des tons chauds et naturels](https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1600&q=80&auto=format&fit=crop)
-*Salon peint dans des tons chauds et naturels — Photo via Unsplash*
 ## Couleurs peinture salon : les critères de choix
 
 Choisir la **couleur peinture salon** est une décision impactante. Une mauvaise teinte peut assombrir la pièce ou la rendre inconfortable. Trois critères principaux guident le choix.

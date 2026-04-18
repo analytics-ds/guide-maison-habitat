@@ -27,8 +27,6 @@ readingTime: true
 > 4. A complete project takes on average 2 to 3 weeks including drying.
 
 
-![Salle de bain renovee avec douche a l'italienne](https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1600&q=80&auto=format&fit=crop)
-*Salle de bain renovee avec douche a l'italienne — Photo via Unsplash*
 ## Bathroom renovation: key steps
 
 **Bathroom renovation** is one of the most technical projects in a home. Plumbing, electricity, waterproofing, ventilation: there are many points of vigilance.

@@ -19,8 +19,6 @@ readingTime: true
 > 3. Visale est une caution gratuite de l'État accessible à la plupart des locataires de moins de 31 ans.
 > 4. Un retard de restitution entraîne une majoration de 10 pour cent par mois de retard.
 
-![Signature d'un bail de location avec caution](https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1600&q=80&auto=format&fit=crop)
-*Signature d'un bail de location avec caution — Photo via Unsplash*
 
 ## Caution et dépôt de garantie : ne pas confondre
 

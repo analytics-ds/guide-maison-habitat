@@ -27,8 +27,6 @@ readingTime: true
 > 4. Pinel scheme ended in 2024 but Denormandie and LLI remain active.
 
 
-![Documents fiscaux et calculs d'investissement](https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1600&q=80&auto=format&fit=crop)
-*Documents fiscaux et calculs d'investissement — Photo via Unsplash*
 ## Real estate investment taxation: 2026 overview
 
 **Real estate investment taxation** in France rests on several regimes according to rental type and investment volume. The right tax choice can double net yield.

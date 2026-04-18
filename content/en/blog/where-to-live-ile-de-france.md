@@ -27,8 +27,6 @@ readingTime: true
 > 4. A Paris vs suburb trade-off can gain 30 to 50 percent of surface for the same budget.
 
 
-![Vue de Paris et de l'Ile-de-France](https://images.unsplash.com/photo-1431274172761-fca41d930114?w=1600&q=80&auto=format&fit=crop)
-*Vue de Paris et de l'Ile-de-France — Photo via Unsplash*
 ## Where to live in Ile-de-France: major trends
 
 **Where to live in Ile-de-France** no longer boils down to Paris intramuros. Inner and outer suburbs offer quality of life often superior to equivalent budgets, especially for families.

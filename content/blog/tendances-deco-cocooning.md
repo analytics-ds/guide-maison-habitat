@@ -27,8 +27,6 @@ readingTime: true
 > 4. Les textiles superposes (tapis, plaids, coussins) ajoutent 30 à 50 pour cent de confort visuel.
 
 
-![Intérieur cocooning avec textiles et lumière douce](https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=1600&q=80&auto=format&fit=crop)
-*Intérieur cocooning avec textiles et lumière douce — Photo via Unsplash*
 ## Tendances déco cocooning : les fondamentaux
 
 Les **tendances déco cocooning** reposent sur un principe simple : créer un cocon reconfortant par la superposition des matières, des couleurs et des lumières. L'objectif n'est pas le minimalisme ni le style industriel, mais le confort sensoriel.

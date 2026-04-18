@@ -19,8 +19,6 @@ readingTime: true
 > 3. La formule multirisque habitation (MRH) couvre incendie, dégât des eaux, vol, responsabilité civile et garanties étendues.
 > 4. Comparer au moins 3 devis peut réduire la prime annuelle de 20 à 40 pour cent à garanties équivalentes.
 
-![Contrat d'assurance habitation et clés de maison](https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1600&q=80&auto=format&fit=crop)
-*Contrat d'assurance habitation et clés de maison — Photo via Unsplash*
 
 ## Assurance habitation : le cadre obligatoire
 

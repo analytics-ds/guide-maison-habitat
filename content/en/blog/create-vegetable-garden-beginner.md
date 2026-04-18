@@ -27,8 +27,6 @@ readingTime: true
 > 4. Thick mulch divides water needs by 3 and limits weeding.
 
 
-![Potager avec legumes et plantes](https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=1600&q=80&auto=format&fit=crop)
-*Potager avec legumes et plantes — Photo via Unsplash*
 ## Creating a vegetable garden for beginners: the steps
 
 **Creating a vegetable garden as a beginner** requires simple but essential preparation. The first criterion is location: a corner of the garden facing south or southwest, sheltered from wind, near a water point.

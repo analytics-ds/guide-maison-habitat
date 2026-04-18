@@ -19,8 +19,6 @@ readingTime: true
 > 3. Insurance delegation saves on average 10 000 to 20 000 euros over a loan duration.
 > 4. Mandatory coverages are death, PTIA and work incapacity; optional coverages depend on profile.
 
-![Financial calculations for borrower insurance](https://images.unsplash.com/photo-1579621970795-87facc2f976d?w=1600&q=80&auto=format&fit=crop)
-*Financial calculations for borrower insurance — Photo via Unsplash*
 
 ## Borrower insurance: what it's for
 

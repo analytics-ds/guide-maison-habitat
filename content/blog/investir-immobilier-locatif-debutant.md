@@ -27,8 +27,6 @@ readingTime: true
 > 4. Un apport de 10 à 20 pour cent reste nécessaire pour un financement dans de bonnes conditions.
 
 
-![Immeuble d'investissement locatif](https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1600&q=80&auto=format&fit=crop)
-*Immeuble d'investissement locatif — Photo via Unsplash*
 ## Investir dans l'immobilier locatif : les bases
 
 **Investir dans l'immobilier locatif** reste l'une des stratégies patrimoniales les plus efficaces pour construire un capital. Le levier du credit permet de demultiplier son effort d'épargne, à condition de choisir le bon bien au bon prix.

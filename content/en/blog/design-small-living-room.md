@@ -27,8 +27,6 @@ readingTime: true
 > 4. A large mirror placed opposite a light source visually doubles the perceived volume.
 
 
-![Salon moderne et lumineux avec canape et deco](https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=1600&q=80&auto=format&fit=crop)
-*Salon moderne et lumineux avec canape et deco — Photo via Unsplash*
 ## Designing a small living room: the basics
 
 A small living room under 15 sqm requires thinking about every square meter. Contrary to popular belief, **designing a small living room** does not mean sacrificing comfort: just choose less but better.

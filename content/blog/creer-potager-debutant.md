@@ -27,8 +27,6 @@ readingTime: true
 > 4. Un paillage epais divise par 3 le besoin en arrosage et limité le desherbage.
 
 
-![Potager avec legumes et plantes](https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=1600&q=80&auto=format&fit=crop)
-*Potager avec legumes et plantes — Photo via Unsplash*
 ## Créer un potager pour débutant : les étapes
 
 **Créer un potager pour débutant** demandé une préparation simple mais essentielle. Le premier critère est l'emplacement : un coin du jardin expose sud ou sud-ouest, à l'abri du vent, pres d'un point d'eau.

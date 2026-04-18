@@ -27,8 +27,6 @@ readingTime: true
 > 4. Air quality, space and quiet are the 3 most cited assets by neo-rurals.
 
 
-![Maison a la campagne entouree de verdure](https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=1600&q=80&auto=format&fit=crop)
-*Maison a la campagne entouree de verdure — Photo via Unsplash*
 ## Country or city: the big trade-off
 
 **Country or city**: this choice deeply structures daily life, budget and often career. Since the 2020 health crisis, the balance has shifted: 15 percent increase in residential migrations to rural areas.

@@ -27,8 +27,6 @@ readingTime: true
 > 4. An energy audit is mandatory before certain works and is partially funded (up to 500 euros).
 
 
-![Travaux d'isolation thermique d'une maison](https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1600&q=80&auto=format&fit=crop)
-*Travaux d'isolation thermique d'une maison — Photo via Unsplash*
 ## Home thermal insulation: the order of priorities
 
 Thermal insulation is the number 1 lever to reduce your energy bill. A poorly insulated house loses on average 30 percent of its heat through the roof, 25 percent through walls, 15 percent through windows and 10 percent through the floor.

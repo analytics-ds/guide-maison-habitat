@@ -27,8 +27,6 @@ readingTime: true
 > 4. Un arbitrage Paris vs banlieue peut faire gagner 30 à 50 pour cent de surface pour un même budget.
 
 
-![Vue de Paris et de l'Ile-de-France](https://images.unsplash.com/photo-1431274172761-fca41d930114?w=1600&q=80&auto=format&fit=crop)
-*Vue de Paris et de l'Ile-de-France — Photo via Unsplash*
 ## Ou vivre en Ile-de-France : les grandes tendances
 
 **Ou vivre en Ile-de-France** ne se resume plus à Paris intramuros. La petite et la grande couronne offrent une qualité de vie souvent supérieure à budget egal, notamment pour les familles.

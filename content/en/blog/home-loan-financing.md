@@ -27,8 +27,6 @@ readingTime: true
 > 4. The legal maximum debt-to-income ratio in France is 35 percent of net income.
 
 
-![Calcul de credit immobilier](https://images.unsplash.com/photo-1579621970795-87facc2f976d?w=1600&q=80&auto=format&fit=crop)
-*Calcul de credit immobilier — Photo via Unsplash*
 ## Home loan financing: the 2026 fundamentals
 
 **Home loan financing** rests on a balance between down payment, duration, rate and insurance. Mastering these four levers allows obtaining a loan on the best conditions.

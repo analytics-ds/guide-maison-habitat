@@ -27,8 +27,6 @@ readingTime: true
 > 4. L'absence d'un diagnostic obligatoire peut entrainer l'annulation de la vente ou une réduction de prix.
 
 
-![Diagnostics immobiliers et documents de vente](https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1600&q=80&auto=format&fit=crop)
-*Diagnostics immobiliers et documents de vente — Photo via Unsplash*
 ## Diagnostics obligatoires vente : panorama 2026
 
 Les **diagnostics obligatoires vente immobilière** évoluent régulièrement. En 2026, le Dossier de Diagnostic Technique (DDT) reste le document central de toute vente immobilière.

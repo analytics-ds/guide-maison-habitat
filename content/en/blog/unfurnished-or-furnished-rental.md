@@ -19,8 +19,6 @@ readingTime: true
 > 3. The French LMNP regime allows near tax-free rents via property depreciation.
 > 4. Vacancy rates are higher in furnished rentals (faster tenant turnover).
 
-![Furnished living room ready to rent](https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=1600&q=80&auto=format&fit=crop)
-*Furnished living room ready to rent — Photo via Unsplash*
 
 ## Unfurnished or furnished rental: key differences
 

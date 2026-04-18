@@ -27,8 +27,6 @@ readingTime: true
 > 4. Un eclairage extérieur indirect transformé l'usage de la terrasse en soiree et augmente son temps d'utilisation de 40 pour cent.
 
 
-![Terrasse extérieure aménagée avec mobilier](https://images.unsplash.com/photo-1505692433770-36f19f51681d?w=1600&q=80&auto=format&fit=crop)
-*Terrasse extérieure aménagée avec mobilier — Photo via Unsplash*
 ## Aménager une terrasse extérieure : par ou commencer
 
 **Aménager une terrasse extérieure** commence par une analyse de l'existant : exposition, ensoleillement, vis-a-vis, surface utile. Une terrasse sud demandé de l'ombre, une terrasse nord demandé des couleurs lumineuses.

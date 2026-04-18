@@ -27,8 +27,6 @@ readingTime: true
 > 4. An energy audit is now mandatory for homes rated F or G in the French energy diagnostic (DPE).
 
 
-![Maison à vendre, remise de clés](https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=1600&q=80&auto=format&fit=crop)
-*Maison à vendre, remise de clés — Photo via Unsplash*
 ## Buying a home: the main points to check
 
 **Buying a home** is one of the most important financial decisions of a lifetime. A rigorous checklist avoids unpleasant surprises that can cost thousands of euros in unexpected works.

@@ -27,8 +27,6 @@ readingTime: true
 > 4. Indirect outdoor lighting transforms terrace use in the evening and increases usage time by 40 percent.
 
 
-![Terrasse exterieure amenagee avec mobilier](https://images.unsplash.com/photo-1505692433770-36f19f51681d?w=1600&q=80&auto=format&fit=crop)
-*Terrasse exterieure amenagee avec mobilier — Photo via Unsplash*
 ## Designing an outdoor terrace: where to start
 
 **Designing an outdoor terrace** starts with analyzing the existing: exposure, sunlight, neighbors, usable surface. A south-facing terrace requires shade, a north-facing terrace requires bright colors.

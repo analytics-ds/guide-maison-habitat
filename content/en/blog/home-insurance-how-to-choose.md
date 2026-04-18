@@ -19,8 +19,6 @@ readingTime: true
 > 3. Multi-risk home (MRH) policy covers fire, water damage, theft, civil liability and extended guarantees.
 > 4. Comparing at least 3 quotes can reduce annual premium by 20 to 40 percent at equivalent coverages.
 
-![Home insurance contract and house keys](https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1600&q=80&auto=format&fit=crop)
-*Home insurance contract and house keys — Photo via Unsplash*
 
 ## Home insurance: the mandatory framework
 

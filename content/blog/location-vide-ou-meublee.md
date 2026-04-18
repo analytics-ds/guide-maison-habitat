@@ -19,8 +19,6 @@ readingTime: true
 > 3. Le régime LMNP permet une quasi-défiscalisation des loyers vià l'amortissement.
 > 4. La vacance locative est plus fréquente en meublé (turn-over plus élevé).
 
-![Salon meublé prêt à louer](https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=1600&q=80&auto=format&fit=crop)
-*Salon meublé prêt à louer — Photo via Unsplash*
 
 ## Location vide ou meublée : les différences clés
 

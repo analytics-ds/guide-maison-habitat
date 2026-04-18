@@ -19,8 +19,6 @@ readingTime: true
 > 3. Visale is a free state guarantee accessible to most tenants under 31 in France.
 > 4. A delay in return triggers a 10 percent monthly penalty per month overdue.
 
-![Signing a rental lease with deposit](https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1600&q=80&auto=format&fit=crop)
-*Signing a rental lease with deposit — Photo via Unsplash*
 
 ## Deposit and guarantee: don't confuse them
 

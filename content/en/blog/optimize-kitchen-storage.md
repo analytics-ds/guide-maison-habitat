@@ -27,8 +27,6 @@ readingTime: true
 > 4. Interior drawer layouts (dividers, cutlery) prevent 80 percent of everyday clutter.
 
 
-![Cuisine moderne avec rangements optimises](https://images.unsplash.com/photo-1556909114-44e3e70034e2?w=1600&q=80&auto=format&fit=crop)
-*Cuisine moderne avec rangements optimises — Photo via Unsplash*
 ## Optimizing kitchen storage: basic principles
 
 A well-organized kitchen is a working kitchen. **Optimizing kitchen storage** starts with an audit: what do I keep, what do I really use? A study shows that 30 percent of utensils in a French kitchen are never used.

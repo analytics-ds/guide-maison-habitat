@@ -27,8 +27,6 @@ readingTime: true
 > 4. La qualité de l'air, l'espace et le calme sont les 3 atouts les plus cites par les neo-ruraux.
 
 
-![Maison à la campagne entouree de verdure](https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=1600&q=80&auto=format&fit=crop)
-*Maison à la campagne entouree de verdure — Photo via Unsplash*
 ## Campagne ou ville : le grand arbitrage
 
 **Campagne ou ville** : ce choix structure profondément un quotidien, un budget et souvent une carrière. Depuis la crise sanitaire de 2020, l'équilibre à change : l'INSEE constate une hausse de 15 pour cent des migrations résidentielles vers les zones rurales.

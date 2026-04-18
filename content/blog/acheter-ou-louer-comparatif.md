@@ -27,8 +27,6 @@ readingTime: true
 > 4. Un apport de 10 à 20 pour cent est aujourd'hui requis par la plupart des banques pour un achat.
 
 
-![Comparaison maison à acheter ou à louer](https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1600&q=80&auto=format&fit=crop)
-*Comparaison maison à acheter ou à louer — Photo via Unsplash*
 ## Acheter ou louer : le debat en 2026
 
 **Acheter ou louer** est une des questions financières les plus fréquentes en France. En 2026, avec des taux immobiliers qui se stabilisent autour de 3,5 à 4 pour cent et des prix en légère baisse dans plusieurs grandes villes, les arbitrages évoluent.

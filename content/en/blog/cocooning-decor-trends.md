@@ -27,8 +27,6 @@ readingTime: true
 > 4. Layered textiles (rugs, throws, cushions) add 30 to 50 percent of visual comfort.
 
 
-![Interieur cocooning avec textiles et lumiere douce](https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=1600&q=80&auto=format&fit=crop)
-*Interieur cocooning avec textiles et lumiere douce — Photo via Unsplash*
 ## Cocooning decor trends: the fundamentals
 
 **Cocooning decor trends** are based on a simple principle: creating a comforting cocoon by layering materials, colors and lights. The goal is not minimalism nor industrial style, but sensory comfort.

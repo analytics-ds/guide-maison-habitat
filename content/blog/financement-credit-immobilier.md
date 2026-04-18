@@ -27,8 +27,6 @@ readingTime: true
 > 4. Le taux d'endettement maximal légal est de 35 pour cent des revenus nets.
 
 
-![Calcul de credit immobilier](https://images.unsplash.com/photo-1579621970795-87facc2f976d?w=1600&q=80&auto=format&fit=crop)
-*Calcul de credit immobilier — Photo via Unsplash*
 ## Financement credit immobilier : les fondamentaux 2026
 
 Le **financement credit immobilier** repose sur un équilibre entre apport, duree, taux et assurance. Maitriser ces quatre leviers permet d'obtenir un pret aux meilleures conditions.

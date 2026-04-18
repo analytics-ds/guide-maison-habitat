@@ -27,8 +27,6 @@ readingTime: true
 > 4. A down payment of 10 to 20 percent is now required by most banks for a purchase.
 
 
-![Comparaison maison a acheter ou a louer](https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1600&q=80&auto=format&fit=crop)
-*Comparaison maison a acheter ou a louer — Photo via Unsplash*
 ## Buy or rent: the debate in 2026
 
 **Buy or rent** is one of the most common financial questions. In 2026, with real estate rates stabilizing around 3.5 to 4 percent and prices slightly dropping in several major cities, trade-offs evolve.

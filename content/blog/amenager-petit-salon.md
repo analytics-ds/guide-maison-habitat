@@ -27,8 +27,6 @@ readingTime: true
 > 4. Un grand miroir place face à une sourcé de lumière double visuellement le volume percu.
 
 
-![Salon moderne et lumineux avec canape et déco](https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=1600&q=80&auto=format&fit=crop)
-*Salon moderne et lumineux avec canape et déco — Photo via Unsplash*
 ## Aménager un petit salon : les bases
 
 Un petit salon de moins de 15 m2 demandé une réflexion sur chaque mètre carre. Contrairement aux idées recues, **aménager un petit salon** ne veut pas dire sacrifier le confort : il faut simplement choisir moins mais mieux.

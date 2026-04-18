@@ -27,8 +27,6 @@ readingTime: true
 > 4. The absence of a mandatory diagnostic can lead to sale cancellation or price reduction.
 
 
-![Diagnostics immobiliers et documents de vente](https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1600&q=80&auto=format&fit=crop)
-*Diagnostics immobiliers et documents de vente — Photo via Unsplash*
 ## Mandatory diagnostics for property sale: 2026 overview
 
 **Mandatory diagnostics for property sale** evolve regularly. In 2026, the Technical Diagnostic File (DDT) remains the central document of any property sale.
