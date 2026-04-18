@@ -1430,12 +1430,13 @@ p.article-description-on-image {
 }
 .btn-outline:hover { background: var(--primary); color: var(--white); }
 
-/* Article navigation (prev/next) - cards premium */
-.article-nav-wrapper {
-    margin-top: var(--space-lg);
-    padding-top: var(--space-lg);
-    border-top: 1px solid var(--border);
+/* Article navigation (prev/next) - cards premium hors wrapper blanc */
+.article-nav-section {
+    padding: var(--space-lg) 0 var(--space-md);
+    background: var(--background);
 }
+.article-nav-section .container { max-width: var(--container); }
+.article-nav-wrapper { margin: 0; padding: 0; }
 .article-nav {
     display: grid;
     grid-template-columns: 1fr 1fr;
