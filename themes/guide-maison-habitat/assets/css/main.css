@@ -223,14 +223,15 @@ h1, h2, h3, h4, h5, h6 {
     overflow: hidden;
 }
 .hero-v2 .container {
-    max-width: 1680px;
-    padding-left: clamp(1.5rem, 6vw, 5rem);
-    padding-right: clamp(1.5rem, 6vw, 5rem);
+    max-width: var(--container);
+    margin: 0 auto;
+    padding-left: var(--space-md);
+    padding-right: var(--space-md);
 }
 .hero-grid {
     display: grid;
-    grid-template-columns: 1.3fr 1fr;
-    gap: clamp(2rem, 6vw, 6rem);
+    grid-template-columns: 1.2fr 1fr;
+    gap: var(--space-md);
     align-items: center;
 }
 .hero-text {
@@ -332,10 +333,9 @@ h1, h2, h3, h4, h5, h6 {
 /* --- Hero visual (2 images editoriales a droite) --- */
 .hero-visual {
     position: relative;
-    aspect-ratio: 1 / 0.95;
-    max-width: 720px;
-    margin-left: auto;
+    aspect-ratio: 1 / 0.9;
     width: 100%;
+    margin-left: 0;
 }
 .hero-image {
     margin: 0;
