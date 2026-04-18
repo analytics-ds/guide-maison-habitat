@@ -1013,69 +1013,71 @@ p.article-description-on-image {
     transform: rotate(180deg);
 }
 .article-toc-content {
-    padding: 0 0 var(--space-sm);
+    padding: var(--space-sm) 0 var(--space-md);
     border-top: 1px solid var(--border);
     margin-top: -1px;
-    padding-top: var(--space-sm);
 }
 .article-toc-content ol,
 .article-toc-content ul {
     list-style: none;
     padding: 0;
     margin: 0;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    column-gap: var(--space-md);
-    row-gap: 10px;
+    display: flex;
+    flex-direction: column;
     counter-reset: toc-counter;
 }
 .article-toc-content ol ol,
 .article-toc-content ul ul {
-    grid-column: 1 / -1;
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-    margin: 8px 0 0 var(--space-sm);
-    padding-left: var(--space-sm);
+    margin: 6px 0 0 36px;
+    padding-left: 14px;
     border-left: 1px solid var(--border);
+    gap: 4px;
 }
-.article-toc-content li { line-height: 1.4; counter-increment: toc-counter; }
+.article-toc-content li {
+    line-height: 1.4;
+    counter-increment: toc-counter;
+}
+.article-toc-content > ol > li,
+.article-toc-content > ul > li {
+    padding: 6px 0;
+    border-bottom: 1px dashed var(--border-soft);
+}
+.article-toc-content > ol > li:last-child,
+.article-toc-content > ul > li:last-child {
+    border-bottom: none;
+}
 .article-toc-content li a {
     font-family: var(--font-body);
-    font-size: 0.92rem;
+    font-size: 0.98rem;
     color: var(--text);
     text-decoration: none;
     display: flex;
-    gap: 10px;
+    gap: 14px;
     align-items: baseline;
     padding: 4px 0;
-    transition: color var(--transition-fast);
+    transition: color var(--transition-fast), padding-left var(--transition-fast);
 }
 .article-toc-content > ol > li > a::before,
 .article-toc-content > ul > li > a::before {
     content: counter(toc-counter, decimal-leading-zero);
     font-family: var(--font-ui);
-    font-size: 0.72rem;
+    font-size: 0.75rem;
     font-weight: 600;
     color: var(--accent);
     letter-spacing: 0.08em;
     flex-shrink: 0;
+    min-width: 22px;
 }
 .article-toc-content li a:hover,
 .article-toc-content li a.toc-active {
     color: var(--accent);
 }
+.article-toc-content li a:hover { padding-left: 4px; }
 .article-toc-content ol ol li a,
 .article-toc-content ul ul li a {
-    font-size: 0.85rem;
+    font-size: 0.88rem;
     color: var(--text-light);
-}
-
-@media (max-width: 640px) {
-    .article-toc-content ol,
-    .article-toc-content ul {
-        grid-template-columns: 1fr;
-    }
+    padding: 2px 0;
 }
 
 .article-content {
