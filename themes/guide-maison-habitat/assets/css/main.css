@@ -1300,13 +1300,23 @@ section { padding: var(--space-lg) 0; }
     background: var(--white);
 }
 .home-cat-pills-section {
-    padding: var(--space-md) 0 var(--space-sm);
+    padding: var(--space-md) 0;
     background: var(--white);
 }
 .home-cat-pills-section .category-pills {
     margin-top: 0;
-    padding-bottom: var(--space-sm);
-    border-bottom: 1px solid var(--border);
+}
+.category-pills-pyramid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+}
+.category-pills-pyramid .pills-row {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 .home-cat-section {
     padding: var(--space-md) 0;
