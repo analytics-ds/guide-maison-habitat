@@ -1361,6 +1361,81 @@ section { padding: var(--space-lg) 0; }
     padding: 0;
 }
 
+/* --- Home FAQ (au-dessus du footer) --- */
+.home-faq {
+    padding: var(--space-xl) 0;
+    background: var(--background);
+}
+.home-faq .container {
+    max-width: 820px;
+}
+.home-faq-heading {
+    text-align: center;
+    margin-bottom: var(--space-lg);
+}
+.home-faq-heading .hero-eyebrow {
+    display: inline-block;
+    margin-bottom: var(--space-sm);
+    color: var(--accent);
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+.home-faq-heading .section-title {
+    margin: 0;
+}
+.home-faq-list {
+    display: flex;
+    flex-direction: column;
+}
+.home-faq-list details {
+    border-bottom: 1px solid var(--border);
+    padding: 0;
+}
+.home-faq-list details:first-of-type {
+    border-top: 1px solid var(--border);
+}
+.home-faq-list summary {
+    font-family: var(--font-heading);
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: var(--primary);
+    cursor: pointer;
+    padding: 20px 0;
+    list-style: none;
+    display: flex; align-items: center; justify-content: space-between;
+    gap: var(--space-sm);
+    user-select: none;
+    transition: color var(--transition-fast);
+}
+.home-faq-list summary::-webkit-details-marker { display: none; }
+.home-faq-list summary::after {
+    content: '+';
+    font-family: var(--font-ui);
+    font-size: 1.4rem; font-weight: 300;
+    color: var(--accent);
+    transition: transform var(--transition-base);
+    flex-shrink: 0;
+}
+.home-faq-list details[open] summary::after { content: '–'; }
+.home-faq-list summary:hover { color: var(--accent); }
+.home-faq-list details > p {
+    padding: 0 0 20px;
+    margin: 0;
+    color: var(--text-light);
+    font-size: 1rem;
+    line-height: 1.7;
+}
+.home-faq-list details > p a {
+    color: var(--primary);
+    text-decoration: underline;
+    text-decoration-color: var(--accent);
+    text-underline-offset: 3px;
+}
+.home-faq-list details > p a:hover { color: var(--accent); }
+
 /* --- Home : section latest en bas (fond blanc) --- */
 .home-latest {
     padding: var(--space-lg) 0 var(--space-xl);
