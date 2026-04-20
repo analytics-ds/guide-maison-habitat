@@ -13,7 +13,7 @@
 {{- $seen = $seen | append $currentLang }}
 {{- if eq $currentLang $defaultLang }}{{ $xDefault = .Permalink }}{{ end }}
 {{- range .Translations }}
-{{- $tLang := .Lang }}
+{{- $tLang := "fr" -}}{{- if in .RelPermalink "/en/" -}}{{- $tLang = "en" -}}{{- end -}}
 {{- if not (in $seen $tLang) }}
 <link rel="alternate" hreflang="{{ $tLang }}" href="{{ .Permalink }}">
 {{- $seen = $seen | append $tLang }}
