@@ -71,10 +71,15 @@ disableKinds = ["taxonomy"]
   url = "/categories/travaux-et-renovation/"
   weight = 7
 [[languages.fr.menus.main]]
+  identifier = "chauffage"
+  name = "Chauffage"
+  url = "/categories/chauffage/"
+  weight = 8
+[[languages.fr.menus.main]]
   identifier = "simulateurs"
   name = "Simulateurs"
   url = "/simulateurs/"
-  weight = 8
+  weight = 9
 [[languages.fr.menus.main]]
   identifier = "blog"
   name = "Blog"
@@ -152,10 +157,15 @@ disableKinds = ["taxonomy"]
   url = "/en/categories/renovation/"
   weight = 7
 [[languages.en.menus.main]]
+  identifier = "heating"
+  name = "Heating"
+  url = "/en/categories/heating/"
+  weight = 8
+[[languages.en.menus.main]]
   identifier = "simulators"
   name = "Simulators"
   url = "/en/simulators/"
-  weight = 8
+  weight = 9
 [[languages.en.menus.main]]
   identifier = "blog"
   name = "Blog"

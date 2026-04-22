@@ -116,14 +116,15 @@ kevin-moreau:
     fr: Artisan & conducteur de travaux
     en: Craftsman & construction manager
   role:
-    fr: Spécialiste travaux & rénovation
-    en: Works & rénovation specialist
+    fr: Spécialiste travaux, rénovation & chauffage
+    en: Works, renovation & heating specialist
   bio:
-    fr: "Adrien Vasseur a dirigé une entreprise du bâtiment pendant 15 ans avant de se consacrer à la pédagogie. Il décortique chantiers, matériaux et devis pour aider les particuliers à piloter leurs travaux sans mauvaises surprises."
-    en: "Adrien Vasseur ran a construction company for 15 years before dedicating himself to education. He breaks down job sites, materials and quotes to help homeowners manage their works without unpleasant surprises."
+    fr: "Adrien Vasseur a dirigé une entreprise du bâtiment pendant 15 ans avant de se consacrer à la pédagogie. Il décortique chantiers, matériaux, combustibles et devis pour aider les particuliers à piloter leurs travaux et leur chauffage sans mauvaises surprises."
+    en: "Adrien Vasseur ran a construction company for 15 years before dedicating himself to education. He breaks down job sites, materials, fuels and quotes to help homeowners manage their works and heating without unpleasant surprises."
   expertise:
     - Rénovation énergétique
     - Isolation thermique
+    - Chauffage bois et granulés
     - Maçonnerie & gros œuvre
     - Toiture & couverture
     - Plomberie & électricité
@@ -141,6 +142,15 @@ kevin-moreau:
     - artisan
     - RGE
     - MaPrimeRénov
+    - chauffage
+    - bois de chauffage
+    - bûches compressées
+    - granulés
+    - pellets
+    - poêle à bois
+    - poêle à granulés
+    - cheminée
+    - insert
 
 laura-verdier:
   id: laura-verdier
