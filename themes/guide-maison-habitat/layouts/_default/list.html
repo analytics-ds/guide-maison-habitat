@@ -75,7 +75,7 @@
                         {{ with .Params.categories }}
                         <span class="article-category">{{ index . 0 }}</span>
                         {{ end }}
-                        <time>{{ .Date.Format "2 January 2006" }}</time>
+                        <time>{{ .Date | time.Format ":date_long" }}</time>
                         {{ if .Params.readingTime }}
                         <span class="reading-time">{{ .ReadingTime }} min</span>
                         {{ end }}

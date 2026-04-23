@@ -2,7 +2,7 @@
 title: "Best Firewood Seller: How to Make the Right Choice"
 translationKey: "best-firewood-seller"
 date: 2026-04-22
-lastmod: 2026-04-22
+lastmod: 2026-04-23
 description: "Best firewood seller: quality criteria, French market players and tips to buy firewood without making the wrong choice."
 categories: ["Heating"]
 tags: ["firewood", "heating", "wood species", "certification", "delivery", "stere"]
@@ -80,7 +80,7 @@ The French firewood market is shared between four types of players: online speci
 
 Several retailers specialise in remote sales of firewood, pellets and compressed logs:
 
-- [**Simplyfeu**](https://www.simplyfeu.com/shop/bdc-ref-bois-de-chauffage-370): online supplier with nationwide delivery. Offers firewood in several drying levels (dry, half-dry, kiln-dried), pellets and compressed logs. Features a SimplyMixtes offer combining logs and compressed logs on a single pallet.
+- **Simplyfeu**: online supplier with nationwide delivery. Offers firewood in several drying levels (dry, half-dry, kiln-dried), pellets and compressed logs. Features a SimplyMixtes offer combining logs and compressed logs on a single pallet.
 - **Crépito**: mainly focused on pellets and compressed logs, nationwide pallet delivery.
 - **Bois de Chauffage.net**: a long-standing online seller, multi-species and multi-packaging catalogue.
 - **Bois-Bûche.com**: log specialist, kiln-dried and naturally seasoned wood.

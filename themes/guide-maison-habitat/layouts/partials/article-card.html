@@ -15,7 +15,7 @@
             <span class="article-category">{{ index . 0 }}</span>
             <span class="meta-dot">·</span>
             {{ end }}
-            <time>{{ $p.Date.Format "2 January 2006" }}</time>
+            <time>{{ $p.Date | time.Format ":date_long" }}</time>
         </div>
         <h3>{{ $p.Title }}</h3>
         {{ if not $compact }}

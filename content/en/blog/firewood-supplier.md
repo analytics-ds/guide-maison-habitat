@@ -2,7 +2,7 @@
 title: "Firewood Supplier: 4 Types and How to Choose the Right One"
 translationKey: "firewood-supplier"
 date: 2026-04-22
-lastmod: 2026-04-22
+lastmod: 2026-04-23
 description: "Firewood supplier: local producer, distributor, online retailer or DIY store. Types, tips and tools to choose the right one for your profile."
 categories: ["Heating"]
 tags: ["supplier", "firewood", "local producer", "sawmill", "distributor", "delivery"]
@@ -68,7 +68,7 @@ Strength: professional logistics, guaranteed delivery capacity even in peak heat
 
 Wood energy pure players emerged in the 2010s and have established themselves on pellets and compressed logs. They generally cover the whole of metropolitan France with standardised pallets.
 
-- [**Simplyfeu**](https://www.simplyfeu.com/shop/bdc-ref-bois-de-chauffage-370): nationwide delivery, catalogue of firewood (several drying levels), pellets and compressed logs, SimplyMixtes offer combining logs and compressed logs on the same pallet
+- **Simplyfeu**: nationwide delivery, catalogue of firewood (several drying levels), pellets and compressed logs, SimplyMixtes offer combining logs and compressed logs on the same pallet
 - **Crépito**: focused on pellets and compressed logs
 - **Bois de Chauffage.net**: multi-species and multi-packaging catalogue
 - **Bois-Bûche.com**: log specialist, kiln-dried or naturally seasoned

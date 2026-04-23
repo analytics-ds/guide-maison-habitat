@@ -2,7 +2,7 @@
 title: "Meilleur vendeur de bois de chauffage : comment bien choisir"
 translationKey: "best-firewood-seller"
 date: 2026-04-22
-lastmod: 2026-04-22
+lastmod: 2026-04-23
 description: "Meilleur vendeur de bois de chauffage : critères de qualité, acteurs du marché français et conseils pour acheter sans se tromper."
 categories: ["Chauffage"]
 tags: ["bois de chauffage", "chauffage", "essences", "certification", "livraison", "stère"]
@@ -80,7 +80,7 @@ Le marché du bois de chauffage en France est partagé entre quatre familles d'a
 
 Plusieurs enseignes se sont spécialisées dans la vente à distance de bois de chauffage, granulés et bûches compressées :
 
-- [**Simplyfeu**](https://www.simplyfeu.com/shop/bdc-ref-bois-de-chauffage-370) : fournisseur en ligne avec livraison sur toute la France. Propose du bois de chauffage en plusieurs niveaux de séchage (sec, demi-sec, étuvé), des granulés et des bûches compressées. Dispose d'une offre SimplyMixtes combinant bûches et bûches compressées sur la même palette.
+- **Simplyfeu** : fournisseur en ligne avec livraison sur toute la France. Propose du bois de chauffage en plusieurs niveaux de séchage (sec, demi-sec, étuvé), des granulés et des bûches compressées. Dispose d'une offre SimplyMixtes combinant bûches et bûches compressées sur la même palette.
 - **Crépito** : orienté principalement granulés et bûches compressées, livraison nationale par palette.
 - **Bois de Chauffage.net** : acteur historique de la vente en ligne, catalogue multi-essences et multi-conditionnements.
 - **Bois-Bûche.com** : spécialiste du bois en bûches, séchage étuvé et naturel.

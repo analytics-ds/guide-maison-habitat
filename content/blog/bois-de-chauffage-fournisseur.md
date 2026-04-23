@@ -2,7 +2,7 @@
 title: "Bois de chauffage fournisseur : 4 types et comment bien choisir"
 translationKey: "firewood-supplier"
 date: 2026-04-22
-lastmod: 2026-04-22
+lastmod: 2026-04-23
 description: "Bois de chauffage fournisseur : producteur local, distributeur, enseigne en ligne ou GSB. Typologie, conseils et outils pour choisir selon son profil."
 categories: ["Chauffage"]
 tags: ["fournisseur", "bois de chauffage", "producteur local", "scierie", "distributeur", "livraison"]
@@ -68,7 +68,7 @@ Point fort : logistique professionnelle, capacité de livraison garantie même e
 
 Les pure players du bois énergie sont apparus dans les années 2010 et se sont imposés sur le segment des granulés et bûches compressées. Ils couvrent généralement toute la France métropolitaine avec des palettes standardisées.
 
-- [**Simplyfeu**](https://www.simplyfeu.com/shop/bdc-ref-bois-de-chauffage-370) : livraison France entière, catalogue bois de chauffage (plusieurs niveaux de séchage), granulés et bûches compressées, offre SimplyMixtes combinant bûches et bûches compressées sur la même palette
+- **Simplyfeu** : livraison France entière, catalogue bois de chauffage (plusieurs niveaux de séchage), granulés et bûches compressées, offre SimplyMixtes combinant bûches et bûches compressées sur la même palette
 - **Crépito** : orienté granulés et bûches compressées
 - **Bois de Chauffage.net** : catalogue multi-essences et multi-conditionnements
 - **Bois-Bûche.com** : spécialiste bois en bûches, séchage étuvé ou naturel
