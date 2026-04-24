@@ -23,9 +23,9 @@
                         <a href="{{ "blog/" | relURL }}">Blog</a>
                         <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
                     </li>
-                    {{ with .Params.categories }}
+                    {{ with index (.GetTerms "categories") 0 }}{{ $catURL := .RelPermalink }}{{ $catLabel := index ($.Params.categories) 0 }}
                     <li class="breadcrumb-item">
-                        <a href="{{ printf "categories/%s/" (index . 0 | urlize) | relURL }}">{{ index . 0 }}</a>
+                        <a href="{{ $catURL }}">{{ $catLabel }}</a>
                         <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
                     </li>
                     {{ end }}
@@ -34,8 +34,8 @@
             </nav>
             <div class="article-hero-bg-text">
                 <div class="article-meta-on-image">
-                    {{ with .Params.categories }}
-                    <a href="{{ printf "categories/%s/" (index . 0 | urlize) | relURL }}" class="article-category-on-image">{{ index . 0 }}</a>
+                    {{ with index (.GetTerms "categories") 0 }}{{ $catURL := .RelPermalink }}{{ $catLabel := index ($.Params.categories) 0 }}
+                    <a href="{{ $catURL }}" class="article-category-on-image">{{ $catLabel }}</a>
                     <span class="meta-separator-on-image">·</span>
                     {{ end }}
                     <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time>
