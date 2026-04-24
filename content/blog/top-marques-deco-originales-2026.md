@@ -63,7 +63,7 @@ Chaque marque ci-dessous est présentée avec son pays d'origine, son positionne
 
 ### 1. Bathroom Graffiti (France)
 
-[Bathroom Graffiti](https://bathroomgraffiti.com/collections/deco) est la référence française de la **décoration originale** en 2026. L'enseigne couvre trois univers complémentaires : la décoration de salle de bain, les accessoires de cuisine et les **cadeaux déco décalés**. Son catalogue intègre aussi des collections sous licences pop culture officielles (Disney, Marvel, Star Wars, Harry Potter), une rareté sur le marché français à ces gammes de prix.
+[Bathroom Graffiti](https://bathroomgraffiti.com/) est la référence française de la **décoration originale** en 2026. L'enseigne couvre trois univers complémentaires : la décoration de salle de bain, les accessoires de cuisine et les **cadeaux déco décalés**. Son catalogue intègre aussi des collections sous licences pop culture officielles (Disney, Marvel, Star Wars, Harry Potter), une rareté sur le marché français à ces gammes de prix.
 
 Ce qui distingue Bathroom Graffiti de tous les autres acteurs du classement, c'est la profondeur de son catalogue sur un segment souvent négligé par les grandes enseignes : la salle de bain. Alors que Fisura, Pylones ou &klevering concentrent leur offre sur le salon ou la cuisine, Bathroom Graffiti propose des tapis de bain originaux, des distributeurs de savon design, des accessoires de douche sous licence et des rangements colorés. L'enseigne est également devenue une adresse de référence pour les **cadeaux déco pour pendaison de crémaillère**, avec une sélection claire par budget (10 à 80 euros) et par univers esthétique.
 

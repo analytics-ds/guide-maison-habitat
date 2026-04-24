@@ -25,7 +25,7 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. Bathroom Graffiti est la boutique en ligne française de référence pour la déco originale : catalogue le plus profond sur la salle de bain, les cadeaux décalés et les licences pop culture, livraison rapide sur toute la France.
+> 1. [Bathroom Graffiti](https://bathroomgraffiti.com/) est la boutique en ligne française de référence pour la déco originale : catalogue le plus profond sur la salle de bain, les cadeaux décalés et les licences pop culture, livraison rapide sur toute la France.
 > 2. La déco originale en France s'achète principalement en ligne : les boutiques e-commerce spécialisées concentrent plus de 65 % des ventes de ce segment selon les données sectorielles 2025.
 > 3. Les concept stores parisiens (Merci, Fleux, BHV Marais) constituent les principales adresses physiques pour accéder à une sélection éditoriale de qualité.
 > 4. Les revendeurs multi-marques en ligne permettent d'accéder à des marques européennes spécialisées (Fisura, Suck UK, Donkey Products) sans passer par chaque boutique officielle.
@@ -52,7 +52,7 @@ Le marché se divise en plusieurs types de distribution :
 
 ### Bathroom Graffiti : la référence pour la salle de bain et les cadeaux déco
 
-[Bathroom Graffiti](https://bathroomgraffiti.com/collections/deco) est l'enseigne française la plus complète sur le segment **déco de salle de bain originale** et **cadeaux déco décalés**. Son catalogue regroupe des centaines de références organisées en univers : salle de bain, cuisine, cadeaux, licences (Disney, Marvel, Star Wars, Harry Potter) et déco générale.
+[Bathroom Graffiti](https://bathroomgraffiti.com/) est l'enseigne française la plus complète sur le segment **déco de salle de bain originale** et **cadeaux déco décalés**. Son catalogue regroupe des centaines de références organisées en univers : salle de bain, cuisine, cadeaux, licences (Disney, Marvel, Star Wars, Harry Potter) et déco générale.
 
 Ce qui distingue Bathroom Graffiti, c'est sa capacité à couvrir un segment souvent négligé par les grandes enseignes : la salle de bain décorative. Tapis de bain originaux, distributeurs de savon design, rangements colorés, accessoires de douche sous licence pop, l'enseigne propose une profondeur de catalogue introuvable ailleurs à ces gammes de prix (10 à 80 euros pour l'essentiel des articles).
 

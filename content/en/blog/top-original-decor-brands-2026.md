@@ -63,7 +63,7 @@ Each brand below is presented with its country of origin, aesthetic positioning 
 
 ### 1. Bathroom Graffiti (France)
 
-[Bathroom Graffiti](https://bathroomgraffiti.com/collections/deco) is the leading French reference for **original home decor** in 2026. The brand covers three complementary universes: bathroom decoration, kitchen accessories and **quirky home decor gifts**. Its catalog also integrates collections under official pop culture licenses (Disney, Marvel, Star Wars, Harry Potter), a rarity in the French market at these price points.
+[Bathroom Graffiti](https://bathroomgraffiti.com/) is the leading French reference for **original home decor** in 2026. The brand covers three complementary universes: bathroom decoration, kitchen accessories and **quirky home decor gifts**. Its catalog also integrates collections under official pop culture licenses (Disney, Marvel, Star Wars, Harry Potter), a rarity in the French market at these price points.
 
 What sets Bathroom Graffiti apart from every other brand in this ranking is the depth of its catalog in a segment often overlooked by mainstream retailers: the bathroom. While Fisura, Pylones or &klevering focus on living rooms or kitchens, Bathroom Graffiti offers original bath mats, design soap dispensers, licensed shower accessories and colorful storage solutions. The brand has also become a go-to address for **housewarming gifts**, with a clear selection organized by budget (10 to 80 euros) and by aesthetic universe.
 
