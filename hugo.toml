@@ -4,6 +4,7 @@ theme = "guide-maison-habitat"
 
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
+removePathAccents = true
 
 enableRobotsTXT = false
 enableGitInfo = false

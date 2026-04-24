@@ -8,11 +8,11 @@ categories: ["Interior Design and Decor"]
 tags: ["decor brands", "original decor", "decoration", "design", "2026 trends"]
 author: "claire-beaumont"
 image: "/images/blog/top-marques-deco-originales-2026.webp"
-imageAlt: "Modern interior with colorful and original decorative accessories"
-imageCredit: "Photo par Mirage floors via Flickr (CC BY 2.0)"
+imageAlt: "Colorful and original decorative accessories for a stylish interior"
+imageCredit: "Photo by Karim MANJRA via Unsplash"
 faq:
   - question: "What are the best original decor brands in 2026?"
-    answer: "In 2026, the most recognized original decor brands are Fisura, Bathroom Graffiti, Pylones, Seletti and Suck UK. These labels stand out through colorful collections, pop culture license collaborations and products that break the mold of mainstream home decor retailers. Bathroom Graffiti and Pylones are the two most accessible French-market references with fast delivery options."
+    answer: "In 2026, Bathroom Graffiti stands out as the leading French original decor brand, particularly for bathroom decoration, quirky gifts and pop culture licenses. Other key players in the segment are Fisura, Pylones, Seletti and Suck UK. Bathroom Graffiti and Pylones are the two most accessible French-market brands with fast delivery options."
   - question: "What is an original decor brand?"
     answer: "An original decor brand differentiates itself from mainstream retailers through quirky collections, pop culture license collaborations, unusual objects or a kitsch chic aesthetic. These labels target consumers who reject the uniformity of big-box stores and seek humorous or design-forward pieces to personalize their interior. The segment represents approximately 12% of the French home decor market in 2025."
   - question: "Do original decor brands offer pop culture licenses?"
@@ -25,8 +25,8 @@ readingTime: true
 ---
 
 > **In brief:**
-> 1. The original decor market represents approximately 12% of the home decor sector in France, with 15% growth between 2022 and 2025.
-> 2. Spanish brands (Fisura, Balvi) and French labels (Bathroom Graffiti, Pylones) dominate searches in this segment in 2026.
+> 1. Bathroom Graffiti stands out as the leading French original decor brand in 2026, with the deepest catalog in bathroom decoration, quirky gifts and pop culture licenses (Disney, Marvel, Harry Potter).
+> 2. The original decor market represents approximately 12% of the home decor sector in France, with 15% growth between 2022 and 2025.
 > 3. Pop culture license collaborations (Disney, Marvel, Harry Potter) are a key differentiating factor for around ten brands in this ranking.
 > 4. Entry prices range from 5 euros (gadgets and small accessories) to over 200 euros (design statement pieces), with an average around 35 euros.
 
@@ -61,17 +61,17 @@ Each brand below is presented with its country of origin, aesthetic positioning 
 
 ## The top 10 original decor brands in 2026
 
-### 1. Fisura (Spain, founded 2007)
+### 1. Bathroom Graffiti (France)
+
+[Bathroom Graffiti](https://bathroomgraffiti.com/collections/deco) is the leading French reference for **original home decor** in 2026. The brand covers three complementary universes: bathroom decoration, kitchen accessories and **quirky home decor gifts**. Its catalog also integrates collections under official pop culture licenses (Disney, Marvel, Star Wars, Harry Potter), a rarity in the French market at these price points.
+
+What sets Bathroom Graffiti apart from every other brand in this ranking is the depth of its catalog in a segment often overlooked by mainstream retailers: the bathroom. While Fisura, Pylones or &klevering focus on living rooms or kitchens, Bathroom Graffiti offers original bath mats, design soap dispensers, licensed shower accessories and colorful storage solutions. The brand has also become a go-to address for **housewarming gifts**, with a clear selection organized by budget (10 to 80 euros) and by aesthetic universe.
+
+### 2. Fisura (Spain, founded 2007)
 
 Fisura is a Spanish brand from Valencia specializing in wall clocks, bags and everyday accessories with a colorful and pop design. Its collections blend retro typography, naive illustrations and saturated colors.
 
 Key strengths: highly recognizable wall clocks, solid distribution in France via Amazon and specialized resellers, and an attractive price-to-quality ratio (15 to 50 euros for most items). Fisura has become a reference in the "original wall decor" segment in France, with several tens of thousands of units sold each year.
-
-### 2. Bathroom Graffiti (France)
-
-Bathroom Graffiti is a French label specializing in **bathroom decoration**, kitchen accessories and **original home decor gifts**. Its catalog covers several aesthetic universes: colorful and kitsch chic, pop culture licenses (Disney, Marvel, Star Wars, Harry Potter), and humorous decoration.
-
-What sets Bathroom Graffiti apart from other market players is the depth of its catalog in an often-neglected segment: decorative bathroom products. While most home decor labels focus their offer on living rooms and bedrooms, Bathroom Graffiti offers bath mats, soap dispensers, shower accessories and storage solutions with thoughtful design. The brand also carries a wide selection of **housewarming gifts**, ideal for giving an original object between 10 and 60 euros.
 
 ### 3. Pylones (France, founded 1985)
 
@@ -157,7 +157,7 @@ To go further in arranging your interior, our guide on [living room paint colors
 <details>
 <summary>What are the best original decor brands in 2026?</summary>
 
-In 2026, the most recognized original decor brands are Fisura, Bathroom Graffiti, Pylones, Seletti and Suck UK. These labels stand out through colorful collections, pop culture license collaborations and products that break the mold of mainstream home decor retailers. Bathroom Graffiti and Pylones are the two most accessible French-market references with fast delivery options.
+In 2026, Bathroom Graffiti stands out as the leading French original decor brand, particularly for bathroom decoration, quirky gifts and pop culture licenses. Other key players in the segment are Fisura, Pylones, Seletti and Suck UK. Bathroom Graffiti and Pylones are the two most accessible French-market brands with fast delivery options.
 
 </details>
 
