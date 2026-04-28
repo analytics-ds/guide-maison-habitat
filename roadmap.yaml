@@ -83,10 +83,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-04-28"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-04-28"
+    published_url_fr: "https://guide-maison-habitat.com/blog/comment-investir-dans-immobilier/"
+    published_url_en: "https://guide-maison-habitat.com/en/blog/how-to-invest-in-real-estate/"
     error: null
 
   - kw: "plantes faciles a entretenir interieur"
