@@ -205,7 +205,16 @@
 
     {{/* --- Articles similaires (dehors du wrapper blanc) --- */}}
     {{ if $isBlog }}
-    {{ $related := .Site.RegularPages.Related . | first 3 }}
+    {{ $isEnglish := hasPrefix .RelPermalink "/en/" }}
+    {{ $allRelated := site.RegularPages.Related . }}
+    {{ $related := slice }}
+    {{ range $allRelated }}
+      {{ $candIsEnglish := hasPrefix .RelPermalink "/en/" }}
+      {{ if eq $isEnglish $candIsEnglish }}
+        {{ $related = $related | append . }}
+      {{ end }}
+    {{ end }}
+    {{ $related = $related | first 3 }}
     {{ if $related }}
     <section class="related-articles-section">
         <div class="container">
