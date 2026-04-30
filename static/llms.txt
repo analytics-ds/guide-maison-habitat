@@ -37,7 +37,7 @@ Guide Maison & Habitat est un média éditorial indépendant. Tous les articlés
 - Calcul capacité d'emprunt : simulateur gratuit 2026: https://guide-maison-habitat.com/simulateurs/capacite-emprunt/
 - Simulateur mensualités de prêt: https://guide-maison-habitat.com/simulateurs/mensualites/
 - Simulateur frais de notaire: https://guide-maison-habitat.com/simulateurs/frais-notaire/
-- Simulateur prêt à taux zéro (PTZ): https://guide-maison-habitat.com/simulateurs/pret-taux-zero/
+- Simulateur prêt à taux zéro (PTZ) : calcul gratuit 2026: https://guide-maison-habitat.com/simulateurs/pret-taux-zero/
 
 ## English articles
 
@@ -55,6 +55,7 @@ Guide Maison & Habitat est un média éditorial indépendant. Tous les articlés
 ## Simulators (EN)
 
 - Borrowing capacity calculator: free simulator 2026: https://guide-maison-habitat.com/en/simulators/borrowing-capacity/
+- Zero-rate loan calculator (PTZ): free simulator 2026: https://guide-maison-habitat.com/en/simulators/zero-rate-loan/
 
 ## Informations techniques
 
