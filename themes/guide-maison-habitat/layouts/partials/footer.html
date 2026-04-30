@@ -26,6 +26,13 @@
                     <li><a href="{{ "simulateurs/pret-taux-zero/" | relLangURL }}">Prêt à taux zéro</a></li>
                 </ul>
             </div>
+            {{ else }}
+            <div class="footer-col">
+                <h4>Simulators</h4>
+                <ul>
+                    <li><a href="{{ "simulators/borrowing-capacity/" | relLangURL }}">Borrowing capacity</a></li>
+                </ul>
+            </div>
             {{ end }}
             <div class="footer-col">
                 <h4>{{ if eq $lang "en" }}Navigation{{ else }}Navigation{{ end }}</h4>

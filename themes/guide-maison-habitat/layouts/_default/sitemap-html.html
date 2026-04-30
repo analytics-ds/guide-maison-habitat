@@ -45,6 +45,21 @@
       </div>
       {{ end }}
 
+      {{/* --- Simulateurs --- */}}
+      {{ $simSection := cond $isEN "simulators" "simulateurs" }}
+      {{ $simPages := where (where .Site.RegularPages "Section" $simSection) "Lang" $currentLang }}
+      {{ if $simPages }}
+      <div class="plan-site-col">
+        <h2 class="plan-site-title">{{ if $isEN }}Simulators{{ else }}Simulateurs{{ end }}</h2>
+        <ul class="plan-site-list">
+          <li><span class="plan-emoji">🧮</span> <a href="{{ (printf "%s/" $simSection) | relLangURL }}"><strong>{{ if $isEN }}All simulators{{ else }}Tous les simulateurs{{ end }}</strong></a></li>
+          {{ range $simPages }}
+            <li><span class="plan-emoji">📊</span> <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
       {{/* --- Categories : filtre via chemin absolu du fichier source --- */}}
       {{ $localCats := slice }}
       {{ range (where .Site.Pages "Section" "categories") }}
