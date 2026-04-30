@@ -33,7 +33,7 @@ readingTime: true
 
 ## Ville ou campagne : un arbitrage qui se réinvente
 
-**Ville ou campagne** : ce choix structure profondément un quotidien, un budget et souvent une carrière. Depuis la crise sanitaire de 2020, l'INSEE relève une hausse de 15 pour cent des migrations résidentielles vers les zones rurales, et 81 pour cent des Français voient désormais la campagne comme un cadre de vie idéal selon un sondage Ifop pour Familles Rurales. Pourtant, 15 pour cent des néo-ruraux post-Covid regrettent leur installation (étude Déménageurs Bretons) : la décision se joue moins sur l'idéal projeté que sur la lucidité de ses priorités.
+La crise sanitaire de 2020 a profondément rebattu les cartes du choix résidentiel. L'INSEE relève une hausse de 15 pour cent des migrations vers les zones rurales, et 81 pour cent des Français voient désormais la campagne comme un cadre de vie idéal, selon un sondage Ifop pour Familles Rurales. Pourtant, 15 pour cent des néo-ruraux post-Covid regrettent leur installation (étude Déménageurs Bretons) : choisir entre la ville et la campagne se joue moins sur l'idéal projeté que sur la lucidité de ses priorités.
 
 ### Trois profils types pour s'y retrouver
 

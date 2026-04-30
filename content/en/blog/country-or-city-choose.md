@@ -33,7 +33,7 @@ readingTime: true
 
 ## City or country: a trade-off being reinvented
 
-**City or country**: this choice deeply shapes daily life, budget and often career. Since the 2020 health crisis, INSEE has reported a 15 percent rise in residential migrations to rural areas, and 81 percent of French people now see the countryside as an ideal living environment, according to an Ifop survey for Familles Rurales. Yet 15 percent of post-Covid neo-rurals regret their move (Déménageurs Bretons study): the decision relies less on a projected ideal than on honest clarity about priorities.
+The 2020 health crisis has deeply reshuffled the cards of the residential choice. INSEE reports a 15 percent rise in migrations to rural areas, and 81 percent of French people now see the countryside as an ideal living environment, according to an Ifop survey for Familles Rurales. Yet 15 percent of post-Covid neo-rurals regret their move (Déménageurs Bretons study): choosing between city and country relies less on a projected ideal than on honest clarity about one's priorities.
 
 ### Three typical profiles to find your bearings
 
