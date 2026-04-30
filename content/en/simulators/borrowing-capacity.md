@@ -121,7 +121,7 @@ The formula:
 - Rents in case of dual residence.
 - Existing rental charges are not counted if the purchase ends the rental.
 
-## How much can you borrow based on your salary
+## How much can you borrow based on your salary?
 
 The table below gives an estimate of borrowing capacity for a single person, with no charges or deposit, at a 3.5 percent rate in 2026.
 

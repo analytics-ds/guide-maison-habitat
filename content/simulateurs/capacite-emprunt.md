@@ -96,7 +96,7 @@ Combien pouvez-vous emprunter pour votre projet immobilier ? Le montant maximum 
 > 3. Allonger la durée du prêt augmente le capital empruntable mais alourdit le coût total des intérêts.
 > 4. Solder un crédit conso libère immédiatement de la marge sur le taux d'endettement.
 
-## Comment se calcule votre capacité d'emprunt
+## Comment se calcule votre capacité d'emprunt ?
 
 Le calcul s'appuie sur la règle des 35 pour cent d'endettement maximum, fixée par le Haut Conseil de Stabilité Financière (HCSF) depuis janvier 2022. La banque déduit d'abord les charges récurrentes des revenus nets, applique le taux de 35 pour cent pour fixer la mensualité maximale, puis convertit cette mensualité en capital empruntable selon la durée et le taux d'intérêt du prêt.
 
@@ -105,7 +105,7 @@ La formule appliquée :
 1. Mensualité maximale = (revenus nets - charges) × 35 %
 2. Capital empruntable = mensualité × (1 - (1 + taux mensuel)^(-mois)) / taux mensuel
 
-### Quels revenus sont pris en compte
+### Quels revenus sont pris en compte ?
 
 - Les salaires en CDI hors période d'essai, retenus à 100 pour cent.
 - Les pensions de retraite et les rentes viagères, retenues à 100 pour cent.
@@ -114,14 +114,14 @@ La formule appliquée :
 - Les primes et variables, lissés sur les 2 ou 3 dernières années.
 - Les allocations sociales (CAF, RSA) ne sont pas intégrées par la majorité des banques.
 
-### Quelles charges intègrent le calcul
+### Quelles charges intègrent le calcul ?
 
 - Les mensualités de crédits en cours (immobilier locatif, auto, conso).
 - Les pensions alimentaires versées.
 - Les loyers en cas de double résidence.
 - Les charges fixes locatives ne sont pas comptées si l'achat met fin à la location.
 
-## Quel emprunt selon votre salaire
+## Quel emprunt selon votre salaire ?
 
 Le tableau ci-dessous donne une estimation de la capacité d'emprunt pour une personne seule, sans charges ni apport, à un taux de 3,5 pour cent en 2026.
 
@@ -179,7 +179,7 @@ Au-delà de la règle des 35 pour cent, plusieurs critères qualitatifs orienten
 - **Saut de charge** : un nouveau dossier dont la mensualité dépasse de plus de 50 pour cent l'ancien loyer fragilise la décision.
 - **Historique bancaire** : absence de découvert récurrent, pas d'incident de paiement sur 12 mois.
 
-## Comment augmenter votre capacité d'emprunt
+## Comment augmenter votre capacité d'emprunt ?
 
 Cinq leviers sont mobilisables avant la demande de prêt.
 

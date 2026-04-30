@@ -55,7 +55,7 @@ La crise sanitaire de 2020 a profondément rebattu les cartes du choix résident
 | Couverture fibre | Plus de 95 % | 80 à 90 % | 55 à 75 % |
 | Lien social | Anonymat | Vie locale équilibrée | Communauté forte |
 
-## Quel budget mensuel selon le mode de vie
+## Quel budget mensuel selon le mode de vie ?
 
 > "L'économie réalisée sur le logement à la campagne est en partie absorbée par la hausse du budget transport."
 > — INSEE, étude Mode de vie 2024
@@ -70,7 +70,7 @@ Pour un couple avec deux enfants, budget mensuel estimé :
 
 Pour calibrer un projet d'achat, simulez votre [capacité d'emprunt](/simulateurs/capacite-emprunt/) puis vos [mensualités de prêt](/simulateurs/mensualites/).
 
-## Comment le télétravail change la donne
+## Comment le télétravail change la donne ?
 
 Environ 30 pour cent des actifs en télétravail partiel envisagent une installation à la campagne ou en ville moyenne. Trois prérequis techniques sont à vérifier avant tout déménagement :
 
