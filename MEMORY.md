@@ -2,6 +2,10 @@
 
 Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 
+## Semaine du 1 mai 2026
+
+- 2026-05-01 | Plantes faciles à entretenir en intérieur : notre sélection (FR+EN) | Jardin | auto
+
 ## Semaine du 27 avril 2026
 
 - 2026-04-28 | Comment investir dans l'immobilier : guide complet 2026 (FR+EN) | Financement | auto

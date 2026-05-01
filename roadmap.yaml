@@ -94,10 +94,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-01"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-01"
+    published_url_fr: "https://guide-maison-habitat.com/blog/plantes-faciles-entretenir-interieur/"
+    published_url_en: "https://guide-maison-habitat.com/en/blog/easy-care-indoor-plants/"
     error: null
 
   - kw: "comment isoler ses combles"
