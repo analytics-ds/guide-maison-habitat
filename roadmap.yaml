@@ -105,10 +105,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-05"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-05"
+    published_url_fr: "https://guide-maison-habitat.com/blog/comment-isoler-ses-combles/"
+    published_url_en: "https://guide-maison-habitat.com/en/blog/how-to-insulate-attic/"
     error: null
 
   - kw: "idees deco salon moderne"

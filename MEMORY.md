@@ -2,6 +2,10 @@
 
 Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 
+## Semaine du 5 mai 2026
+
+- 2026-05-05 | Comment isoler ses combles : guide pratique 2026 (FR+EN) | Travaux et Rénovation | auto
+
 ## Semaine du 1 mai 2026
 
 - 2026-05-01 | Plantes faciles à entretenir en intérieur : notre sélection (FR+EN) | Jardin | auto
