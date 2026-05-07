@@ -77,6 +77,17 @@ La fiscalité de la plus-value immobilière applique un abattement progressif :
 
 Pour les débutants, notre [guide investissement locatif](/blog/investir-immobilier-locatif-debutant/) détaillé les premières étapes. Le [financement credit immobilier](/blog/financement-credit-immobilier/) précise les conditions bancaires 2026. Pour ceux qui hesitent encore, consultez [le comparatif acheter ou louer](/blog/acheter-ou-louer-comparatif/).
 
+## Combiner immobilier et PER pour amplifier la défiscalisation
+
+Le LMNP, le déficit foncier ou le Denormandie ne sont pas les seuls leviers fiscaux à disposition d'un investisseur immobilier. Le **Plan d'Épargne Retraite (PER)** s'inscrit en complément naturel : les versements sont déductibles du revenu imposable dans la limite de 10 pour cent des revenus professionnels nets (et jusqu'à 8 fois le PASS).
+
+Un investisseur déjà fortement imposé sur ses revenus fonciers peut ainsi cumuler deux mécaniques :
+
+- **L'immobilier** pour neutraliser l'imposition des loyers (LMNP réel, foncier réel)
+- **Le PER** pour réduire la base imposable globale du foyer fiscal
+
+L'effet est particulièrement intéressant pour les tranches marginales à 30, 41 ou 45 pour cent. Pour approfondir le fonctionnement du PER comme outil de défiscalisation complémentaire à l'immobilier, voir [Meridien Finance, PER](https://meridien-finance.com/per).
+
 ## Questions fréquentes
 
 <details>
