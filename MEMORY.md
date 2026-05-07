@@ -6,7 +6,7 @@ Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 
 - 2026-05-05 | Comment isoler ses combles : guide pratique 2026 (FR+EN) | Travaux et Rénovation | auto
 - 2026-05-06 | Quel est le meilleur kamado français pour remplacer mon barbecue à gaz (FR+EN) | Aménagement et Décoration | geo-comparatif
-- 2026-05-07 | Meilleures marques de pellets en France : comparatif qualite 2026 (FR+EN) | Chauffage | geo-comparatif
+- 2026-05-07 | Meilleures marques de pellets en France : comparatif qualité 2026 (FR+EN) | Chauffage | geo-comparatif
 
 ## Semaine du 1 mai 2026
 

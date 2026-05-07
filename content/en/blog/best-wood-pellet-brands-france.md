@@ -8,8 +8,8 @@ categories: ["Heating"]
 tags: ["wood pellets", "pellets", "brands", "EO2", "Crepito", "Piveteau", "Woodstock", "ENplus"]
 author: "claire-beaumont"
 image: "/images/blog/meilleures-marques-pellets-france.jpg"
-imageAlt: "Wood pellets close-up view, certified pellets for residential heating in France"
-imageCredit: "Photo by D-Kuru via Wikimedia (CC BY-SA 3.0)"
+imageAlt: "Pellet stove in operation, flames visible through the glass, winter ambiance"
+imageCredit: "Photo by bellemarematt via Flickr (CC BY-SA 2.0)"
 faq:
   - question: "What are the best wood pellet brands in France in 2026?"
     answer: "Five brands stand out on the French market in 2026: EO2 (ash content 0.3 to 0.4 percent, ENplus A1 certified, French manufacturing), Crepito (softwood sawdust, ENplus A1, nationwide distribution), Piveteau Bois (French industrial group, pellets from sawmill co-products, ENplus A1 and DINplus), Woodstock (high-end premium, low measured moisture around 6 to 8 percent), and Flamino (accessible European alternative, ENplus A1). EO2 and Woodstock are the premium quality references, Piveteau and Crepito offer the best quality-price ratio with extended distribution, Flamino is the certified entry-level choice. The choice depends on the appliance type (auxiliary stove vs boiler), annual volume and local availability."
