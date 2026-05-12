@@ -127,10 +127,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-12"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-12"
+    published_url_fr: "https://guide-maison-habitat.com/blog/prix-renovation-salle-de-bain/"
+    published_url_en: "https://guide-maison-habitat.com/en/blog/bathroom-renovation-cost/"
     error: null
 
   - kw: "meilleure ville pour investir immobilier"
