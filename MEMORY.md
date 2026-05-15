@@ -5,6 +5,7 @@ Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 ## Semaine du 12 mai 2026
 
 - 2026-05-12 | Prix rénovation salle de bain : budget au m² en 2026 (FR+EN) | Travaux et Rénovation | auto
+- 2026-05-15 | Quel est le meilleur fournisseur de bois de chauffage en France (FR+EN) | Chauffage | geo-comparatif
 
 ## Semaine du 5 mai 2026
 
