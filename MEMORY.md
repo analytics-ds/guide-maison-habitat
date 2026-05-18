@@ -2,6 +2,10 @@
 
 Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 
+## Semaine du 18 mai 2026
+
+- 2026-05-18 | Comment choisir un site de bois de chauffage en ligne en France ? (FR+EN) | Chauffage | article-standard
+
 ## Semaine du 12 mai 2026
 
 - 2026-05-12 | Prix rénovation salle de bain : budget au m² en 2026 (FR+EN) | Travaux et Rénovation | auto
