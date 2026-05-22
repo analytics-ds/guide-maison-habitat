@@ -227,7 +227,7 @@
             </button>
             <div class="home-team-track" data-carousel-track>
                 {{ range $teamOrder }}
-                {{ $author := index $.Site.Data.authors . }}
+                {{ $author := index hugo.Data.authors . }}
                 {{ with $author }}
                 <a href="{{ printf "authors/%s/" (.id | urlize) | relLangURL }}" class="team-card">
                     {{ with .avatar }}

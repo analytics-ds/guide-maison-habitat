@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ $lang := .Site.Language.Lang }}
 {{ $slug := path.Base .RelPermalink | strings.TrimSuffix "/" }}
-{{ $authorData := index .Site.Data.authors $slug }}
+{{ $authorData := index hugo.Data.authors $slug }}
 
 {{ if $authorData }}
 {{/* ========= Page auteur individuelle ========= */}}
@@ -114,7 +114,7 @@
             <a href="{{ "authors/" | relLangURL }}" class="all-authors-link">{{ if eq $lang "en" }}See all{{ else }}Voir tous{{ end }} <span aria-hidden="true">↗</span></a>
         </div>
         <div class="author-other-grid">
-            {{ range $otherSlug, $otherData := .Site.Data.authors }}
+            {{ range $otherSlug, $otherData := hugo.Data.authors }}
             {{ if ne $otherSlug $slug }}
             <a href="{{ (printf "authors/%s/" $otherSlug) | relLangURL }}" class="author-mini-card">
                 {{ with $otherData.avatar }}<img src="{{ . | relURL }}" alt="{{ $otherData.name }}" class="author-mini-avatar" width="56" height="56" loading="lazy">{{ else }}<span class="author-mini-avatar author-mini-avatar-placeholder" aria-hidden="true">{{ slicestr $otherData.name 0 1 }}</span>{{ end }}
@@ -133,7 +133,7 @@
 {{/* ========= Liste de tous les auteurs ========= */}}
 {{ $blogPages := where site.RegularPages "Section" "blog" }}
 {{ $totalArticles := len $blogPages }}
-{{ $authorCount := len .Site.Data.authors }}
+{{ $authorCount := len hugo.Data.authors }}
 
 <section class="authors-list-hero">
     <div class="container">
@@ -166,7 +166,7 @@
 <section class="authors-grid-section">
     <div class="container">
         <div class="authors-grid">
-            {{ range $rangeSlug, $data := .Site.Data.authors }}
+            {{ range $rangeSlug, $data := hugo.Data.authors }}
             {{ $articles := where site.RegularPages "Params.author" $rangeSlug }}
             {{ $articles = where $articles "Section" "blog" }}
             {{ $count := len $articles }}
