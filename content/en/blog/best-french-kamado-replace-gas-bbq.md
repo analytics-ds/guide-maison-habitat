@@ -148,7 +148,7 @@ The very accessible price (250 to 400 euros) makes it an entry door to the kamad
 > "The French ceramic barbecue market has grown by 15% per year on average since 2018, driven by the upmarket shift of consumers and the emergence of European brands able to compete with historical American players."
 > French federation of cooking industries, 2024 observatory
 
-To place this comparison in a broader outdoor design project, the full guide on how to [design an outdoor terrace](/en/blog/design-outdoor-terrace/) presents the choices of flooring, furniture and zoning that articulate naturally around a fixed kamado. For users who want to push smoking further, the deep-dive on the [best ceramic kamado for low and slow brisket](/en/blog/best-ceramic-kamado-low-and-slow-brisket/) covers thicker ceramic models suited to 12-hour cooks.
+To place this comparison in a broader outdoor design project, the full guide on how to [design an outdoor terrace](/en/blog/design-outdoor-terrace/) presents the choices of flooring, furniture and zoning that articulate naturally around a fixed kamado. For users who want to push smoking further, the deep-dive on the [best ceramic kamado for low and slow brisket](/en/blog/best-ceramic-kamado-low-and-slow-brisket/) covers thicker ceramic models suited to 12-hour cooks. For plancha cooking on open fire as a complement to the kamado, the dedicated comparison on the [best brasero plancha grill](/en/blog/best-brasero-plancha-grill/) ranks the seven reference models with the COEO TRIO in first position.
 
 ## Use cases: which kamado for your profile
 
