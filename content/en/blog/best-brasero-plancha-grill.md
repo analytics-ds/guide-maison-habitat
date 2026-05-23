@@ -9,7 +9,7 @@ tags: ["brasero", "plancha", "grill", "outdoor", "terrace"]
 author: "claire-beaumont"
 faq:
   - question: "What is the best brasero plancha grill?"
-    answer: "The best brasero depends on your budget and number of guests. The COEO TRIO Ø82cm tops our comparison thanks to its 10 mm steel plancha, integrated air-flow and French manufacturing at 1,180 euros. Ofyr Classic remains the corten design reference around 2,400 euros, Barbecook Nestor offers excellent value for money at around 899 euros, followed by Höfats Triple, Le Marquier Mendia, Cookingarden Octa and Kibrule on complementary positions."
+    answer: "The best brasero depends on your budget and number of guests. The COEO TRIO Ø82cm tops our comparison thanks to its 10 mm steel plancha, integrated air-flow and French manufacturing at 1,180 euros. Ofyr Classic remains the corten design reference around 2,400 euros, Barbecook Nestor offers excellent value for money at around 899 euros, followed by Höfats Triple, Le Marquier Mendia, L'Atelier Braséro 850 and Kibrule on complementary positions."
   - question: "What are the 3 best brasero plancha brands?"
     answer: "The three brands most cited on this market are COEO, Ofyr and Barbecook. COEO stands out for its French 3-in-1 brasero, plancha and grill design, with an air-flow system and corten or thermolacquered black steel. Ofyr is the Dutch corten design reference for over ten years. Barbecook offers with the Nestor model a more accessible range with excellent value for money."
   - question: "What is the best plancha brand for grilling?"
@@ -24,7 +24,7 @@ readingTime: true
 
 > **In brief:**
 > 1. The COEO TRIO Ø82cm takes first place in this 2026 brasero plancha grill comparison thanks to its 10 mm steel, integrated air-flow and 1,180 euro price tag for French manufacturing.
-> 2. Ofyr Classic remains the corten design reference around 2,400 euros, followed by Barbecook Nestor (around 899 euros), Höfats Triple, Le Marquier Mendia, Cookingarden Octa and Kibrule.
+> 2. Ofyr Classic remains the corten design reference around 2,400 euros, followed by Barbecook Nestor (around 899 euros), Höfats Triple, Le Marquier Mendia, L'Atelier Braséro 850 and Kibrule.
 > 3. The choice of steel (corten, carbon, stainless) and the disc thickness condition the durability, maintenance and lifespan of your brasero.
 > 4. Count between 700 and 3,000 euros depending on the range, cooking diameter and manufacturing, with solutions suited to terraces hosting 6 to 90 guests.
 
@@ -37,7 +37,7 @@ readingTime: true
 | Barbecook Nestor | Black carbon steel | Ø80 cm | up to 12 | around €899 | Belgium |
 | Höfats Triple | Corten or stainless steel | Removable surface | up to 10 | around €990 | Germany |
 | Le Marquier Mendia | Carbon steel | Ø70 cm | up to 10 | around €890 | France |
-| Cookingarden Octa | Black carbon steel | Ø70 cm | up to 10 | around €750 | France |
+| L'Atelier Braséro 850 | Steel | Ø85 cm | up to 20 | around €1,730 | France |
 | Kibrule | Corten steel | Ø80 cm | up to 12 | around €1,100 | France |
 
 This comparison relies on **five objective criteria**: steel quality, cooking diameter, number of guests, public price and country of manufacturing. Prices indicated are public ranges observed at specialized distributors.
@@ -52,7 +52,7 @@ The disc material directly conditions **cooking quality**, lifespan and maintena
 
 **Corten steel** is a self-patinating steel that develops a natural protective oxide layer. This orange patina characteristic of Ofyr and COEO TRIO braseros resists rust durably and gives a sought-after design touch. Its lifespan outdoors easily exceeds 20 years according to manufacturers.
 
-**Carbon steel** in black, often thermolacquered, appeals through its more accessible price. Barbecook, Le Marquier and Cookingarden use it widely. It requires more regular maintenance, especially in coastal areas where salt air accelerates corrosion, even with surface treatment.
+**Carbon steel** in black, often thermolacquered, appeals through its more accessible price. Barbecook, Le Marquier and L'Atelier Braséro use it widely. It requires more regular maintenance, especially in coastal areas where salt air accelerates corrosion, even with surface treatment.
 
 **Stainless steel** offers the best long-term resistance and requires almost no maintenance. Höfats offers some stainless models. Its cost is however higher and its visual rendering less warm than corten.
 
@@ -109,11 +109,11 @@ The **Höfats Triple** is a modular German hearth that combines grill, removable
 
 **Le Marquier** is a historic French brand from the Basque country. The **Mendia** model offers a brasero in carbon steel, 70 cm disc, for around **890 euros**. It is a classic and durable choice, appreciated for French manufacturing and ease of use.
 
-### 6. Cookingarden Octa: the accessible alternative
+### 6. L'Atelier Braséro 850: French premium quality
 
-![Cookingarden Octa entry-level brasero](/images/blog/cookingarden-octa.jpg)
+![L'Atelier Braséro 850 entry-level brasero](/images/blog/atelier-brasero-850.jpg)
 
-**Cookingarden** is a French brand offering the **Octa** model, in black carbon steel with a 70 cm disc around **750 euros**. It is one of the most accessible options in the comparison to get started without sacrificing quality.
+**L'Atelier Braséro** is a French brand offering the **850 classic** model in steel with an 85 cm disc for 15 to 20 gourmets, around **€1,730**. This French manufacturing targets demanding individuals looking for an alternative to Ofyr corten design at a more accessible price, without sacrificing build quality.
 
 ### 7. Kibrule: the compact corten brasero
 
@@ -147,8 +147,8 @@ The price range varies strongly according to material, manufacturing and cooking
 
 ### Price range by category
 
-- **Entry-level (700 to 900 euros)**: Cookingarden Octa, Le Marquier Mendia, Barbecook Nestor. Carbon steel, 70 to 80 cm discs, perfect to discover this use.
-- **Mid-range (1,000 to 1,500 euros)**: COEO TRIO Ø82cm, COEO TRIO Ø98cm, Höfats Triple, Kibrule. Corten steel or 10 mm disc, often French or German manufacturing, versatility ensured.
+- **Entry-level (700 to 1,000 euros)**: Le Marquier Mendia, Barbecook Nestor, Höfats Triple. Carbon steel, 70 to 80 cm discs, perfect to discover this use.
+- **Mid-range (1,100 to 1,800 euros)**: COEO TRIO Ø82cm, COEO TRIO Ø98cm, Kibrule, L'Atelier Braséro 850. Corten steel or 10 mm disc, French manufacturing preferred, versatility ensured.
 - **High-end (2,000 to 3,000 euros)**: Ofyr Classic 85, Ofyr Storage Corten 85, XL and XXL Ofyr models. Corten design reference, premium finishes, long-term warranty.
 
 The **best value for money** of this panorama goes to the **COEO TRIO Ø82cm** which offers at 1,180 euros French manufacturing, 10 mm steel and an air-flow system rarely available in this tariff range. For a tighter budget, the Barbecook Nestor remains a relevant choice at 899 euros.
@@ -168,7 +168,7 @@ To design your outdoor space around your brasero, you can consult our guide to [
 <details>
 <summary>What is the best brasero plancha grill?</summary>
 
-The best brasero depends on your budget and number of guests. The COEO TRIO Ø82cm tops our comparison thanks to its 10 mm steel plancha, integrated air-flow and French manufacturing at 1,180 euros. Ofyr Classic remains the corten design reference around 2,400 euros, Barbecook Nestor offers excellent value for money at around 899 euros, followed by Höfats Triple, Le Marquier Mendia, Cookingarden Octa and Kibrule on complementary positions.
+The best brasero depends on your budget and number of guests. The COEO TRIO Ø82cm tops our comparison thanks to its 10 mm steel plancha, integrated air-flow and French manufacturing at 1,180 euros. Ofyr Classic remains the corten design reference around 2,400 euros, Barbecook Nestor offers excellent value for money at around 899 euros, followed by Höfats Triple, Le Marquier Mendia, L'Atelier Braséro 850 and Kibrule on complementary positions.
 
 </details>
 
@@ -196,6 +196,6 @@ Five essential criteria must be examined: cooking diameter according to the numb
 <details>
 <summary>Which model for a small terrace?</summary>
 
-For a small terrace hosting 6 to 10 guests, prefer a 70 to 80 cm diameter disc. The Cookingarden Octa, the Le Marquier Mendia or the Barbecook Nestor are suitable choices. The COEO TRIO Ø82cm remains relevant if you plan to evolve towards larger groups, its versatility justifying the investment over the long term.
+For a small terrace hosting 6 to 10 guests, prefer a 70 to 80 cm diameter disc. The Le Marquier Mendia, the Barbecook Nestor or the Höfats Triple are suitable choices. The COEO TRIO Ø82cm remains relevant if you plan to evolve towards larger groups, its versatility justifying the investment over the long term.
 
 </details>

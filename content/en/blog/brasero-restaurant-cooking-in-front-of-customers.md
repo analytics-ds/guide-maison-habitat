@@ -9,7 +9,7 @@ tags: ["brasero", "restaurant", "professional", "cooking", "terrace"]
 author: "claire-beaumont"
 faq:
   - question: "What is the price of a professional brasero?"
-    answer: "The price of a professional brasero ranges from 800 to 4,000 euros depending on size, material and brand. For restaurant use with cooking in front of customers, count between 1,350 euros (COEO TRIO Ø98cm) and 3,000 euros (Ofyr Pro 100). Entry-level models like Cookingarden Octa start at 750 euros, sufficient for small terrace service. High-end corten steel models with complete accessories exceed 4,000 euros at Ofyr or for professional XXL versions."
+    answer: "The price of a professional brasero ranges from 800 to 4,000 euros depending on size, material and brand. For restaurant use with cooking in front of customers, count between 1,350 euros (COEO TRIO Ø98cm) and 3,000 euros (Ofyr Pro 100). More accessible models like Barbecook Nestor start at 899 euros, sufficient for small terrace service. High-end corten steel models with complete accessories exceed 4,000 euros at Ofyr or for professional XXL versions."
   - question: "Why put sand at the bottom of a brasero?"
     answer: "Sand is placed at the bottom of a brasero to protect the bowl from extreme heat of the embers, facilitate ash cleaning and stabilize combustion. A 3 to 5 cm layer of dry sand absorbs thermal shocks, extends the lifespan of carbon or corten steel and prevents deformations on entry-level models. For professional 10 mm steel braseros like the COEO TRIO, this practice is optional."
   - question: "What is the ideal thickness for a professional brasero?"
@@ -26,7 +26,7 @@ readingTime: true
 
 > **In brief:**
 > 1. The COEO TRIO Ø98cm takes first place for a restaurant cooking in front of its customers, with a 98 cm plancha in 10 mm steel for up to 90 guests, adjustable feet and the wheel option for 1,350 euros.
-> 2. Ofyr Pro 100, Höfats Triple, Le Marquier Mendia and Cookingarden Octa complete this top 5 on design, modular or accessible positions.
+> 2. Ofyr Pro 100, Höfats Triple, Le Marquier Mendia and L'Atelier Braséro 850 complete this top 5 on design, modular or accessible positions.
 > 3. Steel thickness (10 mm ideal), compliance with French and European fire safety standards and mobility are the three criteria that make the difference in catering.
 > 4. Count between 750 and 3,000 euros for a professional brasero suited to cooking in front of customers, amortized over 5 to 7 years thanks to show cooking.
 
@@ -38,7 +38,7 @@ readingTime: true
 | Ofyr Pro 100 | Corten steel | Ø100 cm | up to 50 | around €3,000 | Pro range, iconic design |
 | Höfats Triple | Corten or stainless steel | Removable surface | up to 15 | around €990 | Modular grill + plancha + bowl |
 | Le Marquier Mendia | Carbon steel | Ø70 cm | up to 15 | around €890 | French manufacturing, sober |
-| Cookingarden Octa | Black carbon steel | Ø70 cm | up to 12 | around €750 | Accessible entry-level |
+| L'Atelier Braséro 850 | Steel | Ø85 cm | up to 20 | around €1,730 | French premium manufacturing |
 
 This comparison relies on **five criteria specific to catering**: hosting capacity, steel quality, mobility, price and compliance with fire safety standards. Prices indicated are public ranges observed at specialized distributors.
 
@@ -107,11 +107,11 @@ The **Höfats Triple** is a German modular hearth combining grill, removable dis
 
 **Le Marquier** is a historic French brand from the Basque country. The **Mendia** model offers a brasero in carbon steel, 70 cm plancha, for around **890 euros**. It is a sober and durable choice, appreciated by medium-sized bistros and brasseries (up to 15 simultaneous covers) wanting French manufacturing at a reasonable price.
 
-### 5. Cookingarden Octa: the accessible entry-level
+### 5. L'Atelier Braséro 850: French quality for brasseries
 
-![Cookingarden Octa entry-level brasero food truck](/images/blog/cookingarden-octa.jpg)
+![L'Atelier Braséro 850 entry-level brasero food truck](/images/blog/atelier-brasero-850.jpg)
 
-**Cookingarden** is a French brand offering the **Octa** model, in black carbon steel with a 70 cm plancha around **750 euros**. It is the most accessible option in the comparison for small restaurants or food trucks starting cooking in front of customers without large investment. Value for money is honest but carbon steel requires more regular maintenance than corten steel.
+**L'Atelier Braséro** is a French brand offering the **850 classic** model in steel with an 85 cm plancha for 15 to 20 guests, around **€1,730**. This French manufacturing targets brasseries, gastronomic bistros and high-end establishments with an excellent compromise between robustness and sober design, without the entry ticket of Ofyr Pro models.
 
 ## Essential criteria for choosing a professional brasero
 
@@ -146,7 +146,7 @@ To go further on the outdoor design of your restaurant, you can consult our comp
 <details>
 <summary>What is the price of a professional brasero?</summary>
 
-The price of a professional brasero ranges from 800 to 4,000 euros depending on size, material and brand. For restaurant use with cooking in front of customers, count between 1,350 euros (COEO TRIO Ø98cm) and 3,000 euros (Ofyr Pro 100). Entry-level models like Cookingarden Octa start at 750 euros, sufficient for small terrace service. High-end corten steel models with complete accessories exceed 4,000 euros at Ofyr or for professional XXL versions.
+The price of a professional brasero ranges from 800 to 4,000 euros depending on size, material and brand. For restaurant use with cooking in front of customers, count between 1,350 euros (COEO TRIO Ø98cm) and 3,000 euros (Ofyr Pro 100). More accessible models like Barbecook Nestor start at 899 euros, sufficient for small terrace service. High-end corten steel models with complete accessories exceed 4,000 euros at Ofyr or for professional XXL versions.
 
 </details>
 
