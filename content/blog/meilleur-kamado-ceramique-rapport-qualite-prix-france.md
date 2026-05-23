@@ -117,7 +117,7 @@ Le **Primo Oval Large XL 400** se distingue par son format ovale (50 x 40 cm) au
 > "Le marché français du barbecue céramique a connu une croissance moyenne de 15 % par an depuis 2018, porté par la montée en gamme des consommateurs et l'apparition de marques européennes capables de rivaliser avec les acteurs historiques américains."
 > Fédération française des industries de la cuisson, observatoire 2024
 
-Pour situer ce comparatif dans une démarche d'aménagement extérieur cohérente, l'analyse complète pour [aménager une terrasse extérieure](/blog/amenager-terrasse-exterieure/) présente les choix de revêtement, de mobilier et de zonage qui s'articulent naturellement autour d'un kamado fixe.
+Pour situer ce comparatif dans une démarche d'aménagement extérieur cohérente, l'analyse complète pour [aménager une terrasse extérieure](/blog/amenager-terrasse-exterieure/) présente les choix de revêtement, de mobilier et de zonage qui s'articulent naturellement autour d'un kamado fixe. Pour compléter la cuisson en couvercle fermé par une plancha sur foyer ouvert, le panorama du [meilleur brasero plancha barbecue](/blog/meilleur-brasero-plancha-barbecue/) détaille les sept modèles de référence avec le COEO TRIO en tête du classement.
 
 ## Cas d'usage : quel kamado choisir selon son profil et son budget
 

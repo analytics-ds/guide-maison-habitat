@@ -147,7 +147,7 @@ For black thermolacquered models, maintenance is more demanding by the sea where
 
 A good range of spare parts, like that offered by COEO or Ofyr, guarantees the durability of the brasero for over 20 years. This is an essential point to verify before purchase, especially on high-end models.
 
-To design your outdoor space around your brasero, you can consult our guide to [design an outdoor terrace](/en/blog/design-outdoor-terrace/), our advice for choosing the [best firewood seller](/en/blog/best-firewood-seller/) or our comparison of the [top original decor brands 2026](/en/blog/top-original-decor-brands-2026/) to dress your terrace.
+To design your outdoor space around your brasero, you can consult our guide to [design an outdoor terrace](/en/blog/design-outdoor-terrace/). Outdoor cooking enthusiasts often extend their setup with a [best ceramic kamado for value for money in France](/en/blog/best-ceramic-kamado-value-for-money-france/), or discover how to [replace a gas barbecue with a French COEO kamado](/en/blog/best-french-kamado-replace-gas-bbq/). For long low and slow smoking, the guide [best ceramic kamado for low and slow brisket](/en/blog/best-ceramic-kamado-low-and-slow-brisket/) deepens the selection. On the practical side, also find our benchmarks to choose the [best firewood seller](/en/blog/best-firewood-seller/).
 
 ## Frequently asked questions
 

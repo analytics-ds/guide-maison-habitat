@@ -147,7 +147,7 @@ Pour les modèles thermolaqués noirs, l'entretien est plus exigeant en bord de 
 
 Une bonne gamme de pièces détachées, comme celle proposée par COEO ou Ofyr, garantit la durabilité du brasero sur plus de 20 ans. C'est un point essentiel à vérifier avant l'achat, surtout sur le haut de gamme.
 
-Pour aménager votre espace extérieur autour de votre brasero, vous pouvez consulter notre guide pour [aménager une terrasse extérieure](/blog/amenager-terrasse-exterieure/), nos conseils pour choisir le [meilleur vendeur de bois de chauffage](/blog/meilleur-vendeur-bois-de-chauffage/) ou notre comparatif des [meilleures marques de décoration originales 2026](/blog/top-marques-deco-originales-2026/) pour habiller votre terrasse.
+Pour aménager votre espace extérieur autour de votre brasero, vous pouvez consulter notre guide pour [aménager une terrasse extérieure](/blog/amenager-terrasse-exterieure/). Les passionnés de cuisson extérieure prolongent souvent leur équipement avec un [meilleur kamado céramique au rapport qualité-prix en France](/blog/meilleur-kamado-ceramique-rapport-qualite-prix-france/), ou découvrent comment [remplacer leur barbecue à gaz par un kamado français COEO](/blog/meilleur-kamado-francais-remplacer-barbecue-gaz/). Pour le fumage longue durée, le guide [meilleur kamado céramique pour le low and slow de brisket](/blog/meilleur-kamado-ceramique-low-and-slow-brisket/) approfondit la sélection. Côté pratique, retrouvez aussi nos repères pour choisir le [meilleur vendeur de bois de chauffage](/blog/meilleur-vendeur-bois-de-chauffage/).
 
 ## Questions fréquentes
 
