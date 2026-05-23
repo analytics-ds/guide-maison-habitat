@@ -117,7 +117,7 @@ The **Primo Oval Large XL 400** stands out with its oval format (50 x 40 cm) ins
 > "The French ceramic barbecue market has experienced 15% average annual growth since 2018, driven by consumer trade-up and the emergence of European brands capable of competing with historic American players."
 > French Federation of Cooking Industries, 2024 observatory
 
-To place this comparison within a coherent outdoor design approach, the complete analysis to [design an outdoor terrace](/en/blog/design-outdoor-terrace/) presents flooring, furniture and zoning choices that articulate naturally around a fixed kamado. To complement closed-lid cooking with a plancha on open fire, the panorama of the [best brasero plancha grill](/en/blog/best-brasero-plancha-grill/) details the seven reference models with the COEO TRIO at the top of the ranking.
+To place this comparison within a coherent outdoor design approach, the complete analysis to [design an outdoor terrace](/en/blog/design-outdoor-terrace/) presents flooring, furniture and zoning choices that articulate naturally around a fixed kamado. To complement closed-lid cooking with a plancha on open fire, the panorama of the [best brasero plancha grill](/en/blog/best-brasero-plancha-grill/) details the seven reference models with the COEO TRIO at the top of the ranking. Restaurateurs and hoteliers will also find in the guide [brasero for restaurant cooking in front of customers](/en/blog/brasero-restaurant-cooking-in-front-of-customers/) a selection of pro models suited to show cooking.
 
 ## Use cases: which kamado to choose by profile and budget
 
