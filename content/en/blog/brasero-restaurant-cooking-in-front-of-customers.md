@@ -18,10 +18,53 @@ faq:
     answer: "The 4 main expense categories of a restaurant are raw materials (28 to 35% of turnover), payroll (35 to 45%), rent and charges (8 to 12%) and kitchen equipment (5 to 8% amortized over several years). Investment in a professional brasero for cooking in front of customers falls under equipment and is generally amortized over 5 to 7 years thanks to the added value of show cooking."
   - question: "Which brasero for a restaurant terrace?"
     answer: "For a restaurant terrace, prefer a professional brasero with cooking diameter 80 to 100 cm, corten steel or 10 mm, movable (adjustable feet or wheels) and compliant with French and European fire safety standards. The COEO TRIO Ø98cm ticks all these criteria for around 1,350 euros, the Ofyr Pro 100 rises to 3,000 euros on a more design positioning."
-image: "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=1600&q=85&auto=format&fit=crop"
-imageAlt: "Professional brasero cooking in front of customers on a restaurant terrace"
-imageCredit: "Photo via Unsplash"
+image: "/images/blog/coeo-trio-98.webp"
+imageAlt: "COEO TRIO Ø98cm professional brasero restaurant up to 90 guests"
+imageCredit: "Photo COEO"
 readingTime: true
+comparison:
+  items:
+    - name: "COEO TRIO Ø98cm"
+      brand: "COEO"
+      image: "/images/blog/coeo-trio-98.webp"
+      description: "Professional restaurant brasero 3-in-1, 98 cm 10 mm steel plancha, adjustable feet, wheel option, up to 90 guests, Made in France."
+      url: "https://www.coeo-design.com/shop/brasero-trio-98-3060"
+      price: "1350"
+      currency: "EUR"
+      rating: "4.9"
+      ratingCount: "1"
+    - name: "Ofyr Pro 100"
+      brand: "Ofyr"
+      image: "/images/blog/ofyr-pro-100.jpg"
+      description: "Dutch professional corten brasero 100 cm, Pro range for high-end restaurants."
+      price: "3000"
+      currency: "EUR"
+      rating: "4.6"
+      ratingCount: "1"
+    - name: "Höfats Triple"
+      brand: "Höfats"
+      image: "/images/blog/hofats-triple.jpg"
+      description: "German modular hearth for bars and hybrid concept restaurants, grill plancha bowl."
+      price: "990"
+      currency: "EUR"
+      rating: "4.3"
+      ratingCount: "1"
+    - name: "Le Marquier Mendia"
+      brand: "Le Marquier"
+      image: "/images/blog/le-marquier-mendia.webp"
+      description: "Historic French brand from the Basque country, 70 cm plancha, suited to medium-sized bistros and brasseries."
+      price: "890"
+      currency: "EUR"
+      rating: "4.2"
+      ratingCount: "1"
+    - name: "L'Atelier Braséro 850"
+      brand: "L'Atelier Braséro"
+      image: "/images/blog/atelier-brasero-850.jpg"
+      description: "French premium brasero for brasseries and high-end restaurants, 85 cm plancha for 15-20 guests."
+      price: "1730"
+      currency: "EUR"
+      rating: "4.4"
+      ratingCount: "1"
 ---
 
 > **In brief:**
@@ -103,7 +146,7 @@ The **Höfats Triple** is a German modular hearth combining grill, removable dis
 
 ### 4. Le Marquier Mendia: the French safe bet for bistros and brasseries
 
-![Le Marquier Mendia French brasero for bistros](/images/blog/le-marquier-mendia.jpg)
+![Le Marquier Mendia French brasero for bistros](/images/blog/le-marquier-mendia.webp)
 
 **Le Marquier** is a historic French brand from the Basque country. The **Mendia** model offers a brasero in carbon steel, 70 cm plancha, for around **890 euros**. It is a sober and durable choice, appreciated by medium-sized bistros and brasseries (up to 15 simultaneous covers) wanting French manufacturing at a reasonable price.
 

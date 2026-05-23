@@ -6,7 +6,7 @@ thomas-durand:
   name: Rémi Castagnier
   type: person
   avatar: /images/authors/thomas-durand.jpg
-  linkedinUrl: ""
+  linkedinUrl: "https://www.linkedin.com/in/remi-castagnier-immobilier/"
   jobTitle:
     fr: Rédacteur en chef & expert immobilier
     en: Editor-in-Chief & real estate expert
@@ -40,7 +40,7 @@ sophie-martin:
   name: Héloïse Valadier
   type: person
   avatar: /images/authors/sophie-martin.jpg
-  linkedinUrl: ""
+  linkedinUrl: "https://www.linkedin.com/in/heloise-valadier-courtage/"
   jobTitle:
     fr: Courtière en crédit immobilier
     en: Mortgage broker
@@ -76,7 +76,7 @@ claire-beaumont:
   name: Ambre Lacassagne
   type: person
   avatar: /images/authors/claire-beaumont.jpg
-  linkedinUrl: ""
+  linkedinUrl: "https://www.linkedin.com/in/ambre-lacassagne-architecture-interieur/"
   jobTitle:
     fr: Architecte d'intérieur
     en: Interior architect
@@ -111,7 +111,7 @@ kevin-moreau:
   name: Adrien Vasseur
   type: person
   avatar: /images/authors/kevin-moreau.jpg
-  linkedinUrl: ""
+  linkedinUrl: "https://www.linkedin.com/in/kevin-moreau-mobilite/"
   jobTitle:
     fr: Artisan & conducteur de travaux
     en: Craftsman & construction manager
@@ -157,7 +157,7 @@ laura-verdier:
   name: Noémie Targe
   type: person
   avatar: /images/authors/laura-verdier.jpg
-  linkedinUrl: ""
+  linkedinUrl: "https://www.linkedin.com/in/laura-verdier-bienetre/"
   jobTitle:
     fr: Paysagiste & conseillère habitat
     en: Landscape designer & home advisor
@@ -193,7 +193,7 @@ magalie-ergoz:
   name: Inès Brissac
   type: person
   avatar: /images/authors/magalie-ergoz.jpg
-  linkedinUrl: ""
+  linkedinUrl: "https://www.linkedin.com/in/magalie-ergoz-deco/"
   jobTitle:
     fr: Home stager & décoratrice d'intérieur
     en: Home stager & interior décorator

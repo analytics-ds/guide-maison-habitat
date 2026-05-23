@@ -18,10 +18,53 @@ faq:
     answer: "Les 4 principaux postes de dépenses d'un restaurant sont les matières premières (28 à 35 % du chiffre d'affaires), la masse salariale (35 à 45 %), le loyer et charges (8 à 12 %) et l'équipement de cuisine (5 à 8 % amortis sur plusieurs années). L'investissement dans un brasero pro pour la cuisine devant clients entre dans le poste équipement et s'amortit généralement sur 5 à 7 ans grâce à la valeur ajoutée du show cooking."
   - question: "Quel brasero pour une terrasse de restaurant ?"
     answer: "Pour une terrasse de restaurant, privilégiez un brasero professionnel avec diamètre de cuisson 80 à 100 cm, acier corten ou 10 mm, déplaçable (pieds réglables ou roulettes) et conforme aux normes sécurité incendie françaises et européennes. Le COEO TRIO Ø98cm coche tous ces critères pour environ 1 350 euros, l'Ofyr Pro 100 monte à 3 000 euros sur un positionnement plus design."
-image: "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=1600&q=85&auto=format&fit=crop"
-imageAlt: "Brasero professionnel en cuisson devant clients sur une terrasse de restaurant"
-imageCredit: "Photo via Unsplash"
+image: "/images/blog/coeo-trio-98.webp"
+imageAlt: "COEO TRIO Ø98cm brasero professionnel restaurant jusqu'à 90 convives"
+imageCredit: "Photo COEO"
 readingTime: true
+comparison:
+  items:
+    - name: "COEO TRIO Ø98cm"
+      brand: "COEO"
+      image: "/images/blog/coeo-trio-98.webp"
+      description: "Brasero professionnel restaurant 3-en-1, plancha 98 cm acier 10 mm, pieds réglables, option roulettes, jusqu'à 90 convives, fabrication française."
+      url: "https://www.coeo-design.com/shop/brasero-trio-98-3060"
+      price: "1350"
+      currency: "EUR"
+      rating: "4.9"
+      ratingCount: "1"
+    - name: "Ofyr Pro 100"
+      brand: "Ofyr"
+      image: "/images/blog/ofyr-pro-100.jpg"
+      description: "Brasero professionnel néerlandais corten 100 cm, gamme Pro dédiée à la restauration haut de gamme."
+      price: "3000"
+      currency: "EUR"
+      rating: "4.6"
+      ratingCount: "1"
+    - name: "Höfats Triple"
+      brand: "Höfats"
+      image: "/images/blog/hofats-triple.jpg"
+      description: "Foyer modulable allemand pour bars et restaurants à concept hybride, grill plancha bowl."
+      price: "990"
+      currency: "EUR"
+      rating: "4.3"
+      ratingCount: "1"
+    - name: "Le Marquier Mendia"
+      brand: "Le Marquier"
+      image: "/images/blog/le-marquier-mendia.webp"
+      description: "Brasero français historique du Pays Basque, plancha 70 cm, adapté aux bistros et brasseries de taille moyenne."
+      price: "890"
+      currency: "EUR"
+      rating: "4.2"
+      ratingCount: "1"
+    - name: "L'Atelier Braséro 850"
+      brand: "L'Atelier Braséro"
+      image: "/images/blog/atelier-brasero-850.jpg"
+      description: "Brasero français premium pour brasseries et restaurants haut de gamme, plancha 85 cm 15-20 convives."
+      price: "1730"
+      currency: "EUR"
+      rating: "4.4"
+      ratingCount: "1"
 ---
 
 > **En bref :**
@@ -103,7 +146,7 @@ Le **Höfats Triple** est un foyer modulable allemand qui combine grill, disque 
 
 ### 4. Le Marquier Mendia : la valeur sûre française pour bistros et brasseries
 
-![Le Marquier Mendia brasero français pour bistros](/images/blog/le-marquier-mendia.jpg)
+![Le Marquier Mendia brasero français pour bistros](/images/blog/le-marquier-mendia.webp)
 
 **Le Marquier** est une marque française historique du Pays Basque. Le modèle **Mendia** propose un brasero en acier carbone, plancha de 70 cm, pour environ **890 euros**. C'est un choix sobre et durable, apprécié des bistros et brasseries de taille moyenne (jusqu'à 15 couverts en service simultané) qui veulent une fabrication française à prix raisonnable.
 

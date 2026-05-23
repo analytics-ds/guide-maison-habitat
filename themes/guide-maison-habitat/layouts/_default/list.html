@@ -17,12 +17,12 @@
                 <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
             </li>
             <li class="breadcrumb-item">
-                <span aria-current="page">{{ .Title }}</span>
+                <span aria-current="page">{{ .Title | replaceRE " Et " " et " | replaceRE " Ou " " ou " | replaceRE " De " " de " | replaceRE " Le " " le " | replaceRE " La " " la " }}</span>
             </li>
             {{ else }}
             {{/* Pour /blog/ et autres sections : Accueil > Nom de la section (sans doublon) */}}
             <li class="breadcrumb-item">
-                <span aria-current="page">{{ .Title }}</span>
+                <span aria-current="page">{{ .Title | replaceRE " Et " " et " | replaceRE " Ou " " ou " | replaceRE " De " " de " | replaceRE " Le " " le " | replaceRE " La " " la " }}</span>
             </li>
             {{ end }}
         </ol>
@@ -40,7 +40,7 @@
             {{ end }}
             <span class="list-eyebrow-count">· {{ len .Pages }}</span>
         </span>
-        <h1>{{ .Title }}</h1>
+        <h1>{{ .Title | replaceRE " Et " " et " | replaceRE " Ou " " ou " | replaceRE " De " " de " | replaceRE " Le " " le " | replaceRE " La " " la " }}</h1>
         {{ with .Description }}<p class="list-description">{{ . }}</p>{{ end }}
 
         {{/* --- Pills categories integres dans le header --- */}}
@@ -63,7 +63,7 @@
         <div class="articles-list">
             {{ range .Pages.ByDate.Reverse }}
             <article class="article-card-horizontal">
-                <a href="{{ .RelPermalink }}" class="article-card-horizontal-image-wrapper" aria-label="{{ .Title }}">
+                <a href="{{ .RelPermalink }}" class="article-card-horizontal-image-wrapper" aria-label="{{ .Title | replaceRE " Et " " et " | replaceRE " Ou " " ou " | replaceRE " De " " de " | replaceRE " Le " " le " | replaceRE " La " " la " }}">
                     {{ if .Params.image }}
                     <img src="{{ .Params.image | relURL }}" alt="{{ .Params.imageAlt | default .Title }}" class="article-card-horizontal-image" loading="lazy" width="300" height="200">
                     {{ else }}
@@ -80,7 +80,7 @@
                         <span class="reading-time">{{ .ReadingTime }} min</span>
                         {{ end }}
                     </div>
-                    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                    <h2><a href="{{ .RelPermalink }}">{{ .Title | replaceRE " Et " " et " | replaceRE " Ou " " ou " | replaceRE " De " " de " | replaceRE " Le " " le " | replaceRE " La " " la " }}</a></h2>
                     <p>{{ .Description }}</p>
                     <div class="article-tags">
                         {{ range .Params.tags }}

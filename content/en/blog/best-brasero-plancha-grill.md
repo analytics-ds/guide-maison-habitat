@@ -16,10 +16,69 @@ faq:
     answer: "For cooking on open fire, COEO comes first thanks to a 82 or 98 cm circular plancha in 10 mm carbon steel, tilted and without external rim to drain grease. Ofyr offers a recognized corten plancha. Barbecook, Höfats and Le Marquier complete the selection with more standard quality surfaces."
   - question: "How to choose a brasero plancha?"
     answer: "Five essential criteria must be examined: cooking diameter according to the number of guests, steel thickness which conditions durability, type of steel (corten, carbon, stainless, galvanized thermolacquered black), the combustion system and air flow, as well as the available accessory range. Count between 700 and 3,000 euros depending on the range and manufacturing."
-image: "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=1600&q=85&auto=format&fit=crop"
-imageAlt: "Brasero plancha grill outdoors on a terrace"
-imageCredit: "Photo via Unsplash"
+image: "/images/blog/coeo-trio-82.webp"
+imageAlt: "COEO TRIO Ø82cm brasero plancha grill 10 mm steel French manufacturing"
+imageCredit: "Photo COEO"
 readingTime: true
+comparison:
+  items:
+    - name: "COEO TRIO Ø82cm"
+      brand: "COEO"
+      image: "/images/blog/coeo-trio-82.webp"
+      description: "3-in-1 brasero plancha grill, 82 cm 10 mm steel plancha, integrated air-flow, Made in France."
+      url: "https://www.coeo-design.com/shop/brasero-trio-82-3057"
+      price: "1180"
+      currency: "EUR"
+      rating: "4.9"
+      ratingCount: "1"
+    - name: "Ofyr Classic 85"
+      brand: "Ofyr"
+      image: "/images/blog/ofyr-classic-85.jpg"
+      description: "Dutch corten design reference, 85 cm plancha, iconic market benchmark."
+      price: "2400"
+      currency: "EUR"
+      rating: "4.6"
+      ratingCount: "1"
+    - name: "Barbecook Nestor"
+      brand: "Barbecook"
+      image: "/images/blog/barbecook-nestor.jpg"
+      description: "Black carbon steel brasero plancha, 80 cm, Belgian brand, excellent value for money."
+      price: "899"
+      currency: "EUR"
+      rating: "4.4"
+      ratingCount: "1"
+    - name: "Höfats Triple"
+      brand: "Höfats"
+      image: "/images/blog/hofats-triple.jpg"
+      description: "German modular hearth combining grill, removable plancha and bowl in corten or stainless steel."
+      price: "990"
+      currency: "EUR"
+      rating: "4.3"
+      ratingCount: "1"
+    - name: "Le Marquier Mendia"
+      brand: "Le Marquier"
+      image: "/images/blog/le-marquier-mendia.webp"
+      description: "Historic French brand from the Basque country, 70 cm carbon steel plancha."
+      price: "890"
+      currency: "EUR"
+      rating: "4.2"
+      ratingCount: "1"
+    - name: "L'Atelier Braséro 850"
+      brand: "L'Atelier Braséro"
+      image: "/images/blog/atelier-brasero-850.jpg"
+      description: "French brasero plancha 85 cm steel for 15 to 20 gourmets."
+      price: "1730"
+      currency: "EUR"
+      rating: "4.4"
+      ratingCount: "1"
+    - name: "Kibrule"
+      brand: "Kibrule"
+      image: "/images/blog/kibrule.jpg"
+      description: "Compact French corten steel brasero plancha, 80 cm."
+      price: "1100"
+      currency: "EUR"
+      rating: "4.3"
+      ratingCount: "1"
 ---
 
 > **In brief:**
@@ -105,7 +164,7 @@ The **Höfats Triple** is a modular German hearth that combines grill, removable
 
 ### 5. Le Marquier Mendia: the French safe bet
 
-![Le Marquier Mendia French carbon steel brasero](/images/blog/le-marquier-mendia.jpg)
+![Le Marquier Mendia French carbon steel brasero](/images/blog/le-marquier-mendia.webp)
 
 **Le Marquier** is a historic French brand from the Basque country. The **Mendia** model offers a brasero in carbon steel, 70 cm disc, for around **890 euros**. It is a classic and durable choice, appreciated for French manufacturing and ease of use.
 

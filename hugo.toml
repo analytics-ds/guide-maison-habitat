@@ -227,6 +227,8 @@ disableKinds = ["taxonomy"]
   founding_year = "2026"
   expertise = ["Achat immobilier", "Vente immobilière", "Location", "Financement", "Assurance habitation", "Aménagement intérieur", "Rénovation"]
   og_locale_alternate = "en_US"
+  contact_email = "contact@guide-maison-habitat.com"
+  same_as = ["https://www.linkedin.com/company/guide-maison-habitat/", "https://twitter.com/guidemaisonh", "https://www.facebook.com/guidemaisonhabitat/", "https://www.pinterest.fr/guidemaisonhabitat/"]
 
 [markup]
   [markup.goldmark]

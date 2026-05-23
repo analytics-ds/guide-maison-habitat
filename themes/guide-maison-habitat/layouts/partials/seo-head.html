@@ -89,21 +89,33 @@
 {{- /* RSS */ -}}
 <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} RSS" href="{{ "index.xml" | absLangURL }}">
 
+{{- /* Breadcrumb labels by language (fallback i18n manquant) */ -}}
+{{- $bcHome := "Accueil" }}
+{{- $bcBlog := "Blog" }}
+{{- if eq .Site.Language.Lang "en" }}{{ $bcHome = "Home" }}{{ $bcBlog = "Blog" }}{{ end }}
+
 {{- /* JSON-LD : Organization (toutes les pages) */ -}}
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "Organization",
     "@id": "{{ .Site.BaseURL }}#organization",
-    "name": "{{ .Site.Title }}",
+    "name": {{ .Site.Title | jsonify | safeJS }},
     "url": "{{ .Site.BaseURL }}",
-    "description": "{{ .Site.Params.description }}"{{ with .Site.Params.logo }},
+    "description": {{ .Site.Params.description | jsonify | safeJS }}{{ with .Site.Params.logo }},
     "logo": {
         "@type": "ImageObject",
         "url": "{{ . | absURL }}"
     }{{ end }}{{ with .Site.Params.founding_year }},
     "foundingDate": "{{ . }}"{{ end }}{{ with .Site.Params.expertise }},
-    "knowsAbout": [{{ range $i, $e := . }}{{ if $i }}, {{ end }}"{{ $e }}"{{ end }}]{{ end }}
+    "knowsAbout": [{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e | jsonify | safeJS }}{{ end }}]{{ end }}{{ with .Site.Params.same_as }},
+    "sameAs": [{{ range $i, $e := . }}{{ if $i }}, {{ end }}"{{ $e }}"{{ end }}]{{ end }}{{ with .Site.Params.contact_email }},
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "{{ . }}",
+        "contactType": "customer service",
+        "availableLanguage": ["French", "English"]
+    }{{ end }}
 }
 </script>
 
@@ -118,8 +130,8 @@
 {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": {{ .Title | jsonify }},
-    "description": {{ .Description | jsonify }},
+    "headline": {{ .Title | jsonify | safeJS }},
+    "description": {{ .Description | jsonify | safeJS }},
     "inLanguage": "{{ .Site.Language.Locale | default "fr-FR" }}",
     "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
     "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
@@ -134,18 +146,20 @@
     {{ with $author }}
     "author": {
         "@type": "{{ if eq .type "organization" }}Organization{{ else }}Person{{ end }}",
-        "name": {{ .name | jsonify }}{{ with .avatar }},
+        "@id": "{{ $.Site.BaseURL }}authors/{{ .id }}/#person",
+        "name": {{ .name | jsonify | safeJS }}{{ with .avatar }},
         "image": "{{ . | absURL }}"{{ end }}{{ with index .jobTitle $lang }},
-        "jobTitle": {{ . | jsonify }}{{ end }}{{ with index .bio $lang }},
-        "description": {{ . | jsonify }}{{ end }}{{ with .expertise }},
-        "knowsAbout": [{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e | jsonify }}{{ end }}]{{ end }}{{ with .linkedinUrl }},
+        "jobTitle": {{ . | jsonify | safeJS }}{{ end }}{{ with index .bio $lang }},
+        "description": {{ . | jsonify | safeJS }}{{ end }}{{ with .expertise }},
+        "knowsAbout": [{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e | jsonify | safeJS }}{{ end }}]{{ end }}{{ with .linkedinUrl }},
         "sameAs": ["{{ . }}"]{{ end }},
+        "url": "{{ $.Site.BaseURL }}authors/{{ .id }}/",
         "worksFor": { "@id": "{{ $.Site.BaseURL }}#organization" }
     },
     {{ end }}
     "publisher": {
         "@type": "Organization",
-        "name": {{ .Site.Title | jsonify }},
+        "name": {{ .Site.Title | jsonify | safeJS }},
         "@id": "{{ .Site.BaseURL }}#organization"
     },
     "mainEntityOfPage": {
@@ -154,12 +168,58 @@
     },
     "isPartOf": {
         "@type": "Blog",
-        "name": {{ .Site.Title | jsonify }},
+        "name": {{ .Site.Title | jsonify | safeJS }},
         "url": "{{ .Site.BaseURL }}"
+    },
+    "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".lead", ".en-bref", "blockquote", ".faq summary"]
     }{{ with .Params.tags }},
-    "keywords": [{{ range $i, $t := . }}{{ if $i }}, {{ end }}{{ $t | jsonify }}{{ end }}]{{ end }}
+    "keywords": [{{ range $i, $t := . }}{{ if $i }}, {{ end }}{{ $t | jsonify | safeJS }}{{ end }}]{{ end }}
 }
 </script>
+
+{{- /* JSON-LD : ItemList + Product (articles comparatifs avec frontmatter `comparison`) */ -}}
+{{ with .Params.comparison }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": {{ $.Title | jsonify | safeJS }},
+    "description": {{ $.Description | jsonify | safeJS }},
+    "numberOfItems": {{ len .items }},
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "itemListElement": [
+        {{ range $i, $item := .items }}{{ if $i }},{{ end }}
+        {
+            "@type": "ListItem",
+            "position": {{ add $i 1 }},
+            "item": {
+                "@type": "Product",
+                "name": {{ $item.name | jsonify | safeJS }}{{ with $item.brand }},
+                "brand": { "@type": "Brand", "name": {{ . | jsonify | safeJS }} }{{ end }}{{ with $item.image }},
+                "image": "{{ . | absURL }}"{{ end }}{{ with $item.description }},
+                "description": {{ . | jsonify | safeJS }}{{ end }}{{ with $item.url }},
+                "url": "{{ . }}"{{ end }}{{ with $item.price }},
+                "offers": {
+                    "@type": "Offer",
+                    "price": "{{ . }}",
+                    "priceCurrency": "{{ $item.currency | default "EUR" }}",
+                    "availability": "https://schema.org/InStock"
+                }{{ end }}{{ with $item.rating }},
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "{{ . }}",
+                    "bestRating": "5",
+                    "ratingCount": "{{ $item.ratingCount | default "1" }}"
+                }{{ end }}
+            }
+        }
+        {{ end }}
+    ]
+}
+</script>
+{{ end }}
 
 {{- /* JSON-LD : BreadcrumbList (articles) */ -}}
 <script type="application/ld+json">
@@ -170,25 +230,25 @@
         {
             "@type": "ListItem",
             "position": 1,
-            "name": {{ (i18n "breadcrumb_home") | jsonify }},
+            "name": "{{ $bcHome }}",
             "item": "{{ .Site.BaseURL }}"
         },
         {
             "@type": "ListItem",
             "position": 2,
-            "name": {{ (i18n "breadcrumb_blog") | jsonify }},
+            "name": "{{ $bcBlog }}",
             "item": "{{ "blog/" | absLangURL }}"
         }{{ with .Params.categories }}{{ range . }},
         {
             "@type": "ListItem",
             "position": 3,
-            "name": {{ . | jsonify }},
+            "name": {{ . | jsonify | safeJS }},
             "item": "{{ (printf "categories/%s/" (. | urlize)) | absLangURL }}"
         }{{ end }}{{ end }},
         {
             "@type": "ListItem",
             "position": 4,
-            "name": {{ .Title | jsonify }},
+            "name": {{ .Title | jsonify | safeJS }},
             "item": "{{ .Permalink }}"
         }
     ]
@@ -205,10 +265,10 @@
         {{ range $i, $item := .Params.faq }}{{ if $i }},{{ end }}
         {
             "@type": "Question",
-            "name": {{ $item.question | jsonify }},
+            "name": {{ $item.question | jsonify | safeJS }},
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": {{ $item.answer | jsonify }}
+                "text": {{ $item.answer | jsonify | safeJS }}
             }
         }
         {{ end }}
@@ -225,8 +285,8 @@
     "@context": "https://schema.org",
     "@type": "WebSite",
     "@id": "{{ .Site.BaseURL }}#website",
-    "name": {{ .Site.Title | jsonify }},
-    "description": {{ .Site.Params.description | jsonify }},
+    "name": {{ .Site.Title | jsonify | safeJS }},
+    "description": {{ .Site.Params.description | jsonify | safeJS }},
     "url": "{{ .Site.BaseURL }}",
     "publisher": { "@id": "{{ .Site.BaseURL }}#organization" },
     "inLanguage": "{{ .Site.Language.Locale | default "fr-FR" }}",
@@ -248,8 +308,8 @@
 {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "name": {{ .Title | jsonify }},
-    "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Site.Params.description | jsonify }}{{ end }},
+    "name": {{ .Title | replaceRE " Et " " et " | replaceRE " Ou " " ou " | replaceRE " De " " de " | replaceRE " Le " " le " | replaceRE " La " " la " | jsonify | safeJS }},
+    "description": {{ with .Description }}{{ . | jsonify | safeJS }}{{ else }}{{ .Site.Params.description | jsonify | safeJS }}{{ end }},
     "url": "{{ .Permalink }}",
     "inLanguage": "{{ .Site.Language.Locale | default "fr-FR" }}",
     "isPartOf": { "@id": "{{ .Site.BaseURL }}#website" },
@@ -262,7 +322,7 @@
                 "@type": "ListItem",
                 "position": {{ add $i 1 }},
                 "url": "{{ $p.Permalink }}",
-                "name": {{ $p.Title | jsonify }}
+                "name": {{ $p.Title | jsonify | safeJS }}
             }
             {{ end }}
         ]
@@ -277,13 +337,13 @@
         {
             "@type": "ListItem",
             "position": 1,
-            "name": {{ (i18n "breadcrumb_home") | jsonify }},
+            "name": "{{ $bcHome }}",
             "item": "{{ .Site.BaseURL }}"
         },
         {
             "@type": "ListItem",
             "position": 2,
-            "name": {{ .Title | jsonify }},
+            "name": {{ .Title | replaceRE " Et " " et " | replaceRE " Ou " " ou " | replaceRE " De " " de " | replaceRE " Le " " le " | replaceRE " La " " la " | jsonify | safeJS }},
             "item": "{{ .Permalink }}"
         }
     ]
@@ -291,3 +351,5 @@
 </script>
 
 {{ end }}
+</content>
+</invoke>

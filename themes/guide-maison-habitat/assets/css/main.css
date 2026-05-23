@@ -1299,7 +1299,8 @@ p.article-description-on-image {
 }
 .article-content blockquote em { font-style: normal; }
 
-/* Tables premium */
+/* Tables premium : wrapper auto pour scroll horizontal mobile */
+.article-content > table,
 .article-content table {
     width: 100%;
     border-collapse: collapse;
@@ -1310,6 +1311,16 @@ p.article-description-on-image {
     border: 1px solid var(--border);
     border-radius: 10px;
     overflow: hidden;
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    max-width: 100%;
+}
+@media (min-width: 768px) {
+    .article-content table {
+        display: table;
+        overflow-x: visible;
+    }
 }
 .article-content thead {
     background: var(--background-alt);

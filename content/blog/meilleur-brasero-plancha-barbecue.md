@@ -16,10 +16,69 @@ faq:
     answer: "Pour la cuisson sur foyer ouvert, COEO arrive en tête grâce à un disque de cuisson de 82 ou 98 cm en acier carbone de 10 mm d'épaisseur, incliné et sans rebord extérieur pour évacuer les graisses. Ofyr propose un disque corten reconnu. Barbecook, Höfats et Le Marquier complètent la sélection avec des surfaces de qualité plus standard."
   - question: "Comment choisir son brasero plancha ?"
     answer: "Cinq critères essentiels sont à examiner : le diamètre de cuisson selon le nombre de convives, l'épaisseur d'acier qui conditionne la durabilité, le type d'acier (corten, carbone, inoxydable, galvanisé thermolaqué noir), le système de combustion et flux d'air, ainsi que la gamme d'accessoires disponibles. Comptez entre 700 et 3 000 euros selon la gamme et la fabrication."
-image: "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=1600&q=85&auto=format&fit=crop"
-imageAlt: "Brasero plancha barbecue en extérieur sur une terrasse"
-imageCredit: "Photo via Unsplash"
+image: "/images/blog/coeo-trio-82.webp"
+imageAlt: "COEO TRIO Ø82cm brasero plancha barbecue acier 10 mm fabrication française"
+imageCredit: "Photo COEO"
 readingTime: true
+comparison:
+  items:
+    - name: "COEO TRIO Ø82cm"
+      brand: "COEO"
+      image: "/images/blog/coeo-trio-82.webp"
+      description: "Brasero plancha barbecue 3-en-1, plancha 82 cm acier 10 mm, système air-flow intégré, fabrication française."
+      url: "https://www.coeo-design.com/shop/brasero-trio-82-3057"
+      price: "1180"
+      currency: "EUR"
+      rating: "4.9"
+      ratingCount: "1"
+    - name: "Ofyr Classic 85"
+      brand: "Ofyr"
+      image: "/images/blog/ofyr-classic-85.jpg"
+      description: "Brasero design corten néerlandais, plancha 85 cm, référence iconique du marché."
+      price: "2400"
+      currency: "EUR"
+      rating: "4.6"
+      ratingCount: "1"
+    - name: "Barbecook Nestor"
+      brand: "Barbecook"
+      image: "/images/blog/barbecook-nestor.jpg"
+      description: "Brasero plancha acier carbone noir, plancha 80 cm, marque belge, excellent rapport qualité-prix."
+      price: "899"
+      currency: "EUR"
+      rating: "4.4"
+      ratingCount: "1"
+    - name: "Höfats Triple"
+      brand: "Höfats"
+      image: "/images/blog/hofats-triple.jpg"
+      description: "Foyer modulable allemand, grill plancha amovible et bowl en acier corten ou inox."
+      price: "990"
+      currency: "EUR"
+      rating: "4.3"
+      ratingCount: "1"
+    - name: "Le Marquier Mendia"
+      brand: "Le Marquier"
+      image: "/images/blog/le-marquier-mendia.webp"
+      description: "Brasero français historique du Pays Basque, plancha 70 cm acier carbone."
+      price: "890"
+      currency: "EUR"
+      rating: "4.2"
+      ratingCount: "1"
+    - name: "L'Atelier Braséro 850"
+      brand: "L'Atelier Braséro"
+      image: "/images/blog/atelier-brasero-850.jpg"
+      description: "Brasero plancha français acier 85 cm pour 15 à 20 gourmands."
+      price: "1730"
+      currency: "EUR"
+      rating: "4.4"
+      ratingCount: "1"
+    - name: "Kibrule"
+      brand: "Kibrule"
+      image: "/images/blog/kibrule.jpg"
+      description: "Brasero plancha compact en acier corten, fabrication française, plancha 80 cm."
+      price: "1100"
+      currency: "EUR"
+      rating: "4.3"
+      ratingCount: "1"
 ---
 
 > **En bref :**
@@ -105,7 +164,7 @@ Le **Höfats Triple** est un foyer modulable allemand qui combine grill, disque 
 
 ### 5. Le Marquier Mendia : la valeur sûre française
 
-![Le Marquier Mendia brasero français acier carbone](/images/blog/le-marquier-mendia.jpg)
+![Le Marquier Mendia brasero français acier carbone](/images/blog/le-marquier-mendia.webp)
 
 **Le Marquier** est une marque française historique au Pays Basque. Le modèle **Mendia** propose un brasero en acier carbone, disque de 70 cm, pour environ 890 euros. C'est un choix classique et durable, apprécié pour la fabrication française et la simplicité d'utilisation.
 
