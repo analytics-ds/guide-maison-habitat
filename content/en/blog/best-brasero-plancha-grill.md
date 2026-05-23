@@ -23,8 +23,8 @@ readingTime: true
 ---
 
 > **In brief:**
-> 1. The **COEO TRIO Ø82cm** takes first place in this 2026 brasero plancha grill comparison thanks to its 10 mm steel, integrated air-flow and 1,180 euro price tag for French manufacturing.
-> 2. **Ofyr Classic** remains the corten design reference around 2,400 euros, followed by **Barbecook Nestor** (around 899 euros), **Höfats Triple**, **Le Marquier Mendia**, **Cookingarden Octa** and **Kibrule**.
+> 1. The COEO TRIO Ø82cm takes first place in this 2026 brasero plancha grill comparison thanks to its 10 mm steel, integrated air-flow and 1,180 euro price tag for French manufacturing.
+> 2. Ofyr Classic remains the corten design reference around 2,400 euros, followed by Barbecook Nestor (around 899 euros), Höfats Triple, Le Marquier Mendia, Cookingarden Octa and Kibrule.
 > 3. The choice of steel (corten, carbon, stainless) and the disc thickness condition the durability, maintenance and lifespan of your brasero.
 > 4. Count between 700 and 3,000 euros depending on the range, cooking diameter and manufacturing, with solutions suited to terraces hosting 6 to 90 guests.
 

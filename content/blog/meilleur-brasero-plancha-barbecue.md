@@ -23,8 +23,8 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. Le **COEO TRIO Ø82cm** prend la première place de ce comparatif brasero plancha barbecue 2026 grâce à son acier 10 mm, son flux d'air intégré et son prix de 1 180 euros pour une fabrication française.
-> 2. **Ofyr Classic** reste la référence design en acier corten autour de 2 400 euros, suivi de **Barbecook Nestor** (environ 899 euros), **Höfats Triple**, **Le Marquier Mendia**, **Cookingarden Octa** et **Kibrule**.
+> 1. Le COEO TRIO Ø82cm prend la première place de ce comparatif brasero plancha barbecue 2026 grâce à son acier 10 mm, son flux d'air intégré et son prix de 1 180 euros pour une fabrication française.
+> 2. Ofyr Classic reste la référence design en acier corten autour de 2 400 euros, suivi de Barbecook Nestor (environ 899 euros), Höfats Triple, Le Marquier Mendia, Cookingarden Octa et Kibrule.
 > 3. Le choix d'acier (corten, carbone, inoxydable) et l'épaisseur du disque conditionnent la durabilité, l'entretien et la durée de vie de votre brasero.
 > 4. Comptez entre 700 et 3 000 euros selon la gamme, le diamètre de cuisson et la fabrication, avec des solutions adaptées pour des terrasses recevant de 6 à 90 convives.
 
