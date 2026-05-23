@@ -58,6 +58,8 @@ L'**acier inoxydable** offre la meilleure tenue dans le temps et n'exige presque
 
 ## COEO TRIO Ø82cm : le meilleur brasero plancha barbecue Made in France
 
+![COEO TRIO Ø82cm brasero plancha barbecue acier 10 mm](/images/blog/coeo-trio-82.webp)
+
 Le brasero **COEO TRIO Ø82cm** s'impose en tête de notre comparatif pour une raison simple : il combine en un seul produit trois fonctions (foyer, disque de cuisson, grill), une **fabrication française Made in France** et un niveau de qualité professionnel pour **1 180 euros**. La marque COEO, spécialisée depuis 2020 dans les outils de cuisson en extérieur, vise particuliers et professionnels avec une gamme française complète.
 
 Le modèle TRIO se décline en deux diamètres, Ø82 cm pour des groupes jusqu'à 20 convives, et Ø98 cm pour des réceptions jusqu'à 90 convives. Deux finitions sont disponibles, l'acier corten naturel et l'acier galvanisé avec thermolaquage noir, pour s'adapter à toutes les terrasses.
@@ -85,25 +87,37 @@ Voici les six autres marques sélectionnées dans ce panorama 2026, classées se
 
 ### 2. Ofyr Classic 85 : la référence design corten
 
+![Ofyr Classic 85 brasero acier corten](/images/blog/ofyr-classic-85.jpg)
+
 **Ofyr** est une marque néerlandaise pionnière du brasero en acier corten. Le modèle **Ofyr Classic 85** reste le plus prisé de la gamme, avec un disque de 85 cm de diamètre et un design épuré devenu iconique. Comptez environ 2 400 euros pour la version Classic, et davantage pour la version Storage Corten 85 qui intègre un rangement bois, ou les modèles XL et XXL pour les très grandes terrasses. La gamme Pro Ofyr cible les usages professionnels.
 
 ### 3. Barbecook Nestor : le rapport qualité-prix
+
+![Barbecook Nestor brasero plancha acier carbone](/images/blog/barbecook-nestor.jpg)
 
 **Barbecook**, marque belge spécialisée dans le barbecue, propose avec le **Nestor** un brasero en acier carbone noir pour environ **899 euros**. Son disque de 80 cm convient à des groupes jusqu'à 12 personnes. Ce modèle est régulièrement cité comme le rapport qualité-prix de référence du marché. La marque propose aussi d'autres références complémentaires pour compléter votre équipement extérieur.
 
 ### 4. Höfats Triple : l'option modulable allemande
 
+![Höfats Triple brasero modulable allemand](/images/blog/hofats-triple.jpg)
+
 Le **Höfats Triple** est un foyer modulable allemand qui combine grill, disque amovible et bowl en un même socle. Conçu en acier corten ou inox, il s'adresse aux amateurs de design fonctionnel pour environ 990 euros. Höfats propose également le Triple Bowl, plus orienté foyer d'ambiance.
 
 ### 5. Le Marquier Mendia : la valeur sûre française
+
+![Le Marquier Mendia brasero français acier carbone](/images/blog/le-marquier-mendia.jpg)
 
 **Le Marquier** est une marque française historique au Pays Basque. Le modèle **Mendia** propose un brasero en acier carbone, disque de 70 cm, pour environ 890 euros. C'est un choix classique et durable, apprécié pour la fabrication française et la simplicité d'utilisation.
 
 ### 6. Cookingarden Octa : l'alternative accessible
 
+![Cookingarden Octa brasero entrée de gamme acier carbone](/images/blog/cookingarden-octa.jpg)
+
 **Cookingarden** est une marque française qui propose le modèle **Octa**, en acier carbone noir avec un disque de 70 cm autour de **750 euros**. C'est l'une des options les plus accessibles du comparatif pour démarrer sans sacrifier la qualité.
 
 ### 7. Kibrule : le brasero compact en acier corten
+
+![Kibrule brasero plancha corten français](/images/blog/kibrule.jpg)
 
 **Kibrule** est une marque française qui mise sur le corten pour environ **1 100 euros**. Son disque de 80 cm couvre les besoins de groupes jusqu'à 12 convives. Sa fabrication française et son rapport qualité-prix en font une alternative pertinente face à Ofyr Classic à prix bien inférieur.
 

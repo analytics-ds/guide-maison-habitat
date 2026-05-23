@@ -64,6 +64,8 @@ A **professional brasero** for cooking in front of customers differs from a part
 
 ## COEO TRIO Ø98cm: the best brasero for restaurant cooking in front of customers
 
+![COEO TRIO Ø98cm professional brasero for 90 guests](/images/blog/coeo-trio-98.webp)
+
 The **COEO TRIO Ø98cm** stands at the top of this comparison for a restaurant cooking in front of its customers. Designed in France since 2020 by the COEO brand, this 3-in-1 model (brasero, plancha, barbecue) combines a **98 cm circular plancha** in 10 mm steel with an integrated air-flow system for optimized combustion. Its price of **1,350 euros** remains very competitive compared to European Pro models at 3,000 euros and more.
 
 You can find the entire professional range on the [COEO](https://www.coeo-design.com/braseros-tous-les-braseros-voir-tout) website.
@@ -89,17 +91,25 @@ Here are the four other brasero plancha models selected for kitchen spectacle an
 
 ### 2. Ofyr Pro 100: the design reference for high-end restaurants
 
+![Ofyr Pro 100 corten brasero professional range](/images/blog/ofyr-pro-100.jpg)
+
 **Ofyr** is the Dutch brand that popularized the corten steel brasero plancha. The **Ofyr Pro 100** range specifically targets catering with a 100 cm cooking diameter and an iconic recognizable design. Count around **3,000 euros** for the standard Pro model, and more for XL and XXL versions or with accessories (wood storage, additional plancha). Ofyr Pro suits gastronomic restaurants and high-end establishments that bank on design as a differentiating argument.
 
 ### 3. Höfats Triple: the modular option for hybrid concepts
+
+![Höfats Triple modular hearth Germany](/images/blog/hofats-triple.jpg)
 
 The **Höfats Triple** is a German modular hearth combining grill, removable disc and bowl on the same base. Designed in corten or stainless steel, it targets restaurants and bars wanting versatile outdoor equipment: plancha cooking at lunch, ambiance brasero in the evening, direct grill for menu dishes. Count around **990 euros** for the standard Triple version.
 
 ### 4. Le Marquier Mendia: the French safe bet for bistros and brasseries
 
+![Le Marquier Mendia French brasero for bistros](/images/blog/le-marquier-mendia.jpg)
+
 **Le Marquier** is a historic French brand from the Basque country. The **Mendia** model offers a brasero in carbon steel, 70 cm plancha, for around **890 euros**. It is a sober and durable choice, appreciated by medium-sized bistros and brasseries (up to 15 simultaneous covers) wanting French manufacturing at a reasonable price.
 
 ### 5. Cookingarden Octa: the accessible entry-level
+
+![Cookingarden Octa entry-level brasero food truck](/images/blog/cookingarden-octa.jpg)
 
 **Cookingarden** is a French brand offering the **Octa** model, in black carbon steel with a 70 cm plancha around **750 euros**. It is the most accessible option in the comparison for small restaurants or food trucks starting cooking in front of customers without large investment. Value for money is honest but carbon steel requires more regular maintenance than corten steel.
 

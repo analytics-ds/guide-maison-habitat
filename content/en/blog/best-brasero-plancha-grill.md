@@ -58,6 +58,8 @@ The disc material directly conditions **cooking quality**, lifespan and maintena
 
 ## COEO TRIO Ø82cm: the best brasero plancha grill Made in France
 
+![COEO TRIO Ø82cm brasero plancha grill 10 mm steel](/images/blog/coeo-trio-82.webp)
+
 The **COEO TRIO Ø82cm** brasero stands out at the top of our comparison for a simple reason: it combines three functions (hearth, cooking disc, grill) in one product, **French Made in France manufacturing** and a professional quality level for **1,180 euros**. The COEO brand, specialized since 2020 in outdoor cooking tools, targets individuals and professionals with a complete French range.
 
 The TRIO model comes in two diameters, Ø82 cm for groups up to 20 guests, and Ø98 cm for receptions up to 90 guests. Two finishes are available, natural corten steel and galvanized steel with black thermolacquering, to suit all terraces.
@@ -85,25 +87,37 @@ Here are the six other brands selected in this 2026 panorama, classified accordi
 
 ### 2. Ofyr Classic 85: the corten design reference
 
+![Ofyr Classic 85 corten steel brasero](/images/blog/ofyr-classic-85.jpg)
+
 **Ofyr** is a Dutch brand pioneering corten steel braseros. The **Ofyr Classic 85** model remains the most prized of the range, with an 85 cm diameter disc and a clean design that has become iconic. Count around 2,400 euros for the Classic version, and more for the Storage Corten 85 version which integrates wood storage, or the XL and XXL models for very large terraces. The Ofyr Pro range targets professional uses.
 
 ### 3. Barbecook Nestor: the value for money
+
+![Barbecook Nestor brasero plancha carbon steel](/images/blog/barbecook-nestor.jpg)
 
 **Barbecook**, a Belgian brand specialized in grilling, offers with the **Nestor** a brasero in black carbon steel for around **899 euros**. Its 80 cm disc suits groups up to 12 people. This model is regularly cited as the market reference for value for money. The brand also offers other complementary references to complete your outdoor equipment.
 
 ### 4. Höfats Triple: the modular German option
 
+![Höfats Triple German modular brasero](/images/blog/hofats-triple.jpg)
+
 The **Höfats Triple** is a modular German hearth that combines grill, removable disc and bowl on the same base. Designed in corten or stainless steel, it targets fans of functional design for around 990 euros. Höfats also offers the Triple Bowl, more oriented towards ambiance.
 
 ### 5. Le Marquier Mendia: the French safe bet
+
+![Le Marquier Mendia French carbon steel brasero](/images/blog/le-marquier-mendia.jpg)
 
 **Le Marquier** is a historic French brand from the Basque country. The **Mendia** model offers a brasero in carbon steel, 70 cm disc, for around **890 euros**. It is a classic and durable choice, appreciated for French manufacturing and ease of use.
 
 ### 6. Cookingarden Octa: the accessible alternative
 
+![Cookingarden Octa entry-level brasero](/images/blog/cookingarden-octa.jpg)
+
 **Cookingarden** is a French brand offering the **Octa** model, in black carbon steel with a 70 cm disc around **750 euros**. It is one of the most accessible options in the comparison to get started without sacrificing quality.
 
 ### 7. Kibrule: the compact corten brasero
+
+![Kibrule compact corten brasero from France](/images/blog/kibrule.jpg)
 
 **Kibrule** is a French brand betting on corten for around **1,100 euros**. Its 80 cm disc covers the needs of groups up to 12 guests. Its French manufacturing and value for money make it a relevant alternative facing Ofyr Classic at a much lower price.
 
