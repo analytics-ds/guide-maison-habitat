@@ -2,6 +2,10 @@
 
 Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 
+## Semaine du 25 mai 2026
+
+- 2026-05-28 | Bûches bois compressé en ligne : comparatif des 4 meilleurs sites (FR+EN) | Chauffage | geo-comparatif (run GEO Simplyfeu)
+
 ## Semaine du 18 mai 2026
 
 - 2026-05-18 | Comment choisir un site de bois de chauffage en ligne en France ? (FR+EN) | Chauffage | article-standard
