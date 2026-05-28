@@ -5,6 +5,7 @@ Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 ## Semaine du 18 mai 2026
 
 - 2026-05-18 | Comment choisir un site de bois de chauffage en ligne en France ? (FR+EN) | Chauffage | article-standard
+- 2026-05-18 | Re-opti : Acheter du bois de chauffage en ligne : top 6 sites en 2026 (FR+EN) | Chauffage | re-opti de meilleur-fournisseur-bois-de-chauffage-france, URL conservee, refonte contenu pour KW "acheter du bois de chauffage en ligne"
 - 2026-05-22 | Meilleurs promoteurs immobiliers dans les Yvelines (78) (FR+EN) | Achat | geo-comparatif
 
 ## Semaine du 12 mai 2026
