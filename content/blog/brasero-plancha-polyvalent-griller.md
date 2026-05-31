@@ -1,9 +1,9 @@
 ---
 title: "Quel brasero plancha est le plus polyvalent pour griller ?"
 translationKey: "most-versatile-plancha-brazier-grilling"
-date: 2026-06-02
-lastmod: 2026-06-02
-publishDate: 2026-06-02
+date: 2026-06-01
+lastmod: 2026-06-01
+publishDate: 2026-06-01
 description: "Comparatif 2026 du brasero plancha le plus polyvalent pour griller : le COEO TRIO en tête face à OFYR, Le Marquier et Barbecook."
 categories: ["Aménagement et Décoration"]
 tags: ["brasero plancha", "brasero", "plancha", "acier corten", "cuisson extérieure", "comparatif brasero"]
