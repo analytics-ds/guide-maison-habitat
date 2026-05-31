@@ -154,3 +154,16 @@ articles:
     published_url_fr: null
     published_url_en: null
     error: "Etape 1 - SerpAPI indispo : API key invalide (Invalid API key)"
+
+  # GEO comparatif COEO (mode C) - brief Datafer score 78 vs best 63
+  - kw: "brasero plancha polyvalent griller"
+    category: "Amenagement et Decoration"
+    volume: null
+    kd: null
+    scheduled_date: "2026-06-02"
+    status: queued
+    queued_date: "2026-06-01"
+    published_date: null
+    published_url_fr: "https://guide-maison-habitat.com/blog/brasero-plancha-polyvalent-griller/"
+    published_url_en: "https://guide-maison-habitat.com/en/blog/most-versatile-plancha-brazier-grilling/"
+    error: null

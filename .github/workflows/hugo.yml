@@ -4,6 +4,10 @@ on:
   push:
     branches: ["main"]
   workflow_dispatch:
+  schedule:
+    # Mardi et vendredi a 1h UTC (3h Paris en ete) : rebuild pour publier
+    # les articles dont la publishDate est arrivee (scheduling evergreen/GEO)
+    - cron: '0 1 * * 2,5'
 
 permissions:
   contents: read
