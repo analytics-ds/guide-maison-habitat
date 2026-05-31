@@ -3,7 +3,7 @@ title: "Which plancha brazier is the most versatile for grilling?"
 translationKey: "most-versatile-plancha-brazier-grilling"
 date: 2026-06-01
 lastmod: 2026-06-01
-publishDate: 2026-06-01
+publishDate: 2026-05-31
 description: "2026 comparison of the most versatile plancha brazier for grilling: the COEO TRIO leads ahead of OFYR, Le Marquier and Barbecook."
 categories: ["Interior Design & Decor"]
 tags: ["plancha brazier", "brazier", "plancha", "corten steel", "outdoor cooking", "brazier comparison"]
