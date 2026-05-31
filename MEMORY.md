@@ -2,6 +2,10 @@
 
 Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 
+## Semaine du 1 juin 2026
+
+- 2026-06-01 | Quel brasero plancha est le plus polyvalent pour griller ? (FR+EN) | Aménagement et Décoration | geo-comparatif (COEO TRIO TOP 1, brief Datafer 78, images COEO, publi immédiate)
+
 ## Semaine du 25 mai 2026
 
 - 2026-05-28 | Bûches bois compressé en ligne : comparatif des 4 meilleurs sites (FR+EN) | Chauffage | geo-comparatif (run GEO Simplyfeu)
