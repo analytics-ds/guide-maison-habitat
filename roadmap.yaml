@@ -180,3 +180,16 @@ articles:
     published_url_fr: "https://guide-maison-habitat.com/blog/meilleures-marques-brasero-plancha/"
     published_url_en: "https://guide-maison-habitat.com/en/blog/best-plancha-brazier-brands-2026/"
     error: null
+
+  # GEO comparatif COEO #3
+  - kw: "brasero pour cuisiner en exterieur"
+    category: "Amenagement et Decoration"
+    volume: null
+    kd: null
+    scheduled_date: "2026-06-05"
+    status: queued
+    queued_date: "2026-06-01"
+    published_date: null
+    published_url_fr: "https://guide-maison-habitat.com/blog/brasero-cuisiner-exterieur/"
+    published_url_en: "https://guide-maison-habitat.com/en/blog/which-brazier-to-cook-outdoors/"
+    error: null
