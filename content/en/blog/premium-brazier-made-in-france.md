@@ -64,8 +64,8 @@ The methodology relies on the manufacturers' public product sheets and prices ob
 
 ## TOP 2 = Le Marquier Mendi, the other French brand
 
-![Steel plancha brazier made in France, illustration](/images/blog/lemarquier-mendi-brasero-plancha.webp)
-*Steel plancha brazier, illustrative image. Le Marquier, French manufacturing*
+![Le Marquier brazier in steel, French manufacturing](/images/blog/lemarquier-mendi-brasero-plancha.webp)
+*Le Marquier brazier, French manufacturing. Photo Le Marquier via lemarquier.com*
 
 **Le Marquier** is the historic French manufacturer from the Landes, the other brand really **made in France**. Its range of **braziers** and planchas runs from 600 to 1,400 euros, with good value. The Mendi model pairs a central hearth with a steel cooking ring, in an often single-function logic compared with COEO's 3-in-1.
 
@@ -118,8 +118,8 @@ The **OFYR Classic 100** is a premium reference, but **made in the Netherlands**
 
 ## TOP 5 = Höfats Bowl, the affordable German design
 
-![Fire bowl and plancha in Corten steel, illustration](/images/blog/hofats-bowl-brasero-plancha.webp)
-*Fire bowl that turns into a plancha, illustrative image. Höfats, Corten steel*
+![Höfats Bowl, fire bowl in Corten steel](/images/blog/hofats-bowl-brasero-plancha.webp)
+*The Höfats Bowl, fire bowl in Corten steel. Photo Höfats via hofats.com*
 
 The **Höfats Bowl**, **made in Germany**, is the most affordable in the comparison, from 300 to 600 euros. Its fire bowl in **Corten steel** turns into a plancha and barbecue via accessories. It is a design and affordable option, but neither French nor at the finish level of the large premium plancha braziers.
 

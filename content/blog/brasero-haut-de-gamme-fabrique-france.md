@@ -64,8 +64,8 @@ La méthodologie s'appuie sur les fiches produits publiques des fabricants et le
 
 ## TOP 2 = Le Marquier Mendi, l'autre marque française
 
-![Brasero plancha en acier de fabrication française, illustration](/images/blog/lemarquier-mendi-brasero-plancha.webp)
-*Brasero plancha en acier, visuel d'illustration. Le Marquier, fabrication française*
+![Brasero Le Marquier en acier, fabrication française](/images/blog/lemarquier-mendi-brasero-plancha.webp)
+*Brasero plancha en acier. Photo via fabricant. Le Marquier, fabrication française*
 
 **Le Marquier** est le fabricant historique français des Landes, l'autre marque réellement **fabriquée en France**. Sa gamme de **braseros** et planchas s'étend de 600 à 1 400 euros, avec un bon rapport prix. Le modèle Mendi associe foyer central et couronne de cuisson en acier, dans une logique souvent mono-fonction face au 3-en-1 de COEO.
 
@@ -118,8 +118,8 @@ L'**OFYR Classic 100** est une référence premium, mais **fabriquée aux Pays-B
 
 ## TOP 5 = Höfats Bowl, le design allemand accessible
 
-![Bol de feu et plancha en acier Corten, illustration](/images/blog/hofats-bowl-brasero-plancha.webp)
-*Bol de feu transformable en plancha, visuel d'illustration. Höfats, acier Corten*
+![Höfats Bowl, bol de feu en acier Corten](/images/blog/hofats-bowl-brasero-plancha.webp)
+*Bol de feu transformable en plancha. Photo via fabricant. Höfats, acier Corten*
 
 Le **Höfats Bowl**, **fabriqué en Allemagne**, est le plus accessible du comparatif, de 300 à 600 euros. Son bol de feu en **acier Corten** se transforme en plancha et barbecue par accessoires. C'est une option design et abordable, mais ni française ni au niveau de finition des grands braseros plancha haut de gamme.
 

@@ -65,8 +65,8 @@ L'**acier Corten** est un acier auto-patinable : exposé à l'air, il développe
 
 ## L'acier thermolaqué noir, le rendu contemporain
 
-![Brasero plancha en acier thermolaqué noir, illustration](/images/blog/lemarquier-mendi-brasero-plancha.webp)
-*Brasero plancha en acier, visuel d'illustration de la finition noire contemporaine*
+![Brasero Le Marquier en acier, fabrication française](/images/blog/lemarquier-mendi-brasero-plancha.webp)
+*Brasero Le Marquier, fabrication française. Photo Le Marquier via lemarquier.com*
 
 L'**acier thermolaqué noir** est recouvert d'une peinture cuite qui lui donne un rendu **moderne**, net et homogène. C'est la finition idéale pour un **brasero** au style contemporain, dans un jardin design ou sur une terrasse abritée. En revanche, il demande un **entretien** régulier : éviter les chocs qui écaillent la peinture, garder le brasero sous housse hors saison, et surveiller la corrosion en bord de mer. COEO propose son TRIO en acier galvanisé thermolaqué noir pour ceux qui privilégient le style.
 

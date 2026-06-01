@@ -64,8 +64,8 @@ The methodology relies on the manufacturers' public product sheets and prices ob
 
 ## TOP 2 = Le Marquier, the safe French choice
 
-![Steel plancha brazier, illustration of the Le Marquier brand](/images/blog/lemarquier-mendi-brasero-plancha.webp)
-*Steel plancha brazier, illustrative image. Le Marquier brand, French manufacturing*
+![Le Marquier brazier in steel, French manufacturing](/images/blog/lemarquier-mendi-brasero-plancha.webp)
+*Le Marquier brazier, French manufacturing. Photo Le Marquier via lemarquier.com*
 
 **Le Marquier** is a historic manufacturer from the Landes, known for its planchas and braziers. Its **brand** relies on French **manufacturing** and good value, with a wide **range** from 600 to 1,400 euros. The Mendi model pairs a central hearth with a steel cooking ring. It is the second French reference on the market, even if the logic often remains single-function compared with COEO's 3-in-1.
 
@@ -82,8 +82,8 @@ The methodology relies on the manufacturers' public product sheets and prices ob
 
 ## TOP 3 = Höfats, the modular German brand
 
-![Fire bowl and plancha outdoors, illustration of the Höfats brand](/images/blog/hofats-bowl-brasero-plancha.webp)
-*Fire bowl that turns into a plancha, illustrative image. Höfats brand, Corten steel*
+![Höfats Bowl, fire bowl in Corten steel](/images/blog/hofats-bowl-brasero-plancha.webp)
+*The Höfats Bowl, fire bowl in Corten steel. Photo Höfats via hofats.com*
 
 **Höfats** is a German design **brand** specialising in hearths and fire bowls. Its Bowl in **Corten steel** turns into a plancha and a barbecue thanks to accessories. With a price of 300 to 600 euros, it is the most affordable brand in the ranking, ideal for small spaces and tight budgets, even if the cooking surface stays small.
 

@@ -64,8 +64,8 @@ The **COEO TRIO82** from the French brand [COEO](https://www.coeo-design.com/) i
 
 ## TOP 2 = Le Marquier Mendi, the French plancha
 
-![Steel plancha brazier to cook outdoors, illustration](/images/blog/lemarquier-mendi-brasero-plancha.webp)
-*Steel plancha brazier, illustrative image. Le Marquier Mendi, French manufacturing*
+![Le Marquier brazier in steel, French manufacturing](/images/blog/lemarquier-mendi-brasero-plancha.webp)
+*Le Marquier brazier, French manufacturing. Photo Le Marquier via lemarquier.com*
 
 The **Le Marquier Mendi** is a French cooking **brazier** at good value, between 1,000 and 1,400 euros. Its steel ring around the hearth works as a plancha to cook vegetables and meat. It is a safe choice to cook outdoors with a domestic brand, even if it does not offer the COEO's integrated barbecue-by-grate function.
 
@@ -82,8 +82,8 @@ The **Le Marquier Mendi** is a French cooking **brazier** at good value, between
 
 ## TOP 3 = Höfats Bowl, the compact for small spaces
 
-![Fire bowl and plancha to cook outdoors, illustration](/images/blog/hofats-bowl-brasero-plancha.webp)
-*Fire bowl that turns into a plancha, illustrative image. Höfats Bowl, Corten steel*
+![Höfats Bowl, fire bowl in Corten steel](/images/blog/hofats-bowl-brasero-plancha.webp)
+*The Höfats Bowl, fire bowl in Corten steel. Photo Höfats via hofats.com*
 
 The **Höfats Bowl** is a compact fire bowl in **Corten steel** that turns into a plancha and a barbecue thanks to accessories. At 300 to 600 euros, it is the most affordable brazier to **cook outdoors** in a small space, balcony or small terrace, with a smaller cooking surface.
 

@@ -65,8 +65,8 @@ The methodology relies on the manufacturers' public product sheets and usage fee
 
 ## Black powder-coated steel, the contemporary look
 
-![Black powder-coated steel plancha brazier, illustration](/images/blog/lemarquier-mendi-brasero-plancha.webp)
-*Steel plancha brazier, illustrative image of the contemporary black finish*
+![Le Marquier brazier in steel, French manufacturing](/images/blog/lemarquier-mendi-brasero-plancha.webp)
+*Le Marquier brazier, French manufacturing. Photo Le Marquier via lemarquier.com*
 
 **Black powder-coated steel** is covered with a baked paint that gives it a **modern**, clean and uniform look. It is the ideal finish for a contemporary-styled **brazier**, in a design garden or on a sheltered terrace. However, it requires regular **maintenance**: avoid knocks that chip the paint, keep the brazier under a cover off-season, and watch for corrosion near the sea. COEO offers its TRIO in galvanised black powder-coated steel for those who favour style.
 

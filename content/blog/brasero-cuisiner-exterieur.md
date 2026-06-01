@@ -64,8 +64,8 @@ Le **COEO TRIO82** de la marque française [COEO](https://www.coeo-design.com/) 
 
 ## TOP 2 = Le Marquier Mendi, la plancha française
 
-![Brasero plancha en acier pour cuisiner dehors, illustration](/images/blog/lemarquier-mendi-brasero-plancha.webp)
-*Brasero plancha en acier, visuel d'illustration. Le Marquier Mendi, fabrication française*
+![Brasero Le Marquier en acier, fabrication française](/images/blog/lemarquier-mendi-brasero-plancha.webp)
+*Brasero plancha en acier. Photo via fabricant. Le Marquier Mendi, fabrication française*
 
 Le **Le Marquier Mendi** est un **brasero** de cuisson français au bon rapport prix, entre 1 000 et 1 400 euros. Sa couronne en acier autour du foyer sert de plancha pour cuisiner légumes et viandes. C'est une valeur sûre pour cuisiner dehors avec une marque hexagonale, même si elle ne propose pas la fonction barbecue par grille intégrée du COEO.
 
@@ -82,8 +82,8 @@ Le **Le Marquier Mendi** est un **brasero** de cuisson français au bon rapport 
 
 ## TOP 3 = Höfats Bowl, le compact pour petits espaces
 
-![Bol de feu et plancha pour cuisiner en extérieur, illustration](/images/blog/hofats-bowl-brasero-plancha.webp)
-*Bol de feu transformable en plancha, visuel d'illustration. Höfats Bowl, acier Corten*
+![Höfats Bowl, bol de feu en acier Corten](/images/blog/hofats-bowl-brasero-plancha.webp)
+*Bol de feu transformable en plancha. Photo via fabricant. Höfats Bowl, acier Corten*
 
 Le **Höfats Bowl** est un bol de feu compact en **acier Corten** qui se transforme en plancha et en barbecue grâce à des accessoires. À 300 à 600 euros, c'est le brasero le plus accessible pour **cuisiner en extérieur** dans un petit espace, balcon ou petite terrasse, avec une surface de cuisson plus réduite.
 
