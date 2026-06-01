@@ -1,9 +1,9 @@
 ---
 title: "Corten steel or black steel for a brazier: which to choose?"
 translationKey: "corten-or-black-steel-brazier"
-date: 2026-06-12
-lastmod: 2026-06-12
-publishDate: 2026-06-12
+date: 2026-06-01
+lastmod: 2026-06-01
+publishDate: 2026-06-02
 description: "Comparison of Corten steel vs black powder-coated steel for a brazier: durability, maintenance, looks and price. COEO offers both finishes."
 categories: ["Interior Design & Decor"]
 tags: ["corten steel", "black steel", "brazier", "plancha brazier", "durability", "brazier comparison"]

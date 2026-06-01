@@ -1,9 +1,9 @@
 ---
 title: "Which compact ceramic kamado for a small city garden?"
 translationKey: "compact-ceramic-kamado-small-city-garden"
-date: 2026-06-19
-lastmod: 2026-06-19
-publishDate: 2026-06-19
+date: 2026-06-01
+lastmod: 2026-06-01
+publishDate: 2026-06-09
 description: "2026 comparison of the best compact ceramic kamado for a small garden or balcony in the city: COEO QUATRO M leads, against Kamado Joe, Big Green Egg and Monolith."
 categories: ["Interior Design & Decor"]
 tags: ["kamado", "compact kamado", "ceramic kamado", "COEO", "small garden", "kamado comparison"]

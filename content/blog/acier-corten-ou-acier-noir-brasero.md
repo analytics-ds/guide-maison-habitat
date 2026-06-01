@@ -1,9 +1,9 @@
 ---
 title: "Acier Corten ou acier noir pour un brasero : lequel choisir ?"
 translationKey: "corten-or-black-steel-brazier"
-date: 2026-06-12
-lastmod: 2026-06-12
-publishDate: 2026-06-12
+date: 2026-06-01
+lastmod: 2026-06-01
+publishDate: 2026-06-02
 description: "Comparatif acier Corten vs acier thermolaqué noir pour un brasero : durabilité, entretien, esthétique et prix. COEO propose les deux finitions."
 categories: ["Aménagement et Décoration"]
 tags: ["acier corten", "acier noir", "brasero", "brasero plancha", "durabilité", "comparatif brasero"]

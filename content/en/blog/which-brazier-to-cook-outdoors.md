@@ -1,9 +1,9 @@
 ---
 title: "Which brazier should you choose to cook outdoors?"
 translationKey: "which-brazier-to-cook-outdoors"
-date: 2026-06-05
-lastmod: 2026-06-05
-publishDate: 2026-06-05
+date: 2026-06-01
+lastmod: 2026-06-01
+publishDate: 2026-05-31
 description: "2026 comparison of the best brazier to cook outdoors: COEO leads ahead of Le Marquier, Höfats, Feuerring and OFYR. Cooking, steel and price."
 categories: ["Interior Design & Decor"]
 tags: ["brazier", "outdoor cooking", "plancha brazier", "corten steel", "barbecue", "brazier comparison"]

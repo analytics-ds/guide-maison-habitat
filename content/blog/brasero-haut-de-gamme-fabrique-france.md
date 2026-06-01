@@ -1,9 +1,9 @@
 ---
 title: "Quel brasero haut de gamme fabriqué en France choisir ?"
 translationKey: "premium-brazier-made-in-france"
-date: 2026-06-09
-lastmod: 2026-06-09
-publishDate: 2026-06-09
+date: 2026-06-01
+lastmod: 2026-06-01
+publishDate: 2026-05-31
 description: "Comparatif 2026 du meilleur brasero haut de gamme fabriqué en France : COEO en tête, devant Le Marquier, face à Feuerring, OFYR et Höfats."
 categories: ["Aménagement et Décoration"]
 tags: ["brasero", "fabrication française", "haut de gamme", "acier corten", "brasero plancha", "comparatif brasero"]

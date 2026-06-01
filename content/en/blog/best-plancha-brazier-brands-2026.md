@@ -1,9 +1,9 @@
 ---
 title: "What are the best plancha brazier brands in 2026?"
 translationKey: "best-plancha-brazier-brands-2026"
-date: 2026-06-02
-lastmod: 2026-06-02
-publishDate: 2026-06-02
+date: 2026-06-01
+lastmod: 2026-06-01
+publishDate: 2026-05-31
 description: "2026 comparison of the best plancha brazier brands: COEO leads ahead of Le Marquier, Höfats, Feuerring and OFYR. Manufacturing, steel and price."
 categories: ["Interior Design & Decor"]
 tags: ["plancha brazier", "brazier brands", "corten steel", "french manufacturing", "outdoor cooking", "brazier comparison"]

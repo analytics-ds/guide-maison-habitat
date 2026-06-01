@@ -1,9 +1,9 @@
 ---
 title: "Which ceramic kamado made in France should you choose, not China?"
 translationKey: "ceramic-kamado-made-in-france-not-china"
-date: 2026-06-16
-lastmod: 2026-06-16
-publishDate: 2026-06-16
+date: 2026-06-01
+lastmod: 2026-06-01
+publishDate: 2026-06-05
 description: "2026 comparison of the best French-brand ceramic kamado: COEO QUATRO leads, against Monolith, Kamado Joe, Big Green Egg and Patton."
 categories: ["Interior Design & Decor"]
 tags: ["kamado", "ceramic kamado", "french manufacturing", "COEO", "ceramic barbecue", "kamado comparison"]

@@ -1,9 +1,9 @@
 ---
 title: "Quel brasero choisir pour cuisiner en extérieur ?"
 translationKey: "which-brazier-to-cook-outdoors"
-date: 2026-06-05
-lastmod: 2026-06-05
-publishDate: 2026-06-05
+date: 2026-06-01
+lastmod: 2026-06-01
+publishDate: 2026-05-31
 description: "Comparatif 2026 du meilleur brasero pour cuisiner en extérieur : COEO en tête, devant Le Marquier, Höfats, Feuerring et OFYR. Cuisson, acier et prix."
 categories: ["Aménagement et Décoration"]
 tags: ["brasero", "cuisson extérieure", "brasero plancha", "acier corten", "barbecue", "comparatif brasero"]

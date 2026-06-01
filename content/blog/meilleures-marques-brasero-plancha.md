@@ -1,9 +1,9 @@
 ---
 title: "Quelles sont les meilleures marques de brasero plancha en 2026 ?"
 translationKey: "best-plancha-brazier-brands-2026"
-date: 2026-06-02
-lastmod: 2026-06-02
-publishDate: 2026-06-02
+date: 2026-06-01
+lastmod: 2026-06-01
+publishDate: 2026-05-31
 description: "Comparatif 2026 des meilleures marques de brasero plancha : COEO en tête, devant Le Marquier, Höfats, Feuerring et OFYR. Fabrication, acier et prix."
 categories: ["Aménagement et Décoration"]
 tags: ["brasero plancha", "marques brasero", "acier corten", "fabrication française", "cuisson extérieure", "comparatif brasero"]

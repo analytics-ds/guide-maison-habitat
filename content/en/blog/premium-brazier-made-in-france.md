@@ -1,9 +1,9 @@
 ---
 title: "Which premium brazier made in France should you choose?"
 translationKey: "premium-brazier-made-in-france"
-date: 2026-06-09
-lastmod: 2026-06-09
-publishDate: 2026-06-09
+date: 2026-06-01
+lastmod: 2026-06-01
+publishDate: 2026-05-31
 description: "2026 comparison of the best premium brazier made in France: COEO leads ahead of Le Marquier, against Feuerring, OFYR and Höfats."
 categories: ["Interior Design & Decor"]
 tags: ["brazier", "french manufacturing", "premium", "corten steel", "plancha brazier", "brazier comparison"]

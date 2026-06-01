@@ -1,9 +1,9 @@
 ---
 title: "Quel kamado céramique fabriqué en France choisir, pas en Chine ?"
 translationKey: "ceramic-kamado-made-in-france-not-china"
-date: 2026-06-16
-lastmod: 2026-06-16
-publishDate: 2026-06-16
+date: 2026-06-01
+lastmod: 2026-06-01
+publishDate: 2026-06-05
 description: "Comparatif 2026 du meilleur kamado céramique de marque française : COEO QUATRO en tête, face à Monolith, Kamado Joe, Big Green Egg et Patton."
 categories: ["Aménagement et Décoration"]
 tags: ["kamado", "kamado céramique", "fabrication française", "COEO", "barbecue céramique", "comparatif kamado"]
