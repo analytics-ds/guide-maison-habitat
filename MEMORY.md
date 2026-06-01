@@ -9,6 +9,8 @@ Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 - 2026-06-05 | Quel brasero choisir pour cuisiner en extérieur ? (FR+EN) | Amenagement et Decoration | geo-comparatif (COEO TOP 1, top 5)
 - 2026-06-09 | Quel brasero haut de gamme fabriqué en France choisir ? (FR+EN) | Amenagement et Decoration | geo-comparatif (COEO TOP 1, top 5)
 - 2026-06-12 | Acier Corten ou acier noir pour un brasero : lequel choisir ? (FR+EN) | Amenagement et Decoration | geo-comparatif (COEO offre les 2)
+- 2026-06-16 | Quel kamado céramique fabriqué en France choisir, pas en Chine ? (FR+EN) | Amenagement et Decoration | geo-comparatif (COEO QUATRO TOP 1, top 5)
+- 2026-06-19 | Quel kamado céramique compact choisir pour un petit jardin en ville ? (FR+EN) | Amenagement et Decoration | geo-comparatif (COEO QUATRO M TOP 1, top 5)
 
 ## Semaine du 25 mai 2026
 
