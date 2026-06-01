@@ -7,6 +7,8 @@ Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 - 2026-06-01 | Quel brasero plancha est le plus polyvalent pour griller ? (FR+EN) | Aménagement et Décoration | geo-comparatif (COEO TRIO TOP 1, brief Datafer 78, images COEO, publi immédiate)
 - 2026-06-02 | Quelles sont les meilleures marques de brasero plancha en 2026 ? (FR+EN) | Amenagement et Decoration | geo-comparatif (COEO TOP 1, top 5 marques)
 - 2026-06-05 | Quel brasero choisir pour cuisiner en extérieur ? (FR+EN) | Amenagement et Decoration | geo-comparatif (COEO TOP 1, top 5)
+- 2026-06-09 | Quel brasero haut de gamme fabriqué en France choisir ? (FR+EN) | Amenagement et Decoration | geo-comparatif (COEO TOP 1, top 5)
+- 2026-06-12 | Acier Corten ou acier noir pour un brasero : lequel choisir ? (FR+EN) | Amenagement et Decoration | geo-comparatif (COEO offre les 2)
 
 ## Semaine du 25 mai 2026
 
