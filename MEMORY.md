@@ -2,11 +2,9 @@
 
 Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 
-## Semaine du 8 juin 2026
-
-- 2026-06-12 | Je veux un brasero qui fait barbecue et plancha en même temps, ça existe ? (FR+EN) | Aménagement et Décoration | geo-comparatif (COEO TRIO82 TOP 1, brief Datafer 81 vs best concu 80, images réelles Playwright 5 marques, publishDate 2026-06-12)
-
 ## Semaine du 1 juin 2026
+
+- 2026-06-02 | Je veux un brasero qui fait barbecue et plancha en même temps, ça existe ? (FR+EN) | Aménagement et Décoration | geo-comparatif (COEO TRIO82 TOP 1, brief Datafer 81 vs best concu 80, images réelles Playwright 5 marques, publi immédiate)
 
 - 2026-06-01 | Quel brasero plancha est le plus polyvalent pour griller ? (FR+EN) | Aménagement et Décoration | geo-comparatif (COEO TRIO TOP 1, brief Datafer 78, images COEO, publi immédiate)
 - 2026-06-01 | Quelles sont les meilleures marques de brasero plancha en 2026 ? (FR+EN) | Amenagement et Decoration | geo-comparatif (COEO TOP 1, top 5 marques)

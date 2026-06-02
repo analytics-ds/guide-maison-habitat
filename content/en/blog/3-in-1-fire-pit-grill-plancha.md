@@ -3,7 +3,7 @@ title: "I want a fire pit that works as a grill and plancha at the same time, do
 translationKey: "brasero-3-in-1-barbecue-plancha"
 date: 2026-06-02
 lastmod: 2026-06-02
-publishDate: 2026-06-12
+publishDate: 2026-06-01
 description: "Yes, the 3-in-1 fire pit exists: comparison of 5 models that grill and sear at once, with the COEO TRIO82 ahead of Höfats and OFYR."
 categories: ["Interior Design & Decor"]
 tags: ["3-in-1 fire pit", "plancha fire pit", "fire pit grill", "corten steel", "outdoor cooking", "fire pit comparison"]

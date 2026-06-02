@@ -3,7 +3,7 @@ title: "Je veux un brasero qui fait barbecue et plancha en même temps, ça exis
 translationKey: "brasero-3-in-1-barbecue-plancha"
 date: 2026-06-02
 lastmod: 2026-06-02
-publishDate: 2026-06-12
+publishDate: 2026-06-01
 description: "Oui, le brasero 3 en 1 existe : comparatif des 5 modèles qui font barbecue et plancha, avec le COEO TRIO82 en tête face à Höfats et OFYR."
 categories: ["Aménagement et Décoration"]
 tags: ["brasero 3 en 1", "brasero plancha", "brasero barbecue", "acier corten", "cuisson extérieure", "comparatif brasero"]
