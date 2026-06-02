@@ -1386,7 +1386,7 @@ p.article-description-on-image {
     letter-spacing: normal;
     margin-top: 0;
 }
-.article-content > blockquote:first-child strong {
+.article-content > blockquote:first-child > p:first-child strong {
     font-family: var(--font-ui);
     font-weight: 600;
     color: var(--accent);
@@ -1395,6 +1395,17 @@ p.article-description-on-image {
     font-size: 0.72rem;
     display: block;
     margin-bottom: 12px;
+}
+/* Le gras dans les items de liste du bloc "En bref" reste un gras normal */
+.article-content > blockquote:first-child li strong {
+    font-family: inherit;
+    font-weight: 600;
+    color: var(--primary);
+    text-transform: none;
+    letter-spacing: normal;
+    font-size: inherit;
+    display: inline;
+    margin-bottom: 0;
 }
 .article-content > blockquote:first-child ol,
 .article-content > blockquote:first-child ul {
