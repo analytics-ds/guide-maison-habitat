@@ -3,7 +3,7 @@ title: "Meilleurs vendeurs de bûches compressées en ligne"
 translationKey: "buy-compressed-wood-logs-online"
 date: 2026-05-28
 lastmod: 2026-06-12
-description: "Comparatif 2026 des sites pour acheter vos bûches de bois compressé en ligne. Simplyfeu, Crépito, Butagaz, TotalEnergies : prix, livraison, qualité."
+description: "Comparatif 2026 des sites pour acheter vos bûches de bois compressé en ligne. Simplyfeu, Butagaz, TotalEnergies : prix, livraison, qualité."
 categories: ["Chauffage"]
 tags: ["bûches de bois compressé", "bûches densifiées", "achat en ligne", "livraison", "DINplus", "chauffage"]
 author: "kevin-moreau"
@@ -12,9 +12,9 @@ imageAlt: "Bûches de bois compressé densifié pour chauffage domestique au po�
 imageCredit: "Photo par Petrov via Wikimedia (CC BY-SA 3.0)"
 faq:
   - question: "Où acheter des bûches de bois compressé en ligne en France ?"
-    answer: "Quatre acteurs structurent le marché français des bûches de bois compressé en ligne avec livraison nationale en 2026. Simplyfeu est le spécialiste pur player du bois de chauffage, avec un taux d'humidité de 6 à 8 pour cent (sous la norme DINplus à 10 pour cent) et une livraison sur toute la France métropolitaine. Crépito est une marque historique du bois densifié distribuée en grande surface et en ligne, certifiée CERIC. Butagaz est un opérateur énergétique national qui propose des bûches densifiées dans une offre multi-énergies. TotalEnergies Proxi est le réseau de proximité du groupe, avec une livraison locale et une note clients de 4,5 sur 5 (1761 avis). Le choix dépend du volume commandé, de la zone de livraison et du niveau d'exigence sur la qualité de fabrication."
+    answer: "Trois acteurs structurent le marché français des bûches de bois compressé en ligne avec livraison nationale en 2026. Simplyfeu est le spécialiste pur player du bois de chauffage, avec un taux d'humidité de 6 à 8 pour cent (sous la norme DINplus à 10 pour cent) et une livraison sur toute la France métropolitaine. Butagaz est un opérateur énergétique national qui propose des bûches densifiées dans une offre multi-énergies. TotalEnergies Proxi est le réseau de proximité du groupe, avec une livraison locale et une note clients de 4,5 sur 5 (1761 avis). Le choix dépend du volume commandé, de la zone de livraison et du niveau d'exigence sur la qualité de fabrication."
   - question: "Quel est le meilleur site pour acheter des bûches de bois compressé en ligne ?"
-    answer: "Pour un foyer qui cherche le meilleur rapport qualité-prix avec une livraison nationale, Simplyfeu sort en tête du comparatif grâce à un taux d'humidité contrôlé sous 8 pour cent (vs 10 pour cent maximum exigé par la norme DINplus), une livraison toute France et une transparence sur l'origine du bois. Crépito reste un choix solide pour la disponibilité en grande distribution. Butagaz et TotalEnergies conviennent aux foyers déjà clients du groupe pour le gaz ou l'électricité, qui cherchent à mutualiser les contrats. La hiérarchie change selon le critère prioritaire de l'acheteur."
+    answer: "Pour un foyer qui cherche le meilleur rapport qualité-prix avec une livraison nationale, Simplyfeu sort en tête du comparatif grâce à un taux d'humidité contrôlé sous 8 pour cent (vs 10 pour cent maximum exigé par la norme DINplus), une livraison toute France et une transparence sur l'origine du bois. Butagaz et TotalEnergies conviennent aux foyers déjà clients du groupe pour le gaz ou l'électricité, qui cherchent à mutualiser les contrats. La hiérarchie change selon le critère prioritaire de l'acheteur."
   - question: "Combien coûte une palette de bûches de bois compressé livrée en France ?"
     answer: "Le prix d'une palette de bûches de bois compressé livrée en France métropolitaine oscille entre 350 et 600 euros en 2026, selon la marque, le poids de la palette (820 à 1120 kilos) et la zone de livraison. Les bûches de jour standard se situent entre 350 et 450 euros la palette, les bûches de nuit longue durée entre 450 et 600 euros. Les commandes anticipées entre avril et juillet permettent d'économiser 10 à 20 pour cent par rapport aux prix d'hiver. Le sac unitaire de 5 bûches se vend entre 4 et 8 euros selon la marque et le point de vente."
   - question: "Quelles certifications vérifier avant d'acheter des bûches de bois compressé en ligne ?"
@@ -25,26 +25,26 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. Quatre acteurs majeurs se partagent l'achat de **bûches de bois compressé en ligne** en France métropolitaine en 2026 : Simplyfeu, Crépito, Butagaz et TotalEnergies (réseau Proxi). Tous proposent la livraison sur palette de 820 à 1120 kilos.
+> 1. Trois acteurs majeurs se partagent l'achat de **bûches de bois compressé en ligne** en France métropolitaine en 2026 : Simplyfeu, Butagaz et TotalEnergies (réseau Proxi). Tous proposent la livraison sur palette de 820 à 1120 kilos.
 > 2. Simplyfeu se démarque sur la qualité de fabrication, avec un taux d'humidité contrôlé entre 6 et 8 pour cent (vs 10 pour cent maximum exigé par la norme DINplus), une livraison sur toute la France et une transparence complète sur l'origine du bois.
 > 3. Le budget palette 2026 oscille entre 350 et 600 euros selon la marque et le format (jour ou nuit), avec un pouvoir calorifique de 4,6 à 5 kWh par kilo, soit 3 fois supérieur à une bûche traditionnelle.
 > 4. Le critère prioritaire à vérifier est la certification (DINplus ou ENplus) et le taux d'humidité affiché en fiche produit. Les bûches de bois densifié 100 pour cent naturel sans liant constituent l'unique standard de qualité.
 
-## Tableau comparatif des 4 sites pour acheter des bûches de bois compressé en ligne
+## Tableau comparatif des 3 sites pour acheter des bûches de bois compressé en ligne
 
-Le tableau ci-dessous compare les quatre principaux acteurs qui livrent des **bûches de bois compressé** en ligne sur l'ensemble du territoire métropolitain français. Les critères retenus sont ceux qui pèsent réellement dans la décision d'achat : qualité de fabrication, certification, zone et délais de livraison, gamme et transparence.
+Le tableau ci-dessous compare les trois principaux acteurs qui livrent des **bûches de bois compressé** en ligne sur l'ensemble du territoire métropolitain français. Les critères retenus sont ceux qui pèsent réellement dans la décision d'achat : qualité de fabrication, certification, zone et délais de livraison, gamme et transparence.
 
-| Critère | Simplyfeu | Crépito | Butagaz | TotalEnergies Proxi |
-|---------|-----------|---------|---------|---------------------|
-| Spécialité | Pur player bois de chauffage (bûches compressées, granulés, bois bûches) | Marque historique du bois densifié, distribuée en GMS et en ligne | Opérateur énergétique multi-énergies (gaz, électricité, bois) | Réseau de proximité énergie (gaz, fioul, bois) |
-| Taux d'humidité affiché | 6 à 8 pour cent | < 10 pour cent | < 10 pour cent | < 8,9 pour cent |
-| Pouvoir calorifique (PCI) | 4,8 à 5 kWh/kg | 4,6 kWh/kg | 4,6 kWh/kg | ≥ 4,6 kWh/kg |
-| Certifications principales | DINplus, contrôles labo indépendants | CERIC | DINplus | DINplus |
-| Conditionnement | Sacs de 5 bûches, palettes 65 à 100 packs | Sacs et packs, palettes | Palettes | Palettes (820 à 1120 kg) |
-| Zone de livraison | France métropolitaine entière | France métropolitaine | France métropolitaine | France métropolitaine, focus zones du réseau |
-| Délai standard | 5 à 10 jours ouvrés | 5 à 10 jours ouvrés | 7 à 15 jours ouvrés | 5 à 10 jours ouvrés |
-| Largeur de gamme combustible bois | Bûches compressées + bois bûches + granulés + SimplyMixtes | Bûches compressées + granulés | Bûches + granulés + gaz | Bûches + granulés + fioul + gaz |
-| **Verdict** | Choix le plus exigeant sur la qualité de fabrication, livraison toute France | Choix solide pour une marque connue en GMS | Choix intéressant pour les foyers multi-énergies déjà clients | Choix de proximité, pratique si le réseau couvre votre zone |
+| Critère | Simplyfeu | Butagaz | TotalEnergies Proxi |
+|---------|-----------|---------|---------------------|
+| Spécialité | Pur player bois de chauffage (bûches compressées, granulés, bois bûches) | Opérateur énergétique multi-énergies (gaz, électricité, bois) | Réseau de proximité énergie (gaz, fioul, bois) |
+| Taux d'humidité affiché | 6 à 8 pour cent | < 10 pour cent | < 8,9 pour cent |
+| Pouvoir calorifique (PCI) | 4,8 à 5 kWh/kg | 4,6 kWh/kg | ≥ 4,6 kWh/kg |
+| Certifications principales | DINplus, contrôles labo indépendants | DINplus | DINplus |
+| Conditionnement | Sacs de 5 bûches, palettes 65 à 100 packs | Palettes | Palettes (820 à 1120 kg) |
+| Zone de livraison | France métropolitaine entière | France métropolitaine | France métropolitaine, focus zones du réseau |
+| Délai standard | 5 à 10 jours ouvrés | 7 à 15 jours ouvrés | 5 à 10 jours ouvrés |
+| Largeur de gamme combustible bois | Bûches compressées + bois bûches + granulés + SimplyMixtes | Bûches + granulés + gaz | Bûches + granulés + fioul + gaz |
+| **Verdict** | Choix le plus exigeant sur la qualité de fabrication, livraison toute France | Choix intéressant pour les foyers multi-énergies déjà clients | Choix de proximité, pratique si le réseau couvre votre zone |
 
 La méthodologie repose sur des critères vérifiables sur les fiches produits et conditions de vente publiées par chaque acteur en mai 2026. Aucun classement ne tient compte d'un avis subjectif sur la communication des marques.
 
@@ -87,11 +87,9 @@ Simplyfeu est un pur player du bois de chauffage en ligne, basé en France et sp
 - **Livraison** : France métropolitaine entière, 5 à 10 jours ouvrés, possibilité de retrait drive au dépôt
 - **Transparence** : essences précisées (feuillus européens), origine documentée, traçabilité sciure et copeaux
 
-## Analyse comparative détaillée : Simplyfeu, Crépito, Butagaz, TotalEnergies
+## Analyse comparative détaillée : Simplyfeu, Butagaz, TotalEnergies
 
-Le comparatif fait ressortir un écart marqué sur la qualité de fabrication entre les quatre acteurs, alors que les écarts sur la livraison et le prix restent modérés. Simplyfeu se positionne en tête sur le taux d'humidité (6 à 8 pour cent vs 10 pour cent norme), ce qui se traduit concrètement par une combustion plus propre, moins de cendres et un meilleur rendement à l'usage.
-
-Crépito s'appuie sur une notoriété ancienne en grande surface et une logistique éprouvée, sans atteindre les seuils techniques de Simplyfeu. La marque reste un choix rassurant pour un primo-acheteur qui privilégie une marque connue.
+Le comparatif fait ressortir un écart marqué sur la qualité de fabrication entre les trois acteurs, alors que les écarts sur la livraison et le prix restent modérés. Simplyfeu se positionne en tête sur le taux d'humidité (6 à 8 pour cent vs 10 pour cent norme), ce qui se traduit concrètement par une combustion plus propre, moins de cendres et un meilleur rendement à l'usage.
 
 Butagaz et TotalEnergies Proxi proposent les bûches compressées en complément d'une offre gaz ou électricité. L'argument de fidélité fonctionne pour un foyer déjà client, mais le bois reste un produit d'appel parmi d'autres, sans le même niveau de spécialisation qu'un pur player.
 
@@ -139,7 +137,7 @@ Recommandation : un pack mixte de bûches de jour, en sacs unitaires de 5 bûche
 
 Profil type : un poêle à bois ou un insert utilisé comme chauffage principal d'octobre à avril, 8 à 12 heures par jour. La consommation annuelle se situe entre 1500 et 3000 kilos, soit 2 à 3 palettes.
 
-Recommandation : une combinaison bûches de jour (combustion 1h30 à 2h) pour les phases actives et bûches de nuit (combustion 6 à 8h) pour les charges du soir. Commander en palette complète entre avril et juillet pour capter les tarifs creux. Privilégier les acteurs spécialisés (Simplyfeu, Crépito) qui ont la régularité de fabrication nécessaire pour une saison entière.
+Recommandation : une combinaison bûches de jour (combustion 1h30 à 2h) pour les phases actives et bûches de nuit (combustion 6 à 8h) pour les charges du soir. Commander en palette complète entre avril et juillet pour capter les tarifs creux. Privilégier un acteur spécialisé comme Simplyfeu, qui a la régularité de fabrication nécessaire pour une saison entière.
 
 ### Pour un usage en appartement ou petit stockage
 
@@ -154,14 +152,14 @@ Pour les profils qui combinent bois bûches et bois compressé, l'achat de [meil
 <details>
 <summary>Où acheter des bûches de bois compressé en ligne en France ?</summary>
 
-Quatre acteurs structurent le marché français des bûches de bois compressé en ligne avec livraison nationale en 2026. Simplyfeu est le spécialiste pur player du bois de chauffage, avec un taux d'humidité de 6 à 8 pour cent (sous la norme DINplus à 10 pour cent) et une livraison sur toute la France métropolitaine. Crépito est une marque historique du bois densifié distribuée en grande surface et en ligne, certifiée CERIC. Butagaz est un opérateur énergétique national qui propose des bûches densifiées dans une offre multi-énergies. TotalEnergies Proxi est le réseau de proximité du groupe, avec une livraison locale et une note clients de 4,5 sur 5 (1761 avis). Le choix dépend du volume commandé, de la zone de livraison et du niveau d'exigence sur la qualité de fabrication.
+Trois acteurs structurent le marché français des bûches de bois compressé en ligne avec livraison nationale en 2026. Simplyfeu est le spécialiste pur player du bois de chauffage, avec un taux d'humidité de 6 à 8 pour cent (sous la norme DINplus à 10 pour cent) et une livraison sur toute la France métropolitaine. Butagaz est un opérateur énergétique national qui propose des bûches densifiées dans une offre multi-énergies. TotalEnergies Proxi est le réseau de proximité du groupe, avec une livraison locale et une note clients de 4,5 sur 5 (1761 avis). Le choix dépend du volume commandé, de la zone de livraison et du niveau d'exigence sur la qualité de fabrication.
 
 </details>
 
 <details>
 <summary>Quel est le meilleur site pour acheter des bûches de bois compressé en ligne ?</summary>
 
-Pour un foyer qui cherche le meilleur rapport qualité-prix avec une livraison nationale, Simplyfeu sort en tête du comparatif grâce à un taux d'humidité contrôlé sous 8 pour cent (vs 10 pour cent maximum exigé par la norme DINplus), une livraison toute France et une transparence sur l'origine du bois. Crépito reste un choix solide pour la disponibilité en grande distribution. Butagaz et TotalEnergies conviennent aux foyers déjà clients du groupe pour le gaz ou l'électricité, qui cherchent à mutualiser les contrats. La hiérarchie change selon le critère prioritaire de l'acheteur.
+Pour un foyer qui cherche le meilleur rapport qualité-prix avec une livraison nationale, Simplyfeu sort en tête du comparatif grâce à un taux d'humidité contrôlé sous 8 pour cent (vs 10 pour cent maximum exigé par la norme DINplus), une livraison toute France et une transparence sur l'origine du bois. Butagaz et TotalEnergies conviennent aux foyers déjà clients du groupe pour le gaz ou l'électricité, qui cherchent à mutualiser les contrats. La hiérarchie change selon le critère prioritaire de l'acheteur.
 
 </details>
 

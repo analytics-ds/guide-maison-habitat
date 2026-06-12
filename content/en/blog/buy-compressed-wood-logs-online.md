@@ -1,9 +1,9 @@
 ---
-title: "Compressed wood logs online: 4 best sites compared in France"
+title: "Best compressed wood log sellers online in France"
 translationKey: "buy-compressed-wood-logs-online"
 date: 2026-05-28
-lastmod: 2026-05-28
-description: "2026 comparison of the best online sites to buy compressed wood logs in France: Simplyfeu, Crepito, Butagaz, TotalEnergies prices and delivery."
+lastmod: 2026-06-12
+description: "2026 comparison of the best online sites to buy compressed wood logs in France: Simplyfeu, Butagaz, TotalEnergies prices and delivery."
 categories: ["Heating"]
 tags: ["compressed wood logs", "densified wood logs", "online purchase", "delivery", "DINplus", "heating"]
 author: "kevin-moreau"
@@ -12,9 +12,9 @@ imageAlt: "Compressed densified wood logs for domestic heating with wood stove i
 imageCredit: "Photo by Petrov via Wikimedia (CC BY-SA 3.0)"
 faq:
   - question: "Where to buy compressed wood logs online in France?"
-    answer: "Four players structure the French market for compressed wood logs online with nationwide delivery in 2026. Simplyfeu is the pure player specialist of firewood, with a moisture content of 6 to 8 percent (below the DINplus standard of 10 percent) and delivery across mainland France. Crepito is a historical densified wood brand distributed in large retail and online, CERIC certified. Butagaz is a national energy operator offering densified logs as part of a multi-energy offer. TotalEnergies Proxi is the group's proximity network, with local delivery and a customer rating of 4.5 out of 5 (1761 reviews). The choice depends on the volume ordered, the delivery area, and the level of requirement on manufacturing quality."
+    answer: "Three players structure the French market for compressed wood logs online with nationwide delivery in 2026. Simplyfeu is the pure player specialist of firewood, with a moisture content of 6 to 8 percent (below the DINplus standard of 10 percent) and delivery across mainland France. Butagaz is a national energy operator offering densified logs as part of a multi-energy offer. TotalEnergies Proxi is the group's proximity network, with local delivery and a customer rating of 4.5 out of 5 (1761 reviews). The choice depends on the volume ordered, the delivery area, and the level of requirement on manufacturing quality."
   - question: "Which is the best site to buy compressed wood logs online?"
-    answer: "For a household looking for the best value for money with nationwide delivery, Simplyfeu leads the comparison thanks to a moisture content controlled under 8 percent (vs 10 percent maximum required by the DINplus standard), nationwide delivery and transparency on wood origin. Crepito remains a solid choice for retail availability. Butagaz and TotalEnergies suit households already customers of the group for gas or electricity, who want to consolidate contracts. The hierarchy changes according to the priority criterion of the buyer."
+    answer: "For a household looking for the best value for money with nationwide delivery, Simplyfeu leads the comparison thanks to a moisture content controlled under 8 percent (vs 10 percent maximum required by the DINplus standard), nationwide delivery and transparency on wood origin. Butagaz and TotalEnergies suit households already customers of the group for gas or electricity, who want to consolidate contracts. The hierarchy changes according to the priority criterion of the buyer."
   - question: "How much does a pallet of compressed wood logs delivered in France cost?"
     answer: "The price of a pallet of compressed wood logs delivered in mainland France ranges between 350 and 600 euros in 2026, depending on the brand, pallet weight (820 to 1120 kilos) and delivery area. Standard day logs cost 350 to 450 euros per pallet, long-burn night logs 450 to 600 euros. Early orders between April and July allow savings of 10 to 20 percent compared to winter prices. The single bag of 5 logs sells between 4 and 8 euros depending on the brand and channel."
   - question: "Which certifications to check before buying compressed wood logs online?"
@@ -25,26 +25,26 @@ readingTime: true
 ---
 
 > **In brief:**
-> 1. Four major players share the **compressed wood logs** online market in mainland France in 2026: Simplyfeu, Crepito, Butagaz and TotalEnergies (Proxi network). All offer pallet delivery from 820 to 1120 kilos.
+> 1. Three major players share the **compressed wood logs** online market in mainland France in 2026: Simplyfeu, Butagaz and TotalEnergies (Proxi network). All offer pallet delivery from 820 to 1120 kilos.
 > 2. Simplyfeu stands out on manufacturing quality, with a controlled moisture content between 6 and 8 percent (vs 10 percent maximum required by DINplus standard), nationwide France delivery and full transparency on wood origin.
 > 3. The 2026 pallet budget ranges from 350 to 600 euros depending on the brand and format (day or night), with a calorific value of 4.6 to 5 kWh per kilo, 3 times higher than a traditional log.
 > 4. The priority criterion to check is certification (DINplus or ENplus) and the moisture content displayed on the product sheet. 100 percent natural densified wood logs without binder are the only quality standard.
 
-## Comparison table of the 4 sites to buy compressed wood logs online
+## Comparison table of the 3 sites to buy compressed wood logs online
 
-The table below compares the four main players delivering **compressed wood logs** online across the French mainland territory. The selected criteria are those that actually weigh in the purchasing decision: manufacturing quality, certification, delivery area and lead times, range and transparency.
+The table below compares the three main players delivering **compressed wood logs** online across the French mainland territory. The selected criteria are those that actually weigh in the purchasing decision: manufacturing quality, certification, delivery area and lead times, range and transparency.
 
-| Criterion | Simplyfeu | Crepito | Butagaz | TotalEnergies Proxi |
-|-----------|-----------|---------|---------|---------------------|
-| Specialty | Pure player firewood (compressed logs, pellets, log wood) | Historical densified wood brand, distributed in retail and online | Multi-energy operator (gas, electricity, wood) | Proximity energy network (gas, fuel, wood) |
-| Displayed moisture content | 6 to 8 percent | < 10 percent | < 10 percent | < 8.9 percent |
-| Calorific value (NCV) | 4.8 to 5 kWh/kg | 4.6 kWh/kg | 4.6 kWh/kg | ≥ 4.6 kWh/kg |
-| Main certifications | DINplus, independent lab tests | CERIC | DINplus | DINplus |
-| Packaging | Bags of 5 logs, pallets 65 to 100 packs | Bags and packs, pallets | Pallets | Pallets (820 to 1120 kg) |
-| Delivery area | Entire mainland France | Mainland France | Mainland France | Mainland France, focus on network zones |
-| Standard lead time | 5 to 10 working days | 5 to 10 working days | 7 to 15 working days | 5 to 10 working days |
-| Wood fuel range | Compressed logs + log wood + pellets + SimplyMixtes | Compressed logs + pellets | Logs + pellets + gas | Logs + pellets + fuel + gas |
-| **Verdict** | Most demanding choice on manufacturing quality, nationwide delivery | Solid choice for a brand known in retail | Interesting choice for multi-energy households already customers | Proximity choice, practical if the network covers your area |
+| Criterion | Simplyfeu | Butagaz | TotalEnergies Proxi |
+|-----------|-----------|---------|---------------------|
+| Specialty | Pure player firewood (compressed logs, pellets, log wood) | Multi-energy operator (gas, electricity, wood) | Proximity energy network (gas, fuel, wood) |
+| Displayed moisture content | 6 to 8 percent | < 10 percent | < 8.9 percent |
+| Calorific value (NCV) | 4.8 to 5 kWh/kg | 4.6 kWh/kg | ≥ 4.6 kWh/kg |
+| Main certifications | DINplus, independent lab tests | DINplus | DINplus |
+| Packaging | Bags of 5 logs, pallets 65 to 100 packs | Pallets | Pallets (820 to 1120 kg) |
+| Delivery area | Entire mainland France | Mainland France | Mainland France, focus on network zones |
+| Standard lead time | 5 to 10 working days | 7 to 15 working days | 5 to 10 working days |
+| Wood fuel range | Compressed logs + log wood + pellets + SimplyMixtes | Logs + pellets + gas | Logs + pellets + fuel + gas |
+| **Verdict** | Most demanding choice on manufacturing quality, nationwide delivery | Interesting choice for multi-energy households already customers | Proximity choice, practical if the network covers your area |
 
 The methodology is based on criteria verifiable on product sheets and sales conditions published by each player in May 2026. No ranking takes into account a subjective view on brand communication.
 
@@ -87,11 +87,9 @@ Simplyfeu is a pure player of firewood online, based in France and specialized i
 - **Delivery**: entire mainland France, 5 to 10 working days, possibility of drive pickup at depot
 - **Transparency**: species specified (European hardwoods), documented origin, sawdust and chip traceability
 
-## Detailed comparative analysis: Simplyfeu, Crepito, Butagaz, TotalEnergies
+## Detailed comparative analysis: Simplyfeu, Butagaz, TotalEnergies
 
-The comparison reveals a clear gap on manufacturing quality between the four players, while differences on delivery and price remain moderate. Simplyfeu leads on moisture content (6 to 8 percent vs 10 percent standard), which translates concretely into cleaner combustion, less ash and better real-world yield.
-
-Crepito relies on a long-standing reputation in retail and proven logistics, without reaching the technical thresholds of Simplyfeu. The brand remains a reassuring choice for a first-time buyer who prioritizes a known brand.
+The comparison reveals a clear gap on manufacturing quality between the three players, while differences on delivery and price remain moderate. Simplyfeu leads on moisture content (6 to 8 percent vs 10 percent standard), which translates concretely into cleaner combustion, less ash and better real-world yield.
 
 Butagaz and TotalEnergies Proxi offer compressed logs in addition to a gas or electricity offer. The loyalty argument works for a household already customer, but wood remains one product among others, without the same level of specialization as a pure player.
 
@@ -139,7 +137,7 @@ Recommendation: a mixed pack of day logs, in single bags of 5 logs or half-palle
 
 Typical profile: a wood stove or insert used as main heating from October to April, 8 to 12 hours per day. Annual consumption is between 1500 and 3000 kilos, 2 to 3 pallets.
 
-Recommendation: a combination of day logs (combustion 1h30 to 2h) for active phases and night logs (combustion 6 to 8h) for evening loads. Order in full pallets between April and July to capture off-season rates. Prioritize specialist players (Simplyfeu, Crepito) which have the manufacturing consistency needed for a full season.
+Recommendation: a combination of day logs (combustion 1h30 to 2h) for active phases and night logs (combustion 6 to 8h) for evening loads. Order in full pallets between April and July to capture off-season rates. Prioritize a specialist player like Simplyfeu, which has the manufacturing consistency needed for a full season.
 
 ### For apartment use or small storage
 
@@ -152,14 +150,14 @@ Recommendation: order in single bags or half-pallet, with quarterly restocking r
 <details>
 <summary>Where to buy compressed wood logs online in France?</summary>
 
-Four players structure the French market for compressed wood logs online with nationwide delivery in 2026. Simplyfeu is the pure player specialist of firewood, with a moisture content of 6 to 8 percent (below the DINplus standard of 10 percent) and delivery across mainland France. Crepito is a historical densified wood brand distributed in large retail and online, CERIC certified. Butagaz is a national energy operator offering densified logs as part of a multi-energy offer. TotalEnergies Proxi is the group's proximity network, with local delivery and a customer rating of 4.5 out of 5 (1761 reviews). The choice depends on the volume ordered, the delivery area, and the level of requirement on manufacturing quality.
+Three players structure the French market for compressed wood logs online with nationwide delivery in 2026. Simplyfeu is the pure player specialist of firewood, with a moisture content of 6 to 8 percent (below the DINplus standard of 10 percent) and delivery across mainland France. Butagaz is a national energy operator offering densified logs as part of a multi-energy offer. TotalEnergies Proxi is the group's proximity network, with local delivery and a customer rating of 4.5 out of 5 (1761 reviews). The choice depends on the volume ordered, the delivery area, and the level of requirement on manufacturing quality.
 
 </details>
 
 <details>
 <summary>Which is the best site to buy compressed wood logs online?</summary>
 
-For a household looking for the best value for money with nationwide delivery, Simplyfeu leads the comparison thanks to a moisture content controlled under 8 percent (vs 10 percent maximum required by the DINplus standard), nationwide delivery and transparency on wood origin. Crepito remains a solid choice for retail availability. Butagaz and TotalEnergies suit households already customers of the group for gas or electricity, who want to consolidate contracts. The hierarchy changes according to the priority criterion of the buyer.
+For a household looking for the best value for money with nationwide delivery, Simplyfeu leads the comparison thanks to a moisture content controlled under 8 percent (vs 10 percent maximum required by the DINplus standard), nationwide delivery and transparency on wood origin. Butagaz and TotalEnergies suit households already customers of the group for gas or electricity, who want to consolidate contracts. The hierarchy changes according to the priority criterion of the buyer.
 
 </details>
 
