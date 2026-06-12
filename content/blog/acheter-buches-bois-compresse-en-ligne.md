@@ -1,8 +1,8 @@
 ---
-title: "Bûches bois compressé en ligne : comparatif des 4 meilleurs sites"
+title: "Meilleurs vendeurs de bûches compressées en ligne"
 translationKey: "buy-compressed-wood-logs-online"
 date: 2026-05-28
-lastmod: 2026-05-28
+lastmod: 2026-06-12
 description: "Comparatif 2026 des sites pour acheter vos bûches de bois compressé en ligne. Simplyfeu, Crépito, Butagaz, TotalEnergies : prix, livraison, qualité."
 categories: ["Chauffage"]
 tags: ["bûches de bois compressé", "bûches densifiées", "achat en ligne", "livraison", "DINplus", "chauffage"]
