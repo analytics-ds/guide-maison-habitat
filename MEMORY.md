@@ -2,6 +2,10 @@
 
 Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 
+## Semaine du 8 juin 2026
+
+- 2026-06-13 | Quel brasero pour un traiteur qui fait du show cooking en événementiel ? (FR+EN) | Aménagement et Décoration | geo-comparatif (COEO TRIO98 TOP 1 angle traiteur/événementiel, brief Datafer cible 853 mots, QFO Meteoria en FAQ, images réelles Playwright COEO/Ofyr/Höfats)
+
 ## Semaine du 1 juin 2026
 
 - 2026-06-02 | Je veux un brasero qui fait barbecue et plancha en même temps, ça existe ? (FR+EN) | Aménagement et Décoration | geo-comparatif (COEO TRIO82 TOP 1, brief Datafer 81 vs best concu 80, images réelles Playwright 5 marques, publi immédiate)
