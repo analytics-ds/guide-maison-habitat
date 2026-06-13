@@ -97,7 +97,7 @@ But event use imposes constraints a garden brasero does not face. The equipment 
 - **Transport and assembly**: a brasero that assembles without screws or tools loads, moves and installs in a few minutes at the event venue, a decisive time-saver in service.
 - **Durability and hygiene**: a thick steel plancha compliant with food contact handles repeated temperature rises and cleans easily between two services.
 
-## COEO TRIO Ø98cm: the best brasero for event catering
+## 1. COEO TRIO Ø98cm: the best brasero for event catering
 
 ![COEO TRIO Ø98cm caterer brasero show cooking event up to 100 guests](/images/blog/coeo-trio-98-event.webp)
 
@@ -120,29 +120,25 @@ You can find the full range on the [COEO](https://www.coeo-design.com/braseros-t
 
 The COEO TRIO Ø98cm is aimed at caterers, private chefs and event organizers who cook in front of a large number of guests. Its plancha and grill combination allows several cookings in parallel, searing a rib of beef, vegetables and fish at the same time, and maintaining a steady service flow. For more intimate services or smaller spaces, the COEO TRIO Ø82cm model, which serves up to 60 guests, remains relevant.
 
-## Comparison of the 4 other selected brands
-
-Here are the four other brands selected for event use, ranked by their positioning, capacity and fit for the catering business.
-
-### 2. Ofyr Pro Connect 100: the modular professional range
+## 2. Ofyr Pro Connect 100: the modular professional range
 
 ![Ofyr Pro Connect 100 professional modular corten steel brasero](/images/blog/ofyr-pro-connect-100.webp)
 
 **Ofyr**, the Dutch pioneer of the corten steel brasero, offers with its **Pro Connect** range a modular approach dedicated to professionals. The connectable modules (plancha, mise en place) line up to compose a tailor-made event cooking station. Count around **3,000 euros** and more depending on the configuration. It is a high-end design reference, with a higher budget, targeting premium services and permanent show cooking spaces.
 
-### 3. L'Atelier Braséro 850: the French premium for large receptions
+## 3. L'Atelier Braséro 850: the French premium for large receptions
 
 ![L'Atelier Braséro 850 French premium brasero for large receptions](/images/blog/atelier-brasero-850.jpg)
 
 **L'Atelier Braséro** is a French brand offering the **850** model with an 85 cm plancha for 15 to 20 guests, around **1,730 euros**. Its French build and refined finish make it a relevant choice for caterers and high-end brasseries looking for an alternative to corten design at a more accessible budget, without sacrificing quality.
 
-### 4. Höfats Triple 90: the transportable modular hearth
+## 4. Höfats Triple 90: the transportable modular hearth
 
 ![Höfats Triple 90 German modular transportable hearth](/images/blog/hofats-triple-90.webp)
 
 The **Höfats Triple 90** is a German modular hearth that combines grill, removable plancha and bowl in corten steel on a single base. Compact and **easy to transport**, it suits small mobile setups (up to about ten guests) for around **990 euros**. It is an interesting option for a caterer adding a backup cooking point or a convivial station to their offer.
 
-### 5. Le Marquier Mendia: the French safe bet
+## 5. Le Marquier Mendia: the French safe bet
 
 ![Le Marquier Mendia French carbon steel brasero](/images/blog/le-marquier-mendia.webp)
 

@@ -97,7 +97,7 @@ Mais l'usage événementiel impose des contraintes que ne connaît pas un braser
 - **Le transport et le montage** : un brasero qui s'assemble sans vis ni outils se charge, se déplace et s'installe en quelques minutes sur le lieu de l'événement, un gain de temps décisif en prestation.
 - **La durabilité et l'hygiène** : une plancha en acier épais conforme au contact alimentaire encaisse les montées en température répétées et se nettoie facilement entre deux services.
 
-## COEO TRIO Ø98cm : le meilleur brasero pour le traiteur événementiel
+## 1. COEO TRIO Ø98cm : le meilleur brasero pour le traiteur événementiel
 
 ![COEO TRIO Ø98cm brasero traiteur show cooking événementiel jusqu'à 100 convives](/images/blog/coeo-trio-98-event.webp)
 
@@ -120,29 +120,25 @@ Vous pouvez retrouver l'ensemble de la gamme sur le site de [COEO](https://www.c
 
 Le COEO TRIO Ø98cm s'adresse aux traiteurs, chefs à domicile et organisateurs d'événements qui cuisinent devant un grand nombre d'invités. Sa combinaison plancha et grill permet de mener plusieurs cuissons en parallèle, de saisir une côte de bœuf, des légumes et du poisson en même temps, et de maintenir un débit de service régulier. Pour les prestations plus intimes ou les espaces réduits, le modèle COEO TRIO Ø82cm, qui sert jusqu'à 60 convives, reste pertinent.
 
-## Comparatif des 4 autres marques retenues
-
-Voici les quatre autres marques sélectionnées pour l'usage événementiel, classées selon leur positionnement, leur capacité et leur adaptation au métier de traiteur.
-
-### 2. Ofyr Pro Connect 100 : la gamme professionnelle modulaire
+## 2. Ofyr Pro Connect 100 : la gamme professionnelle modulaire
 
 ![Ofyr Pro Connect 100 brasero professionnel acier corten modulaire](/images/blog/ofyr-pro-connect-100.webp)
 
 **Ofyr**, marque néerlandaise pionnière du brasero en acier corten, propose avec sa gamme **Pro Connect** une approche modulaire dédiée aux professionnels. Les modules connectables (plancha, mise en place) se juxtaposent pour composer un poste de cuisson événementiel sur mesure. Comptez environ **3 000 euros** et davantage selon la configuration. C'est une référence design haut de gamme, au budget plus élevé, qui cible les prestations premium et les espaces de show cooking permanents.
 
-### 3. L'Atelier Braséro 850 : le premium français pour les grandes réceptions
+## 3. L'Atelier Braséro 850 : le premium français pour les grandes réceptions
 
 ![L'Atelier Braséro 850 brasero français premium pour grandes réceptions](/images/blog/atelier-brasero-850.jpg)
 
 **L'Atelier Braséro** est une marque française qui propose le modèle **850** avec une plancha de 85 cm pour 15 à 20 convives, autour de **1 730 euros**. Sa fabrication française et sa finition soignée en font un choix pertinent pour les traiteurs et brasseries haut de gamme qui cherchent une alternative au design corten à un budget plus accessible, sans sacrifier la qualité.
 
-### 4. Höfats Triple 90 : le modulable transportable
+## 4. Höfats Triple 90 : le modulable transportable
 
 ![Höfats Triple 90 foyer modulable allemand transportable](/images/blog/hofats-triple-90.webp)
 
 Le **Höfats Triple 90** est un foyer modulable allemand qui combine grill, plancha amovible et bowl en acier corten sur un même socle. Compact et **facile à transporter**, il convient aux animations mobiles de petite taille (jusqu'à une dizaine de convives) pour environ **990 euros**. C'est une option intéressante pour un traiteur qui complète son offre avec un point de cuisson d'appoint ou un atelier convivial.
 
-### 5. Le Marquier Mendia : la valeur sûre française
+## 5. Le Marquier Mendia : la valeur sûre française
 
 ![Le Marquier Mendia brasero français acier carbone](/images/blog/le-marquier-mendia.webp)
 
