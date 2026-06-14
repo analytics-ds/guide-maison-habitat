@@ -205,7 +205,42 @@
                     "@type": "Offer",
                     "price": "{{ . }}",
                     "priceCurrency": "{{ $item.currency | default "EUR" }}",
-                    "availability": "https://schema.org/InStock"
+                    "availability": "https://schema.org/InStock",
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "{{ $item.shippingRate | default "0" }}",
+                            "currency": "{{ $item.currency | default "EUR" }}"
+                        },
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "{{ $item.shippingCountry | default "FR" }}"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 0,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 7,
+                                "unitCode": "DAY"
+                            }
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "{{ $item.shippingCountry | default "FR" }}",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": {{ $item.returnDays | default 14 }},
+                        "returnMethod": "https://schema.org/ReturnByMail",
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
                 }{{ end }}{{ with $item.rating }},
                 "aggregateRating": {
                     "@type": "AggregateRating",
