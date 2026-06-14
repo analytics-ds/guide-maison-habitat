@@ -9,7 +9,7 @@
             <p class="hero-description">{{ if eq $lang "en" }}Fact-based analyses, clear comparisons and zero jargon to decode buying, selling, renting, financing, insurance, interior design and renovation.{{ else }}Analyses factuelles, comparatifs clairs et zéro jargon pour décoder l'achat, la vente, la location, le financement, l'assurance, l'aménagement et les travaux.{{ end }}</p>
             <div class="hero-ctas">
                 <a href="{{ "blog/" | relLangURL }}" class="btn-hero-primary">{{ if eq $lang "en" }}Explore the blog{{ else }}Explorer le blog{{ end }}</a>
-                <a href="{{ "simulateurs/" | relLangURL }}" class="btn-hero-secondary">{{ if eq $lang "en" }}View simulators{{ else }}Voir les simulateurs{{ end }}</a>
+                <a href="{{ (cond (eq $lang "en") "simulators/" "simulateurs/") | relLangURL }}" class="btn-hero-secondary">{{ if eq $lang "en" }}View simulators{{ else }}Voir les simulateurs{{ end }}</a>
             </div>
         </div>
         <div class="hero-visual">

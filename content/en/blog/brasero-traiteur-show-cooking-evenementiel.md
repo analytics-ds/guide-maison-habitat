@@ -2,7 +2,7 @@
 title: "Which brasero for a caterer doing show cooking at events?"
 translationKey: "brasero-traiteur-show-cooking-evenementiel"
 date: 2026-06-13
-lastmod: 2026-06-13
+lastmod: 2026-06-14
 description: "Top 5 best braseros for caterers and event show cooking: guest capacity, transport, prices and criteria for weddings, receptions and corporate parties."
 categories: ["Interior Design and Decor"]
 tags: ["brasero", "caterer", "events", "show cooking", "reception"]
@@ -156,7 +156,7 @@ On **budget**, count between 850 and 1,000 euros for a backup model, 1,300 to 1,
 
 A great show cooking is not limited to the brasero. To streamline service, plan a **side table or worktop** resistant to heat and weather (compact HPL, steel), within reach for mise en place and plating. Cooking accessories, a motorized rotisserie spit for large pieces, a barbecue grill, a tabletop oven for pizzas or a reversible cast iron plate, turn a single hearth into several successive stations and enrich the service.
 
-To set up your whole space, see our guide on how to [arrange an outdoor terrace](/en/blog/amenager-terrasse-exterieure/). If you are still hesitating on the model, our comparison of the [best brasero plancha grill](/en/blog/meilleur-brasero-plancha-barbecue/) details the selection criteria, and the guide dedicated to the [brasero for a restaurant cooking in front of its customers](/en/blog/brasero-restaurant-cuisine-devant-clients/) explores the fixed-establishment restaurant segment. Wood-fire cooking professionals often complete their equipment with a [best French kamado to replace a gas barbecue](/en/blog/meilleur-kamado-francais-remplacer-barbecue-gaz/). To feed the hearth, also find our tips for choosing the [best firewood seller](/en/blog/meilleur-vendeur-bois-de-chauffage/).
+To set up your whole space, see our guide on how to [arrange an outdoor terrace](/en/blog/design-outdoor-terrace/). If you are still hesitating on the model, our comparison of the [best brasero plancha grill](/en/blog/best-brasero-plancha-grill/) details the selection criteria, and the guide dedicated to the [brasero for a restaurant cooking in front of its customers](/en/blog/brasero-restaurant-cooking-in-front-of-customers/) explores the fixed-establishment restaurant segment. Wood-fire cooking professionals often complete their equipment with a [best French kamado to replace a gas barbecue](/en/blog/best-french-kamado-replace-gas-bbq/). To feed the hearth, also find our tips for choosing the [best firewood seller](/en/blog/best-firewood-seller/).
 
 ## Frequently asked questions
 

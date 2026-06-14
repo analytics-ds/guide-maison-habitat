@@ -2,7 +2,7 @@
 title: "Buy firewood online: top 6 sites in 2026"
 translationKey: "best-firewood-supplier-france"
 date: 2026-05-15
-lastmod: 2026-05-18
+lastmod: 2026-06-14
 description: "Comparison of the best sites to buy firewood online. Quality, price, delivery, payment: everything you need to check before ordering."
 categories: ["Heating"]
 tags: ["firewood", "e-commerce", "online purchase", "delivery", "comparison", "kiln-dried wood", "Simplyfeu", "moisture content", "certification"]
@@ -171,7 +171,7 @@ Three situations warrant immediate verification at delivery. A pallet notably li
 
 ### The rural household with large annual stock
 
-For consumption over 8 steres per winter, two options work. A local producer listed on Bois-de-Chauffage.net, within a 50 to 80 kilometre radius, offering the best price per stere and strong traceability. Or Simplyfeu for those wanting to secure drying quality and benefit from comfort delivery up to the woodshed. For complementary recommendations on consumption reduction, see the guide on [home thermal insulation](/en/blog/isolation-thermique-maison/).
+For consumption over 8 steres per winter, two options work. A local producer listed on Bois-de-Chauffage.net, within a 50 to 80 kilometre radius, offering the best price per stere and strong traceability. Or Simplyfeu for those wanting to secure drying quality and benefit from comfort delivery up to the woodshed. For complementary recommendations on consumption reduction, see the guide on [home thermal insulation](/en/blog/home-thermal-insulation/).
 
 ### The city dweller without storage space
 
@@ -183,7 +183,7 @@ For pizza, smoker or wood oven, the stake is species (oak, beech, fruit trees so
 
 ### The pellet stove owner
 
-Pellets do not mix with logs. For this equipment, look at Proxi-TotalEnergies or mixed retailers combining both fuels. Check ENplus A1 certification and residual moisture below 10 percent. For a detailed read, consult the comparison of [best pellet brands sold in France](/en/blog/meilleures-marques-pellets-france/) and the guide to [buy wood pellets online in France](/en/blog/acheter-granules-bois-en-ligne-france/).
+Pellets do not mix with logs. For this equipment, look at Proxi-TotalEnergies or mixed retailers combining both fuels. Check ENplus A1 certification and residual moisture below 10 percent. For a detailed read, consult the comparison of [best pellet brands sold in France](/en/blog/best-wood-pellet-brands-france/) and the guide to [buy wood pellets online in France](/en/blog/buy-wood-pellets-online-france/).
 
 ## Common mistakes to avoid when ordering logs
 
@@ -194,4 +194,4 @@ Pellets do not mix with logs. For this equipment, look at Proxi-TotalEnergies or
 - **Choosing the cheapest species without thought**: softwood at 80 euros per stere seems attractive, but it burns fast, soils the flue and ends up more expensive per useful kWh.
 - **Forgetting to check lorry access**: a 19-tonne lorry does not fit in all alleys. Measure access width and height under power lines before validating.
 
-To go further on supplier typology, see the complete guide on [the 4 types of firewood suppliers](/en/blog/bois-de-chauffage-fournisseur/) and the detailed sheet on [how to choose a firewood seller](/en/blog/meilleur-vendeur-bois-de-chauffage/).
+To go further on supplier typology, see the complete guide on [the 4 types of firewood suppliers](/en/blog/firewood-supplier/) and the detailed sheet on [how to choose a firewood seller](/en/blog/best-firewood-seller/).
