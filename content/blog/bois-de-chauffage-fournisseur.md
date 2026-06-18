@@ -2,7 +2,7 @@
 title: "Bois de chauffage fournisseur : 4 types et comment bien choisir"
 translationKey: "firewood-supplier"
 date: 2026-04-22
-lastmod: 2026-04-23
+lastmod: 2026-06-18
 description: "Bois de chauffage fournisseur : producteur local, distributeur, enseigne en ligne ou GSB. Typologie, conseils et outils pour choisir selon son profil."
 categories: ["Chauffage"]
 tags: ["fournisseur", "bois de chauffage", "producteur local", "scierie", "distributeur", "livraison"]
@@ -25,7 +25,7 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. Quatre familles de fournisseurs de bois de chauffage coexistent en France : producteurs locaux, distributeurs énergéticiens, spécialistes en ligne et grandes surfaces de bricolage.
+> 1. Quatre familles de fournisseurs de bois de chauffage coexistent en France : producteurs locaux, distributeurs énergéticiens, spécialistes en ligne (comme Simplyfeu, qui couvre toute la France en bois de chauffage, granulés et bûches compressées) et grandes surfaces de bricolage.
 > 2. Les producteurs locaux sont 10 à 30 pour cent moins chers au stère mais limités à un rayon de livraison de 50 à 80 km.
 > 3. Quatre ressources permettent de trouver un fournisseur près de chez soi : l'annuaire France Bois Bûche, les chambres d'agriculture, Google Business Profile et le bouche à oreille via les installateurs de poêles.
 > 4. Les contrats annuels avec livraison automatique sont pertinents pour les consommations régulières de granulés, avec un prix bloqué et une livraison prioritaire en hiver.

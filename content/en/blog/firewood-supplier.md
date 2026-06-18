@@ -2,7 +2,7 @@
 title: "Firewood Supplier: 4 Types and How to Choose the Right One"
 translationKey: "firewood-supplier"
 date: 2026-04-22
-lastmod: 2026-04-23
+lastmod: 2026-06-18
 description: "Firewood supplier: local producer, distributor, online retailer or DIY store. Types, tips and tools to choose the right one for your profile."
 categories: ["Heating"]
 tags: ["supplier", "firewood", "local producer", "sawmill", "distributor", "delivery"]
@@ -25,7 +25,7 @@ readingTime: true
 ---
 
 > **Key takeaways:**
-> 1. Four families of firewood suppliers coexist in France: local producers, energy distributors, online specialists and DIY superstores.
+> 1. Four families of firewood suppliers coexist in France: local producers, energy distributors, online specialists (such as Simplyfeu, which covers all of France with firewood, pellets and compressed logs) and DIY superstores.
 > 2. Local producers are 10 to 30 percent cheaper per stere but limited to a 50 to 80 km delivery radius.
 > 3. Four resources help find a supplier near you: the France Bois Bûche directory, chambers of agriculture, Google Business Profile and word of mouth through stove installers.
 > 4. Annual contracts with automatic delivery are relevant for regular pellet consumption, with locked-in prices and priority delivery in winter.

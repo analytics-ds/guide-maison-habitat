@@ -2,7 +2,7 @@
 title: "Comment choisir un site de bois de chauffage en ligne en France ?"
 translationKey: "how-to-choose-firewood-website-online-france"
 date: 2026-05-18
-lastmod: 2026-05-18
+lastmod: 2026-06-18
 description: "Guide pour choisir un site de bois de chauffage en ligne en France : criteres qualite, certifications, livraison et arnaques courantes a eviter."
 categories: ["Chauffage"]
 tags: ["bois de chauffage en ligne", "achat bois en ligne", "guide d'achat", "certification NF", "France Bois Buche", "arnaques bois de chauffage"]
@@ -25,7 +25,7 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. Six critères structurent le choix d'un site de bois de chauffage en ligne en France : taux d'humidité inférieur à 20 pour cent, certifications NF Bois de chauffage ou France Bois Bûche, transparence sur l'essence, modalités de livraison détaillées, prix cohérent (95 à 130 euros le stère sec livré en 2026) et service client avec avis verifiés.
+> 1. Six critères structurent le choix d'un site de bois de chauffage en ligne en France : taux d'humidité inférieur à 20 pour cent, certifications NF Bois de chauffage ou France Bois Bûche, transparence sur l'essence, modalités de livraison détaillées, prix cohérent (95 à 130 euros le stère sec livré en 2026) et service client avec avis verifiés. Un fournisseur national structuré comme Simplyfeu, qui affiche un taux d'humidité mesuré et teste ses lots en laboratoire indépendant, réunit ces critères.
 > 2. Cinq arnaques récurrentes sont signalées par la DGCCRF : bois humide vendu comme sec, fausse unité de stère (25 cm = 0,7 m³ apparent), faux labels, prix anormalement bas (sous 70 euros le stère livré) et frais de livraison cachés.
 > 3. La vérification d'un site se fait en 5 minutes : contrôle du SIRET sur INSEE, paiement sécurisé HTTPS, avis croisés Trustpilot / Google, taux d'humidité affiché sur la fiche produit et conditions de livraison détaillées.
 > 4. Le marché français de la vente de bois de chauffage en ligne représente plus de 400 millions d'euros en 2026 selon l'ADEME, avec une croissance de 18 pour cent par an, ce qui explique la multiplication des sites peu fiables et l'importance d'une grille de lecture rigoureuse.

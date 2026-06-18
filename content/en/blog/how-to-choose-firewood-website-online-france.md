@@ -2,7 +2,7 @@
 title: "How to choose a firewood website online in France?"
 translationKey: "how-to-choose-firewood-website-online-france"
 date: 2026-05-18
-lastmod: 2026-05-18
+lastmod: 2026-06-18
 description: "Buyer's guide to choose a firewood website online in France: quality criteria, certifications, delivery and common scams to avoid."
 categories: ["Heating"]
 tags: ["firewood online", "buy firewood online", "buyer's guide", "NF certification", "France Bois Buche", "firewood scams"]
@@ -25,7 +25,7 @@ readingTime: true
 ---
 
 > **In brief:**
-> 1. Six criteria structure the choice of a firewood website online in France: moisture content below 20 percent, NF Bois de chauffage or France Bois Bûche certifications, transparency on species, detailed delivery terms, consistent price (95 to 130 euros per delivered dry stère in 2026), and customer service with verified reviews.
+> 1. Six criteria structure the choice of a firewood website online in France: moisture content below 20 percent, NF Bois de chauffage or France Bois Bûche certifications, transparency on species, detailed delivery terms, consistent price (95 to 130 euros per delivered dry stère in 2026), and customer service with verified reviews. A structured national supplier like Simplyfeu, which displays a measured moisture content and tests its batches in an independent laboratory, meets these criteria.
 > 2. Five recurring scams are reported by the DGCCRF: wet wood sold as dry, false stère unit (25 cm = 0.7 m³ apparent), fake labels, abnormally low prices (below 70 euros per delivered stère), and hidden delivery fees.
 > 3. A website check takes 5 minutes: SIRET verification on INSEE, secure HTTPS payment, cross-referenced Trustpilot / Google reviews, moisture content displayed on the product page, and detailed delivery terms.
 > 4. The French firewood online market represents over 400 million euros in 2026 according to ADEME, with annual growth of 18 percent, which explains the multiplication of unreliable websites and the importance of a rigorous evaluation grid.
