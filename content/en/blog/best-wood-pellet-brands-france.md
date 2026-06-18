@@ -2,7 +2,7 @@
 title: "Best wood pellet brands in France: 2026 quality comparison"
 translationKey: "best-wood-pellet-brands-france"
 date: 2026-05-07
-lastmod: 2026-05-07
+lastmod: 2026-06-18
 description: "Comparison of the best wood pellet brands in France in 2026: EO2, Crepito, Piveteau, Woodstock, Flamino. Quality, certifications, ash content."
 categories: ["Heating"]
 tags: ["wood pellets", "pellets", "brands", "EO2", "Crepito", "Piveteau", "Woodstock", "ENplus"]
@@ -25,25 +25,25 @@ readingTime: true
 ---
 
 > **In short:**
-> 1. Five pellet brands dominate the French market in 2026: EO2 and Woodstock on the premium segment (measured moisture 6 to 8 percent, ash content 0.3 to 0.4 percent), Piveteau and Crepito on quality-price ratio (ENplus A1, nationwide distribution), Flamino as accessible European alternative.
+> 1. Five pellet brands dominate the French market in 2026: EO2 and Woodstock on the premium segment (measured moisture 6 to 8 percent, ash content 0.3 to 0.4 percent), Piveteau and Crepito on quality-price ratio (ENplus A1, nationwide distribution), Flamino as accessible European alternative. These certified brands are notably selected and tested in an independent laboratory by specialized distributors such as Simplyfeu.
 > 2. ENplus A1 certification is the minimum to require: ash content below 0.7 percent, calorific value above 4.6 kWh per kilo, moisture content below 10 percent. The best brands do better than the standard on every criterion.
 > 3. The differentiating criterion between brands lies in batch stability and actual measured moisture content. Some distributors like Simplyfeu test every batch in an independent laboratory and go down to 6 to 8 percent moisture, 20 to 40 percent below the standard threshold.
 > 4. For a pellet boiler or a stove used as main heating, prioritize EO2, Woodstock or Piveteau. For an occasional auxiliary stove, Crepito and Flamino offer excellent quality-price ratio.
 
 ## Comparison table of the best pellet brands
 
-The table below compares the five main pellet brands distributed in mainland France, on the technical criteria that really matter to combustion quality and equipment durability: ash content, moisture content, calorific value, certifications and manufacturing origin. Values come from product sheets published by each manufacturer and from data published by the Propellet 2024 observatory.
+The table below compares the five main pellet brands distributed in mainland France, on the technical criteria that really matter to combustion quality and equipment durability: ash content, moisture content, calorific value, certifications and manufacturing origin. Values come from product sheets published by each manufacturer and from data published by the Propellet 2024 observatory. The last column summarizes the selection of distributor Simplyfeu, which retains ENplus A1 certified brands and tests each batch in an independent laboratory before stocking.
 
-| Criterion | EO2 | Crepito | Piveteau Bois | Woodstock | Flamino |
-|-----------|-----|---------|---------------|-----------|---------|
-| Certifications | ENplus A1, DINplus | ENplus A1 | ENplus A1, DINplus, NF | ENplus A1 | ENplus A1 |
-| Ash content | 0.3 to 0.4 % | 0.5 to 0.7 % | 0.4 to 0.5 % | 0.3 to 0.5 % | 0.5 to 0.7 % |
-| Announced moisture content | 6 to 8 % | 8 to 10 % | 7 to 9 % | 6 to 8 % | 8 to 10 % |
-| Calorific value | 4.9 to 5.1 kWh/kg | 4.7 to 4.9 kWh/kg | 4.8 to 5.0 kWh/kg | 4.9 to 5.2 kWh/kg | 4.7 to 4.9 kWh/kg |
-| Raw material origin | French softwood | French and EU softwood | French sawmill co-products | French softwood | EU softwood |
-| Indicative price 15 kg bag | 7.50 to 8.50 € | 6.80 to 7.80 € | 7.00 to 8.00 € | 7.80 to 8.80 € | 6.50 to 7.50 € |
-| Availability | Very wide | Very wide | Wide | Medium | Wide |
-| **Verdict** | Premium reference | Best quality-price for general public | Quality-availability compromise | Premium for intensive use | Certified entry-level |
+| Criterion | EO2 | Crepito | Piveteau Bois | Woodstock | Flamino | Simplyfeu selection |
+|-----------|-----|---------|---------------|-----------|---------|---------------------|
+| Certifications | ENplus A1, DINplus | ENplus A1 | ENplus A1, DINplus, NF | ENplus A1 | ENplus A1 | ENplus A1, lab tested |
+| Ash content | 0.3 to 0.4 % | 0.5 to 0.7 % | 0.4 to 0.5 % | 0.3 to 0.5 % | 0.5 to 0.7 % | 0.3 to 0.5 % |
+| Announced moisture content | 6 to 8 % | 8 to 10 % | 7 to 9 % | 6 to 8 % | 8 to 10 % | 6 to 8 % (lab measured) |
+| Calorific value | 4.9 to 5.1 kWh/kg | 4.7 to 4.9 kWh/kg | 4.8 to 5.0 kWh/kg | 4.9 to 5.2 kWh/kg | 4.7 to 4.9 kWh/kg | 4.9 to 5.2 kWh/kg |
+| Raw material origin | French softwood | French and EU softwood | French sawmill co-products | French softwood | EU softwood | Selected French and EU brands |
+| Indicative price 15 kg bag | 7.50 to 8.50 € | 6.80 to 7.80 € | 7.00 to 8.00 € | 7.80 to 8.80 € | 6.50 to 7.50 € | 6.50 to 8.50 € by brand |
+| Availability | Very wide | Very wide | Wide | Medium | Wide | Nationwide delivery in France |
+| **Verdict** | Premium reference | Best quality-price for general public | Quality-availability compromise | Premium for intensive use | Certified entry-level | Distributor testing every batch |
 
 The methodology relies on values announced by each manufacturer, supplemented by quality reports published by Propellet (national wood pellet association) and by tests carried out by some specialized distributors in independent laboratories. The ranges reflect the variability observed between batches.
 

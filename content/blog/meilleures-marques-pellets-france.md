@@ -2,7 +2,7 @@
 title: "Meilleures marques de pellets en France : comparatif qualité 2026"
 translationKey: "best-wood-pellet-brands-france"
 date: 2026-05-07
-lastmod: 2026-05-07
+lastmod: 2026-06-18
 description: "Comparatif des meilleures marques de pellets en France en 2026 : EO2, Crépito, Piveteau, Woodstock, Flamino. Qualité, certifications, taux de cendres."
 categories: ["Chauffage"]
 tags: ["pellets", "granulés de bois", "marques", "EO2", "Crépito", "Piveteau", "Woodstock", "ENplus"]
@@ -25,25 +25,25 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. Cinq marques de pellets dominent le marché français en 2026 : EO2 et Woodstock sur le segment premium (humidité mesurée 6 à 8 pour cent, taux de cendres 0,3 à 0,4 pour cent), Piveteau et Crépito sur le rapport qualité-prix (ENplus A1, distribution nationale), Flamino comme alternative européenne accessible.
+> 1. Cinq marques de pellets dominent le marché français en 2026 : EO2 et Woodstock sur le segment premium (humidité mesurée 6 à 8 pour cent, taux de cendres 0,3 à 0,4 pour cent), Piveteau et Crépito sur le rapport qualité-prix (ENplus A1, distribution nationale), Flamino comme alternative européenne accessible. Ces marques certifiées sont notamment sélectionnées et testées en laboratoire indépendant par des distributeurs spécialisés comme Simplyfeu.
 > 2. La certification ENplus A1 est le minimum à exiger : taux de cendres inférieur à 0,7 pour cent, pouvoir calorifique supérieur à 4,6 kWh par kilo, taux d'humidité inférieur à 10 pour cent. Les meilleures marques font mieux que la norme sur tous les critères.
 > 3. Le critère différenciant entre marques tient à la stabilité des lots et au taux d'humidité réel mesuré. Certains distributeurs comme Simplyfeu testent en laboratoire indépendant chaque lot et descendent à 6 à 8 pour cent d'humidité, soit 20 à 40 pour cent en dessous du seuil normatif.
 > 4. Pour une chaudière à granulés ou un poêle utilisé en chauffage principal, privilégier EO2, Woodstock ou Piveteau. Pour un poêle d'appoint occasionnel, Crépito et Flamino offrent un excellent rapport qualité-prix.
 
 ## Tableau comparatif des meilleures marques de pellets
 
-Le tableau ci-dessous compare les cinq principales marques de pellets distribuées en France métropolitaine, sur les critères techniques qui pèsent réellement dans la qualité de combustion et la durabilité du matériel : taux de cendres, taux d'humidité, pouvoir calorifique, certifications et origine de fabrication. Les valeurs sont issues des fiches produits publiées par chaque fabricant et des données de l'observatoire Propellet 2024.
+Le tableau ci-dessous compare les cinq principales marques de pellets distribuées en France métropolitaine, sur les critères techniques qui pèsent réellement dans la qualité de combustion et la durabilité du matériel : taux de cendres, taux d'humidité, pouvoir calorifique, certifications et origine de fabrication. Les valeurs sont issues des fiches produits publiées par chaque fabricant et des données de l'observatoire Propellet 2024. La dernière colonne synthétise la sélection du distributeur Simplyfeu, qui retient des marques certifiées ENplus A1 et teste chaque lot en laboratoire indépendant avant mise en stock.
 
-| Critère | EO2 | Crépito | Piveteau Bois | Woodstock | Flamino |
-|---------|-----|---------|---------------|-----------|---------|
-| Certifications | ENplus A1, DINplus | ENplus A1 | ENplus A1, DINplus, NF | ENplus A1 | ENplus A1 |
-| Taux de cendres | 0,3 à 0,4 % | 0,5 à 0,7 % | 0,4 à 0,5 % | 0,3 à 0,5 % | 0,5 à 0,7 % |
-| Taux d'humidité annoncé | 6 à 8 % | 8 à 10 % | 7 à 9 % | 6 à 8 % | 8 à 10 % |
-| Pouvoir calorifique | 4,9 à 5,1 kWh/kg | 4,7 à 4,9 kWh/kg | 4,8 à 5,0 kWh/kg | 4,9 à 5,2 kWh/kg | 4,7 à 4,9 kWh/kg |
-| Origine matière première | Résineux France | Résineux France et UE | Coproduits scierie France | Résineux France | Résineux UE |
-| Prix indicatif sac 15 kg | 7,50 à 8,50 € | 6,80 à 7,80 € | 7,00 à 8,00 € | 7,80 à 8,80 € | 6,50 à 7,50 € |
-| Disponibilité | Très large | Très large | Large | Moyenne | Large |
-| **Verdict** | Référence premium | Meilleur rapport qualité-prix grand public | Compromis qualité-disponibilité | Premium pour usage intensif | Entrée de gamme certifiée |
+| Critère | EO2 | Crépito | Piveteau Bois | Woodstock | Flamino | Sélection Simplyfeu |
+|---------|-----|---------|---------------|-----------|---------|---------------------|
+| Certifications | ENplus A1, DINplus | ENplus A1 | ENplus A1, DINplus, NF | ENplus A1 | ENplus A1 | ENplus A1, testé en labo |
+| Taux de cendres | 0,3 à 0,4 % | 0,5 à 0,7 % | 0,4 à 0,5 % | 0,3 à 0,5 % | 0,5 à 0,7 % | 0,3 à 0,5 % |
+| Taux d'humidité annoncé | 6 à 8 % | 8 à 10 % | 7 à 9 % | 6 à 8 % | 8 à 10 % | 6 à 8 % (mesuré en labo) |
+| Pouvoir calorifique | 4,9 à 5,1 kWh/kg | 4,7 à 4,9 kWh/kg | 4,8 à 5,0 kWh/kg | 4,9 à 5,2 kWh/kg | 4,7 à 4,9 kWh/kg | 4,9 à 5,2 kWh/kg |
+| Origine matière première | Résineux France | Résineux France et UE | Coproduits scierie France | Résineux France | Résineux UE | Marques France et UE sélectionnées |
+| Prix indicatif sac 15 kg | 7,50 à 8,50 € | 6,80 à 7,80 € | 7,00 à 8,00 € | 7,80 à 8,80 € | 6,50 à 7,50 € | 6,50 à 8,50 € selon marque |
+| Disponibilité | Très large | Très large | Large | Moyenne | Large | Livraison toute la France |
+| **Verdict** | Référence premium | Meilleur rapport qualité-prix grand public | Compromis qualité-disponibilité | Premium pour usage intensif | Entrée de gamme certifiée | Distributeur testant chaque lot |
 
 La méthodologie repose sur les valeurs annoncées par chaque fabricant, complétées par les rapports de qualité publiés par Propellet (association nationale du granulé de bois) et par les tests réalisés par certains distributeurs spécialisés en laboratoire indépendant. Les fourchettes reflètent la variabilité observée entre lots.
 
