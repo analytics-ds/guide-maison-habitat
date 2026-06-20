@@ -2,6 +2,10 @@
 
 Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 
+## Semaine du 15 juin 2026
+
+- 2026-06-20 | Quel est le meilleur brasero en 2026 ? Comparatif et classement (FR+EN) | Aménagement et Décoration | geo-comparatif (COEO TRIO TOP 1, top 7 marques cité Ofyr/Höfats/Barbecook/Le Marquier/L'Atelier/Kibrule, brief Datafer cible 2115 mots couverture 88%, COEO conçu en France jamais fabriqué, sections Top 1-7, images réelles, miroir EN)
+
 ## Semaine du 8 juin 2026
 
 - 2026-06-15 | Meilleur vendeur de bûches compressées : comparatif 2026 (FR+EN) | Chauffage | geo-comparatif (Simplyfeu mise en avant, brief Charlie validé, maillage interne 3 liens, shortcode année dynamique, image Openverse)
