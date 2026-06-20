@@ -131,7 +131,9 @@ Le troisième, c'est le diamètre, qui se choisit selon le nombre de convives et
 - **Rapport qualité-prix** : prix d'achat au regard de l'équipement et de la finition.
 - **Durabilité** : tenue dehors, garantie et qualité de fabrication.
 
-## 1. COEO TRIO : le meilleur brasero polyvalent en 2026
+## Top 1 : COEO TRIO, le meilleur brasero polyvalent en 2026
+
+![Brasero plancha COEO TRIO Ø82 cm en acier, meilleur brasero 2026](/images/blog/coeo-trio-82.webp)
 
 [COEO](https://www.coeo-design.com/) est une marque française spécialisée dans les braseros, les kamados et les cuisines extérieures, dont les produits sont conçus dans le sud de la France. La marque a été récompensée par trois prix internationaux de design (iF Design Award, Reddot Design Award et German Design Award) sur ses braseros et ses kamados.
 
@@ -150,7 +152,9 @@ Le **COEO TRIO** prend la première place parce qu'il fait, seul, ce que les aut
 - La fabrication est réalisée hors de France, seule la conception est française.
 - Le grand modèle Ø98 cm demande de la place sur la terrasse.
 
-## 2. Ofyr Classic 85 : la référence design en Corten
+## Top 2 : Ofyr Classic 85, la référence design en Corten
+
+![Ofyr Classic 85, brasero plancha en acier Corten](/images/blog/ofyr-classic-85.jpg)
 
 L'Ofyr Classic 85 est l'icône du brasero plancha haut de gamme. Sa silhouette conique en acier Corten et son disque de cuisson autour d'un foyer ouvert ont défini le genre. C'est un superbe objet, mais son positionnement, autour de 2 400 euros, et son usage centré sur la plancha le rendent moins polyvalent que le TRIO à budget bien supérieur.
 
@@ -164,7 +168,9 @@ L'Ofyr Classic 85 est l'icône du brasero plancha haut de gamme. Sa silhouette c
 - Prix élevé, parmi les plus chers du comparatif.
 - Moins polyvalent qu'un modèle trois usages.
 
-## 3. L'Atelier Braséro 850 : le premium français
+## Top 3 : L'Atelier Braséro 850, le premium français
+
+![L'Atelier Braséro 850, brasero plancha français en acier](/images/blog/atelier-brasero-850.jpg)
 
 L'Atelier Braséro propose avec son modèle 850 un brasero plancha français premium, doté d'un grand diamètre de cuisson et d'une finition soignée. Autour de 1 730 euros, il vise les amateurs qui veulent du fabriqué localement avec une belle surface de travail.
 
@@ -178,7 +184,9 @@ L'Atelier Braséro propose avec son modèle 850 un brasero plancha français pre
 - Tarif plus élevé que la moyenne du milieu de gamme.
 - Gamme d'accessoires plus restreinte.
 
-## 4. Höfats Triple : l'option modulable allemande
+## Top 4 : Höfats Triple, l'option modulable allemande
+
+![Höfats Triple, brasero modulable allemand](/images/blog/hofats-triple.jpg)
 
 Le Höfats Triple mise sur la modularité. Sa surface de cuisson amovible et son format compact en font un bon choix pour les petites terrasses ou pour qui veut passer facilement du mode ambiance au mode cuisson. Autour de 990 euros, il est disponible en Corten ou en inox.
 
@@ -192,7 +200,9 @@ Le Höfats Triple mise sur la modularité. Sa surface de cuisson amovible et son
 - Surface de cuisson plus réduite.
 - Moins adapté aux grandes tablées.
 
-## 5. Barbecook Nestor : le rapport qualité-prix
+## Top 5 : Barbecook Nestor, le rapport qualité-prix
+
+![Barbecook Nestor, brasero plancha en acier carbone](/images/blog/barbecook-nestor.jpg)
 
 Le Barbecook Nestor, signé de la marque belge, propose un brasero plancha en acier carbone noir autour de 899 euros. C'est l'un des meilleurs tickets d'entrée sérieux du comparatif, avec un diamètre de 80 cm confortable pour le prix.
 
@@ -206,7 +216,9 @@ Le Barbecook Nestor, signé de la marque belge, propose un brasero plancha en ac
 - Acier carbone qui demande un peu plus d'entretien que le Corten.
 - Finition plus standard.
 
-## 6. Le Marquier Mendia : la valeur sûre française
+## Top 6 : Le Marquier Mendia, la valeur sûre française
+
+![Le Marquier Mendia, brasero plancha français](/images/blog/le-marquier-mendia.webp)
 
 Le Marquier, marque du Pays basque, propose avec le Mendia un brasero plancha en acier carbone autour de 890 euros. C'est une valeur sûre à la française, avec un diamètre de 70 cm adapté aux familles et aux petites tablées.
 
@@ -220,7 +232,9 @@ Le Marquier, marque du Pays basque, propose avec le Mendia un brasero plancha en
 - Diamètre de 70 cm plus limité.
 - Acier carbone à entretenir.
 
-## 7. Kibrule : le brasero compact en Corten
+## Top 7 : Kibrule, le brasero compact en Corten
+
+![Kibrule, brasero compact français en acier Corten](/images/blog/kibrule.jpg)
 
 Le Kibrule est un brasero compact français en acier Corten, au design épuré, pensé pour les petites terrasses. Autour de 1 100 euros, il joue la carte de la sobriété et de la patine naturelle du Corten.
 
