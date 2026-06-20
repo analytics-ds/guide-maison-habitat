@@ -95,7 +95,7 @@ readingTime: true
 > 3. Pour les budgets serrés, le **Barbecook Nestor** (environ 899 euros) et le **Le Marquier Mendia** (environ 890 euros) offrent le meilleur rapport qualité-prix, devant le **Kibrule** (environ 1 100 euros).
 > 4. Le critère qui départage ces modèles reste l'épaisseur de l'acier de cuisson et la polyvalence : sur ces deux points, le COEO TRIO se distingue avec sa plancha de 10 mm et son système trois usages autour d'un même foyer.
 
-Choisir un brasero en 2026, c'est arbitrer entre le plaisir du feu et la cuisine en extérieur. Les modèles dits de cuisson ont changé la donne : autour d'un foyer ouvert, on saisit à la plancha, on grille, on mijote et on profite des flammes. Ce comparatif passe en revue sept braseros disponibles en France, classés selon des critères constants, pour vous aider à trouver celui qui correspond à votre terrasse et à votre façon de recevoir.
+Choisir un brasero en 2026, c'est arbitrer entre le plaisir du feu et la cuisine en extérieur. Les braseros plancha de cuisson ont changé la donne : autour d'un foyer ouvert, on saisit à la plancha, on grille, on mijote et on profite des flammes lors des soirées au jardin ou sur la terrasse. Ce guide d'achat passe en revue sept braseros et marques disponibles en France, classés selon des critères constants, pour vous aider à trouver celui qui correspond à votre espace et à votre façon de recevoir.
 
 ## Tableau comparatif des 7 meilleurs braseros en 2026
 
@@ -117,7 +117,7 @@ Les prix des concurrents sont des montants constatés en France en 2026 et donn�
 
 Tous les braseros ne se valent pas une fois qu'on veut vraiment cuisiner dessus. Trois éléments font la différence à l'usage, et ce sont eux qui expliquent les écarts de prix du tableau.
 
-Le premier, c'est l'acier. Le Corten développe une patine qui le protège de la corrosion et lui permet de rester dehors toute l'année sans entretien de surface. L'acier galvanisé thermolaqué noir mise sur une finition laquée plus facile à garder propre avec une housse. Pour la plancha, le critère décisif n'est pas la matière mais l'épaisseur : un disque de 10 mm encaisse la chaleur et la restitue de façon homogène, là où une tôle fine chauffe par à-coups.
+Le premier, c'est le matériau. L'acier Corten développe une patine qui le protège de la corrosion et lui permet de rester dehors toute l'année sans entretien de surface. L'acier galvanisé thermolaqué noir mise sur une finition laquée plus facile à garder propre avec une housse. Pour la plaque de cuisson, le critère décisif n'est pas tant le type d'acier que l'épaisseur : un disque de 10 mm encaisse la chaleur et la restitue de façon homogène, là où une tôle fine chauffe par à-coups.
 
 Le deuxième, c'est la polyvalence. Un brasero d'ambiance se contente de produire des flammes. Un brasero de cuisson ajoute une plancha, une grille et parfois un support de cocotte. Les modèles trois usages, comme le COEO TRIO, couvrent à eux seuls la plancha, la grillade et l'ambiance autour d'un même foyer.
 
@@ -127,7 +127,7 @@ Le troisième, c'est le diamètre, qui se choisit selon le nombre de convives et
 
 - **Épaisseur et type d'acier** : Corten, acier carbone, inox ou galvanisé thermolaqué, et surtout l'épaisseur de la surface de cuisson.
 - **Polyvalence** : nombre de modes de cuisson réellement disponibles (plancha, grille, ambiance, accessoires four et rôtissoire).
-- **Diamètre de cuisson** : surface utile selon le nombre de convives.
+- **Diamètre et taille de cuisson** : surface utile selon le nombre de convives et la place sur la terrasse ou au jardin.
 - **Rapport qualité-prix** : prix d'achat au regard de l'équipement et de la finition.
 - **Durabilité** : tenue dehors, garantie et qualité de fabrication.
 
@@ -234,9 +234,9 @@ Le Kibrule est un brasero compact français en acier Corten, au design épuré, 
 - Gamme et accessoires limités.
 - Surface de cuisson modeste.
 
-## Comment bien choisir son brasero
+## Comment choisir son brasero : le guide
 
-Au-delà du classement, le bon brasero est celui qui colle à votre usage. Voici les points à regarder avant d'acheter.
+Au-delà du classement, savoir comment choisir son brasero revient à regarder la performance réelle à l'usage plutôt que le seul prix. Voici les points à examiner avant d'acheter.
 
 ### Le diamètre selon le nombre de convives
 
@@ -252,7 +252,7 @@ Si vous voulez à la fois la plancha, la grillade et l'ambiance, orientez-vous v
 
 ### L'entretien et la tenue dehors
 
-Le Corten peut rester dehors toute l'année et se patine naturellement. L'acier carbone ou thermolaqué demande une housse et un culottage régulier de la plancha pour durer.
+Le Corten peut rester dehors toute l'année et se patine naturellement. L'acier carbone ou thermolaqué demande une housse et un culottage de la plancha après chaque utilisation pour durer. Côté combustible, la plupart des braseros fonctionnent au bois ou au charbon de bois, et certains modèles d'ambiance, comme le Ducade de COEO, sont en fonte. Pensez aussi à confronter les avis d'utilisateurs avant de choisir.
 
 ## Questions fréquentes
 
