@@ -49,7 +49,7 @@ Une gourde réutilisable évite d'acheter des bouteilles en plastique à chaque 
 
 ## Adapter sa valise à la destination
 
-Aucun de ces accessoires n'a de sens sans la question de fond : où et quand part-on ? La saison, le climat et l'affluence de la destination dictent le contenu du bagage, de la doudoune compacte au maillot de bain. Avant de boucler la valise, prendre le temps de [choisir sa destination selon la meilleure saison pour partir](https://lheureduvoyage.com) évite les mauvaises surprises météo et permet de n'emporter que l'essentiel.
+Aucun de ces accessoires n'a de sens sans la question de fond : où et quand part-on ? La saison, le climat et l'affluence de la destination dictent le contenu du bagage, de la doudoune compacte au maillot de bain. Avant de boucler la valise, prendre le temps de regarder [où partir au fil des saisons](https://lheureduvoyage.com) évite les mauvaises surprises météo et permet de n'emporter que l'essentiel.
 
 Un bagage léger, bien organisé et adapté à la destination, c'est la promesse d'un voyage où l'on profite de l'endroit plutôt que de gérer ses affaires.
 
