@@ -1,0 +1,756 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: Reddit - The heart of the internet
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: https://www.reddit.com/
+            - img [ref=e17]
+          - search [ref=e34]:
+            - generic [ref=e36]:
+              - img [ref=e38]
+              - textbox "Ask" [ref=e59]:
+                - /placeholder: Find anything
+              - separator [ref=e60]
+              - link "Ask" [ref=e64] [cursor=pointer]:
+                - /url: /answers/
+                - generic [ref=e65]:
+                  - img [ref=e67]
+                  - generic [ref=e69]: Ask
+              - generic: Find anything
+          - generic [ref=e70]:
+            - generic [ref=e71]:
+              - link "Advertise on Reddit" [ref=e77] [cursor=pointer]:
+                - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=nav_cta
+                - img [ref=e80]
+                - generic [ref=e82]:
+                  - generic: Advertise on Reddit
+              - button "Open chat" [ref=e88] [cursor=pointer]:
+                - img [ref=e91]
+                - generic [ref=e93]:
+                  - generic: Open chat
+              - link "Create post" [ref=e98] [cursor=pointer]:
+                - /url: /submit
+                - generic [ref=e99]:
+                  - img [ref=e101]
+                  - generic [ref=e103]: Create
+                - generic [ref=e104]:
+                  - generic: Create post
+              - generic [ref=e106]:
+                - link "Open inbox" [ref=e109] [cursor=pointer]:
+                  - /url: /notifications
+                  - img [ref=e112]
+                  - generic [ref=e114]:
+                    - generic: Open inbox
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: "70"
+            - button "User Avatar Expand user menu" [ref=e119] [cursor=pointer]:
+              - img "User Avatar" [ref=e127]
+              - generic [ref=e129]:
+                - generic: Expand user menu
+      - generic [ref=e130]:
+        - generic [ref=e131]:
+          - generic [ref=e132]:
+            - generic:
+              - generic:
+                - link "Skip to Navigation" [ref=e133] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e134] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e135]:
+            - main [ref=e136]:
+              - generic "Reddit - The heart of the internet"
+              - generic [ref=e139]:
+                - generic "Sort by" [ref=e143]:
+                  - 'button "Sort by: Best" [ref=e145] [cursor=pointer]':
+                    - generic [ref=e147]: Best
+                - generic "View" [ref=e153]:
+                  - 'button "View: Card" [ref=e155] [cursor=pointer]'
+              - separator [ref=e161]
+              - generic [ref=e162]:
+                - heading "Feed" [level=1] [ref=e164]
+                - generic:
+                  - 'article "L’entreprise Panthalassa veut créer des data centers IA flottants : les vagues produisent l’électricité, l’océan refroidit les puces, et le calcul est fait directement en mer." [ref=e165]':
+                    - generic [ref=e166] [cursor=pointer]:
+                      - 'link "L’entreprise Panthalassa veut créer des data centers IA flottants : les vagues produisent l’électricité, l’océan refroidit les puces, et le calcul est fait directement en mer." [ref=e167]':
+                        - /url: https://www.reddit.com/r/artificielle/comments/1ua0aig/lentreprise_panthalassa_veut_créer_des_data/
+                        - generic [ref=e168]:
+                          - generic: "L’entreprise Panthalassa veut créer des data centers IA flottants : les vagues produisent l’électricité, l’océan refroidit les puces, et le calcul est fait directement en mer."
+                      - generic [ref=e169]:
+                        - generic [ref=e170]:
+                          - link "r/artificielle" [ref=e173]:
+                            - /url: https://www.reddit.com/r/artificielle/
+                            - generic [ref=e177]: r/artificielle
+                          - generic [ref=e178]: •
+                          - time [ref=e180]: 2 days ago
+                          - generic [ref=e181]: •
+                          - paragraph [ref=e183]: Popular near you
+                        - generic [ref=e184]:
+                          - button "Join" [ref=e186]
+                          - button "Open user actions" [ref=e190]:
+                            - img [ref=e193]
+                      - 'heading "L’entreprise Panthalassa veut créer des data centers IA flottants : les vagues produisent l’électricité, l’océan refroidit les puces, et le calcul est fait directement en mer." [level=2] [ref=e197]':
+                        - 'link "L’entreprise Panthalassa veut créer des data centers IA flottants : les vagues produisent l’électricité, l’océan refroidit les puces, et le calcul est fait directement en mer." [ref=e198]':
+                          - /url: https://www.reddit.com/r/artificielle/comments/1ua0aig/lentreprise_panthalassa_veut_créer_des_data/
+                      - generic [ref=e204]:
+                        - generic "video player" [ref=e205]
+                        - generic [ref=e206]:
+                          - generic [ref=e207]:
+                            - button "Toggle playback" [ref=e208]:
+                              - img [ref=e209]
+                            - generic "Media time" [ref=e211]
+                            - generic [ref=e217]:
+                              - generic [ref=e218]: 0:00
+                              - generic [ref=e219]: / 0:26
+                            - button "Toggle captions" [ref=e220]:
+                              - img [ref=e221]
+                            - generic [ref=e224]:
+                              - button "Settings" [ref=e225]:
+                                - img [ref=e226]
+                              - generic:
+                                - button:
+                                  - generic:
+                                    - img
+                                  - generic: Autoplay
+                                - button:
+                                  - generic: 720p
+                                - button:
+                                  - generic: 480p
+                                - button:
+                                  - generic: 360p
+                                - button:
+                                  - generic: 240p
+                                - button:
+                                  - generic: 144p
+                                - button:
+                                  - generic:
+                                    - img
+                                  - generic: Auto
+                            - button "Toggle fullscreen" [ref=e228]:
+                              - img [ref=e229]
+                          - button "Toggle volume" [ref=e234]:
+                            - img [ref=e235]
+                      - generic "Actions available for this post" [ref=e239]:
+                        - generic [ref=e242]:
+                          - button "Upvote" [ref=e243]:
+                            - img [ref=e245]
+                            - generic [ref=e247]:
+                              - generic: Upvote
+                          - generic [ref=e249]: "214"
+                          - button "Downvote" [ref=e250]:
+                            - img [ref=e252]
+                            - generic [ref=e254]:
+                              - generic: Downvote
+                        - link "83 Go to comments" [ref=e255]:
+                          - /url: /r/artificielle/comments/1ua0aig/lentreprise_panthalassa_veut_créer_des_data/
+                          - generic [ref=e256]:
+                            - img [ref=e258]
+                            - generic [ref=e261]: "83"
+                          - generic [ref=e262]:
+                            - generic: Go to comments
+                        - button "Give award" [ref=e264]:
+                          - img [ref=e267]
+                        - button "Share" [ref=e272]:
+                          - generic [ref=e273]:
+                            - img [ref=e275]
+                            - generic [ref=e277]: Share
+                  - separator [ref=e278]
+                  - generic [ref=e279]:
+                    - 'generic "Advertisement: Your organic traffic is disappearing. Don''t wait until it''s gone. Track and improve your brand’s visibility in AI search with Peec AI." [ref=e280]':
+                      - 'link "Advertisement: Your organic traffic is disappearing. Don''t wait until it''s gone. Track and improve your brand’s visibility in AI search with Peec AI." [ref=e281] [cursor=pointer]':
+                        - /url: https://alb.reddit.com/cr?za=1tP41k9-PltjngV-WQXIuRzLYnv8mi9Si9hjB3mW8UN-Adt7AlCdZKIdH11kHIEad0N5zncTA-CHXFn4XX4rT2lPaooPTuXNy1L3wTvLsYgh2aLUyjMcF_vrzEMKtWB_TL_VLOunoZv6JpNbUbmDGy_POMs0cKMcsDMtkPAAasGsYg2VtJPg-RGm9UYZaHmRT0g-RD_6ejLD4_2Fj7KcU4iV6Jh1SdL0qJ-EHt2j2eOveOEZ6Wke8k13DabHDpVUgtJkEk0c-WdH-GLi3OZWJhj3pDKFZHpvTAU47tb9ukRAMwv1nueYZB6Kun15n1SSryd3b-HL2yTnOxDAGNqawU92bEuLh34FRv1JUlLLdVREp40-bqTRvXVCGxZujoDKs30SrqxtXDLU2Z9tM1vclSLDH2L9JVNs8i697aV4XXnQt6RzEsh56yJ6TzP7NbviOyk6NcfhlpB7EukSv1DMFaDjzopBdWokxOyzuR-1XvU8B6V_sRrjfocCMMUkvemjamD2kYGE9Hd2J5l1BfdbVADVeHjT3R59ua8OXYJsOXXaadUZDvAR7MXfNvEhkz1AUthnvo_WT3Ro5vzoe2LJXIiEAC66zVWWBCKPcQbWON5m0tkIvS7LG1r37q5KdQKltgjyOe-d-rP8sA_ZjhjciVe4lvnsiEZqK6yCJucNskiPQobgWJRr7cTb__YILhbFGKYcYnIcWSgItdTvnBkqM3YmOQVuFSOApfNPtvG9GiLr-3w4VZHhByJFhmby8ZzQ3jXUB0JUpa42lVOoOG6FsOE&zp=1UOUkgbDBuTKe5sTmpeQUmRNC5bB0zrwFP7a5fuYYT-Iols47iljLvD9TpsS-UV5mwBPBF9QMdOKEzGHeSxdBqR6ESqPnDkexlj0P4VMWDyGpw37M4DBUMnl_DK6qQgAOHQfmoDdA5bE36LUPm0hiNjYcm6E3xuNKzP87hWKAo4peHOffI9q90MaSqWu6x5AmTWj43FrCOd4IEwSjmABMbun8SBZzgqus6ui0R2vNBJWjk8ZDleMzDptXaYcUpP9VtFXkKurR-sZa5t_zV6bx6n9UeHQHoCP3DUO7Q4ok4FPRiOHMZ7vnhvzouCKtgEEGSEddQXsmSzlN9TWZ5Sghxz1HnveKsvzYbGYOAF5BwJOvrZaA2_Z-CwNYorUcv14mC8HmyAw82c6UmgxVALGtQR74naz-esQ-8KWoZ-Zy76xKX22HE1NqeVRfkLGIz6Q1amL7im_JPQ
+                    - generic [ref=e282]:
+                      - generic [ref=e283]:
+                        - link "u/peec_ai avatar u/peec_ai" [ref=e286] [cursor=pointer]:
+                          - /url: /user/peec_ai/
+                          - img "u/peec_ai avatar" [ref=e289]
+                          - generic [ref=e290]: u/peec_ai
+                        - generic [ref=e291]: •
+                        - link "Promoted" [ref=e293] [cursor=pointer]:
+                          - /url: /user/peec_ai/
+                          - generic [ref=e294]: Promoted
+                        - link [ref=e296] [cursor=pointer]:
+                          - /url: https://alb.reddit.com/cr?za=1tP41k9-PltjngV-WQXIuRzLYnv8mi9Si9hjB3mW8UN-Adt7AlCdZKIdH11kHIEad0N5zncTA-CHXFn4XX4rT2lPaooPTuXNy1L3wTvLsYgh2aLUyjMcF_vrzEMKtWB_TL_VLOunoZv6JpNbUbmDGy_POMs0cKMcsDMtkPAAasGsYg2VtJPg-RGm9UYZaHmRT0g-RD_6ejLD4_2Fj7KcU4iV6Jh1SdL0qJ-EHt2j2eOveOEZ6Wke8k13DabHDpVUgtJkEk0c-WdH-GLi3OZWJhj3pDKFZHpvTAU47tb9ukRAMwv1nueYZB6Kun15n1SSryd3b-HL2yTnOxDAGNqawU92bEuLh34FRv1JUlLLdVREp40-bqTRvXVCGxZujoDKs30SrqxtXDLU2Z9tM1vclSLDH2L9JVNs8i697aV4XXnQt6RzEsh56yJ6TzP7NbviOyk6NcfhlpB7EukSv1DMFaDjzopBdWokxOyzuR-1XvU8B6V_sRrjfocCMMUkvemjamD2kYGE9Hd2J5l1BfdbVADVeHjT3R59ua8OXYJsOXXaadUZDvAR7MXfNvEhkz1AUthnvo_WT3Ro5vzoe2LJXIiEAC66zVWWBCKPcQbWON5m0tkIvS7LG1r37q5KdQKltgjyOe-d-rP8sA_ZjhjciVe4lvnsiEZqK6yCJucNskiPQobgWJRr7cTb__YILhbFGKYcYnIcWSgItdTvnBkqM3YmOQVuFSOApfNPtvG9GiLr-3w4VZHhByJFhmby8ZzQ3jXUB0JUpa42lVOoOG6FsOE&zp=1UOUkgbDBuTKe5sTmpeQUmRNC5bB0zrwFP7a5fuYYT-Iols47iljLvD9TpsS-UV5mwBPBF9QMdOKEzGHeSxdBqR6ESqPnDkexlj0P4VMWDyGpw37M4DBUMnl_DK6qQgAOHQfmoDdA5bE36LUPm0hiNjYcm6E3xuNKzP87hWKAo4peHOffI9q90MaSqWu6x5AmTWj43FrCOd4IEwSjmABMbun8SBZzgqus6ui0R2vNBJWjk8ZDleMzDptXaYcUpP9VtFXkKurR-sZa5t_zV6bx6n9UeHQHoCP3DUO7Q4ok4FPRiOHMZ7vnhvzouCKtgEEGSEddQXsmSzlN9TWZ5Sghxz1HnveKsvzYbGYOAF5BwJOvrZaA2_Z-CwNYorUcv14mC8HmyAw82c6UmgxVALGtQR74naz-esQ-8KWoZ-Zy76xKX22HE1NqeVRfkLGIz6Q1amL7im_JPQ
+                      - button "Open user actions" [ref=e301] [cursor=pointer]:
+                        - img [ref=e304]
+                    - heading "Your organic traffic is disappearing. Don't wait until it's gone. Track and improve your brand’s visibility in AI search with Peec AI." [level=2] [ref=e308]:
+                      - link "Your organic traffic is disappearing. Don't wait until it's gone. Track and improve your brand’s visibility in AI search with Peec AI." [ref=e311] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=1tP41k9-PltjngV-WQXIuRzLYnv8mi9Si9hjB3mW8UN-Adt7AlCdZKIdH11kHIEad0N5zncTA-CHXFn4XX4rT2lPaooPTuXNy1L3wTvLsYgh2aLUyjMcF_vrzEMKtWB_TL_VLOunoZv6JpNbUbmDGy_POMs0cKMcsDMtkPAAasGsYg2VtJPg-RGm9UYZaHmRT0g-RD_6ejLD4_2Fj7KcU4iV6Jh1SdL0qJ-EHt2j2eOveOEZ6Wke8k13DabHDpVUgtJkEk0c-WdH-GLi3OZWJhj3pDKFZHpvTAU47tb9ukRAMwv1nueYZB6Kun15n1SSryd3b-HL2yTnOxDAGNqawU92bEuLh34FRv1JUlLLdVREp40-bqTRvXVCGxZujoDKs30SrqxtXDLU2Z9tM1vclSLDH2L9JVNs8i697aV4XXnQt6RzEsh56yJ6TzP7NbviOyk6NcfhlpB7EukSv1DMFaDjzopBdWokxOyzuR-1XvU8B6V_sRrjfocCMMUkvemjamD2kYGE9Hd2J5l1BfdbVADVeHjT3R59ua8OXYJsOXXaadUZDvAR7MXfNvEhkz1AUthnvo_WT3Ro5vzoe2LJXIiEAC66zVWWBCKPcQbWON5m0tkIvS7LG1r37q5KdQKltgjyOe-d-rP8sA_ZjhjciVe4lvnsiEZqK6yCJucNskiPQobgWJRr7cTb__YILhbFGKYcYnIcWSgItdTvnBkqM3YmOQVuFSOApfNPtvG9GiLr-3w4VZHhByJFhmby8ZzQ3jXUB0JUpa42lVOoOG6FsOE&zp=1UOUkgbDBuTKe5sTmpeQUmRNC5bB0zrwFP7a5fuYYT-Iols47iljLvD9TpsS-UV5mwBPBF9QMdOKEzGHeSxdBqR6ESqPnDkexlj0P4VMWDyGpw37M4DBUMnl_DK6qQgAOHQfmoDdA5bE36LUPm0hiNjYcm6E3xuNKzP87hWKAo4peHOffI9q90MaSqWu6x5AmTWj43FrCOd4IEwSjmABMbun8SBZzgqus6ui0R2vNBJWjk8ZDleMzDptXaYcUpP9VtFXkKurR-sZa5t_zV6bx6n9UeHQHoCP3DUO7Q4ok4FPRiOHMZ7vnhvzouCKtgEEGSEddQXsmSzlN9TWZ5Sghxz1HnveKsvzYbGYOAF5BwJOvrZaA2_Z-CwNYorUcv14mC8HmyAw82c6UmgxVALGtQR74naz-esQ-8KWoZ-Zy76xKX22HE1NqeVRfkLGIz6Q1amL7im_JPQ
+                        - generic: Your organic traffic is disappearing. Don't wait until it's gone. Track and improve your brand’s visibility in AI search with Peec AI.
+                    - generic [ref=e312]:
+                      - link "Your organic traffic is disappearing. Don't wait until it's gone. Track and improve your brand’s visibility in AI search with Peec AI." [ref=e316] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=1tP41k9-PltjngV-WQXIuRzLYnv8mi9Si9hjB3mW8UN-Adt7AlCdZKIdH11kHIEad0N5zncTA-CHXFn4XX4rT2lPaooPTuXNy1L3wTvLsYgh2aLUyjMcF_vrzEMKtWB_TL_VLOunoZv6JpNbUbmDGy_POMs0cKMcsDMtkPAAasGsYg2VtJPg-RGm9UYZaHmRT0g-RD_6ejLD4_2Fj7KcU4iV6Jh1SdL0qJ-EHt2j2eOveOEZ6Wke8k13DabHDpVUgtJkEk0c-WdH-GLi3OZWJhj3pDKFZHpvTAU47tb9ukRAMwv1nueYZB6Kun15n1SSryd3b-HL2yTnOxDAGNqawU92bEuLh34FRv1JUlLLdVREp40-bqTRvXVCGxZujoDKs30SrqxtXDLU2Z9tM1vclSLDH2L9JVNs8i697aV4XXnQt6RzEsh56yJ6TzP7NbviOyk6NcfhlpB7EukSv1DMFaDjzopBdWokxOyzuR-1XvU8B6V_sRrjfocCMMUkvemjamD2kYGE9Hd2J5l1BfdbVADVeHjT3R59ua8OXYJsOXXaadUZDvAR7MXfNvEhkz1AUthnvo_WT3Ro5vzoe2LJXIiEAC66zVWWBCKPcQbWON5m0tkIvS7LG1r37q5KdQKltgjyOe-d-rP8sA_ZjhjciVe4lvnsiEZqK6yCJucNskiPQobgWJRr7cTb__YILhbFGKYcYnIcWSgItdTvnBkqM3YmOQVuFSOApfNPtvG9GiLr-3w4VZHhByJFhmby8ZzQ3jXUB0JUpa42lVOoOG6FsOE&zp=1UOUkgbDBuTKe5sTmpeQUmRNC5bB0zrwFP7a5fuYYT-Iols47iljLvD9TpsS-UV5mwBPBF9QMdOKEzGHeSxdBqR6ESqPnDkexlj0P4VMWDyGpw37M4DBUMnl_DK6qQgAOHQfmoDdA5bE36LUPm0hiNjYcm6E3xuNKzP87hWKAo4peHOffI9q90MaSqWu6x5AmTWj43FrCOd4IEwSjmABMbun8SBZzgqus6ui0R2vNBJWjk8ZDleMzDptXaYcUpP9VtFXkKurR-sZa5t_zV6bx6n9UeHQHoCP3DUO7Q4ok4FPRiOHMZ7vnhvzouCKtgEEGSEddQXsmSzlN9TWZ5Sghxz1HnveKsvzYbGYOAF5BwJOvrZaA2_Z-CwNYorUcv14mC8HmyAw82c6UmgxVALGtQR74naz-esQ-8KWoZ-Zy76xKX22HE1NqeVRfkLGIz6Q1amL7im_JPQ
+                        - img "Your organic traffic is disappearing. Don't wait until it's gone. Track and improve your brand’s visibility in AI search with Peec AI." [ref=e318]
+                      - separator [ref=e319]
+                      - generic [ref=e320]:
+                        - link [ref=e322] [cursor=pointer]:
+                          - /url: https://alb.reddit.com/cr?za=1tP41k9-PltjngV-WQXIuRzLYnv8mi9Si9hjB3mW8UN-Adt7AlCdZKIdH11kHIEad0N5zncTA-CHXFn4XX4rT2lPaooPTuXNy1L3wTvLsYgh2aLUyjMcF_vrzEMKtWB_TL_VLOunoZv6JpNbUbmDGy_POMs0cKMcsDMtkPAAasGsYg2VtJPg-RGm9UYZaHmRT0g-RD_6ejLD4_2Fj7KcU4iV6Jh1SdL0qJ-EHt2j2eOveOEZ6Wke8k13DabHDpVUgtJkEk0c-WdH-GLi3OZWJhj3pDKFZHpvTAU47tb9ukRAMwv1nueYZB6Kun15n1SSryd3b-HL2yTnOxDAGNqawU92bEuLh34FRv1JUlLLdVREp40-bqTRvXVCGxZujoDKs30SrqxtXDLU2Z9tM1vclSLDH2L9JVNs8i697aV4XXnQt6RzEsh56yJ6TzP7NbviOyk6NcfhlpB7EukSv1DMFaDjzopBdWokxOyzuR-1XvU8B6V_sRrjfocCMMUkvemjamD2kYGE9Hd2J5l1BfdbVADVeHjT3R59ua8OXYJsOXXaadUZDvAR7MXfNvEhkz1AUthnvo_WT3Ro5vzoe2LJXIiEAC66zVWWBCKPcQbWON5m0tkIvS7LG1r37q5KdQKltgjyOe-d-rP8sA_ZjhjciVe4lvnsiEZqK6yCJucNskiPQobgWJRr7cTb__YILhbFGKYcYnIcWSgItdTvnBkqM3YmOQVuFSOApfNPtvG9GiLr-3w4VZHhByJFhmby8ZzQ3jXUB0JUpa42lVOoOG6FsOE&zp=1UOUkgbDBuTKe5sTmpeQUmRNC5bB0zrwFP7a5fuYYT-Iols47iljLvD9TpsS-UV5mwBPBF9QMdOKEzGHeSxdBqR6ESqPnDkexlj0P4VMWDyGpw37M4DBUMnl_DK6qQgAOHQfmoDdA5bE36LUPm0hiNjYcm6E3xuNKzP87hWKAo4peHOffI9q90MaSqWu6x5AmTWj43FrCOd4IEwSjmABMbun8SBZzgqus6ui0R2vNBJWjk8ZDleMzDptXaYcUpP9VtFXkKurR-sZa5t_zV6bx6n9UeHQHoCP3DUO7Q4ok4FPRiOHMZ7vnhvzouCKtgEEGSEddQXsmSzlN9TWZ5Sghxz1HnveKsvzYbGYOAF5BwJOvrZaA2_Z-CwNYorUcv14mC8HmyAw82c6UmgxVALGtQR74naz-esQ-8KWoZ-Zy76xKX22HE1NqeVRfkLGIz6Q1amL7im_JPQ
+                        - generic [ref=e323]:
+                          - link "peec.ai" [ref=e326] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=1tP41k9-PltjngV-WQXIuRzLYnv8mi9Si9hjB3mW8UN-Adt7AlCdZKIdH11kHIEad0N5zncTA-CHXFn4XX4rT2lPaooPTuXNy1L3wTvLsYgh2aLUyjMcF_vrzEMKtWB_TL_VLOunoZv6JpNbUbmDGy_POMs0cKMcsDMtkPAAasGsYg2VtJPg-RGm9UYZaHmRT0g-RD_6ejLD4_2Fj7KcU4iV6Jh1SdL0qJ-EHt2j2eOveOEZ6Wke8k13DabHDpVUgtJkEk0c-WdH-GLi3OZWJhj3pDKFZHpvTAU47tb9ukRAMwv1nueYZB6Kun15n1SSryd3b-HL2yTnOxDAGNqawU92bEuLh34FRv1JUlLLdVREp40-bqTRvXVCGxZujoDKs30SrqxtXDLU2Z9tM1vclSLDH2L9JVNs8i697aV4XXnQt6RzEsh56yJ6TzP7NbviOyk6NcfhlpB7EukSv1DMFaDjzopBdWokxOyzuR-1XvU8B6V_sRrjfocCMMUkvemjamD2kYGE9Hd2J5l1BfdbVADVeHjT3R59ua8OXYJsOXXaadUZDvAR7MXfNvEhkz1AUthnvo_WT3Ro5vzoe2LJXIiEAC66zVWWBCKPcQbWON5m0tkIvS7LG1r37q5KdQKltgjyOe-d-rP8sA_ZjhjciVe4lvnsiEZqK6yCJucNskiPQobgWJRr7cTb__YILhbFGKYcYnIcWSgItdTvnBkqM3YmOQVuFSOApfNPtvG9GiLr-3w4VZHhByJFhmby8ZzQ3jXUB0JUpa42lVOoOG6FsOE&zp=1UOUkgbDBuTKe5sTmpeQUmRNC5bB0zrwFP7a5fuYYT-Iols47iljLvD9TpsS-UV5mwBPBF9QMdOKEzGHeSxdBqR6ESqPnDkexlj0P4VMWDyGpw37M4DBUMnl_DK6qQgAOHQfmoDdA5bE36LUPm0hiNjYcm6E3xuNKzP87hWKAo4peHOffI9q90MaSqWu6x5AmTWj43FrCOd4IEwSjmABMbun8SBZzgqus6ui0R2vNBJWjk8ZDleMzDptXaYcUpP9VtFXkKurR-sZa5t_zV6bx6n9UeHQHoCP3DUO7Q4ok4FPRiOHMZ7vnhvzouCKtgEEGSEddQXsmSzlN9TWZ5Sghxz1HnveKsvzYbGYOAF5BwJOvrZaA2_Z-CwNYorUcv14mC8HmyAw82c6UmgxVALGtQR74naz-esQ-8KWoZ-Zy76xKX22HE1NqeVRfkLGIz6Q1amL7im_JPQ
+                            - generic: peec.ai
+                          - link "Sign Up" [ref=e328] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=1tP41k9-PltjngV-WQXIuRzLYnv8mi9Si9hjB3mW8UN-Adt7AlCdZKIdH11kHIEad0N5zncTA-CHXFn4XX4rT2lPaooPTuXNy1L3wTvLsYgh2aLUyjMcF_vrzEMKtWB_TL_VLOunoZv6JpNbUbmDGy_POMs0cKMcsDMtkPAAasGsYg2VtJPg-RGm9UYZaHmRT0g-RD_6ejLD4_2Fj7KcU4iV6Jh1SdL0qJ-EHt2j2eOveOEZ6Wke8k13DabHDpVUgtJkEk0c-WdH-GLi3OZWJhj3pDKFZHpvTAU47tb9ukRAMwv1nueYZB6Kun15n1SSryd3b-HL2yTnOxDAGNqawU92bEuLh34FRv1JUlLLdVREp40-bqTRvXVCGxZujoDKs30SrqxtXDLU2Z9tM1vclSLDH2L9JVNs8i697aV4XXnQt6RzEsh56yJ6TzP7NbviOyk6NcfhlpB7EukSv1DMFaDjzopBdWokxOyzuR-1XvU8B6V_sRrjfocCMMUkvemjamD2kYGE9Hd2J5l1BfdbVADVeHjT3R59ua8OXYJsOXXaadUZDvAR7MXfNvEhkz1AUthnvo_WT3Ro5vzoe2LJXIiEAC66zVWWBCKPcQbWON5m0tkIvS7LG1r37q5KdQKltgjyOe-d-rP8sA_ZjhjciVe4lvnsiEZqK6yCJucNskiPQobgWJRr7cTb__YILhbFGKYcYnIcWSgItdTvnBkqM3YmOQVuFSOApfNPtvG9GiLr-3w4VZHhByJFhmby8ZzQ3jXUB0JUpa42lVOoOG6FsOE&zp=1UOUkgbDBuTKe5sTmpeQUmRNC5bB0zrwFP7a5fuYYT-Iols47iljLvD9TpsS-UV5mwBPBF9QMdOKEzGHeSxdBqR6ESqPnDkexlj0P4VMWDyGpw37M4DBUMnl_DK6qQgAOHQfmoDdA5bE36LUPm0hiNjYcm6E3xuNKzP87hWKAo4peHOffI9q90MaSqWu6x5AmTWj43FrCOd4IEwSjmABMbun8SBZzgqus6ui0R2vNBJWjk8ZDleMzDptXaYcUpP9VtFXkKurR-sZa5t_zV6bx6n9UeHQHoCP3DUO7Q4ok4FPRiOHMZ7vnhvzouCKtgEEGSEddQXsmSzlN9TWZ5Sghxz1HnveKsvzYbGYOAF5BwJOvrZaA2_Z-CwNYorUcv14mC8HmyAw82c6UmgxVALGtQR74naz-esQ-8KWoZ-Zy76xKX22HE1NqeVRfkLGIz6Q1amL7im_JPQ
+                            - generic [ref=e330]:
+                              - generic: Sign Up
+                    - generic "Actions available for this post" [ref=e332]:
+                      - generic [ref=e335]:
+                        - button "Upvote" [ref=e336] [cursor=pointer]:
+                          - img [ref=e338]
+                          - generic [ref=e340]:
+                            - generic: Upvote
+                        - generic [ref=e342]: "9"
+                        - button "Downvote" [ref=e343] [cursor=pointer]:
+                          - img [ref=e345]
+                          - generic [ref=e347]:
+                            - generic: Downvote
+                      - link "0 Go to comments" [ref=e348] [cursor=pointer]:
+                        - /url: /user/peec_ai/comments/1qdjztk/your_organic_traffic_is_disappearing_dont_wait/?p=1&impressionid=5788975346724402051
+                        - generic [ref=e349]:
+                          - img [ref=e351]
+                          - generic [ref=e354]: "0"
+                        - generic [ref=e355]:
+                          - generic: Go to comments
+                      - button "Share" [ref=e359] [cursor=pointer]:
+                        - generic [ref=e360]:
+                          - img [ref=e362]
+                          - generic [ref=e364]: Share
+                      - link [ref=e366] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=1tP41k9-PltjngV-WQXIuRzLYnv8mi9Si9hjB3mW8UN-Adt7AlCdZKIdH11kHIEad0N5zncTA-CHXFn4XX4rT2lPaooPTuXNy1L3wTvLsYgh2aLUyjMcF_vrzEMKtWB_TL_VLOunoZv6JpNbUbmDGy_POMs0cKMcsDMtkPAAasGsYg2VtJPg-RGm9UYZaHmRT0g-RD_6ejLD4_2Fj7KcU4iV6Jh1SdL0qJ-EHt2j2eOveOEZ6Wke8k13DabHDpVUgtJkEk0c-WdH-GLi3OZWJhj3pDKFZHpvTAU47tb9ukRAMwv1nueYZB6Kun15n1SSryd3b-HL2yTnOxDAGNqawU92bEuLh34FRv1JUlLLdVREp40-bqTRvXVCGxZujoDKs30SrqxtXDLU2Z9tM1vclSLDH2L9JVNs8i697aV4XXnQt6RzEsh56yJ6TzP7NbviOyk6NcfhlpB7EukSv1DMFaDjzopBdWokxOyzuR-1XvU8B6V_sRrjfocCMMUkvemjamD2kYGE9Hd2J5l1BfdbVADVeHjT3R59ua8OXYJsOXXaadUZDvAR7MXfNvEhkz1AUthnvo_WT3Ro5vzoe2LJXIiEAC66zVWWBCKPcQbWON5m0tkIvS7LG1r37q5KdQKltgjyOe-d-rP8sA_ZjhjciVe4lvnsiEZqK6yCJucNskiPQobgWJRr7cTb__YILhbFGKYcYnIcWSgItdTvnBkqM3YmOQVuFSOApfNPtvG9GiLr-3w4VZHhByJFhmby8ZzQ3jXUB0JUpa42lVOoOG6FsOE&zp=1UOUkgbDBuTKe5sTmpeQUmRNC5bB0zrwFP7a5fuYYT-Iols47iljLvD9TpsS-UV5mwBPBF9QMdOKEzGHeSxdBqR6ESqPnDkexlj0P4VMWDyGpw37M4DBUMnl_DK6qQgAOHQfmoDdA5bE36LUPm0hiNjYcm6E3xuNKzP87hWKAo4peHOffI9q90MaSqWu6x5AmTWj43FrCOd4IEwSjmABMbun8SBZzgqus6ui0R2vNBJWjk8ZDleMzDptXaYcUpP9VtFXkKurR-sZa5t_zV6bx6n9UeHQHoCP3DUO7Q4ok4FPRiOHMZ7vnhvzouCKtgEEGSEddQXsmSzlN9TWZ5Sghxz1HnveKsvzYbGYOAF5BwJOvrZaA2_Z-CwNYorUcv14mC8HmyAw82c6UmgxVALGtQR74naz-esQ-8KWoZ-Zy76xKX22HE1NqeVRfkLGIz6Q1amL7im_JPQ
+                  - separator [ref=e367]
+                  - article "Quitter le salariat pour le freelancing" [ref=e368]:
+                    - generic [ref=e369] [cursor=pointer]:
+                      - link "Quitter le salariat pour le freelancing" [ref=e370]:
+                        - /url: https://www.reddit.com/r/developpeurs/comments/1ubeddb/quitter_le_salariat_pour_le_freelancing/
+                        - generic [ref=e371]:
+                          - generic: Quitter le salariat pour le freelancing
+                      - generic [ref=e372]:
+                        - generic [ref=e373]:
+                          - generic [ref=e374]:
+                            - link "r/developpeurs" [ref=e376]:
+                              - /url: https://www.reddit.com/r/developpeurs/
+                              - generic [ref=e380]: r/developpeurs
+                            - 'button "Community status: upvote" [ref=e382]':
+                              - img "upvote" [ref=e383]
+                          - generic [ref=e384]: •
+                          - time [ref=e386]: 5 hr. ago
+                        - button "Open user actions" [ref=e391]:
+                          - img [ref=e394]
+                      - generic [ref=e397]:
+                        - heading "Quitter le salariat pour le freelancing" [level=2] [ref=e398]:
+                          - link "Quitter le salariat pour le freelancing" [ref=e399]:
+                            - /url: https://www.reddit.com/r/developpeurs/comments/1ubeddb/quitter_le_salariat_pour_le_freelancing/
+                        - generic [ref=e400]:
+                          - generic:
+                            - link "Help J’ai besoin de votre avis sur une situation pro svp Normalement je suis salariée - 3 ans d’expérience dans le développement logiciel, je suis tombée en chômage depuis 1 et demi maintenant, vu que le marché est assez tendu je pense sur la possibilité de switcher et me lancer dans le freelance. Est-ce que ça vaut vraiment le coup de tenter ? (Je sais très bien que dans le freelance aussi bien que dans le salariat il peut y avoir des manques de missions .. à chaque statut ses propres risques. J’ai vraiment besoin de vos conseils, je suis dans un dilemme avec la fin de mes droits d’allocations dans 2 mois. Merci de m’avoir lu!":
+                              - /url: /r/developpeurs/comments/1ubeddb/quitter_le_salariat_pour_le_freelancing/
+                              - generic:
+                                - generic:
+                                  - paragraph: Help
+                                  - paragraph: J’ai besoin de votre avis sur une situation pro svp
+                                  - paragraph: Normalement je suis salariée - 3 ans d’expérience dans le développement logiciel, je suis tombée en chômage depuis 1 et demi maintenant, vu que le marché est assez tendu je pense sur la possibilité de switcher et me lancer dans le freelance.
+                                  - paragraph: Est-ce que ça vaut vraiment le coup de tenter ? (Je sais très bien que dans le freelance aussi bien que dans le salariat il peut y avoir des manques de missions .. à chaque statut ses propres risques.
+                                  - paragraph: J’ai vraiment besoin de vos conseils, je suis dans un dilemme avec la fin de mes droits d’allocations dans 2 mois.
+                                  - paragraph: Merci de m’avoir lu!
+                      - generic "Actions available for this post" [ref=e402]:
+                        - generic [ref=e405]:
+                          - button "Upvote" [ref=e406]:
+                            - img [ref=e408]
+                            - generic [ref=e410]:
+                              - generic: Upvote
+                          - generic [ref=e412]: "2"
+                          - button "Downvote" [ref=e413]:
+                            - img [ref=e415]
+                            - generic [ref=e417]:
+                              - generic: Downvote
+                        - link "11 Go to comments" [ref=e418]:
+                          - /url: /r/developpeurs/comments/1ubeddb/quitter_le_salariat_pour_le_freelancing/
+                          - generic [ref=e419]:
+                            - img [ref=e421]
+                            - generic [ref=e424]: "11"
+                          - generic [ref=e425]:
+                            - generic: Go to comments
+                        - button "Give award" [ref=e427]:
+                          - img [ref=e430]
+                        - button "Share" [ref=e435]:
+                          - generic [ref=e436]:
+                            - img [ref=e438]
+                            - generic [ref=e440]: Share
+                  - separator [ref=e441]
+                  - article "Avis et aide 1er programme" [ref=e442]:
+                    - generic [ref=e443] [cursor=pointer]:
+                      - link "Avis et aide 1er programme" [ref=e444]:
+                        - /url: https://www.reddit.com/r/FitnessFrance/comments/1u9yjcp/avis_et_aide_1er_programme/
+                        - generic [ref=e445]:
+                          - generic: Avis et aide 1er programme
+                      - generic [ref=e446]:
+                        - generic [ref=e447]:
+                          - link "r/FitnessFrance" [ref=e450]:
+                            - /url: https://www.reddit.com/r/FitnessFrance/
+                            - generic [ref=e454]: r/FitnessFrance
+                          - generic [ref=e455]: •
+                          - time [ref=e457]: 2 days ago
+                          - generic [ref=e458]: •
+                          - paragraph [ref=e460]: Suggested
+                        - generic [ref=e461]:
+                          - button "Join" [ref=e463]
+                          - button "Open user actions" [ref=e467]:
+                            - img [ref=e470]
+                      - heading "Avis et aide 1er programme" [level=2] [ref=e474]:
+                        - link "Avis et aide 1er programme" [ref=e475]:
+                          - /url: https://www.reddit.com/r/FitnessFrance/comments/1u9yjcp/avis_et_aide_1er_programme/
+                      - img "r/FitnessFrance - Avis et aide 1er programme" [ref=e481]
+                      - generic "Actions available for this post" [ref=e483]:
+                        - generic [ref=e486]:
+                          - button "Upvote" [ref=e487]:
+                            - img [ref=e489]
+                            - generic [ref=e491]:
+                              - generic: Upvote
+                          - generic [ref=e493]: "13"
+                          - button "Downvote" [ref=e494]:
+                            - img [ref=e496]
+                            - generic [ref=e498]:
+                              - generic: Downvote
+                        - link "24 Go to comments" [ref=e499]:
+                          - /url: /r/FitnessFrance/comments/1u9yjcp/avis_et_aide_1er_programme/
+                          - generic [ref=e500]:
+                            - img [ref=e502]
+                            - generic [ref=e505]: "24"
+                          - generic [ref=e506]:
+                            - generic: Go to comments
+                        - button "Give award" [ref=e508]:
+                          - img [ref=e511]
+                        - button "Share" [ref=e516]:
+                          - generic [ref=e517]:
+                            - img [ref=e519]
+                            - generic [ref=e521]: Share
+                  - separator [ref=e522]
+                - img [ref=e528]
+            - generic [ref=e541]:
+              - complementary [ref=e543]:
+                - complementary "Recent Posts" [ref=e545]:
+                  - generic [ref=e546]:
+                    - heading "Recent Posts" [level=3] [ref=e547]
+                    - button "Clear" [ref=e549] [cursor=pointer]
+                  - generic [ref=e551]:
+                    - generic [ref=e553]:
+                      - generic [ref=e555]:
+                        - generic [ref=e558]:
+                          - link "r/SexualiteFR" [ref=e559] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/SexualiteFR/
+                            - generic [ref=e563]: r/SexualiteFR
+                          - generic [ref=e564]: •
+                          - time [ref=e566]: 23h ago
+                        - link "List item post - On veut acheter notre premier sextoy à deux, vous commandez..." [ref=e568] [cursor=pointer]:
+                          - /url: /r/SexualiteFR/comments/1uaroou/on_veut_acheter_notre_premier_sextoy_à_deux_vous/
+                          - heading "List item post - On veut acheter notre premier sextoy à deux, vous commandez..." [level=3] [ref=e571]: On veut acheter notre premier sextoy à deux, vous commandez où pour avoir de la qualité ?
+                      - generic [ref=e573]:
+                        - generic [ref=e574]: "2"
+                        - text: upvotes ·
+                        - generic [ref=e575]: "12"
+                        - text: comments
+                    - separator [ref=e576]
+                    - generic [ref=e578]:
+                      - generic [ref=e580]:
+                        - generic [ref=e583]:
+                          - link "r/sante_bien_etre" [ref=e584] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/sante_bien_etre/
+                            - generic [ref=e588]: r/sante_bien_etre
+                          - generic [ref=e589]: •
+                          - time [ref=e591]: 2mo ago
+                        - link "List item post - Comment bien choisir ses huiles essentielles?" [ref=e593] [cursor=pointer]:
+                          - /url: /r/sante_bien_etre/comments/1slk3wp/comment_bien_choisir_ses_huiles_essentielles/
+                          - heading "List item post - Comment bien choisir ses huiles essentielles?" [level=3] [ref=e596]: Comment bien choisir ses huiles essentielles?
+                      - generic [ref=e598]:
+                        - generic [ref=e599]: "2"
+                        - text: upvotes ·
+                        - generic [ref=e600]: "7"
+                        - text: comments
+                    - separator [ref=e601]
+                    - generic [ref=e603]:
+                      - generic [ref=e605]:
+                        - generic [ref=e608]:
+                          - link "r/voiture" [ref=e609] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/voiture/
+                            - generic [ref=e613]: r/voiture
+                          - generic [ref=e614]: •
+                          - time [ref=e616]: 12d ago
+                        - link "List item post - mercedes occasion" [ref=e618] [cursor=pointer]:
+                          - /url: /r/voiture/comments/1u15x4q/mercedes_occasion/
+                          - heading "List item post - mercedes occasion" [level=3] [ref=e621]: mercedes occasion
+                      - generic [ref=e623]:
+                        - generic [ref=e624]: "1"
+                        - text: upvote ·
+                        - generic [ref=e625]: "10"
+                        - text: comments
+                    - separator [ref=e626]
+                    - generic [ref=e628]:
+                      - generic [ref=e630]:
+                        - generic [ref=e633]:
+                          - link "r/PiercingAdvice" [ref=e634] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/PiercingAdvice/
+                            - img [ref=e638]
+                            - generic [ref=e640]: r/PiercingAdvice
+                          - generic [ref=e641]: •
+                          - time [ref=e643]: 10d ago
+                        - link "List item post - Où acheter un piercing hélix en titane ASTM F136 en France ..." [ref=e645] [cursor=pointer]:
+                          - /url: /r/PiercingAdvice/comments/1u2yck5/où_acheter_un_piercing_hélix_en_titane_astm_f136/
+                          - heading "List item post - Où acheter un piercing hélix en titane ASTM F136 en France ..." [level=3] [ref=e648]: Où acheter un piercing hélix en titane ASTM F136 en France ? (vraiment F136, pas du faux implant grade)
+                      - generic [ref=e650]:
+                        - generic [ref=e651]: "1"
+                        - text: upvote ·
+                        - generic [ref=e652]: "4"
+                        - text: comments
+                    - separator [ref=e653]
+                    - generic [ref=e655]:
+                      - generic [ref=e657]:
+                        - generic [ref=e660]:
+                          - link "r/jardin" [ref=e661] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/jardin/
+                            - generic [ref=e665]: r/jardin
+                          - generic [ref=e666]: •
+                          - time [ref=e668]: 26d ago
+                        - link "List item post - Infestation de tiques dans le jardin" [ref=e670] [cursor=pointer]:
+                          - /url: /r/jardin/comments/1to24s1/infestation_de_tiques_dans_le_jardin/
+                          - heading "List item post - Infestation de tiques dans le jardin" [level=3] [ref=e673]: Infestation de tiques dans le jardin
+                      - generic [ref=e675]:
+                        - generic [ref=e676]: "3"
+                        - text: upvotes ·
+                        - generic [ref=e677]: "34"
+                        - text: comments
+                    - separator [ref=e678]
+                    - generic [ref=e680]:
+                      - generic [ref=e682]:
+                        - generic [ref=e685]:
+                          - link "r/AskFrance" [ref=e686] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/AskFrance/
+                            - generic [ref=e690]: r/AskFrance
+                          - generic [ref=e691]: •
+                          - time [ref=e693]: 24d ago
+                        - link "List item post - Anniversaire de ma copine, je veux lui offrir une carte cad..." [ref=e695] [cursor=pointer]:
+                          - /url: /r/AskFrance/comments/1tpz507/anniversaire_de_ma_copine_je_veux_lui_offrir_une/
+                          - heading "List item post - Anniversaire de ma copine, je veux lui offrir une carte cad..." [level=3] [ref=e698]: Anniversaire de ma copine, je veux lui offrir une carte cadeau spa en duo, vous achetez où ?
+                      - generic [ref=e700]:
+                        - generic [ref=e701]: "3"
+                        - text: upvotes ·
+                        - generic [ref=e702]: "9"
+                        - text: comments
+                    - separator [ref=e703]
+                    - generic [ref=e705]:
+                      - generic [ref=e707]:
+                        - generic [ref=e710]:
+                          - link "r/AskFrance" [ref=e711] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/AskFrance/
+                            - generic [ref=e715]: r/AskFrance
+                          - generic [ref=e716]: •
+                          - time [ref=e718]: 16d ago
+                        - link "List item post - Quel site pour offrir une carte cadeau bien-être un peu qua..." [ref=e720] [cursor=pointer]:
+                          - /url: /r/AskFrance/comments/1txp156/quel_site_pour_offrir_une_carte_cadeau_bienêtre/
+                          - heading "List item post - Quel site pour offrir une carte cadeau bien-être un peu qua..." [level=3] [ref=e723]: Quel site pour offrir une carte cadeau bien-être un peu qualitative ?
+                      - generic [ref=e725]:
+                        - generic [ref=e726]: "3"
+                        - text: upvotes ·
+                        - generic [ref=e727]: "7"
+                        - text: comments
+                    - separator [ref=e728]
+                    - generic [ref=e730]:
+                      - generic [ref=e732]:
+                        - generic [ref=e735]:
+                          - link "r/EuroEV" [ref=e736] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/EuroEV/
+                            - generic [ref=e740]: r/EuroEV
+                          - generic [ref=e741]: •
+                          - time [ref=e743]: 5mo ago
+                        - 'link "List item post - Supertest Mercedes CLA (Part 1): Here are the real fuel con..." [ref=e745] [cursor=pointer]':
+                          - /url: /r/EuroEV/comments/1qa6c5l/supertest_mercedes_cla_part_1_here_are_the_real/
+                          - 'heading "List item post - Supertest Mercedes CLA (Part 1): Here are the real fuel con..." [level=3] [ref=e748]': "Supertest Mercedes CLA (Part 1): Here are the real fuel consumption and range figures for the 2026 Car of the Year | automobile-propre"
+                      - generic [ref=e750]:
+                        - generic [ref=e751]: "32"
+                        - text: upvotes ·
+                        - generic [ref=e752]: "25"
+                        - text: comments
+                    - separator [ref=e753]
+                    - generic [ref=e755]:
+                      - generic [ref=e757]:
+                        - generic [ref=e760]:
+                          - link "r/Motardie" [ref=e761] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/Motardie/
+                            - generic [ref=e765]: r/Motardie
+                          - generic [ref=e766]: •
+                          - time [ref=e768]: 7mo ago
+                        - link "List item post - Assurance nouveau motard" [ref=e770] [cursor=pointer]:
+                          - /url: /r/Motardie/comments/1oyvzai/assurance_nouveau_motard/
+                          - heading "List item post - Assurance nouveau motard" [level=3] [ref=e773]: Assurance nouveau motard
+                      - generic [ref=e775]:
+                        - generic [ref=e776]: "1"
+                        - text: upvote ·
+                        - generic [ref=e777]: "16"
+                        - text: comments
+                    - separator [ref=e778]
+                    - generic [ref=e780]:
+                      - generic [ref=e782]:
+                        - generic [ref=e785]:
+                          - link "r/Motardie" [ref=e786] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/Motardie/
+                            - generic [ref=e790]: r/Motardie
+                          - generic [ref=e791]: •
+                          - time [ref=e793]: 5mo ago
+                        - link "List item post - Question assurance moto" [ref=e795] [cursor=pointer]:
+                          - /url: /r/Motardie/comments/1qbq7we/question_assurance_moto/
+                          - heading "List item post - Question assurance moto" [level=3] [ref=e798]: Question assurance moto
+                      - generic [ref=e800]:
+                        - generic [ref=e801]: "2"
+                        - text: upvotes ·
+                        - generic [ref=e802]: "12"
+                        - text: comments
+              - list [ref=e804]:
+                - listitem [ref=e805]:
+                  - link "Reddit Rules" [ref=e807] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                - listitem [ref=e808]:
+                  - link "Privacy Policy" [ref=e810] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                - listitem [ref=e811]:
+                  - link "User Agreement" [ref=e813] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                - listitem [ref=e814]:
+                  - link "Accessibility" [ref=e816] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - listitem [ref=e817]:
+                  - link "Reddit, Inc. © 2026. All rights reserved." [ref=e818] [cursor=pointer]:
+                    - /url: https://redditinc.com
+        - generic [ref=e820]:
+          - button "Collapse Navigation" [ref=e823] [cursor=pointer]:
+            - img [ref=e826]
+            - generic [ref=e828]:
+              - generic: Collapse Navigation
+          - navigation "Primary" [ref=e833]:
+            - generic [ref=e835]:
+              - link "Home" [ref=e837] [cursor=pointer]:
+                - /url: https://www.reddit.com/?feed=home
+                - generic [ref=e838]:
+                  - img [ref=e840]
+                  - generic [ref=e843]: Home
+              - link "Popular" [ref=e845] [cursor=pointer]:
+                - /url: https://www.reddit.com/r/popular/
+                - generic [ref=e846]:
+                  - img [ref=e848]
+                  - generic [ref=e851]: Popular
+              - link "News" [ref=e852] [cursor=pointer]:
+                - /url: https://www.reddit.com/news/
+                - generic [ref=e853]:
+                  - img [ref=e855]
+                  - generic [ref=e859]: News
+              - link "Explore" [ref=e861] [cursor=pointer]:
+                - /url: https://www.reddit.com/explore/
+                - generic [ref=e862]:
+                  - img [ref=e864]
+                  - generic [ref=e867]: Explore
+              - button "Start a community" [ref=e868] [cursor=pointer]:
+                - generic [ref=e869]:
+                  - img [ref=e871]
+                  - generic [ref=e874]: Start a community
+            - separator [ref=e875]
+            - group [ref=e879]:
+              - generic "GAMES ON REDDIT" [ref=e880] [cursor=pointer]:
+                - generic [ref=e881]:
+                  - generic [ref=e886]:
+                    - generic: GAMES ON REDDIT
+                  - img [ref=e889]
+              - generic [ref=e892]:
+                - link "Featured Game" [ref=e896] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/BubbleShooterPro/comments/1ubct0w?entry_point=games_drawer_featured_game
+                  - generic [ref=e898]:
+                    - generic [ref=e902]:
+                      - heading "Bubble Shooter Pro" [level=3] [ref=e903]
+                      - paragraph [ref=e904]: Pop Bubbles!!
+                      - paragraph [ref=e905]:
+                        - generic [ref=e906]: 145K
+                        - text: monthly players
+                    - generic [ref=e908]:
+                      - generic: NEW
+                - generic [ref=e910]:
+                  - link "Bonkyard" [ref=e912] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/Bonkyard/comments/1ub4u76?entry_point=games_drawer_personalized_game
+                    - generic [ref=e913]:
+                      - img [ref=e918]
+                      - generic [ref=e922]: Bonkyard
+                  - link "Vowel Play" [ref=e924] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/VowelPlay/comments/1uauulf?entry_point=games_drawer_personalized_game
+                    - generic [ref=e925]:
+                      - img [ref=e930]
+                      - generic [ref=e934]: Vowel Play
+                  - link "Arrows Puzzle" [ref=e936] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/arrowspuzzle/comments/1ub7inv?entry_point=games_drawer_personalized_game
+                    - generic [ref=e937]:
+                      - img [ref=e942]
+                      - generic [ref=e946]: Arrows Puzzle
+                - link "Discover More" [ref=e948] [cursor=pointer]:
+                  - /url: /r/GamesOnReddit
+                  - generic [ref=e949]:
+                    - img [ref=e951]
+                    - generic [ref=e955]: Discover More
+            - separator [ref=e956]
+            - group [ref=e958]:
+              - generic "CUSTOM FEEDS" [ref=e959] [cursor=pointer]:
+                - generic [ref=e961]:
+                  - generic [ref=e964]: CUSTOM FEEDS
+                  - img [ref=e967]
+              - button "Create Custom Feed" [ref=e973] [cursor=pointer]:
+                - generic [ref=e974]:
+                  - img [ref=e976]
+                  - generic [ref=e979]: Create Custom Feed
+            - separator [ref=e980]
+            - group [ref=e983]:
+              - generic "RECENT" [ref=e984] [cursor=pointer]:
+                - generic [ref=e985]:
+                  - generic [ref=e988]: RECENT
+                  - img [ref=e991]
+              - generic [ref=e994]:
+                - link "r/sante_bien_etre" [ref=e995] [cursor=pointer]:
+                  - /url: /r/sante_bien_etre/
+                  - generic [ref=e996]:
+                    - img [ref=e1001]
+                    - generic [ref=e1004]: r/sante_bien_etre
+                - link "r/france" [ref=e1005] [cursor=pointer]:
+                  - /url: /r/france/
+                  - generic [ref=e1006]:
+                    - img [ref=e1011]
+                    - generic [ref=e1014]: r/france
+                - link "r/askparis" [ref=e1015] [cursor=pointer]:
+                  - /url: /r/askparis/
+                  - generic [ref=e1016]:
+                    - img [ref=e1021]
+                    - generic [ref=e1024]: r/askparis
+                - link "r/paris" [ref=e1025] [cursor=pointer]:
+                  - /url: /r/paris/
+                  - generic [ref=e1026]:
+                    - img [ref=e1031]
+                    - generic [ref=e1034]: r/paris
+                - link "r/voiture" [ref=e1035] [cursor=pointer]:
+                  - /url: /r/voiture/
+                  - generic [ref=e1036]:
+                    - img [ref=e1041]
+                    - generic [ref=e1044]: r/voiture
+            - group [ref=e1046]:
+              - generic "COMMUNITIES" [ref=e1047] [cursor=pointer]:
+                - generic [ref=e1049]:
+                  - generic [ref=e1052]: COMMUNITIES
+                  - img [ref=e1055]
+              - generic [ref=e1058]:
+                - link "Manage Communities" [ref=e1059] [cursor=pointer]:
+                  - /url: /user/PrettyAmbassador7652/communities
+                  - generic [ref=e1060]:
+                    - img [ref=e1062]
+                    - generic [ref=e1065]: Manage Communities
+                - generic [ref=e1067]:
+                  - link "r/developpeurs" [ref=e1069] [cursor=pointer]:
+                    - /url: /r/developpeurs/
+                    - generic [ref=e1070]:
+                      - img [ref=e1075]
+                      - generic [ref=e1078]: r/developpeurs
+                    - button "Add community to favorites" [ref=e1081]:
+                      - img [ref=e1084]
+                  - link "r/SEO" [ref=e1087] [cursor=pointer]:
+                    - /url: /r/SEO/
+                    - generic [ref=e1088]:
+                      - img [ref=e1093]
+                      - generic [ref=e1096]: r/SEO
+                    - button "Add community to favorites" [ref=e1099]:
+                      - img [ref=e1102]
+            - separator [ref=e1104]
+            - navigation "Reddit resources" [ref=e1105]:
+              - group [ref=e1107]:
+                - generic "RESOURCES" [ref=e1108] [cursor=pointer]:
+                  - generic [ref=e1110]:
+                    - generic [ref=e1113]: RESOURCES
+                    - img [ref=e1116]
+                - generic [ref=e1119]:
+                  - link "About Reddit" [ref=e1121] [cursor=pointer]:
+                    - /url: https://www.redditinc.com
+                    - generic [ref=e1122]:
+                      - img [ref=e1124]
+                      - generic [ref=e1128]: About Reddit
+                  - link "Advertise" [ref=e1130] [cursor=pointer]:
+                    - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=left_nav_cta
+                    - generic [ref=e1131]:
+                      - img [ref=e1133]
+                      - generic [ref=e1137]: Advertise
+                  - link "Developer Platform" [ref=e1139] [cursor=pointer]:
+                    - /url: https://developers.reddit.com/?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e1140]:
+                      - img [ref=e1142]
+                      - generic [ref=e1146]: Developer Platform
+                  - link "Reddit Pro BETA" [ref=e1148] [cursor=pointer]:
+                    - /url: /reddit-pro?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e1149]:
+                      - img [ref=e1151]
+                      - generic [ref=e1155]:
+                        - generic [ref=e1156]: Reddit Pro
+                        - generic [ref=e1157]: BETA
+                  - link "Help" [ref=e1159] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc?utm_source=reddit&utm_medium=footer&utm_campaign=evergreen
+                    - generic [ref=e1160]:
+                      - img [ref=e1162]
+                      - generic [ref=e1166]: Help
+                  - link "Blog" [ref=e1168] [cursor=pointer]:
+                    - /url: https://redditblog.com/
+                    - generic [ref=e1169]:
+                      - img [ref=e1171]
+                      - generic [ref=e1175]: Blog
+                  - link "Careers" [ref=e1177] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/careers
+                    - generic [ref=e1178]:
+                      - img [ref=e1180]
+                      - generic [ref=e1184]: Careers
+                  - link "Press" [ref=e1186] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/press
+                    - generic [ref=e1187]:
+                      - img [ref=e1189]
+                      - generic [ref=e1193]: Press
+                  - separator [ref=e1194]
+                  - link "Best of Reddit" [ref=e1196] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/global/
+                    - generic [ref=e1197]:
+                      - img [ref=e1199]
+                      - generic [ref=e1204]: Best of Reddit
+                  - link "Best of Reddit in Portuguese" [ref=e1206] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/tl-pt-BR/
+                    - generic [ref=e1207]:
+                      - img [ref=e1209]
+                      - generic [ref=e1213]: Best of Reddit in Portuguese
+                  - link "Best of Reddit in German" [ref=e1215] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/tl-de/
+                    - generic [ref=e1216]:
+                      - img [ref=e1218]
+                      - generic [ref=e1222]: Best of Reddit in German
+                  - separator [ref=e1223]
+                  - link "Reddit Rules" [ref=e1225] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                    - generic [ref=e1226]:
+                      - img [ref=e1228]
+                      - generic [ref=e1232]: Reddit Rules
+                  - link "Privacy Policy" [ref=e1234] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                    - generic [ref=e1235]:
+                      - img [ref=e1237]
+                      - generic [ref=e1241]: Privacy Policy
+                  - link "User Agreement" [ref=e1243] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                    - generic [ref=e1244]:
+                      - img [ref=e1246]
+                      - generic [ref=e1250]: User Agreement
+                  - link "Accessibility" [ref=e1252] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                    - generic [ref=e1253]:
+                      - img [ref=e1255]
+                      - generic [ref=e1260]: Accessibility
+            - link "Reddit, Inc. © 2026. All rights reserved." [ref=e1262] [cursor=pointer]:
+              - /url: https://redditinc.com

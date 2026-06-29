@@ -1,0 +1,709 @@
+- generic [active] [ref=e1]:
+  - link "Accéder au contenu principal" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Accéder au contenu principal
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: Reddit - Le cœur d’Internet
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - link "Accueil" [ref=e15] [cursor=pointer]:
+            - /url: https://www.reddit.com/
+            - img [ref=e17]
+          - search [ref=e34]:
+            - generic [ref=e36]:
+              - img [ref=e38]
+              - textbox "Demander" [ref=e59]:
+                - /placeholder: Trouve tout et n’importe quoi
+              - separator [ref=e60]
+              - link "Demander" [ref=e64] [cursor=pointer]:
+                - /url: /answers/
+                - generic [ref=e65]:
+                  - img [ref=e67]
+                  - generic [ref=e69]: Demander
+              - generic: Trouve tout et n’importe quoi
+          - generic [ref=e70]:
+            - generic [ref=e71]:
+              - button "Traductions activées" [ref=e79] [cursor=pointer]:
+                - img [ref=e82]
+              - link "Faire de la publicité sur reddit" [ref=e89] [cursor=pointer]:
+                - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=nav_cta
+                - img [ref=e92]
+                - generic [ref=e94]:
+                  - generic: Faire de la publicité sur reddit
+              - button "Ouvrir la discussion" [ref=e100] [cursor=pointer]:
+                - img [ref=e103]
+                - generic [ref=e105]:
+                  - generic: Ouvrir la discussion
+              - link "Créer une publication" [ref=e110] [cursor=pointer]:
+                - /url: /submit
+                - generic [ref=e111]:
+                  - img [ref=e113]
+                  - generic [ref=e115]: Créer
+                - generic [ref=e116]:
+                  - generic: Créer une publication
+              - generic [ref=e118]:
+                - link "Ouvrir la boîte de réception" [ref=e121] [cursor=pointer]:
+                  - /url: /notifications
+                  - img [ref=e124]
+                  - generic [ref=e126]:
+                    - generic: Ouvrir la boîte de réception
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: "51"
+            - button "Avatar de membre Agrandir le menu" [ref=e131] [cursor=pointer]:
+              - img "Avatar de membre" [ref=e139]
+              - generic [ref=e141]:
+                - generic: Agrandir le menu
+      - generic [ref=e142]:
+        - generic [ref=e143]:
+          - generic [ref=e144]:
+            - generic:
+              - generic:
+                - link "Skip to Navigation" [ref=e145] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e146] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e147]:
+            - main [ref=e148]:
+              - generic "Reddit - Le cœur d’Internet"
+              - generic [ref=e151]:
+                - generic "Trier par" [ref=e155]:
+                  - 'button "Trier par: Meilleurs" [ref=e157] [cursor=pointer]':
+                    - generic [ref=e159]: Meilleurs
+                - generic "Vue" [ref=e165]:
+                  - 'button "Afficher : Carte" [ref=e167] [cursor=pointer]'
+              - separator [ref=e173]
+              - generic [ref=e175]:
+                - heading "Flux" [level=1] [ref=e177]
+                - generic:
+                  - article "I Built My Landscape Architecture Graduation Project in Minecraft (And Passed! :D)" [ref=e178]:
+                    - generic [ref=e179] [cursor=pointer]:
+                      - link "I Built My Landscape Architecture Graduation Project in Minecraft (And Passed! :D)" [ref=e180]:
+                        - /url: https://www.reddit.com/r/Minecraft/comments/1uawrbr/i_built_my_landscape_architecture_graduation/
+                        - generic [ref=e181]:
+                          - generic: I Built My Landscape Architecture Graduation Project in Minecraft (And Passed! :D)
+                      - generic [ref=e182]:
+                        - generic [ref=e183]:
+                          - generic [ref=e184]:
+                            - link "r/Minecraft" [ref=e186]:
+                              - /url: https://www.reddit.com/r/Minecraft/
+                              - generic [ref=e190]: r/Minecraft
+                            - 'button "Statut de la communauté : Chaos^3!" [ref=e192]':
+                              - img "sulfur_cube" [ref=e193]
+                          - generic [ref=e194]: •
+                          - time [ref=e196]: il y a 18 h
+                        - button "Ouvrir les actions de membre" [ref=e200]:
+                          - img [ref=e203]
+                      - heading "I Built My Landscape Architecture Graduation Project in Minecraft (And Passed! :D)" [level=2] [ref=e207]:
+                        - link "I Built My Landscape Architecture Graduation Project in Minecraft (And Passed! :D)" [ref=e208]:
+                          - /url: https://www.reddit.com/r/Minecraft/comments/1uawrbr/i_built_my_landscape_architecture_graduation/
+                      - generic [ref=e213]:
+                        - generic [ref=e215]:
+                          - generic [ref=e216]:
+                            - generic [ref=e218]:
+                              - button "Page précédente" [disabled]:
+                                - generic:
+                                  - generic:
+                                    - img
+                            - list [ref=e219]:
+                              - listitem [ref=e220]:
+                                - figure [ref=e221]:
+                                  - img "r/Minecraft - I Built My Landscape Architecture Graduation Project in Minecraft (And Passed! :D)" [ref=e222]
+                            - button "Page suivante" [ref=e225]:
+                              - img [ref=e228]
+                          - group [ref=e234]:
+                            - button "Page 1 (Page actuelle)" [ref=e236]:
+                              - generic [ref=e237]:
+                                - generic: Page 1 (Page actuelle)
+                            - button "Page 2" [ref=e238]:
+                              - generic [ref=e239]:
+                                - generic: Page 2
+                            - button [ref=e240]
+                            - button [ref=e242]
+                            - button [ref=e244]
+                            - button [ref=e246]
+                            - button [ref=e248]
+                            - button [ref=e250]
+                            - button [ref=e252]
+                            - button [ref=e254]
+                            - button [ref=e256]
+                            - button [ref=e258]
+                            - button [ref=e260]
+                            - button [ref=e262]
+                            - button [ref=e264]
+                            - button [ref=e266]
+                            - button [ref=e268]
+                            - button [ref=e270]
+                            - button [ref=e272]
+                            - button [ref=e274]
+                        - generic [ref=e276]:
+                          - generic: Élément 1 sur 20
+                      - generic "Actions disponibles pour cette publication" [ref=e278]:
+                        - generic [ref=e281]:
+                          - button "Upvote" [ref=e282]:
+                            - img [ref=e284]
+                            - generic [ref=e286]:
+                              - generic: Upvote
+                          - generic [ref=e288]: 6,8 k
+                          - button "Downvote" [ref=e289]:
+                            - img [ref=e291]
+                            - generic [ref=e293]:
+                              - generic: Downvote
+                        - link "83 Accéder aux commentaires" [ref=e294]:
+                          - /url: /r/Minecraft/comments/1uawrbr/i_built_my_landscape_architecture_graduation/
+                          - generic [ref=e295]:
+                            - img [ref=e297]
+                            - generic [ref=e300]: "83"
+                          - generic [ref=e301]:
+                            - generic: Accéder aux commentaires
+                        - button "Décerner une récompense, 7 récompenses décernées" [ref=e303]:
+                          - generic [ref=e308]: "7"
+                        - button "Partager" [ref=e312]:
+                          - generic [ref=e313]:
+                            - img [ref=e315]
+                            - generic [ref=e317]: Partager
+                  - separator [ref=e318]
+                  - generic [ref=e319]:
+                    - 'generic "Advertisement: Business owners looking for communities of like-minded decision-makers turn to Reddit. Reddit offers the research they need to explore solutions and make considerations—which lead to choosing brands like yours." [ref=e320]':
+                      - 'link "Advertisement: Business owners looking for communities of like-minded decision-makers turn to Reddit. Reddit offers the research they need to explore solutions and make considerations—which lead to choosing brands like yours." [ref=e321] [cursor=pointer]':
+                        - /url: https://alb.reddit.com/cr?za=AKY19jWUcRMlkTAIyj8v5OdSmkpFrgZTP9asrCyhWFIsHqo7RXEffHLtEkyUMnopa0XxNxnZGJ64ED2ZEX32R4fT1ebDHdZVQRVizsaT8_Fu3U63RC6J4zBr93m2oCXJXr1WjUMX0IpOQm6zwmr_IpFR1h3z9aoSznbA9yzBdoTExOVMzowUHYRS4A_PXrChEknpSi8kEgZhOhp6TfkWbDSXaNu2qGQtls0zb8tPgFkL3TvKH2WpDWaNUcXX0VJ9Sumi7Qz4H12Be7StEw5tGgKKsN3D9mo_evfxtGC43NDLPzfCgnS3kRR-amIDfzEh9zAyxZ2pLSilooIbOBHatSZ5cSL08zRjWB3mC_fU1x-oFA3P8HHdO5ISA51pV_7fU3U3fMmRzrtxgt1prgK2LuAEShwfPhXrjaGbwJiJmVEJtOXaS4OXXFx2Sd5Jl32iCBrgvpd1z-rf6_9Lbu9152EiM1F7Dlb2l06KXyIgB6MSyDR6gXC7IelWwV_f-02ATfRy9esgnyFxJEvxEaZnFB-NIdVFdWGwCugSidkzZ07dxm1O065v1Kpyn69ce4BV7on_xukM4F4V1PXT-exIDiFtilKFRWkc1603J2b4t2Wy0p9OOpKUh1e2duYhh7Q7kqvNeGhTUO00qpJsxzFPG7ujv66oukZAl4V8GT4m_7IxFWUu2ihCX7M7K4uDSN3ZctfJ1cnJUEumon89kSMwKiEwSazBb45vr58tIxRQ&zp=fKdStc__Vsr0oW0YeUj_kv2K_pGsJIQQ625BZqITHs29MExEg1JqeDzzb2Wl2CkZeGCZoVHPZ1aq9T4561KxtXMjk9pqFFiv-PFzqclO_-LbC4Z2roLcI5Z1VxcYCGLGkK8tKTcBbMoYcayx84XAfvvJLZ77aj8juH063450AhJwld-loDg8n8Pcl5y0oaK2jGqyqWQ--xvDeEh-x_hfuOy_1qVKJFyL_G3qu7PCXYXxqKHQBc5cOwL-Ufh1fI532rhjEoRPhNyvl4w8ZhY1cxI52xAbINU98ZeCpb2184_Tfev4bRofqmgRWlXQMd_Yz2GhXwX0Sj46wM-6t91H_f1BXo3HHMY8xhQqySj9kHGhHAH1i703CK3WnxFQXX5z-eRWX3-9kgUE6Sr1db1N3mq3YPZ6wi5qARBBf7Y9Qn3emjvbXQWcZEtKYW5IRXMCPFFnzebxpx4ZFuJO4iv1xGf0HtMpaGZ4NhRYQfSxV-6FAqcjlqiI39kIfehuNFwL4zT_qDgs9LaP
+                    - generic [ref=e322]:
+                      - generic [ref=e323]:
+                        - link "avatar u/RedditforBusiness u/RedditforBusiness" [ref=e326] [cursor=pointer]:
+                          - /url: /user/RedditforBusiness/
+                          - img "avatar u/RedditforBusiness" [ref=e329]
+                          - generic [ref=e330]: u/RedditforBusiness
+                        - generic [ref=e331]: •
+                        - link "Sponsorisé(e)" [ref=e333] [cursor=pointer]:
+                          - /url: /user/RedditforBusiness/
+                          - generic [ref=e334]: Sponsorisé(e)
+                        - link [ref=e336] [cursor=pointer]:
+                          - /url: https://alb.reddit.com/cr?za=AKY19jWUcRMlkTAIyj8v5OdSmkpFrgZTP9asrCyhWFIsHqo7RXEffHLtEkyUMnopa0XxNxnZGJ64ED2ZEX32R4fT1ebDHdZVQRVizsaT8_Fu3U63RC6J4zBr93m2oCXJXr1WjUMX0IpOQm6zwmr_IpFR1h3z9aoSznbA9yzBdoTExOVMzowUHYRS4A_PXrChEknpSi8kEgZhOhp6TfkWbDSXaNu2qGQtls0zb8tPgFkL3TvKH2WpDWaNUcXX0VJ9Sumi7Qz4H12Be7StEw5tGgKKsN3D9mo_evfxtGC43NDLPzfCgnS3kRR-amIDfzEh9zAyxZ2pLSilooIbOBHatSZ5cSL08zRjWB3mC_fU1x-oFA3P8HHdO5ISA51pV_7fU3U3fMmRzrtxgt1prgK2LuAEShwfPhXrjaGbwJiJmVEJtOXaS4OXXFx2Sd5Jl32iCBrgvpd1z-rf6_9Lbu9152EiM1F7Dlb2l06KXyIgB6MSyDR6gXC7IelWwV_f-02ATfRy9esgnyFxJEvxEaZnFB-NIdVFdWGwCugSidkzZ07dxm1O065v1Kpyn69ce4BV7on_xukM4F4V1PXT-exIDiFtilKFRWkc1603J2b4t2Wy0p9OOpKUh1e2duYhh7Q7kqvNeGhTUO00qpJsxzFPG7ujv66oukZAl4V8GT4m_7IxFWUu2ihCX7M7K4uDSN3ZctfJ1cnJUEumon89kSMwKiEwSazBb45vr58tIxRQ&zp=fKdStc__Vsr0oW0YeUj_kv2K_pGsJIQQ625BZqITHs29MExEg1JqeDzzb2Wl2CkZeGCZoVHPZ1aq9T4561KxtXMjk9pqFFiv-PFzqclO_-LbC4Z2roLcI5Z1VxcYCGLGkK8tKTcBbMoYcayx84XAfvvJLZ77aj8juH063450AhJwld-loDg8n8Pcl5y0oaK2jGqyqWQ--xvDeEh-x_hfuOy_1qVKJFyL_G3qu7PCXYXxqKHQBc5cOwL-Ufh1fI532rhjEoRPhNyvl4w8ZhY1cxI52xAbINU98ZeCpb2184_Tfev4bRofqmgRWlXQMd_Yz2GhXwX0Sj46wM-6t91H_f1BXo3HHMY8xhQqySj9kHGhHAH1i703CK3WnxFQXX5z-eRWX3-9kgUE6Sr1db1N3mq3YPZ6wi5qARBBf7Y9Qn3emjvbXQWcZEtKYW5IRXMCPFFnzebxpx4ZFuJO4iv1xGf0HtMpaGZ4NhRYQfSxV-6FAqcjlqiI39kIfehuNFwL4zT_qDgs9LaP
+                      - button "Ouvrir les actions de membre" [ref=e340] [cursor=pointer]:
+                        - img [ref=e343]
+                    - heading "Business owners looking for communities of like-minded decision-makers turn to Reddit. Reddit offers the research they need to explore solutions and make considerations—which lead to choosing brands like yours." [level=2] [ref=e347]:
+                      - link "Business owners looking for communities of like-minded decision-makers turn to Reddit. Reddit offers the research they need to explore solutions and make considerations—which lead to choosing brands like yours." [ref=e350] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=AKY19jWUcRMlkTAIyj8v5OdSmkpFrgZTP9asrCyhWFIsHqo7RXEffHLtEkyUMnopa0XxNxnZGJ64ED2ZEX32R4fT1ebDHdZVQRVizsaT8_Fu3U63RC6J4zBr93m2oCXJXr1WjUMX0IpOQm6zwmr_IpFR1h3z9aoSznbA9yzBdoTExOVMzowUHYRS4A_PXrChEknpSi8kEgZhOhp6TfkWbDSXaNu2qGQtls0zb8tPgFkL3TvKH2WpDWaNUcXX0VJ9Sumi7Qz4H12Be7StEw5tGgKKsN3D9mo_evfxtGC43NDLPzfCgnS3kRR-amIDfzEh9zAyxZ2pLSilooIbOBHatSZ5cSL08zRjWB3mC_fU1x-oFA3P8HHdO5ISA51pV_7fU3U3fMmRzrtxgt1prgK2LuAEShwfPhXrjaGbwJiJmVEJtOXaS4OXXFx2Sd5Jl32iCBrgvpd1z-rf6_9Lbu9152EiM1F7Dlb2l06KXyIgB6MSyDR6gXC7IelWwV_f-02ATfRy9esgnyFxJEvxEaZnFB-NIdVFdWGwCugSidkzZ07dxm1O065v1Kpyn69ce4BV7on_xukM4F4V1PXT-exIDiFtilKFRWkc1603J2b4t2Wy0p9OOpKUh1e2duYhh7Q7kqvNeGhTUO00qpJsxzFPG7ujv66oukZAl4V8GT4m_7IxFWUu2ihCX7M7K4uDSN3ZctfJ1cnJUEumon89kSMwKiEwSazBb45vr58tIxRQ&zp=fKdStc__Vsr0oW0YeUj_kv2K_pGsJIQQ625BZqITHs29MExEg1JqeDzzb2Wl2CkZeGCZoVHPZ1aq9T4561KxtXMjk9pqFFiv-PFzqclO_-LbC4Z2roLcI5Z1VxcYCGLGkK8tKTcBbMoYcayx84XAfvvJLZ77aj8juH063450AhJwld-loDg8n8Pcl5y0oaK2jGqyqWQ--xvDeEh-x_hfuOy_1qVKJFyL_G3qu7PCXYXxqKHQBc5cOwL-Ufh1fI532rhjEoRPhNyvl4w8ZhY1cxI52xAbINU98ZeCpb2184_Tfev4bRofqmgRWlXQMd_Yz2GhXwX0Sj46wM-6t91H_f1BXo3HHMY8xhQqySj9kHGhHAH1i703CK3WnxFQXX5z-eRWX3-9kgUE6Sr1db1N3mq3YPZ6wi5qARBBf7Y9Qn3emjvbXQWcZEtKYW5IRXMCPFFnzebxpx4ZFuJO4iv1xGf0HtMpaGZ4NhRYQfSxV-6FAqcjlqiI39kIfehuNFwL4zT_qDgs9LaP
+                        - generic: Business owners looking for communities of like-minded decision-makers turn to Reddit. Reddit offers the research they need to explore solutions and make considerations—which lead to choosing brands like yours.
+                    - generic [ref=e351]:
+                      - link "Business owners looking for communities of like-minded decision-makers turn to Reddit. Reddit offers the research they need to explore solutions and make considerations—which lead to choosing brands like yours." [ref=e355] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=AKY19jWUcRMlkTAIyj8v5OdSmkpFrgZTP9asrCyhWFIsHqo7RXEffHLtEkyUMnopa0XxNxnZGJ64ED2ZEX32R4fT1ebDHdZVQRVizsaT8_Fu3U63RC6J4zBr93m2oCXJXr1WjUMX0IpOQm6zwmr_IpFR1h3z9aoSznbA9yzBdoTExOVMzowUHYRS4A_PXrChEknpSi8kEgZhOhp6TfkWbDSXaNu2qGQtls0zb8tPgFkL3TvKH2WpDWaNUcXX0VJ9Sumi7Qz4H12Be7StEw5tGgKKsN3D9mo_evfxtGC43NDLPzfCgnS3kRR-amIDfzEh9zAyxZ2pLSilooIbOBHatSZ5cSL08zRjWB3mC_fU1x-oFA3P8HHdO5ISA51pV_7fU3U3fMmRzrtxgt1prgK2LuAEShwfPhXrjaGbwJiJmVEJtOXaS4OXXFx2Sd5Jl32iCBrgvpd1z-rf6_9Lbu9152EiM1F7Dlb2l06KXyIgB6MSyDR6gXC7IelWwV_f-02ATfRy9esgnyFxJEvxEaZnFB-NIdVFdWGwCugSidkzZ07dxm1O065v1Kpyn69ce4BV7on_xukM4F4V1PXT-exIDiFtilKFRWkc1603J2b4t2Wy0p9OOpKUh1e2duYhh7Q7kqvNeGhTUO00qpJsxzFPG7ujv66oukZAl4V8GT4m_7IxFWUu2ihCX7M7K4uDSN3ZctfJ1cnJUEumon89kSMwKiEwSazBb45vr58tIxRQ&zp=fKdStc__Vsr0oW0YeUj_kv2K_pGsJIQQ625BZqITHs29MExEg1JqeDzzb2Wl2CkZeGCZoVHPZ1aq9T4561KxtXMjk9pqFFiv-PFzqclO_-LbC4Z2roLcI5Z1VxcYCGLGkK8tKTcBbMoYcayx84XAfvvJLZ77aj8juH063450AhJwld-loDg8n8Pcl5y0oaK2jGqyqWQ--xvDeEh-x_hfuOy_1qVKJFyL_G3qu7PCXYXxqKHQBc5cOwL-Ufh1fI532rhjEoRPhNyvl4w8ZhY1cxI52xAbINU98ZeCpb2184_Tfev4bRofqmgRWlXQMd_Yz2GhXwX0Sj46wM-6t91H_f1BXo3HHMY8xhQqySj9kHGhHAH1i703CK3WnxFQXX5z-eRWX3-9kgUE6Sr1db1N3mq3YPZ6wi5qARBBf7Y9Qn3emjvbXQWcZEtKYW5IRXMCPFFnzebxpx4ZFuJO4iv1xGf0HtMpaGZ4NhRYQfSxV-6FAqcjlqiI39kIfehuNFwL4zT_qDgs9LaP
+                        - img "Business owners looking for communities of like-minded decision-makers turn to Reddit. Reddit offers the research they need to explore solutions and make considerations—which lead to choosing brands like yours." [ref=e357]
+                      - separator [ref=e358]
+                      - generic [ref=e359]:
+                        - link [ref=e361] [cursor=pointer]:
+                          - /url: https://alb.reddit.com/cr?za=AKY19jWUcRMlkTAIyj8v5OdSmkpFrgZTP9asrCyhWFIsHqo7RXEffHLtEkyUMnopa0XxNxnZGJ64ED2ZEX32R4fT1ebDHdZVQRVizsaT8_Fu3U63RC6J4zBr93m2oCXJXr1WjUMX0IpOQm6zwmr_IpFR1h3z9aoSznbA9yzBdoTExOVMzowUHYRS4A_PXrChEknpSi8kEgZhOhp6TfkWbDSXaNu2qGQtls0zb8tPgFkL3TvKH2WpDWaNUcXX0VJ9Sumi7Qz4H12Be7StEw5tGgKKsN3D9mo_evfxtGC43NDLPzfCgnS3kRR-amIDfzEh9zAyxZ2pLSilooIbOBHatSZ5cSL08zRjWB3mC_fU1x-oFA3P8HHdO5ISA51pV_7fU3U3fMmRzrtxgt1prgK2LuAEShwfPhXrjaGbwJiJmVEJtOXaS4OXXFx2Sd5Jl32iCBrgvpd1z-rf6_9Lbu9152EiM1F7Dlb2l06KXyIgB6MSyDR6gXC7IelWwV_f-02ATfRy9esgnyFxJEvxEaZnFB-NIdVFdWGwCugSidkzZ07dxm1O065v1Kpyn69ce4BV7on_xukM4F4V1PXT-exIDiFtilKFRWkc1603J2b4t2Wy0p9OOpKUh1e2duYhh7Q7kqvNeGhTUO00qpJsxzFPG7ujv66oukZAl4V8GT4m_7IxFWUu2ihCX7M7K4uDSN3ZctfJ1cnJUEumon89kSMwKiEwSazBb45vr58tIxRQ&zp=fKdStc__Vsr0oW0YeUj_kv2K_pGsJIQQ625BZqITHs29MExEg1JqeDzzb2Wl2CkZeGCZoVHPZ1aq9T4561KxtXMjk9pqFFiv-PFzqclO_-LbC4Z2roLcI5Z1VxcYCGLGkK8tKTcBbMoYcayx84XAfvvJLZ77aj8juH063450AhJwld-loDg8n8Pcl5y0oaK2jGqyqWQ--xvDeEh-x_hfuOy_1qVKJFyL_G3qu7PCXYXxqKHQBc5cOwL-Ufh1fI532rhjEoRPhNyvl4w8ZhY1cxI52xAbINU98ZeCpb2184_Tfev4bRofqmgRWlXQMd_Yz2GhXwX0Sj46wM-6t91H_f1BXo3HHMY8xhQqySj9kHGhHAH1i703CK3WnxFQXX5z-eRWX3-9kgUE6Sr1db1N3mq3YPZ6wi5qARBBf7Y9Qn3emjvbXQWcZEtKYW5IRXMCPFFnzebxpx4ZFuJO4iv1xGf0HtMpaGZ4NhRYQfSxV-6FAqcjlqiI39kIfehuNFwL4zT_qDgs9LaP
+                        - generic [ref=e362]:
+                          - link "accounts.reddit.com" [ref=e365] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=AKY19jWUcRMlkTAIyj8v5OdSmkpFrgZTP9asrCyhWFIsHqo7RXEffHLtEkyUMnopa0XxNxnZGJ64ED2ZEX32R4fT1ebDHdZVQRVizsaT8_Fu3U63RC6J4zBr93m2oCXJXr1WjUMX0IpOQm6zwmr_IpFR1h3z9aoSznbA9yzBdoTExOVMzowUHYRS4A_PXrChEknpSi8kEgZhOhp6TfkWbDSXaNu2qGQtls0zb8tPgFkL3TvKH2WpDWaNUcXX0VJ9Sumi7Qz4H12Be7StEw5tGgKKsN3D9mo_evfxtGC43NDLPzfCgnS3kRR-amIDfzEh9zAyxZ2pLSilooIbOBHatSZ5cSL08zRjWB3mC_fU1x-oFA3P8HHdO5ISA51pV_7fU3U3fMmRzrtxgt1prgK2LuAEShwfPhXrjaGbwJiJmVEJtOXaS4OXXFx2Sd5Jl32iCBrgvpd1z-rf6_9Lbu9152EiM1F7Dlb2l06KXyIgB6MSyDR6gXC7IelWwV_f-02ATfRy9esgnyFxJEvxEaZnFB-NIdVFdWGwCugSidkzZ07dxm1O065v1Kpyn69ce4BV7on_xukM4F4V1PXT-exIDiFtilKFRWkc1603J2b4t2Wy0p9OOpKUh1e2duYhh7Q7kqvNeGhTUO00qpJsxzFPG7ujv66oukZAl4V8GT4m_7IxFWUu2ihCX7M7K4uDSN3ZctfJ1cnJUEumon89kSMwKiEwSazBb45vr58tIxRQ&zp=fKdStc__Vsr0oW0YeUj_kv2K_pGsJIQQ625BZqITHs29MExEg1JqeDzzb2Wl2CkZeGCZoVHPZ1aq9T4561KxtXMjk9pqFFiv-PFzqclO_-LbC4Z2roLcI5Z1VxcYCGLGkK8tKTcBbMoYcayx84XAfvvJLZ77aj8juH063450AhJwld-loDg8n8Pcl5y0oaK2jGqyqWQ--xvDeEh-x_hfuOy_1qVKJFyL_G3qu7PCXYXxqKHQBc5cOwL-Ufh1fI532rhjEoRPhNyvl4w8ZhY1cxI52xAbINU98ZeCpb2184_Tfev4bRofqmgRWlXQMd_Yz2GhXwX0Sj46wM-6t91H_f1BXo3HHMY8xhQqySj9kHGhHAH1i703CK3WnxFQXX5z-eRWX3-9kgUE6Sr1db1N3mq3YPZ6wi5qARBBf7Y9Qn3emjvbXQWcZEtKYW5IRXMCPFFnzebxpx4ZFuJO4iv1xGf0HtMpaGZ4NhRYQfSxV-6FAqcjlqiI39kIfehuNFwL4zT_qDgs9LaP
+                            - generic: accounts.reddit.com
+                          - link "S’inscrire" [ref=e367] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=AKY19jWUcRMlkTAIyj8v5OdSmkpFrgZTP9asrCyhWFIsHqo7RXEffHLtEkyUMnopa0XxNxnZGJ64ED2ZEX32R4fT1ebDHdZVQRVizsaT8_Fu3U63RC6J4zBr93m2oCXJXr1WjUMX0IpOQm6zwmr_IpFR1h3z9aoSznbA9yzBdoTExOVMzowUHYRS4A_PXrChEknpSi8kEgZhOhp6TfkWbDSXaNu2qGQtls0zb8tPgFkL3TvKH2WpDWaNUcXX0VJ9Sumi7Qz4H12Be7StEw5tGgKKsN3D9mo_evfxtGC43NDLPzfCgnS3kRR-amIDfzEh9zAyxZ2pLSilooIbOBHatSZ5cSL08zRjWB3mC_fU1x-oFA3P8HHdO5ISA51pV_7fU3U3fMmRzrtxgt1prgK2LuAEShwfPhXrjaGbwJiJmVEJtOXaS4OXXFx2Sd5Jl32iCBrgvpd1z-rf6_9Lbu9152EiM1F7Dlb2l06KXyIgB6MSyDR6gXC7IelWwV_f-02ATfRy9esgnyFxJEvxEaZnFB-NIdVFdWGwCugSidkzZ07dxm1O065v1Kpyn69ce4BV7on_xukM4F4V1PXT-exIDiFtilKFRWkc1603J2b4t2Wy0p9OOpKUh1e2duYhh7Q7kqvNeGhTUO00qpJsxzFPG7ujv66oukZAl4V8GT4m_7IxFWUu2ihCX7M7K4uDSN3ZctfJ1cnJUEumon89kSMwKiEwSazBb45vr58tIxRQ&zp=fKdStc__Vsr0oW0YeUj_kv2K_pGsJIQQ625BZqITHs29MExEg1JqeDzzb2Wl2CkZeGCZoVHPZ1aq9T4561KxtXMjk9pqFFiv-PFzqclO_-LbC4Z2roLcI5Z1VxcYCGLGkK8tKTcBbMoYcayx84XAfvvJLZ77aj8juH063450AhJwld-loDg8n8Pcl5y0oaK2jGqyqWQ--xvDeEh-x_hfuOy_1qVKJFyL_G3qu7PCXYXxqKHQBc5cOwL-Ufh1fI532rhjEoRPhNyvl4w8ZhY1cxI52xAbINU98ZeCpb2184_Tfev4bRofqmgRWlXQMd_Yz2GhXwX0Sj46wM-6t91H_f1BXo3HHMY8xhQqySj9kHGhHAH1i703CK3WnxFQXX5z-eRWX3-9kgUE6Sr1db1N3mq3YPZ6wi5qARBBf7Y9Qn3emjvbXQWcZEtKYW5IRXMCPFFnzebxpx4ZFuJO4iv1xGf0HtMpaGZ4NhRYQfSxV-6FAqcjlqiI39kIfehuNFwL4zT_qDgs9LaP
+                            - generic [ref=e369]:
+                              - generic: S’inscrire
+                    - generic "Actions disponibles pour cette publication" [ref=e371]:
+                      - generic [ref=e374]:
+                        - button "Upvote" [ref=e375] [cursor=pointer]:
+                          - img [ref=e377]
+                          - generic [ref=e379]:
+                            - generic: Upvote
+                        - text: Voter
+                        - button "Downvote" [ref=e380] [cursor=pointer]:
+                          - img [ref=e382]
+                          - generic [ref=e384]:
+                            - generic: Downvote
+                      - link "0 Accéder aux commentaires" [ref=e385] [cursor=pointer]:
+                        - /url: /user/RedditforBusiness/comments/1rmkanw/business_owners_looking_for_communities_of/?p=1&impressionid=5724721076114577310
+                        - generic [ref=e386]:
+                          - img [ref=e388]
+                          - generic [ref=e391]: "0"
+                        - generic [ref=e392]:
+                          - generic: Accéder aux commentaires
+                      - button "Partager" [ref=e396] [cursor=pointer]:
+                        - generic [ref=e397]:
+                          - img [ref=e399]
+                          - generic [ref=e401]: Partager
+                      - link [ref=e403] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=AKY19jWUcRMlkTAIyj8v5OdSmkpFrgZTP9asrCyhWFIsHqo7RXEffHLtEkyUMnopa0XxNxnZGJ64ED2ZEX32R4fT1ebDHdZVQRVizsaT8_Fu3U63RC6J4zBr93m2oCXJXr1WjUMX0IpOQm6zwmr_IpFR1h3z9aoSznbA9yzBdoTExOVMzowUHYRS4A_PXrChEknpSi8kEgZhOhp6TfkWbDSXaNu2qGQtls0zb8tPgFkL3TvKH2WpDWaNUcXX0VJ9Sumi7Qz4H12Be7StEw5tGgKKsN3D9mo_evfxtGC43NDLPzfCgnS3kRR-amIDfzEh9zAyxZ2pLSilooIbOBHatSZ5cSL08zRjWB3mC_fU1x-oFA3P8HHdO5ISA51pV_7fU3U3fMmRzrtxgt1prgK2LuAEShwfPhXrjaGbwJiJmVEJtOXaS4OXXFx2Sd5Jl32iCBrgvpd1z-rf6_9Lbu9152EiM1F7Dlb2l06KXyIgB6MSyDR6gXC7IelWwV_f-02ATfRy9esgnyFxJEvxEaZnFB-NIdVFdWGwCugSidkzZ07dxm1O065v1Kpyn69ce4BV7on_xukM4F4V1PXT-exIDiFtilKFRWkc1603J2b4t2Wy0p9OOpKUh1e2duYhh7Q7kqvNeGhTUO00qpJsxzFPG7ujv66oukZAl4V8GT4m_7IxFWUu2ihCX7M7K4uDSN3ZctfJ1cnJUEumon89kSMwKiEwSazBb45vr58tIxRQ&zp=fKdStc__Vsr0oW0YeUj_kv2K_pGsJIQQ625BZqITHs29MExEg1JqeDzzb2Wl2CkZeGCZoVHPZ1aq9T4561KxtXMjk9pqFFiv-PFzqclO_-LbC4Z2roLcI5Z1VxcYCGLGkK8tKTcBbMoYcayx84XAfvvJLZ77aj8juH063450AhJwld-loDg8n8Pcl5y0oaK2jGqyqWQ--xvDeEh-x_hfuOy_1qVKJFyL_G3qu7PCXYXxqKHQBc5cOwL-Ufh1fI532rhjEoRPhNyvl4w8ZhY1cxI52xAbINU98ZeCpb2184_Tfev4bRofqmgRWlXQMd_Yz2GhXwX0Sj46wM-6t91H_f1BXo3HHMY8xhQqySj9kHGhHAH1i703CK3WnxFQXX5z-eRWX3-9kgUE6Sr1db1N3mq3YPZ6wi5qARBBf7Y9Qn3emjvbXQWcZEtKYW5IRXMCPFFnzebxpx4ZFuJO4iv1xGf0HtMpaGZ4NhRYQfSxV-6FAqcjlqiI39kIfehuNFwL4zT_qDgs9LaP
+                  - separator [ref=e404]
+                  - article "I Built My Landscape Architecture Graduation Project in Minecraft (And Passed! :D)" [ref=e405]:
+                    - generic [ref=e406] [cursor=pointer]:
+                      - link "I Built My Landscape Architecture Graduation Project in Minecraft (And Passed! :D)" [ref=e407]:
+                        - /url: https://www.reddit.com/r/Minecraftbuilds/comments/1uawwq5/i_built_my_landscape_architecture_graduation/
+                        - generic [ref=e408]:
+                          - generic: I Built My Landscape Architecture Graduation Project in Minecraft (And Passed! :D)
+                      - generic [ref=e409]:
+                        - generic [ref=e410]:
+                          - generic [ref=e411]:
+                            - link "r/Minecraftbuilds" [ref=e413]:
+                              - /url: https://www.reddit.com/r/Minecraftbuilds/
+                              - generic [ref=e417]: r/Minecraftbuilds
+                            - 'button "Statut de la communauté : MinecraftBuilds" [ref=e419]':
+                              - img "mcdiamond" [ref=e420]
+                          - generic [ref=e421]: •
+                          - time [ref=e423]: il y a 18 h
+                        - button "Ouvrir les actions de membre" [ref=e427]:
+                          - img [ref=e430]
+                      - heading "I Built My Landscape Architecture Graduation Project in Minecraft (And Passed! :D)" [level=2] [ref=e434]:
+                        - link "I Built My Landscape Architecture Graduation Project in Minecraft (And Passed! :D)" [ref=e435]:
+                          - /url: https://www.reddit.com/r/Minecraftbuilds/comments/1uawwq5/i_built_my_landscape_architecture_graduation/
+                      - generic [ref=e440]:
+                        - generic [ref=e442]:
+                          - generic [ref=e443]:
+                            - generic [ref=e445]:
+                              - button "Page précédente" [disabled]:
+                                - generic:
+                                  - generic:
+                                    - img
+                            - list [ref=e446]:
+                              - listitem [ref=e447]:
+                                - figure [ref=e448]:
+                                  - img "r/Minecraftbuilds - I Built My Landscape Architecture Graduation Project in Minecraft (And Passed! :D)" [ref=e449]
+                            - button "Page suivante" [ref=e452]:
+                              - img [ref=e455]
+                          - group [ref=e461]:
+                            - button "Page 1 (Page actuelle)" [ref=e463]:
+                              - generic [ref=e464]:
+                                - generic: Page 1 (Page actuelle)
+                            - button "Page 2" [ref=e465]:
+                              - generic [ref=e466]:
+                                - generic: Page 2
+                            - button [ref=e467]
+                            - button [ref=e469]
+                            - button [ref=e471]
+                            - button [ref=e473]
+                            - button [ref=e475]
+                            - button [ref=e477]
+                            - button [ref=e479]
+                            - button [ref=e481]
+                            - button [ref=e483]
+                            - button [ref=e485]
+                            - button [ref=e487]
+                            - button [ref=e489]
+                            - button [ref=e491]
+                            - button [ref=e493]
+                            - button [ref=e495]
+                            - button [ref=e497]
+                            - button [ref=e499]
+                            - button [ref=e501]
+                        - generic [ref=e503]:
+                          - generic: Élément 1 sur 20
+                      - generic "Actions disponibles pour cette publication" [ref=e505]:
+                        - generic [ref=e508]:
+                          - button "Upvote" [ref=e509]:
+                            - img [ref=e511]
+                            - generic [ref=e513]:
+                              - generic: Upvote
+                          - generic [ref=e515]: 6 k
+                          - button "Downvote" [ref=e516]:
+                            - img [ref=e518]
+                            - generic [ref=e520]:
+                              - generic: Downvote
+                        - link "81 Accéder aux commentaires" [ref=e521]:
+                          - /url: /r/Minecraftbuilds/comments/1uawwq5/i_built_my_landscape_architecture_graduation/
+                          - generic [ref=e522]:
+                            - img [ref=e524]
+                            - generic [ref=e527]: "81"
+                          - generic [ref=e528]:
+                            - generic: Accéder aux commentaires
+                        - button "Décerner une récompense, 6 récompenses décernées" [ref=e530]:
+                          - generic [ref=e535]: "6"
+                        - button "Partager" [ref=e539]:
+                          - generic [ref=e540]:
+                            - img [ref=e542]
+                            - generic [ref=e544]: Partager
+                  - separator [ref=e545]
+                  - article "Vous l'utiliseriez?" [ref=e546]:
+                    - generic [ref=e547] [cursor=pointer]:
+                      - link "Vous l'utiliseriez?" [ref=e548]:
+                        - /url: https://www.reddit.com/r/AskFrance/comments/1u8g6eb/vous_lutiliseriez/
+                        - generic [ref=e549]:
+                          - generic: Vous l'utiliseriez?
+                      - generic [ref=e550]:
+                        - generic [ref=e551]:
+                          - link "r/AskFrance" [ref=e554]:
+                            - /url: https://www.reddit.com/r/AskFrance/
+                            - generic [ref=e558]: r/AskFrance
+                          - generic [ref=e559]: •
+                          - time [ref=e561]: il y a 4 j
+                          - generic [ref=e562]: •
+                          - paragraph [ref=e564]: Parce que tu as manifesté de l’intérêt pour une communauté similaire
+                        - generic [ref=e565]:
+                          - button "Rejoindre" [ref=e567]
+                          - button "Ouvrir les actions de membre" [ref=e570]:
+                            - img [ref=e573]
+                      - heading "Vous l'utiliseriez?" [level=2] [ref=e577]:
+                        - link "Vous l'utiliseriez?" [ref=e578]:
+                          - /url: https://www.reddit.com/r/AskFrance/comments/1u8g6eb/vous_lutiliseriez/
+                      - generic [ref=e583]:
+                        - generic [ref=e585]:
+                          - generic [ref=e586]:
+                            - generic [ref=e588]:
+                              - button "Page précédente" [disabled]:
+                                - generic:
+                                  - generic:
+                                    - img
+                            - list [ref=e589]:
+                              - listitem [ref=e590]:
+                                - figure [ref=e591]:
+                                  - img "r/AskFrance - Vous l'utiliseriez?" [ref=e592]
+                            - button "Page suivante" [ref=e595]:
+                              - img [ref=e598]
+                          - group [ref=e604]:
+                            - button "Page 1 (Page actuelle)" [ref=e606]:
+                              - generic [ref=e607]:
+                                - generic: Page 1 (Page actuelle)
+                            - button "Page 2" [ref=e608]:
+                              - generic [ref=e609]:
+                                - generic: Page 2
+                        - generic [ref=e610]:
+                          - generic: Élément 1 sur 2
+                      - generic "Actions disponibles pour cette publication" [ref=e612]:
+                        - generic [ref=e615]:
+                          - button "Upvote" [ref=e616]:
+                            - img [ref=e618]
+                            - generic [ref=e620]:
+                              - generic: Upvote
+                          - generic [ref=e622]: 1,2 k
+                          - button "Downvote" [ref=e623]:
+                            - img [ref=e625]
+                            - generic [ref=e627]:
+                              - generic: Downvote
+                        - link "309 Accéder aux commentaires" [ref=e628]:
+                          - /url: /r/AskFrance/comments/1u8g6eb/vous_lutiliseriez/
+                          - generic [ref=e629]:
+                            - img [ref=e631]
+                            - generic [ref=e634]: "309"
+                          - generic [ref=e635]:
+                            - generic: Accéder aux commentaires
+                        - button "Décerner une récompense, 3 récompenses décernées" [ref=e637]:
+                          - generic [ref=e642]: "3"
+                        - button "Partager" [ref=e646]:
+                          - generic [ref=e647]:
+                            - img [ref=e649]
+                            - generic [ref=e651]: Partager
+                  - separator [ref=e652]
+                - img [ref=e658]
+            - generic [ref=e671]:
+              - complementary [ref=e673]:
+                - complementary "Publications récentes" [ref=e675]:
+                  - generic [ref=e676]:
+                    - heading "Publications récentes" [level=3] [ref=e677]
+                    - button "Retirer" [ref=e679] [cursor=pointer]
+                  - generic [ref=e681]:
+                    - separator [ref=e682]
+                    - generic [ref=e684]:
+                      - generic [ref=e686]:
+                        - generic [ref=e689]:
+                          - link "r/Motardie" [ref=e690] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/Motardie/
+                            - generic [ref=e694]: r/Motardie
+                          - generic [ref=e695]: •
+                          - time [ref=e697]: "-2 m."
+                        - 'link "Publication de l’élément de la liste : Avis première moto et prix assurance" [ref=e699] [cursor=pointer]':
+                          - /url: /r/Motardie/comments/1sfrv5x/avis_première_moto_et_prix_assurance/
+                          - 'heading "Publication de l’élément de la liste : Avis première moto et prix assurance" [level=3] [ref=e702]': Avis première moto et prix assurance
+                      - generic [ref=e704]:
+                        - generic [ref=e705]: "3"
+                        - text: upvotes ·
+                        - generic [ref=e706]: "19"
+                        - text: commentaires
+                    - separator [ref=e707]
+                    - generic [ref=e709]:
+                      - generic [ref=e711]:
+                        - generic [ref=e714]:
+                          - link "r/AskMeuf" [ref=e715] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/AskMeuf/
+                            - generic [ref=e719]: r/AskMeuf
+                          - generic [ref=e720]: •
+                          - time [ref=e722]: "-1 a"
+                        - 'link "Publication de l’élément de la liste : Une bonne appli de rencontre un peu kinky sur Paris ?" [ref=e724] [cursor=pointer]':
+                          - /url: /r/AskMeuf/comments/1laiwpp/une_bonne_appli_de_rencontre_un_peu_kinky_sur/
+                          - 'heading "Publication de l’élément de la liste : Une bonne appli de rencontre un peu kinky sur Paris ?" [level=3] [ref=e727]': Une bonne appli de rencontre un peu kinky sur Paris ?
+                      - generic [ref=e729]:
+                        - generic [ref=e730]: "23"
+                        - text: commentaires
+                    - separator [ref=e731]
+                    - generic [ref=e733]:
+                      - generic [ref=e735]:
+                        - generic [ref=e738]:
+                          - link "r/vinted" [ref=e739] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/vinted/
+                            - generic [ref=e743]: r/vinted
+                          - generic [ref=e744]: •
+                          - time [ref=e746]: "-1 a"
+                        - 'link "Publication de l’élément de la liste : Alternatives to vinted?" [ref=e748] [cursor=pointer]':
+                          - /url: /r/vinted/comments/1kjwmu3/alternatives_to_vinted/
+                          - 'heading "Publication de l’élément de la liste : Alternatives to vinted?" [level=3] [ref=e751]': Alternatives to vinted?
+                      - generic [ref=e753]:
+                        - generic [ref=e754]: "75"
+                        - text: upvotes ·
+                        - generic [ref=e755]: "57"
+                        - text: commentaires
+              - list [ref=e757]:
+                - listitem [ref=e758]:
+                  - link "Règles de Reddit" [ref=e760] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                - listitem [ref=e761]:
+                  - link "Politique de confidentialité" [ref=e763] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                - listitem [ref=e764]:
+                  - link "Contrat d'utilisation" [ref=e766] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                - listitem [ref=e767]:
+                  - link "Accessibilité" [ref=e769] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - listitem [ref=e770]:
+                  - link "Reddit, Inc. © 2026. Tous droits réservés." [ref=e771] [cursor=pointer]:
+                    - /url: https://redditinc.com
+        - generic [ref=e773]:
+          - button "Réduire la barre de navigation" [ref=e776] [cursor=pointer]:
+            - img [ref=e779]
+            - generic [ref=e781]:
+              - generic: Réduire la barre de navigation
+          - navigation "Principale" [ref=e786]:
+            - generic [ref=e788]:
+              - link "Accueil" [ref=e790] [cursor=pointer]:
+                - /url: https://www.reddit.com/?feed=home
+                - generic [ref=e791]:
+                  - img [ref=e793]
+                  - generic [ref=e796]: Accueil
+              - link "Populaires" [ref=e798] [cursor=pointer]:
+                - /url: https://www.reddit.com/r/popular/
+                - generic [ref=e799]:
+                  - img [ref=e801]
+                  - generic [ref=e804]: Populaires
+              - link "Actualités" [ref=e805] [cursor=pointer]:
+                - /url: https://www.reddit.com/news/
+                - generic [ref=e806]:
+                  - img [ref=e808]
+                  - generic [ref=e812]: Actualités
+              - link "Explorer" [ref=e814] [cursor=pointer]:
+                - /url: https://www.reddit.com/explore/
+                - generic [ref=e815]:
+                  - img [ref=e817]
+                  - generic [ref=e820]: Explorer
+              - button "Lancer une communauté" [ref=e821] [cursor=pointer]:
+                - generic [ref=e822]:
+                  - img [ref=e824]
+                  - generic [ref=e827]: Lancer une communauté
+            - separator [ref=e828]
+            - group [ref=e832]:
+              - generic "JEUX SUR REDDIT" [ref=e833] [cursor=pointer]:
+                - generic [ref=e834]:
+                  - generic [ref=e839]:
+                    - generic: JEUX SUR REDDIT
+                  - img [ref=e842]
+              - generic [ref=e845]:
+                - link "Jeu en vedette" [ref=e849] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/BubbleShooterPro/comments/1ubct0w?entry_point=games_drawer_featured_game
+                  - generic [ref=e851]:
+                    - generic [ref=e855]:
+                      - heading "Bubble Shooter Pro" [level=3] [ref=e856]
+                      - paragraph [ref=e857]: Pop Bubbles!!
+                      - paragraph [ref=e858]:
+                        - generic [ref=e859]: 145 k
+                        - text: joueurs mensuels
+                    - generic [ref=e861]:
+                      - generic: NOUVEAU
+                - generic [ref=e863]:
+                  - link "Bonkyard" [ref=e865] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/Bonkyard/comments/1ub4u76?entry_point=games_drawer_personalized_game
+                    - generic [ref=e866]:
+                      - img [ref=e871]
+                      - generic [ref=e875]: Bonkyard
+                  - link "Vowel Play" [ref=e877] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/VowelPlay/comments/1uauulf?entry_point=games_drawer_personalized_game
+                    - generic [ref=e878]:
+                      - img [ref=e883]
+                      - generic [ref=e887]: Vowel Play
+                  - link "Arrows Puzzle" [ref=e889] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/arrowspuzzle/comments/1ub7inv?entry_point=games_drawer_personalized_game
+                    - generic [ref=e890]:
+                      - img [ref=e895]
+                      - generic [ref=e899]: Arrows Puzzle
+                - link "Découvres-en plus" [ref=e901] [cursor=pointer]:
+                  - /url: /r/GamesOnReddit
+                  - generic [ref=e902]:
+                    - img [ref=e904]
+                    - generic [ref=e908]: Découvres-en plus
+            - separator [ref=e909]
+            - group [ref=e912]:
+              - generic "DERNIÈREMENT" [ref=e913] [cursor=pointer]:
+                - generic [ref=e914]:
+                  - generic [ref=e917]: DERNIÈREMENT
+                  - img [ref=e920]
+              - generic [ref=e923]:
+                - link "r/tycoon" [ref=e924] [cursor=pointer]:
+                  - /url: /r/tycoon/
+                  - generic [ref=e925]:
+                    - img [ref=e930]
+                    - generic [ref=e933]: r/tycoon
+                - link "r/Motardie" [ref=e934] [cursor=pointer]:
+                  - /url: /r/Motardie/
+                  - generic [ref=e935]:
+                    - img [ref=e940]
+                    - generic [ref=e943]: r/Motardie
+                - link "r/PornGifsInPublic" [ref=e944] [cursor=pointer]:
+                  - /url: /r/PornGifsInPublic/
+                  - generic [ref=e945]:
+                    - img [ref=e951]
+                    - generic [ref=e955]: r/PornGifsInPublic
+                - link "r/sex" [ref=e956] [cursor=pointer]:
+                  - /url: /r/sex/
+                  - generic [ref=e957]:
+                    - img [ref=e962]
+                    - generic [ref=e965]: r/sex
+            - group [ref=e967]:
+              - generic "COMMUNAUTÉS" [ref=e968] [cursor=pointer]:
+                - generic [ref=e970]:
+                  - generic [ref=e973]: COMMUNAUTÉS
+                  - img [ref=e976]
+              - generic [ref=e979]:
+                - link "Gérer les communautés" [ref=e980] [cursor=pointer]:
+                  - /url: /user/ShoStown/communities
+                  - generic [ref=e981]:
+                    - img [ref=e983]
+                    - generic [ref=e986]: Gérer les communautés
+                - generic [ref=e988]:
+                  - link "r/announcements" [ref=e990] [cursor=pointer]:
+                    - /url: /r/announcements/
+                    - generic [ref=e991]:
+                      - img [ref=e996]
+                      - generic [ref=e999]: r/announcements
+                    - button "Ajouter la communauté aux favoris" [ref=e1002]:
+                      - img [ref=e1005]
+                  - link "r/MCPE" [ref=e1008] [cursor=pointer]:
+                    - /url: /r/MCPE/
+                    - generic [ref=e1009]:
+                      - img [ref=e1014]
+                      - generic [ref=e1017]: r/MCPE
+                    - button "Ajouter la communauté aux favoris" [ref=e1020]:
+                      - img [ref=e1023]
+                  - link "r/Minecraft" [ref=e1026] [cursor=pointer]:
+                    - /url: /r/Minecraft/
+                    - generic [ref=e1027]:
+                      - img [ref=e1032]
+                      - generic [ref=e1035]: r/Minecraft
+                    - button "Ajouter la communauté aux favoris" [ref=e1038]:
+                      - img [ref=e1041]
+                  - link "r/Minecraftbuilds" [ref=e1044] [cursor=pointer]:
+                    - /url: /r/Minecraftbuilds/
+                    - generic [ref=e1045]:
+                      - img [ref=e1050]
+                      - generic [ref=e1053]: r/Minecraftbuilds
+                    - button "Ajouter la communauté aux favoris" [ref=e1056]:
+                      - img [ref=e1059]
+                  - link "r/MinecraftCommands" [ref=e1062] [cursor=pointer]:
+                    - /url: /r/MinecraftCommands/
+                    - generic [ref=e1063]:
+                      - img [ref=e1068]
+                      - generic [ref=e1071]: r/MinecraftCommands
+                    - button "Ajouter la communauté aux favoris" [ref=e1074]:
+                      - img [ref=e1077]
+                  - link "r/minecraftsuggestions" [ref=e1080] [cursor=pointer]:
+                    - /url: /r/minecraftsuggestions/
+                    - generic [ref=e1081]:
+                      - img [ref=e1086]
+                      - generic [ref=e1089]: r/minecraftsuggestions
+                    - button "Ajouter la communauté aux favoris" [ref=e1092]:
+                      - img [ref=e1095]
+                  - link "r/place" [ref=e1098] [cursor=pointer]:
+                    - /url: /r/place/
+                    - generic [ref=e1099]:
+                      - img [ref=e1104]
+                      - generic [ref=e1107]: r/place
+                    - button "Ajouter la communauté aux favoris" [ref=e1110]:
+                      - img [ref=e1113]
+            - separator [ref=e1115]
+            - navigation "Ressources Reddit" [ref=e1116]:
+              - group [ref=e1118]:
+                - generic "RESSOURCES" [ref=e1119] [cursor=pointer]:
+                  - generic [ref=e1121]:
+                    - generic [ref=e1124]: RESSOURCES
+                    - img [ref=e1127]
+                - generic [ref=e1130]:
+                  - link "À propos de Reddit" [ref=e1132] [cursor=pointer]:
+                    - /url: https://www.redditinc.com
+                    - generic [ref=e1133]:
+                      - img [ref=e1135]
+                      - generic [ref=e1139]: À propos de Reddit
+                  - link "Publicités" [ref=e1141] [cursor=pointer]:
+                    - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=left_nav_cta
+                    - generic [ref=e1142]:
+                      - img [ref=e1144]
+                      - generic [ref=e1148]: Publicités
+                  - link "Plateforme de développement" [ref=e1150] [cursor=pointer]:
+                    - /url: https://developers.reddit.com/?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e1151]:
+                      - img [ref=e1153]
+                      - generic [ref=e1157]: Plateforme de développement
+                  - link "Reddit Pro BÊTA" [ref=e1159] [cursor=pointer]:
+                    - /url: /reddit-pro?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e1160]:
+                      - img [ref=e1162]
+                      - generic [ref=e1166]:
+                        - generic [ref=e1167]: Reddit Pro
+                        - generic [ref=e1168]: BÊTA
+                  - link "Aide" [ref=e1170] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc?utm_source=reddit&utm_medium=footer&utm_campaign=evergreen
+                    - generic [ref=e1171]:
+                      - img [ref=e1173]
+                      - generic [ref=e1177]: Aide
+                  - link "Blog" [ref=e1179] [cursor=pointer]:
+                    - /url: https://redditblog.com/
+                    - generic [ref=e1180]:
+                      - img [ref=e1182]
+                      - generic [ref=e1186]: Blog
+                  - link "Carrières" [ref=e1188] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/careers
+                    - generic [ref=e1189]:
+                      - img [ref=e1191]
+                      - generic [ref=e1195]: Carrières
+                  - link "Presse" [ref=e1197] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/press
+                    - generic [ref=e1198]:
+                      - img [ref=e1200]
+                      - generic [ref=e1204]: Presse
+                  - separator [ref=e1205]
+                  - link "Le meilleur de Reddit" [ref=e1207] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/global/
+                    - generic [ref=e1208]:
+                      - img [ref=e1210]
+                      - generic [ref=e1215]: Le meilleur de Reddit
+                  - link "Le meilleur de Reddit en portugais" [ref=e1217] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/tl-pt-BR/
+                    - generic [ref=e1218]:
+                      - img [ref=e1220]
+                      - generic [ref=e1224]: Le meilleur de Reddit en portugais
+                  - link "Le meilleur de Reddit en allemand" [ref=e1226] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/tl-de/
+                    - generic [ref=e1227]:
+                      - img [ref=e1229]
+                      - generic [ref=e1233]: Le meilleur de Reddit en allemand
+                  - separator [ref=e1234]
+                  - link "Règles de Reddit" [ref=e1236] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                    - generic [ref=e1237]:
+                      - img [ref=e1239]
+                      - generic [ref=e1243]: Règles de Reddit
+                  - link "Politique de confidentialité" [ref=e1245] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                    - generic [ref=e1246]:
+                      - img [ref=e1248]
+                      - generic [ref=e1252]: Politique de confidentialité
+                  - link "Contrat d'utilisation" [ref=e1254] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                    - generic [ref=e1255]:
+                      - img [ref=e1257]
+                      - generic [ref=e1261]: Contrat d'utilisation
+                  - link "Accessibilité" [ref=e1263] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                    - generic [ref=e1264]:
+                      - img [ref=e1266]
+                      - generic [ref=e1271]: Accessibilité
+            - link "Reddit, Inc. © 2026. Tous droits réservés." [ref=e1273] [cursor=pointer]:
+              - /url: https://redditinc.com

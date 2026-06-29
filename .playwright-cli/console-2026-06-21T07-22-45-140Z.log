@@ -1,0 +1,2 @@
+[     518ms] [WARNING] loadImmediately is set to false and widget.load() has not been called on window.HubSpotConversations yet. Please call widget.load() first or set loadImmediately on window.hsConversationsSettings to true. @ https://js-eu1.usemessages.com/conversations-embed.js:0
+[    2029ms] [WARNING] [quick-fetch] quickFetchScript was not included or running in Node.js environment. Falling back to stubbed implementation. @ https://static.hsappstatic.net/conversations-visitor-ui/static-1.29683/bundles/visitor.js:0

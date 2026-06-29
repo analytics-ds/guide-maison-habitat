@@ -1,0 +1,381 @@
+- generic [active] [ref=e1]:
+  - link "Accéder au contenu principal" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Accéder au contenu principal
+  - generic [ref=e6]:
+    - generic:
+      - banner [ref=e9]:
+        - navigation [ref=e10]:
+          - link "Accueil" [ref=e14] [cursor=pointer]:
+            - /url: https://www.reddit.com/
+            - img [ref=e16]
+          - search [ref=e33]:
+            - generic [ref=e35]:
+              - img [ref=e37]
+              - textbox [ref=e58]:
+                - /placeholder: Rechercher sur Reddit
+              - generic: Rechercher sur Reddit
+          - generic [ref=e59]:
+            - button "Traductions activées" [ref=e67] [cursor=pointer]:
+              - img [ref=e70]
+            - link "S’inscrire" [ref=e77] [cursor=pointer]:
+              - /url: https://www.reddit.com/register/
+              - generic [ref=e79]: S’inscrire
+            - link "Se connecter" [ref=e83] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e85]: Se connecter
+            - button "Agrandir le menu" [ref=e90] [cursor=pointer]:
+              - img [ref=e93]
+              - generic [ref=e95]:
+                - generic: Agrandir le menu
+      - generic [ref=e96]:
+        - generic [ref=e97]:
+          - generic [ref=e98]:
+            - generic:
+              - generic:
+                - link "Skip to Sign up" [ref=e99] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e100] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e101]:
+            - main [ref=e102]:
+              - generic [ref=e105]:
+                - generic [ref=e106]:
+                  - generic "Trier par" [ref=e109]:
+                    - 'button "Trier par: Meilleurs" [ref=e111] [cursor=pointer]':
+                      - generic [ref=e113]: Meilleurs
+                  - generic "Trier par" [ref=e118]:
+                    - 'button "Trier par: Partout" [ref=e120] [cursor=pointer]':
+                      - generic [ref=e122]: Partout
+                - generic "Vue" [ref=e128]:
+                  - 'button "Afficher : Carte" [ref=e130] [cursor=pointer]'
+              - separator [ref=e136]
+              - generic [ref=e138]:
+                - heading "Flux" [level=1] [ref=e140]
+                - generic:
+                  - 'article "«Un moment dégueulasse où le papa ne sert à rien» : France Pierron virulente envers Jérémy Doku qui souhaite quitter le Mondial pour assister à la naissance de son premier enfant" [ref=e141]':
+                    - generic [ref=e142] [cursor=pointer]:
+                      - 'link "«Un moment dégueulasse où le papa ne sert à rien» : France Pierron virulente envers Jérémy Doku qui souhaite quitter le Mondial pour assister à la naissance de son premier enfant" [ref=e143]':
+                        - /url: https://www.reddit.com/r/paslegorafi/comments/1ub48l2/un_moment_dégueulasse_où_le_papa_ne_sert_à_rien/
+                        - generic [ref=e144]:
+                          - generic: "«Un moment dégueulasse où le papa ne sert à rien» : France Pierron virulente envers Jérémy Doku qui souhaite quitter le Mondial pour assister à la naissance de son premier enfant"
+                      - generic [ref=e145]:
+                        - generic [ref=e147]:
+                          - generic [ref=e148]:
+                            - link "r/paslegorafi" [ref=e151]:
+                              - /url: https://www.reddit.com/r/paslegorafi/
+                              - generic [ref=e155]: r/paslegorafi
+                            - generic [ref=e156]: •
+                            - time [ref=e158]: il y a 13 h
+                          - generic [ref=e159]:
+                            - button "Rejoindre" [ref=e161]
+                            - button "Ouvrir les actions de membre" [ref=e166]:
+                              - img [ref=e169]
+                        - generic [ref=e171]:
+                          - 'link "«Un moment dégueulasse où le papa ne sert à rien» : France Pierron virulente envers Jérémy Doku qui souhaite quitter le Mondial pour assister à la naissance de son premier enfant" [ref=e173]':
+                            - /url: https://www.reddit.com/r/paslegorafi/comments/1ub48l2/un_moment_dégueulasse_où_le_papa_ne_sert_à_rien/
+                            - text: "«Un moment dégueulasse où le papa ne sert à rien» : France Pierron virulente envers Jérémy Doku qui souhaite quitter le Mondial pour assister à la naissance de son premier enfant"
+                          - link "https://tvmag.lefigaro.fr/programme-tv/actu-tele/un-moment-degueulasse-ou-le-papa-ne-sert-a-rien-france-pierron-virulente-envers-jeremy-doku-qui-souhaite-quitter-le-mondial-pour-assister-a-la-naissance-son-premier-enfant-20260620?utm_content=photo&utm_term=lefigaro&utm_campaign=Nonli&utm_medium=Social&utm_source=Facebook&fbclid=IwT01FWASjvyhleHRuA2FlbQIxMABzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR6F3cUtYE-UvQ-9MQVIR8yK2d9UxOL-ST13AmVzkH5CRVT7IbIJ76OzgaSTUA_aem_Ia08l8k52ihaTn6Kcglk7Q" [ref=e176]:
+                            - /url: https://tvmag.lefigaro.fr/programme-tv/actu-tele/un-moment-degueulasse-ou-le-papa-ne-sert-a-rien-france-pierron-virulente-envers-jeremy-doku-qui-souhaite-quitter-le-mondial-pour-assister-a-la-naissance-son-premier-enfant-20260620?utm_content=photo&utm_term=lefigaro&utm_campaign=Nonli&utm_medium=Social&utm_source=Facebook&fbclid=IwT01FWASjvyhleHRuA2FlbQIxMABzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR6F3cUtYE-UvQ-9MQVIR8yK2d9UxOL-ST13AmVzkH5CRVT7IbIJ76OzgaSTUA_aem_Ia08l8k52ihaTn6Kcglk7Q
+                        - generic [ref=e178]:
+                          - 'link "r/paslegorafi - «Un moment dégueulasse où le papa ne sert à rien» : France Pierron virulente envers Jérémy Doku qui souhaite quitter le Mondial pour assister à la naissance de son premier enfant" [ref=e179]':
+                            - /url: https://tvmag.lefigaro.fr/programme-tv/actu-tele/un-moment-degueulasse-ou-le-papa-ne-sert-a-rien-france-pierron-virulente-envers-jeremy-doku-qui-souhaite-quitter-le-mondial-pour-assister-a-la-naissance-son-premier-enfant-20260620?utm_content=photo&utm_term=lefigaro&utm_campaign=Nonli&utm_medium=Social&utm_source=Facebook&fbclid=IwT01FWASjvyhleHRuA2FlbQIxMABzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR6F3cUtYE-UvQ-9MQVIR8yK2d9UxOL-ST13AmVzkH5CRVT7IbIJ76OzgaSTUA_aem_Ia08l8k52ihaTn6Kcglk7Q
+                            - 'img "r/paslegorafi - «Un moment dégueulasse où le papa ne sert à rien» : France Pierron virulente envers Jérémy Doku qui souhaite quitter le Mondial pour assister à la naissance de son premier enfant" [ref=e180]'
+                          - generic:
+                            - generic:
+                              - img
+                      - generic "Actions disponibles pour cette publication" [ref=e183]:
+                        - generic [ref=e186]:
+                          - button "Upvote" [ref=e187]:
+                            - img [ref=e189]
+                            - generic [ref=e191]:
+                              - generic: Upvote
+                          - generic [ref=e193]: "450"
+                          - button "Downvote" [ref=e194]:
+                            - img [ref=e196]
+                            - generic [ref=e198]:
+                              - generic: Downvote
+                        - link "165 Accéder aux commentaires" [ref=e199]:
+                          - /url: /r/paslegorafi/comments/1ub48l2/un_moment_dégueulasse_où_le_papa_ne_sert_à_rien/
+                          - generic [ref=e200]:
+                            - img [ref=e202]
+                            - generic [ref=e205]: "165"
+                          - generic [ref=e206]:
+                            - generic: Accéder aux commentaires
+                        - button "Décerner une récompense, 1 récompense décernée" [ref=e208]:
+                          - generic [ref=e213]: "1"
+                        - button "Partager" [ref=e217]:
+                          - generic [ref=e218]:
+                            - img [ref=e220]
+                            - generic [ref=e222]: Partager
+                  - separator [ref=e223]
+                  - generic [ref=e224]:
+                    - 'generic "Advertisement: Passez au niveau supérieur avec la Nintendo Switch 2 ! Ecran HD plus grand, définition jusqu’à 4K et un large catalogue de jeux !" [ref=e225]':
+                      - 'link "Advertisement: Passez au niveau supérieur avec la Nintendo Switch 2 ! Ecran HD plus grand, définition jusqu’à 4K et un large catalogue de jeux !" [ref=e226] [cursor=pointer]':
+                        - /url: https://alb.reddit.com/cr?za=sl4y1T0WLZODoL-ee5wRRfR8VcXQNxaMhIC2NQm-wQLa-v0b5KqYfN2J4cUJXnZ9raPRdoUHExQCK5aFcm5_F8nHRmc9xIH5q0tdmfGyQK5vMAPrA3LqRSxLjw8tOgyFOGI5g1weuGXfOkFUisUCyA_ghbm5lX267TW4_jkpdC-S9XEATNx4UrhE1fZe4E9IVA4TMCk3nmlEe5ZtHFS6JdUqOSRC7F3B5WyJQZLtxII2bnbp6Mgnj_i_2BCX143_qEQy7uD_ok0DbdvATIP7RYsRwSK76sJsP_zl-fsYp6UiAFmt-W7dqpgeftN8KOUPxRsEq48MoHL2TUyyaXec_majF6DMw3snjjPUc4rMwizFNPT3TyU4ZgcVWOj28CPGIXV02v7LQ0LTT7vng05_bI9ABKYpv2s7p7f5K3rU-d-3B1ccRieA7VE6_ZmxABJKd41q9s0qk4ESUyKE0RJXB5N7StNXTWxHtD2vIpR1VVvBVuwzvHzjzY-600r2MHjwVYhMipfEHMQNQYm_yrEnFjqCkK8dH4zfrh4kq330CV5FDZg0O67TbbQt1I_49FMikASs7pUdZVAGwNxFn09tNTeImaJ0FhGG3HZ2KjYbB79TcXdwcLTPypUM9jclZEskiVorkxnEyLlrKTNfZpEZf9zqoE_rDGqC6E2U8edopBpDSMz4e-Qke_aLPiOTVJIoY1y7OcQ6jowekHmMnshdau-JjtdPvJcWS6qUHs3R&zp=cYiiZZWNgYzGqdwZ89uwpWgv7nEBjJeuF74TzwCjNXy3F2Dmr-LLVHMUeoSGKaQV2jzmYHA1S9V13sJEqFD_eOEDRr-PYsXXpraQ156IJrnsQ4U7mt8h_hkg-1Hxkx3ZJnL2FMyaV1YfP8qJuR1CFyGu88wmqfXDdWzst4Pi0g5_fy_i6Fg0vjRV0Heeh7SRM0LJLeKzRx4PFO71_-HDpnmnuvNuaik-dGSej1lW0F2AVs91m6umEQqI6hbe9nOi5Q5GVGdI1bx0-Q35m9zS7b54rZq8noW72CdXx1Y4H21ULzcGZcat3oImzdWyxk9mZUXvx1M8DkS5NNFK91sM16SzfZyeCFwvjczpXofHFqsaWOYzqZHlVJ85yRVA-JHU6ORjDA0qXg
+                    - generic [ref=e227]:
+                      - generic [ref=e228]:
+                        - link "avatar u/Nintendo_France u/Nintendo_France" [ref=e231] [cursor=pointer]:
+                          - /url: /user/Nintendo_France/
+                          - img "avatar u/Nintendo_France" [ref=e234]
+                          - generic [ref=e235]: u/Nintendo_France
+                        - generic [ref=e236]: •
+                        - link "Sponsorisé(e)" [ref=e238] [cursor=pointer]:
+                          - /url: /user/Nintendo_France/
+                          - generic [ref=e239]: Sponsorisé(e)
+                        - link [ref=e241] [cursor=pointer]:
+                          - /url: https://alb.reddit.com/cr?za=sl4y1T0WLZODoL-ee5wRRfR8VcXQNxaMhIC2NQm-wQLa-v0b5KqYfN2J4cUJXnZ9raPRdoUHExQCK5aFcm5_F8nHRmc9xIH5q0tdmfGyQK5vMAPrA3LqRSxLjw8tOgyFOGI5g1weuGXfOkFUisUCyA_ghbm5lX267TW4_jkpdC-S9XEATNx4UrhE1fZe4E9IVA4TMCk3nmlEe5ZtHFS6JdUqOSRC7F3B5WyJQZLtxII2bnbp6Mgnj_i_2BCX143_qEQy7uD_ok0DbdvATIP7RYsRwSK76sJsP_zl-fsYp6UiAFmt-W7dqpgeftN8KOUPxRsEq48MoHL2TUyyaXec_majF6DMw3snjjPUc4rMwizFNPT3TyU4ZgcVWOj28CPGIXV02v7LQ0LTT7vng05_bI9ABKYpv2s7p7f5K3rU-d-3B1ccRieA7VE6_ZmxABJKd41q9s0qk4ESUyKE0RJXB5N7StNXTWxHtD2vIpR1VVvBVuwzvHzjzY-600r2MHjwVYhMipfEHMQNQYm_yrEnFjqCkK8dH4zfrh4kq330CV5FDZg0O67TbbQt1I_49FMikASs7pUdZVAGwNxFn09tNTeImaJ0FhGG3HZ2KjYbB79TcXdwcLTPypUM9jclZEskiVorkxnEyLlrKTNfZpEZf9zqoE_rDGqC6E2U8edopBpDSMz4e-Qke_aLPiOTVJIoY1y7OcQ6jowekHmMnshdau-JjtdPvJcWS6qUHs3R&zp=cYiiZZWNgYzGqdwZ89uwpWgv7nEBjJeuF74TzwCjNXy3F2Dmr-LLVHMUeoSGKaQV2jzmYHA1S9V13sJEqFD_eOEDRr-PYsXXpraQ156IJrnsQ4U7mt8h_hkg-1Hxkx3ZJnL2FMyaV1YfP8qJuR1CFyGu88wmqfXDdWzst4Pi0g5_fy_i6Fg0vjRV0Heeh7SRM0LJLeKzRx4PFO71_-HDpnmnuvNuaik-dGSej1lW0F2AVs91m6umEQqI6hbe9nOi5Q5GVGdI1bx0-Q35m9zS7b54rZq8noW72CdXx1Y4H21ULzcGZcat3oImzdWyxk9mZUXvx1M8DkS5NNFK91sM16SzfZyeCFwvjczpXofHFqsaWOYzqZHlVJ85yRVA-JHU6ORjDA0qXg
+                      - button "Ouvrir les actions de membre" [ref=e246] [cursor=pointer]:
+                        - img [ref=e249]
+                    - heading "Passez au niveau supérieur avec la Nintendo Switch 2 ! Ecran HD plus grand, définition jusqu’à 4K et un large catalogue de jeux !" [level=2] [ref=e253]:
+                      - link "Passez au niveau supérieur avec la Nintendo Switch 2 ! Ecran HD plus grand, définition jusqu’à 4K et un large catalogue de jeux !" [ref=e256] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=sl4y1T0WLZODoL-ee5wRRfR8VcXQNxaMhIC2NQm-wQLa-v0b5KqYfN2J4cUJXnZ9raPRdoUHExQCK5aFcm5_F8nHRmc9xIH5q0tdmfGyQK5vMAPrA3LqRSxLjw8tOgyFOGI5g1weuGXfOkFUisUCyA_ghbm5lX267TW4_jkpdC-S9XEATNx4UrhE1fZe4E9IVA4TMCk3nmlEe5ZtHFS6JdUqOSRC7F3B5WyJQZLtxII2bnbp6Mgnj_i_2BCX143_qEQy7uD_ok0DbdvATIP7RYsRwSK76sJsP_zl-fsYp6UiAFmt-W7dqpgeftN8KOUPxRsEq48MoHL2TUyyaXec_majF6DMw3snjjPUc4rMwizFNPT3TyU4ZgcVWOj28CPGIXV02v7LQ0LTT7vng05_bI9ABKYpv2s7p7f5K3rU-d-3B1ccRieA7VE6_ZmxABJKd41q9s0qk4ESUyKE0RJXB5N7StNXTWxHtD2vIpR1VVvBVuwzvHzjzY-600r2MHjwVYhMipfEHMQNQYm_yrEnFjqCkK8dH4zfrh4kq330CV5FDZg0O67TbbQt1I_49FMikASs7pUdZVAGwNxFn09tNTeImaJ0FhGG3HZ2KjYbB79TcXdwcLTPypUM9jclZEskiVorkxnEyLlrKTNfZpEZf9zqoE_rDGqC6E2U8edopBpDSMz4e-Qke_aLPiOTVJIoY1y7OcQ6jowekHmMnshdau-JjtdPvJcWS6qUHs3R&zp=cYiiZZWNgYzGqdwZ89uwpWgv7nEBjJeuF74TzwCjNXy3F2Dmr-LLVHMUeoSGKaQV2jzmYHA1S9V13sJEqFD_eOEDRr-PYsXXpraQ156IJrnsQ4U7mt8h_hkg-1Hxkx3ZJnL2FMyaV1YfP8qJuR1CFyGu88wmqfXDdWzst4Pi0g5_fy_i6Fg0vjRV0Heeh7SRM0LJLeKzRx4PFO71_-HDpnmnuvNuaik-dGSej1lW0F2AVs91m6umEQqI6hbe9nOi5Q5GVGdI1bx0-Q35m9zS7b54rZq8noW72CdXx1Y4H21ULzcGZcat3oImzdWyxk9mZUXvx1M8DkS5NNFK91sM16SzfZyeCFwvjczpXofHFqsaWOYzqZHlVJ85yRVA-JHU6ORjDA0qXg
+                        - generic: Passez au niveau supérieur avec la Nintendo Switch 2 ! Ecran HD plus grand, définition jusqu’à 4K et un large catalogue de jeux !
+                    - generic [ref=e257]:
+                      - generic [ref=e262]:
+                        - generic "lecteur vidéo" [ref=e263]
+                        - button "Lire" [ref=e264] [cursor=pointer]:
+                          - img [ref=e265]
+                      - separator [ref=e267]
+                      - generic [ref=e268]:
+                        - link [ref=e270] [cursor=pointer]:
+                          - /url: https://alb.reddit.com/cr?za=sl4y1T0WLZODoL-ee5wRRfR8VcXQNxaMhIC2NQm-wQLa-v0b5KqYfN2J4cUJXnZ9raPRdoUHExQCK5aFcm5_F8nHRmc9xIH5q0tdmfGyQK5vMAPrA3LqRSxLjw8tOgyFOGI5g1weuGXfOkFUisUCyA_ghbm5lX267TW4_jkpdC-S9XEATNx4UrhE1fZe4E9IVA4TMCk3nmlEe5ZtHFS6JdUqOSRC7F3B5WyJQZLtxII2bnbp6Mgnj_i_2BCX143_qEQy7uD_ok0DbdvATIP7RYsRwSK76sJsP_zl-fsYp6UiAFmt-W7dqpgeftN8KOUPxRsEq48MoHL2TUyyaXec_majF6DMw3snjjPUc4rMwizFNPT3TyU4ZgcVWOj28CPGIXV02v7LQ0LTT7vng05_bI9ABKYpv2s7p7f5K3rU-d-3B1ccRieA7VE6_ZmxABJKd41q9s0qk4ESUyKE0RJXB5N7StNXTWxHtD2vIpR1VVvBVuwzvHzjzY-600r2MHjwVYhMipfEHMQNQYm_yrEnFjqCkK8dH4zfrh4kq330CV5FDZg0O67TbbQt1I_49FMikASs7pUdZVAGwNxFn09tNTeImaJ0FhGG3HZ2KjYbB79TcXdwcLTPypUM9jclZEskiVorkxnEyLlrKTNfZpEZf9zqoE_rDGqC6E2U8edopBpDSMz4e-Qke_aLPiOTVJIoY1y7OcQ6jowekHmMnshdau-JjtdPvJcWS6qUHs3R&zp=cYiiZZWNgYzGqdwZ89uwpWgv7nEBjJeuF74TzwCjNXy3F2Dmr-LLVHMUeoSGKaQV2jzmYHA1S9V13sJEqFD_eOEDRr-PYsXXpraQ156IJrnsQ4U7mt8h_hkg-1Hxkx3ZJnL2FMyaV1YfP8qJuR1CFyGu88wmqfXDdWzst4Pi0g5_fy_i6Fg0vjRV0Heeh7SRM0LJLeKzRx4PFO71_-HDpnmnuvNuaik-dGSej1lW0F2AVs91m6umEQqI6hbe9nOi5Q5GVGdI1bx0-Q35m9zS7b54rZq8noW72CdXx1Y4H21ULzcGZcat3oImzdWyxk9mZUXvx1M8DkS5NNFK91sM16SzfZyeCFwvjczpXofHFqsaWOYzqZHlVJ85yRVA-JHU6ORjDA0qXg
+                        - generic [ref=e271]:
+                          - link "nintendo.com" [ref=e274] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=sl4y1T0WLZODoL-ee5wRRfR8VcXQNxaMhIC2NQm-wQLa-v0b5KqYfN2J4cUJXnZ9raPRdoUHExQCK5aFcm5_F8nHRmc9xIH5q0tdmfGyQK5vMAPrA3LqRSxLjw8tOgyFOGI5g1weuGXfOkFUisUCyA_ghbm5lX267TW4_jkpdC-S9XEATNx4UrhE1fZe4E9IVA4TMCk3nmlEe5ZtHFS6JdUqOSRC7F3B5WyJQZLtxII2bnbp6Mgnj_i_2BCX143_qEQy7uD_ok0DbdvATIP7RYsRwSK76sJsP_zl-fsYp6UiAFmt-W7dqpgeftN8KOUPxRsEq48MoHL2TUyyaXec_majF6DMw3snjjPUc4rMwizFNPT3TyU4ZgcVWOj28CPGIXV02v7LQ0LTT7vng05_bI9ABKYpv2s7p7f5K3rU-d-3B1ccRieA7VE6_ZmxABJKd41q9s0qk4ESUyKE0RJXB5N7StNXTWxHtD2vIpR1VVvBVuwzvHzjzY-600r2MHjwVYhMipfEHMQNQYm_yrEnFjqCkK8dH4zfrh4kq330CV5FDZg0O67TbbQt1I_49FMikASs7pUdZVAGwNxFn09tNTeImaJ0FhGG3HZ2KjYbB79TcXdwcLTPypUM9jclZEskiVorkxnEyLlrKTNfZpEZf9zqoE_rDGqC6E2U8edopBpDSMz4e-Qke_aLPiOTVJIoY1y7OcQ6jowekHmMnshdau-JjtdPvJcWS6qUHs3R&zp=cYiiZZWNgYzGqdwZ89uwpWgv7nEBjJeuF74TzwCjNXy3F2Dmr-LLVHMUeoSGKaQV2jzmYHA1S9V13sJEqFD_eOEDRr-PYsXXpraQ156IJrnsQ4U7mt8h_hkg-1Hxkx3ZJnL2FMyaV1YfP8qJuR1CFyGu88wmqfXDdWzst4Pi0g5_fy_i6Fg0vjRV0Heeh7SRM0LJLeKzRx4PFO71_-HDpnmnuvNuaik-dGSej1lW0F2AVs91m6umEQqI6hbe9nOi5Q5GVGdI1bx0-Q35m9zS7b54rZq8noW72CdXx1Y4H21ULzcGZcat3oImzdWyxk9mZUXvx1M8DkS5NNFK91sM16SzfZyeCFwvjczpXofHFqsaWOYzqZHlVJ85yRVA-JHU6ORjDA0qXg
+                            - generic: nintendo.com
+                          - link "Acheter" [ref=e276] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=sl4y1T0WLZODoL-ee5wRRfR8VcXQNxaMhIC2NQm-wQLa-v0b5KqYfN2J4cUJXnZ9raPRdoUHExQCK5aFcm5_F8nHRmc9xIH5q0tdmfGyQK5vMAPrA3LqRSxLjw8tOgyFOGI5g1weuGXfOkFUisUCyA_ghbm5lX267TW4_jkpdC-S9XEATNx4UrhE1fZe4E9IVA4TMCk3nmlEe5ZtHFS6JdUqOSRC7F3B5WyJQZLtxII2bnbp6Mgnj_i_2BCX143_qEQy7uD_ok0DbdvATIP7RYsRwSK76sJsP_zl-fsYp6UiAFmt-W7dqpgeftN8KOUPxRsEq48MoHL2TUyyaXec_majF6DMw3snjjPUc4rMwizFNPT3TyU4ZgcVWOj28CPGIXV02v7LQ0LTT7vng05_bI9ABKYpv2s7p7f5K3rU-d-3B1ccRieA7VE6_ZmxABJKd41q9s0qk4ESUyKE0RJXB5N7StNXTWxHtD2vIpR1VVvBVuwzvHzjzY-600r2MHjwVYhMipfEHMQNQYm_yrEnFjqCkK8dH4zfrh4kq330CV5FDZg0O67TbbQt1I_49FMikASs7pUdZVAGwNxFn09tNTeImaJ0FhGG3HZ2KjYbB79TcXdwcLTPypUM9jclZEskiVorkxnEyLlrKTNfZpEZf9zqoE_rDGqC6E2U8edopBpDSMz4e-Qke_aLPiOTVJIoY1y7OcQ6jowekHmMnshdau-JjtdPvJcWS6qUHs3R&zp=cYiiZZWNgYzGqdwZ89uwpWgv7nEBjJeuF74TzwCjNXy3F2Dmr-LLVHMUeoSGKaQV2jzmYHA1S9V13sJEqFD_eOEDRr-PYsXXpraQ156IJrnsQ4U7mt8h_hkg-1Hxkx3ZJnL2FMyaV1YfP8qJuR1CFyGu88wmqfXDdWzst4Pi0g5_fy_i6Fg0vjRV0Heeh7SRM0LJLeKzRx4PFO71_-HDpnmnuvNuaik-dGSej1lW0F2AVs91m6umEQqI6hbe9nOi5Q5GVGdI1bx0-Q35m9zS7b54rZq8noW72CdXx1Y4H21ULzcGZcat3oImzdWyxk9mZUXvx1M8DkS5NNFK91sM16SzfZyeCFwvjczpXofHFqsaWOYzqZHlVJ85yRVA-JHU6ORjDA0qXg
+                            - generic [ref=e278]:
+                              - generic: Acheter
+                    - generic "Actions disponibles pour cette publication" [ref=e280]:
+                      - generic [ref=e283]:
+                        - button "Upvote" [ref=e284] [cursor=pointer]:
+                          - img [ref=e286]
+                          - generic [ref=e288]:
+                            - generic: Upvote
+                        - text: Voter
+                        - button "Downvote" [ref=e289] [cursor=pointer]:
+                          - img [ref=e291]
+                          - generic [ref=e293]:
+                            - generic: Downvote
+                      - link "6 Accéder aux commentaires" [ref=e294] [cursor=pointer]:
+                        - /url: /user/Nintendo_France/comments/1u7cjte/passez_au_niveau_sup%C3%A9rieur_avec_la_nintendo/?p=1&impressionid=5581606621743737265
+                        - generic [ref=e295]:
+                          - img [ref=e297]
+                          - generic [ref=e300]: "6"
+                        - generic [ref=e301]:
+                          - generic: Accéder aux commentaires
+                      - button "Partager" [ref=e305] [cursor=pointer]:
+                        - generic [ref=e306]:
+                          - img [ref=e308]
+                          - generic [ref=e310]: Partager
+                      - link [ref=e312] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=sl4y1T0WLZODoL-ee5wRRfR8VcXQNxaMhIC2NQm-wQLa-v0b5KqYfN2J4cUJXnZ9raPRdoUHExQCK5aFcm5_F8nHRmc9xIH5q0tdmfGyQK5vMAPrA3LqRSxLjw8tOgyFOGI5g1weuGXfOkFUisUCyA_ghbm5lX267TW4_jkpdC-S9XEATNx4UrhE1fZe4E9IVA4TMCk3nmlEe5ZtHFS6JdUqOSRC7F3B5WyJQZLtxII2bnbp6Mgnj_i_2BCX143_qEQy7uD_ok0DbdvATIP7RYsRwSK76sJsP_zl-fsYp6UiAFmt-W7dqpgeftN8KOUPxRsEq48MoHL2TUyyaXec_majF6DMw3snjjPUc4rMwizFNPT3TyU4ZgcVWOj28CPGIXV02v7LQ0LTT7vng05_bI9ABKYpv2s7p7f5K3rU-d-3B1ccRieA7VE6_ZmxABJKd41q9s0qk4ESUyKE0RJXB5N7StNXTWxHtD2vIpR1VVvBVuwzvHzjzY-600r2MHjwVYhMipfEHMQNQYm_yrEnFjqCkK8dH4zfrh4kq330CV5FDZg0O67TbbQt1I_49FMikASs7pUdZVAGwNxFn09tNTeImaJ0FhGG3HZ2KjYbB79TcXdwcLTPypUM9jclZEskiVorkxnEyLlrKTNfZpEZf9zqoE_rDGqC6E2U8edopBpDSMz4e-Qke_aLPiOTVJIoY1y7OcQ6jowekHmMnshdau-JjtdPvJcWS6qUHs3R&zp=cYiiZZWNgYzGqdwZ89uwpWgv7nEBjJeuF74TzwCjNXy3F2Dmr-LLVHMUeoSGKaQV2jzmYHA1S9V13sJEqFD_eOEDRr-PYsXXpraQ156IJrnsQ4U7mt8h_hkg-1Hxkx3ZJnL2FMyaV1YfP8qJuR1CFyGu88wmqfXDdWzst4Pi0g5_fy_i6Fg0vjRV0Heeh7SRM0LJLeKzRx4PFO71_-HDpnmnuvNuaik-dGSej1lW0F2AVs91m6umEQqI6hbe9nOi5Q5GVGdI1bx0-Q35m9zS7b54rZq8noW72CdXx1Y4H21ULzcGZcat3oImzdWyxk9mZUXvx1M8DkS5NNFK91sM16SzfZyeCFwvjczpXofHFqsaWOYzqZHlVJ85yRVA-JHU6ORjDA0qXg
+                  - separator [ref=e313]
+                  - article "Qu'est-ce qui est si cher que ce n'est même plus amusant ?" [ref=e314]:
+                    - generic [ref=e315] [cursor=pointer]:
+                      - link "Qu'est-ce qui est si cher que ce n'est même plus amusant ?" [ref=e316]:
+                        - /url: https://www.reddit.com/r/AskReddit/comments/1uba5su/whats_so_expensive_that_its_not_even_fun_anymore/
+                        - generic [ref=e317]:
+                          - generic: Qu'est-ce qui est si cher que ce n'est même plus amusant ?
+                      - generic [ref=e318]:
+                        - generic [ref=e319]:
+                          - generic [ref=e320]:
+                            - link "r/AskReddit" [ref=e322]:
+                              - /url: https://www.reddit.com/r/AskReddit/
+                              - generic [ref=e326]: r/AskReddit
+                            - 'button "Statut de la communauté : Credit" [ref=e328]':
+                              - img "donkey_right" [ref=e329]
+                          - generic [ref=e330]: •
+                          - time [ref=e332]: il y a 9 h
+                        - generic [ref=e333]:
+                          - button "Rejoindre" [ref=e335]
+                          - button "Ouvrir les actions de membre" [ref=e339]:
+                            - img [ref=e342]
+                      - heading "Qu'est-ce qui est si cher que ce n'est même plus amusant ?" [level=2] [ref=e346]:
+                        - link "Qu'est-ce qui est si cher que ce n'est même plus amusant ?" [ref=e347]:
+                          - /url: https://www.reddit.com/r/AskReddit/comments/1uba5su/whats_so_expensive_that_its_not_even_fun_anymore/
+                      - generic "Actions disponibles pour cette publication" [ref=e349]:
+                        - generic [ref=e352]:
+                          - button "Upvote" [ref=e353]:
+                            - img [ref=e355]
+                            - generic [ref=e357]:
+                              - generic: Upvote
+                          - generic [ref=e359]: 2 k
+                          - button "Downvote" [ref=e360]:
+                            - img [ref=e362]
+                            - generic [ref=e364]:
+                              - generic: Downvote
+                        - link "3,3 k Accéder aux commentaires" [ref=e365]:
+                          - /url: /r/AskReddit/comments/1uba5su/whats_so_expensive_that_its_not_even_fun_anymore/
+                          - generic [ref=e366]:
+                            - img [ref=e368]
+                            - generic [ref=e371]: 3,3 k
+                          - generic [ref=e372]:
+                            - generic: Accéder aux commentaires
+                        - button "Décerner une récompense" [ref=e374]:
+                          - img [ref=e377]
+                        - button "Partager" [ref=e382]:
+                          - generic [ref=e383]:
+                            - img [ref=e385]
+                            - generic [ref=e387]: Partager
+                  - separator [ref=e388]
+                  - article "Le propriétaire de la société a décidé d'arrêter de payer ses chauffeurs, donc l'un d'eux a garé son camion sur la Ferrari du propriétaire et l'a laissé là." [ref=e389]:
+                    - generic [ref=e390] [cursor=pointer]:
+                      - link "Le propriétaire de la société a décidé d'arrêter de payer ses chauffeurs, donc l'un d'eux a garé son camion sur la Ferrari du propriétaire et l'a laissé là." [ref=e391]:
+                        - /url: https://www.reddit.com/r/interestingasfuck/comments/1ubii9r/company_owner_decided_to_stop_paying_his_drivers/
+                        - generic [ref=e392]:
+                          - generic: Le propriétaire de la société a décidé d'arrêter de payer ses chauffeurs, donc l'un d'eux a garé son camion sur la Ferrari du propriétaire et l'a laissé là.
+                      - generic [ref=e393]:
+                        - generic [ref=e394]:
+                          - link "r/interestingasfuck" [ref=e397]:
+                            - /url: https://www.reddit.com/r/interestingasfuck/
+                            - generic [ref=e401]: r/interestingasfuck
+                          - generic [ref=e402]: •
+                          - time [ref=e404]: il y a 1 h
+                        - generic [ref=e405]:
+                          - button "Rejoindre" [ref=e407]
+                          - button "Ouvrir les actions de membre" [ref=e411]:
+                            - img [ref=e414]
+                      - heading "Le propriétaire de la société a décidé d'arrêter de payer ses chauffeurs, donc l'un d'eux a garé son camion sur la Ferrari du propriétaire et l'a laissé là." [level=2] [ref=e418]:
+                        - link "Le propriétaire de la société a décidé d'arrêter de payer ses chauffeurs, donc l'un d'eux a garé son camion sur la Ferrari du propriétaire et l'a laissé là." [ref=e419]:
+                          - /url: https://www.reddit.com/r/interestingasfuck/comments/1ubii9r/company_owner_decided_to_stop_paying_his_drivers/
+                      - img "r/interestingasfuck - Le propriétaire de la société a décidé d'arrêter de payer ses chauffeurs, donc l'un d'eux a garé son camion sur la Ferrari du propriétaire et l'a laissé là." [ref=e425]
+                      - generic "Actions disponibles pour cette publication" [ref=e427]:
+                        - generic [ref=e430]:
+                          - button "Upvote" [ref=e431]:
+                            - img [ref=e433]
+                            - generic [ref=e435]:
+                              - generic: Upvote
+                          - generic [ref=e437]: 3 k
+                          - button "Downvote" [ref=e438]:
+                            - img [ref=e440]
+                            - generic [ref=e442]:
+                              - generic: Downvote
+                        - link "157 Accéder aux commentaires" [ref=e443]:
+                          - /url: /r/interestingasfuck/comments/1ubii9r/company_owner_decided_to_stop_paying_his_drivers/
+                          - generic [ref=e444]:
+                            - img [ref=e446]
+                            - generic [ref=e449]: "157"
+                          - generic [ref=e450]:
+                            - generic: Accéder aux commentaires
+                        - button "Décerner une récompense, 1 récompense décernée" [ref=e452]:
+                          - generic [ref=e457]: "1"
+                        - button "Partager" [ref=e461]:
+                          - generic [ref=e462]:
+                            - img [ref=e464]
+                            - generic [ref=e466]: Partager
+                  - separator [ref=e467]
+                - img [ref=e473]
+            - generic [ref=e486]:
+              - complementary [ref=e488]:
+                - complementary "Communautés populaires" [ref=e489]:
+                  - generic [ref=e490]:
+                    - heading "Communautés populaires" [level=2] [ref=e492]:
+                      - generic [ref=e493]: Communautés populaires
+                    - listitem [ref=e494]:
+                      - list [ref=e495]:
+                        - link "r/AskReddit 58 912 376 membres" [ref=e496] [cursor=pointer]:
+                          - /url: /r/AskReddit
+                          - generic [ref=e502]:
+                            - generic [ref=e504]: r/AskReddit
+                            - generic [ref=e505]: 58 912 376 membres
+                        - link "r/leagueoflegends 8 403 822 membres" [ref=e506] [cursor=pointer]:
+                          - /url: /r/leagueoflegends
+                          - generic [ref=e512]:
+                            - generic [ref=e514]: r/leagueoflegends
+                            - generic [ref=e515]: 8 403 822 membres
+                        - link "r/OutOfTheLoop 3 702 015 membres" [ref=e516] [cursor=pointer]:
+                          - /url: /r/OutOfTheLoop
+                          - generic [ref=e522]:
+                            - generic [ref=e524]: r/OutOfTheLoop
+                            - generic [ref=e525]: 3 702 015 membres
+                        - link "r/discordapp 1 518 748 membres" [ref=e526] [cursor=pointer]:
+                          - /url: /r/discordapp
+                          - generic [ref=e532]:
+                            - generic [ref=e534]: r/discordapp
+                            - generic [ref=e535]: 1 518 748 membres
+                        - link "r/Twitch 2 879 455 membres" [ref=e536] [cursor=pointer]:
+                          - /url: /r/Twitch
+                          - generic [ref=e542]:
+                            - generic [ref=e544]: r/Twitch
+                            - generic [ref=e545]: 2 879 455 membres
+                        - button "En voir plus" [ref=e546] [cursor=pointer]:
+                          - generic [ref=e548]: En voir plus
+              - list [ref=e550]:
+                - listitem [ref=e551]:
+                  - link "Accueil" [ref=e553] [cursor=pointer]:
+                    - /url: /?feed=home
+                - listitem [ref=e554]:
+                  - link "Populaires" [ref=e556] [cursor=pointer]:
+                    - /url: /r/popular/
+                - listitem [ref=e557]:
+                  - link "Actualités" [ref=e559] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=e560]:
+                  - link "Explorer" [ref=e562] [cursor=pointer]:
+                    - /url: /explore/
+                - listitem [ref=e563]:
+                  - link "Le meilleur de Reddit" [ref=e565] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/global/
+                - listitem [ref=e566]:
+                  - link "Le meilleur de Reddit en portugais" [ref=e568] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/tl-pt-BR/
+                - listitem [ref=e569]:
+                  - link "Le meilleur de Reddit en allemand" [ref=e571] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/tl-de/
+                - listitem [ref=e572]:
+                  - link "Règles de Reddit" [ref=e574] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                - listitem [ref=e575]:
+                  - link "Politique de confidentialité" [ref=e577] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                - listitem [ref=e578]:
+                  - link "Contrat d'utilisation" [ref=e580] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                - listitem [ref=e581]:
+                  - link "Accessibilité" [ref=e583] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - listitem [ref=e584]:
+                  - link "Reddit, Inc. © 2026. Tous droits réservés." [ref=e585] [cursor=pointer]:
+                    - /url: https://redditinc.com
+        - generic [ref=e588]:
+          - img
+          - paragraph [ref=e589]: Rejoins l’endroit le plus authentique du Web
+          - generic [ref=e591]:
+            - generic [ref=e594]:
+              - iframe [ref=e599]:
+                - button "Continuer avec Google. S'ouvre dans un nouvel onglet." [ref=f1e3] [cursor=pointer]:
+                  - generic [ref=f1e5]:
+                    - img [ref=f1e7]
+                    - generic [ref=f1e14]: Continuer avec Google
+              - generic [ref=e601] [cursor=pointer]:
+                - generic [ref=e602]:
+                  - img [ref=e603]
+                  - generic [ref=e605]: Continuer avec Apple
+                - button "Sign in with Apple" [ref=e608]:
+                  - generic [ref=e609]:
+                    - img:
+                      - generic:
+                        - img:
+                          - generic:  Sign in with Apple
+                  - img [ref=e611]
+            - link "Continuer avec ton numéro de téléphone" [ref=e614] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e617]:
+                - img [ref=e618]
+                - generic [ref=e621]: Continuer avec ton numéro de téléphone
+            - link "Utiliser une adresse mail" [ref=e623] [cursor=pointer]:
+              - /url: https://www.reddit.com/register/
+              - generic [ref=e626]:
+                - img [ref=e627]
+                - generic [ref=e629]: Utiliser une adresse mail
+          - paragraph [ref=e630]:
+            - text: En continuant, tu acceptes nos
+            - link "Contrat d’utilisation" [ref=e631] [cursor=pointer]:
+              - /url: https://www.redditinc.com/policies/user-agreement
+            - text: et reconnais que tu comprends la
+            - link "Politique de confidentialité" [ref=e632] [cursor=pointer]:
+              - /url: https://www.redditinc.com/policies/privacy-policy
+            - text: .

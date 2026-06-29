@@ -1,0 +1,516 @@
+- generic [active] [ref=e1]:
+  - link "Aller au contenu" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Guide Maison & Habitat" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e6]: Guide Maison & Habitat
+      - navigation "Navigation principale" [ref=e7]:
+        - link "Achat" [ref=e8] [cursor=pointer]:
+          - /url: /categories/achat/
+        - link "Vente" [ref=e9] [cursor=pointer]:
+          - /url: /categories/vente/
+        - link "Location" [ref=e10] [cursor=pointer]:
+          - /url: /categories/location/
+        - link "Financement" [ref=e11] [cursor=pointer]:
+          - /url: /categories/financement/
+        - link "Simulateurs" [ref=e12] [cursor=pointer]:
+          - /url: /simulateurs/
+        - link "Blog" [ref=e13] [cursor=pointer]:
+          - /url: /blog/
+      - button "Select language" [ref=e15] [cursor=pointer]:
+        - generic [ref=e16]: FR
+        - img [ref=e17]
+  - main [ref=e19]:
+    - article [ref=e20]:
+      - generic [ref=e21]:
+        - img "Brasero plancha COEO TRIO en acier, illustration du meilleur brasero en 2026" [ref=e22]
+        - generic [ref=e24]:
+          - navigation "Fil d'Ariane" [ref=e25]:
+            - list [ref=e26]:
+              - listitem [ref=e27]:
+                - link "Accueil" [ref=e28] [cursor=pointer]:
+                  - /url: /
+                - img [ref=e29]
+              - listitem [ref=e31]:
+                - link "Blog" [ref=e32] [cursor=pointer]:
+                  - /url: /blog/
+                - img [ref=e33]
+              - listitem [ref=e35]:
+                - link "Aménagement et Décoration" [ref=e36] [cursor=pointer]:
+                  - /url: /categories/amenagement-et-decoration/
+                - img [ref=e37]
+              - listitem [ref=e39]:
+                - generic [ref=e40]: Quel est le meilleur brasero en 2026 ? Comparatif et classement
+          - generic [ref=e41]:
+            - generic [ref=e42]:
+              - link "Aménagement et Décoration" [ref=e43] [cursor=pointer]:
+                - /url: /categories/amenagement-et-decoration/
+              - generic [ref=e44]: ·
+              - time [ref=e45]: 20 juin 2026
+              - generic [ref=e46]: ·
+              - generic [ref=e47]:
+                - img [ref=e48]
+                - text: 10 min de lecture
+              - generic [ref=e51]: ·
+              - generic [ref=e52]:
+                - img [ref=e53]
+                - text: Mis à jour le 20 juin 2026
+            - heading "Quel est le meilleur brasero en 2026 ? Comparatif et classement" [level=1] [ref=e56]
+            - paragraph [ref=e57]: "Comparatif 2026 du meilleur brasero : classement de 7 modèles, COEO TRIO en tête, critères de choix, acier, plancha, prix et avis."
+      - generic [ref=e59]:
+        - complementary [ref=e60]:
+          - generic [ref=e61]:
+            - generic [ref=e62]: Sommaire
+            - navigation "Sommaire de l'article" [ref=e63]:
+              - navigation [ref=e64]:
+                - list [ref=e65]:
+                  - listitem [ref=e66]:
+                    - link "Tableau comparatif des 7 meilleurs braseros en 2026" [ref=e67] [cursor=pointer]:
+                      - /url: "#tableau-comparatif-des-7-meilleurs-braseros-en-2026"
+                  - listitem [ref=e68]:
+                    - link "Comment se départage un bon brasero de cuisson" [ref=e69] [cursor=pointer]:
+                      - /url: "#comment-se-départage-un-bon-brasero-de-cuisson"
+                  - listitem [ref=e70]:
+                    - 'link "Top 1 : COEO TRIO, le meilleur brasero polyvalent en 2026" [ref=e71] [cursor=pointer]':
+                      - /url: "#top-1--coeo-trio-le-meilleur-brasero-polyvalent-en-2026"
+                  - listitem [ref=e72]:
+                    - 'link "Top 2 : Ofyr Classic 85, la référence design en Corten" [ref=e73] [cursor=pointer]':
+                      - /url: "#top-2--ofyr-classic-85-la-référence-design-en-corten"
+                  - listitem [ref=e74]:
+                    - 'link "Top 3 : L’Atelier Braséro 850, le premium français" [ref=e75] [cursor=pointer]':
+                      - /url: "#top-3--latelier-braséro-850-le-premium-français"
+                  - listitem [ref=e76]:
+                    - 'link "Top 4 : Höfats Triple, l’option modulable allemande" [ref=e77] [cursor=pointer]':
+                      - /url: "#top-4--höfats-triple-loption-modulable-allemande"
+                  - listitem [ref=e78]:
+                    - 'link "Top 5 : Barbecook Nestor, le rapport qualité-prix" [ref=e79] [cursor=pointer]':
+                      - /url: "#top-5--barbecook-nestor-le-rapport-qualité-prix"
+                  - listitem [ref=e80]:
+                    - 'link "Top 6 : Le Marquier Mendia, la valeur sûre française" [ref=e81] [cursor=pointer]':
+                      - /url: "#top-6--le-marquier-mendia-la-valeur-sûre-française"
+                  - listitem [ref=e82]:
+                    - 'link "Top 7 : Kibrule, le brasero compact en Corten" [ref=e83] [cursor=pointer]':
+                      - /url: "#top-7--kibrule-le-brasero-compact-en-corten"
+                  - listitem [ref=e84]:
+                    - 'link "Comment choisir son brasero : le guide" [ref=e85] [cursor=pointer]':
+                      - /url: "#comment-choisir-son-brasero--le-guide"
+                  - listitem [ref=e86]:
+                    - link "Questions fréquentes" [ref=e87] [cursor=pointer]:
+                      - /url: "#questions-fréquentes"
+                  - listitem [ref=e88]:
+                    - link "À lire aussi" [ref=e89] [cursor=pointer]:
+                      - /url: "#à-lire-aussi"
+        - generic [ref=e90]:
+          - generic [ref=e92]:
+            - img "Ambre Lacassagne" [ref=e93]
+            - generic [ref=e94]:
+              - generic [ref=e95]: Par Ambre Lacassagne
+              - generic [ref=e96]: Experte aménagement & agencement
+          - generic [ref=e97]:
+            - link "#brasero" [ref=e98] [cursor=pointer]:
+              - /url: /tags/brasero/
+            - link "#brasero plancha" [ref=e99] [cursor=pointer]:
+              - /url: /tags/brasero-plancha/
+            - link "#comparatif" [ref=e100] [cursor=pointer]:
+              - /url: /tags/comparatif/
+            - link "#acier corten" [ref=e101] [cursor=pointer]:
+              - /url: /tags/acier-corten/
+            - link "#cuisine extérieure" [ref=e102] [cursor=pointer]:
+              - /url: /tags/cuisine-exterieure/
+            - link "#COEO" [ref=e103] [cursor=pointer]:
+              - /url: /tags/coeo/
+          - generic [ref=e104]:
+            - blockquote [ref=e105]:
+              - paragraph [ref=e106]:
+                - strong [ref=e107]: "En bref :"
+              - list [ref=e108]:
+                - listitem [ref=e109]:
+                  - text: Le meilleur brasero en 2026 dans ce classement est le
+                  - strong [ref=e110]: COEO TRIO
+                  - text: ", seul modèle réellement 3-en-1 (brasero d’ambiance, plancha et grille barbecue), avec une plancha en acier de 10 mm conforme au contact alimentaire, en acier Corten ou galvanisé thermolaqué noir. Le TRIO Ø82 cm est affiché à 1 180 euros, le TRIO Ø98 cm à 1 350 euros."
+                - listitem [ref=e111]:
+                  - text: Derrière, l’
+                  - strong [ref=e112]: Ofyr Classic 85
+                  - text: (environ 2 400 euros) reste la référence design en Corten,
+                  - strong [ref=e113]: L’Atelier Braséro 850
+                  - text: (environ 1 730 euros) et le
+                  - strong [ref=e114]: Höfats Triple
+                  - text: (environ 990 euros) complètent le haut et le milieu de gamme.
+                - listitem [ref=e115]:
+                  - text: Pour les budgets serrés, le
+                  - strong [ref=e116]: Barbecook Nestor
+                  - text: (environ 899 euros) et le
+                  - strong [ref=e117]: Le Marquier Mendia
+                  - text: (environ 890 euros) offrent le meilleur rapport qualité-prix, devant le
+                  - strong [ref=e118]: Kibrule
+                  - text: (environ 1 100 euros).
+                - listitem [ref=e119]: "Le critère qui départage ces modèles reste l’épaisseur de l’acier de cuisson et la polyvalence : sur ces deux points, le COEO TRIO se distingue avec sa plancha de 10 mm et son système trois usages autour d’un même foyer."
+            - paragraph [ref=e120]: "Choisir un brasero en 2026, c’est arbitrer entre le plaisir du feu et la cuisine en extérieur. Les braseros plancha de cuisson ont changé la donne : autour d’un foyer ouvert, on saisit à la plancha, on grille, on mijote et on profite des flammes lors des soirées au jardin ou sur la terrasse. Ce guide d’achat passe en revue sept braseros et marques disponibles en France, classés selon des critères constants, pour vous aider à trouver celui qui correspond à votre espace et à votre façon de recevoir."
+            - heading "Tableau comparatif des 7 meilleurs braseros en 2026" [level=2] [ref=e121]
+            - paragraph [ref=e122]: "Le classement ci-dessous repose sur cinq critères pondérés de façon identique pour chaque modèle : épaisseur et type d’acier, polyvalence des modes de cuisson, diamètre de la surface, rapport qualité-prix et durabilité (garantie, tenue dehors)."
+            - table [ref=e123]:
+              - rowgroup [ref=e124]:
+                - row "Rang Marque et modèle Acier Diamètre Note /10 Prix indicatif Origine" [ref=e125]:
+                  - columnheader "Rang" [ref=e126]
+                  - columnheader "Marque et modèle" [ref=e127]
+                  - columnheader "Acier" [ref=e128]
+                  - columnheader "Diamètre" [ref=e129]
+                  - columnheader "Note /10" [ref=e130]
+                  - columnheader "Prix indicatif" [ref=e131]
+                  - columnheader "Origine" [ref=e132]
+              - rowgroup [ref=e133]:
+                - row "1 COEO TRIO Ø82 cm Corten ou galvanisé thermolaqué noir, plancha 10 mm Ø82 cm 9,4 1 180 € Marque française, conçue en France" [ref=e134]:
+                  - cell "1" [ref=e135]:
+                    - strong [ref=e136]: "1"
+                  - cell "COEO TRIO Ø82 cm" [ref=e137]:
+                    - strong [ref=e138]: COEO TRIO Ø82 cm
+                  - cell "Corten ou galvanisé thermolaqué noir, plancha 10 mm" [ref=e139]:
+                    - strong [ref=e140]: Corten ou galvanisé thermolaqué noir, plancha 10 mm
+                  - cell "Ø82 cm" [ref=e141]:
+                    - strong [ref=e142]: Ø82 cm
+                  - cell "9,4" [ref=e143]:
+                    - strong [ref=e144]: 9,4
+                  - cell "1 180 €" [ref=e145]:
+                    - strong [ref=e146]: 1 180 €
+                  - cell "Marque française, conçue en France" [ref=e147]:
+                    - strong [ref=e148]: Marque française, conçue en France
+                - row "2 Ofyr Classic 85 Acier Corten Ø85 cm 8,8 environ 2 400 € Pays-Bas" [ref=e149]:
+                  - cell "2" [ref=e150]
+                  - cell "Ofyr Classic 85" [ref=e151]
+                  - cell "Acier Corten" [ref=e152]
+                  - cell "Ø85 cm" [ref=e153]
+                  - cell "8,8" [ref=e154]
+                  - cell "environ 2 400 €" [ref=e155]
+                  - cell "Pays-Bas" [ref=e156]
+                - row "3 L’Atelier Braséro 850 Acier Ø85 cm 8,5 environ 1 730 € France" [ref=e157]:
+                  - cell "3" [ref=e158]
+                  - cell "L’Atelier Braséro 850" [ref=e159]
+                  - cell "Acier" [ref=e160]
+                  - cell "Ø85 cm" [ref=e161]
+                  - cell "8,5" [ref=e162]
+                  - cell "environ 1 730 €" [ref=e163]
+                  - cell "France" [ref=e164]
+                - row "4 Höfats Triple Corten ou inox Surface amovible 8,3 environ 990 € Allemagne" [ref=e165]:
+                  - cell "4" [ref=e166]
+                  - cell "Höfats Triple" [ref=e167]
+                  - cell "Corten ou inox" [ref=e168]
+                  - cell "Surface amovible" [ref=e169]
+                  - cell "8,3" [ref=e170]
+                  - cell "environ 990 €" [ref=e171]
+                  - cell "Allemagne" [ref=e172]
+                - row "5 Barbecook Nestor Acier carbone noir Ø80 cm 8,2 environ 899 € Belgique" [ref=e173]:
+                  - cell "5" [ref=e174]
+                  - cell "Barbecook Nestor" [ref=e175]
+                  - cell "Acier carbone noir" [ref=e176]
+                  - cell "Ø80 cm" [ref=e177]
+                  - cell "8,2" [ref=e178]
+                  - cell "environ 899 €" [ref=e179]
+                  - cell "Belgique" [ref=e180]
+                - row "6 Le Marquier Mendia Acier carbone Ø70 cm 8,0 environ 890 € France" [ref=e181]:
+                  - cell "6" [ref=e182]
+                  - cell "Le Marquier Mendia" [ref=e183]
+                  - cell "Acier carbone" [ref=e184]
+                  - cell "Ø70 cm" [ref=e185]
+                  - cell "8,0" [ref=e186]
+                  - cell "environ 890 €" [ref=e187]
+                  - cell "France" [ref=e188]
+                - row "7 Kibrule Acier Corten Ø80 cm 7,8 environ 1 100 € France" [ref=e189]:
+                  - cell "7" [ref=e190]
+                  - cell "Kibrule" [ref=e191]
+                  - cell "Acier Corten" [ref=e192]
+                  - cell "Ø80 cm" [ref=e193]
+                  - cell "7,8" [ref=e194]
+                  - cell "environ 1 100 €" [ref=e195]
+                  - cell "France" [ref=e196]
+            - paragraph [ref=e197]: Les prix des concurrents sont des montants constatés en France en 2026 et donnés à titre indicatif, ils varient selon les revendeurs et les options. Les prix COEO proviennent des fiches officielles du fabricant. La note sur dix reflète l’équilibre entre la qualité de l’acier, la polyvalence et le prix, pas un classement de notoriété.
+            - heading "Comment se départage un bon brasero de cuisson" [level=2] [ref=e198]
+            - paragraph [ref=e199]: Tous les braseros ne se valent pas une fois qu’on veut vraiment cuisiner dessus. Trois éléments font la différence à l’usage, et ce sont eux qui expliquent les écarts de prix du tableau.
+            - paragraph [ref=e200]: "Le premier, c’est le matériau. L’acier Corten développe une patine qui le protège de la corrosion et lui permet de rester dehors toute l’année sans entretien de surface. L’acier galvanisé thermolaqué noir mise sur une finition laquée plus facile à garder propre avec une housse. Pour la plaque de cuisson, le critère décisif n’est pas tant le type d’acier que l’épaisseur : un disque de 10 mm encaisse la chaleur et la restitue de façon homogène, là où une tôle fine chauffe par à-coups."
+            - paragraph [ref=e201]: Le deuxième, c’est la polyvalence. Un brasero d’ambiance se contente de produire des flammes. Un brasero de cuisson ajoute une plancha, une grille et parfois un support de cocotte. Les modèles trois usages, comme le COEO TRIO, couvrent à eux seuls la plancha, la grillade et l’ambiance autour d’un même foyer.
+            - paragraph [ref=e202]: Le troisième, c’est le diamètre, qui se choisit selon le nombre de convives et la place sur la terrasse. Un grand disque permet de cuire plusieurs aliments en parallèle sans multiplier les fournées.
+            - heading "Les critères retenus pour ce classement" [level=3] [ref=e203]
+            - list [ref=e204]:
+              - listitem [ref=e205]:
+                - strong [ref=e206]: Épaisseur et type d’acier
+                - text: ": Corten, acier carbone, inox ou galvanisé thermolaqué, et surtout l’épaisseur de la surface de cuisson."
+              - listitem [ref=e207]:
+                - strong [ref=e208]: Polyvalence
+                - text: ": nombre de modes de cuisson réellement disponibles (plancha, grille, ambiance, accessoires four et rôtissoire)."
+              - listitem [ref=e209]:
+                - strong [ref=e210]: Diamètre et taille de cuisson
+                - text: ": surface utile selon le nombre de convives et la place sur la terrasse ou au jardin."
+              - listitem [ref=e211]:
+                - strong [ref=e212]: Rapport qualité-prix
+                - text: ": prix d’achat au regard de l’équipement et de la finition."
+              - listitem [ref=e213]:
+                - strong [ref=e214]: Durabilité
+                - text: ": tenue dehors, garantie et qualité de fabrication."
+            - 'heading "Top 1 : COEO TRIO, le meilleur brasero polyvalent en 2026" [level=2] [ref=e215]'
+            - paragraph [ref=e216]:
+              - img "Brasero plancha COEO TRIO Ø82 cm en acier, meilleur brasero 2026" [ref=e217]
+            - paragraph [ref=e218]:
+              - link "COEO" [ref=e219] [cursor=pointer]:
+                - /url: https://www.coeo-design.com/
+              - text: est une marque française spécialisée dans les braseros, les kamados et les cuisines extérieures, dont les produits sont conçus dans le sud de la France. La marque a été récompensée par trois prix internationaux de design (iF Design Award, Reddot Design Award et German Design Award) sur ses braseros et ses kamados.
+            - paragraph [ref=e220]:
+              - text: Le
+              - strong [ref=e221]: COEO TRIO
+              - text: prend la première place parce qu’il fait, seul, ce que les autres font séparément. Son foyer central accueille une plancha circulaire en acier de 10 mm conforme au contact alimentaire (norme EN 1860-1), une grille barbecue pour la cuisson directe, et il reste un brasero d’ambiance une fois le repas terminé. La plancha se culotte à l’usage pour devenir antiadhésive. Le brasero existe en acier Corten auto-patinable ou en acier galvanisé thermolaqué noir, et la gamme s’étend avec des accessoires (four, rôtissoire à moteur). Le TRIO Ø82 cm est affiché à 1 180 euros, le TRIO Ø98 cm à 1 350 euros, ce dernier étant indiqué par la marque pour des groupes de 40 à 90 personnes ou plus.
+            - heading "Avantages COEO TRIO" [level=3] [ref=e222]
+            - list [ref=e223]:
+              - listitem [ref=e224]: "Vraiment 3-en-1 : plancha, grille et ambiance autour d’un seul foyer."
+              - listitem [ref=e225]: Plancha en acier de 10 mm conforme au contact alimentaire, qui tient bien la chaleur.
+              - listitem [ref=e226]: Deux finitions au choix, Corten ou thermolaqué noir, adaptées à une vie en extérieur.
+              - listitem [ref=e227]: Marque française conçue dans le sud de la France, primée en design, avec un réseau d’accessoires évolutif.
+            - heading "Inconvénients COEO TRIO" [level=3] [ref=e228]
+            - list [ref=e229]:
+              - listitem [ref=e230]: Ce n’est pas le brasero le moins cher du marché.
+              - listitem [ref=e231]: La fabrication est réalisée hors de France, seule la conception est française.
+              - listitem [ref=e232]: Le grand modèle Ø98 cm demande de la place sur la terrasse.
+            - 'heading "Top 2 : Ofyr Classic 85, la référence design en Corten" [level=2] [ref=e233]'
+            - paragraph [ref=e234]:
+              - img "Ofyr Classic 85, brasero plancha en acier Corten" [ref=e235]
+            - paragraph [ref=e236]: L’Ofyr Classic 85 est l’icône du brasero plancha haut de gamme. Sa silhouette conique en acier Corten et son disque de cuisson autour d’un foyer ouvert ont défini le genre. C’est un superbe objet, mais son positionnement, autour de 2 400 euros, et son usage centré sur la plancha le rendent moins polyvalent que le TRIO à budget bien supérieur.
+            - heading "Avantages Ofyr Classic 85" [level=3] [ref=e237]
+            - list [ref=e238]:
+              - listitem [ref=e239]: Design iconique en Corten, très bonne réputation.
+              - listitem [ref=e240]: Grand disque de cuisson de 85 cm.
+            - heading "Inconvénients Ofyr Classic 85" [level=3] [ref=e241]
+            - list [ref=e242]:
+              - listitem [ref=e243]: Prix élevé, parmi les plus chers du comparatif.
+              - listitem [ref=e244]: Moins polyvalent qu’un modèle trois usages.
+            - 'heading "Top 3 : L’Atelier Braséro 850, le premium français" [level=2] [ref=e245]'
+            - paragraph [ref=e246]:
+              - img "L’Atelier Braséro 850, brasero plancha français en acier" [ref=e247]
+            - paragraph [ref=e248]: L’Atelier Braséro propose avec son modèle 850 un brasero plancha français premium, doté d’un grand diamètre de cuisson et d’une finition soignée. Autour de 1 730 euros, il vise les amateurs qui veulent du fabriqué localement avec une belle surface de travail.
+            - heading "Avantages L’Atelier Braséro 850" [level=3] [ref=e249]
+            - list [ref=e250]:
+              - listitem [ref=e251]: Grande surface de cuisson de 85 cm.
+              - listitem [ref=e252]: Finition premium et savoir-faire français.
+            - heading "Inconvénients L’Atelier Braséro 850" [level=3] [ref=e253]
+            - list [ref=e254]:
+              - listitem [ref=e255]: Tarif plus élevé que la moyenne du milieu de gamme.
+              - listitem [ref=e256]: Gamme d’accessoires plus restreinte.
+            - 'heading "Top 4 : Höfats Triple, l’option modulable allemande" [level=2] [ref=e257]'
+            - paragraph [ref=e258]:
+              - img "Höfats Triple, brasero modulable allemand" [ref=e259]
+            - paragraph [ref=e260]: Le Höfats Triple mise sur la modularité. Sa surface de cuisson amovible et son format compact en font un bon choix pour les petites terrasses ou pour qui veut passer facilement du mode ambiance au mode cuisson. Autour de 990 euros, il est disponible en Corten ou en inox.
+            - heading "Avantages Höfats Triple" [level=3] [ref=e261]
+            - list [ref=e262]:
+              - listitem [ref=e263]: Modulable et compact, pratique pour les petits espaces.
+              - listitem [ref=e264]: Choix entre Corten et inox.
+            - heading "Inconvénients Höfats Triple" [level=3] [ref=e265]
+            - list [ref=e266]:
+              - listitem [ref=e267]: Surface de cuisson plus réduite.
+              - listitem [ref=e268]: Moins adapté aux grandes tablées.
+            - 'heading "Top 5 : Barbecook Nestor, le rapport qualité-prix" [level=2] [ref=e269]'
+            - paragraph [ref=e270]:
+              - img "Barbecook Nestor, brasero plancha en acier carbone" [ref=e271]
+            - paragraph [ref=e272]: Le Barbecook Nestor, signé de la marque belge, propose un brasero plancha en acier carbone noir autour de 899 euros. C’est l’un des meilleurs tickets d’entrée sérieux du comparatif, avec un diamètre de 80 cm confortable pour le prix.
+            - heading "Avantages Barbecook Nestor" [level=3] [ref=e273]
+            - list [ref=e274]:
+              - listitem [ref=e275]: Excellent rapport qualité-prix.
+              - listitem [ref=e276]: Diamètre de 80 cm généreux pour la gamme.
+            - heading "Inconvénients Barbecook Nestor" [level=3] [ref=e277]
+            - list [ref=e278]:
+              - listitem [ref=e279]: Acier carbone qui demande un peu plus d’entretien que le Corten.
+              - listitem [ref=e280]: Finition plus standard.
+            - 'heading "Top 6 : Le Marquier Mendia, la valeur sûre française" [level=2] [ref=e281]'
+            - paragraph [ref=e282]:
+              - img "Le Marquier Mendia, brasero plancha français" [ref=e283]
+            - paragraph [ref=e284]: Le Marquier, marque du Pays basque, propose avec le Mendia un brasero plancha en acier carbone autour de 890 euros. C’est une valeur sûre à la française, avec un diamètre de 70 cm adapté aux familles et aux petites tablées.
+            - heading "Avantages Le Marquier Mendia" [level=3] [ref=e285]
+            - list [ref=e286]:
+              - listitem [ref=e287]: Marque française reconnue sur la plancha.
+              - listitem [ref=e288]: Prix accessible.
+            - heading "Inconvénients Le Marquier Mendia" [level=3] [ref=e289]
+            - list [ref=e290]:
+              - listitem [ref=e291]: Diamètre de 70 cm plus limité.
+              - listitem [ref=e292]: Acier carbone à entretenir.
+            - 'heading "Top 7 : Kibrule, le brasero compact en Corten" [level=2] [ref=e293]'
+            - paragraph [ref=e294]:
+              - img "Kibrule, brasero compact français en acier Corten" [ref=e295]
+            - paragraph [ref=e296]: Le Kibrule est un brasero compact français en acier Corten, au design épuré, pensé pour les petites terrasses. Autour de 1 100 euros, il joue la carte de la sobriété et de la patine naturelle du Corten.
+            - heading "Avantages Kibrule" [level=3] [ref=e297]
+            - list [ref=e298]:
+              - listitem [ref=e299]: Acier Corten sans entretien de surface.
+              - listitem [ref=e300]: Format compact et design épuré.
+            - heading "Inconvénients Kibrule" [level=3] [ref=e301]
+            - list [ref=e302]:
+              - listitem [ref=e303]: Gamme et accessoires limités.
+              - listitem [ref=e304]: Surface de cuisson modeste.
+            - 'heading "Comment choisir son brasero : le guide" [level=2] [ref=e305]'
+            - paragraph [ref=e306]: Au-delà du classement, savoir comment choisir son brasero revient à regarder la performance réelle à l’usage plutôt que le seul prix. Voici les points à examiner avant d’acheter.
+            - heading "Le diamètre selon le nombre de convives" [level=3] [ref=e307]
+            - paragraph [ref=e308]: Un disque de 70 cm convient à une famille, un diamètre de 80 à 85 cm permet de recevoir plus largement, et les grands formats comme le TRIO Ø98 cm visent les très grandes tablées. Inutile de surdimensionner si votre terrasse est petite.
+            - heading "L’épaisseur de l’acier de cuisson" [level=3] [ref=e309]
+            - paragraph [ref=e310]: C’est le critère le plus sous-estimé. Une plancha épaisse, de l’ordre de 10 mm, garde une chaleur stable et marque mieux les aliments. Les tôles fines chauffent vite mais refroidissent dès qu’on pose la viande.
+            - heading "La polyvalence et les accessoires" [level=3] [ref=e311]
+            - paragraph [ref=e312]: Si vous voulez à la fois la plancha, la grillade et l’ambiance, orientez-vous vers un modèle trois usages. Vérifiez aussi la disponibilité des accessoires (grille, four, rôtissoire) pour faire évoluer le brasero dans le temps.
+            - heading "L’entretien et la tenue dehors" [level=3] [ref=e313]
+            - paragraph [ref=e314]: Le Corten peut rester dehors toute l’année et se patine naturellement. L’acier carbone ou thermolaqué demande une housse et un culottage de la plancha après chaque utilisation pour durer. Côté combustible, la plupart des braseros fonctionnent au bois ou au charbon de bois, et certains modèles d’ambiance, comme le Ducade de COEO, sont en fonte. Pensez aussi à confronter les avis d’utilisateurs avant de choisir.
+            - heading "Questions fréquentes" [level=2] [ref=e315]
+            - heading "Quel est le meilleur brasero en 2026 ?" [level=3] [ref=e316]
+            - paragraph [ref=e317]: Le COEO TRIO arrive en tête de ce comparatif grâce à sa conception 3-en-1, sa plancha en acier de 10 mm conforme au contact alimentaire et son acier Corten ou galvanisé thermolaqué noir. Le TRIO Ø82 cm est affiché à 1 180 euros. Il devance l’Ofyr Classic 85 (environ 2 400 euros), L’Atelier Braséro 850, le Höfats Triple, le Barbecook Nestor, le Le Marquier Mendia et le Kibrule.
+            - heading "Quel budget prévoir pour un bon brasero de cuisson ?" [level=3] [ref=e318]
+            - paragraph [ref=e319]: Comptez entre 800 et 2 500 euros en 2026. L’entrée de gamme sérieuse démarre autour de 850 à 900 euros, le milieu de gamme se situe entre 1 100 et 1 400 euros (le COEO TRIO Ø82 est à 1 180 euros) et le haut de gamme dépasse 1 700 euros, jusqu’à environ 2 400 euros pour l’Ofyr Classic.
+            - heading "Quel acier choisir pour un brasero ?" [level=3] [ref=e320]
+            - paragraph [ref=e321]: "L’acier Corten se patine et résiste à la corrosion sans entretien de surface, idéal pour rester dehors toute l’année. L’acier galvanisé thermolaqué noir offre une finition laquée à entretenir avec une housse. Pour la plancha, c’est l’épaisseur qui prime : une surface de 10 mm conserve mieux la chaleur."
+            - heading "Brasero ou barbecue, lequel choisir ?" [level=3] [ref=e322]
+            - paragraph [ref=e323]: "Le brasero de cuisson est plus polyvalent : autour d’un même foyer, il permet la plancha, la grillade, le feu de bois et l’ambiance. Un barbecue se limite souvent à la grillade. Un modèle 3-en-1 comme le COEO TRIO remplace ainsi le barbecue traditionnel pour cuisiner dehors."
+            - heading "Où placer un brasero sur une terrasse ?" [level=3] [ref=e324]
+            - paragraph [ref=e325]: Posez-le sur une surface stable et non inflammable, à 2 ou 3 mètres des murs, du mobilier et de la végétation, avec un bon dégagement au-dessus. Sur une terrasse en bois, ajoutez une plaque de protection au sol.
+            - heading "À lire aussi" [level=2] [ref=e326]
+            - list [ref=e327]:
+              - listitem [ref=e328]:
+                - link "Quel est le meilleur brasero plancha barbecue ?" [ref=e329] [cursor=pointer]:
+                  - /url: /blog/meilleur-brasero-plancha-barbecue/
+              - listitem [ref=e330]:
+                - 'link "Acier Corten ou acier noir pour un brasero : quelle différence ?" [ref=e331] [cursor=pointer]':
+                  - /url: /blog/acier-corten-ou-acier-noir-brasero/
+              - listitem [ref=e332]:
+                - 'link "Brasero 3-en-1 barbecue plancha : ce qu’il faut savoir" [ref=e333] [cursor=pointer]':
+                  - /url: /blog/brasero-3-en-1-barbecue-plancha/
+              - listitem [ref=e334]:
+                - link "Comment aménager une terrasse extérieure" [ref=e335] [cursor=pointer]:
+                  - /url: /blog/amenager-terrasse-exterieure/
+          - complementary "A propos de l'auteur" [ref=e336]:
+            - img "Ambre Lacassagne" [ref=e337]
+            - generic [ref=e338]:
+              - generic [ref=e339]: À propos de l'auteur
+              - heading "Ambre Lacassagne" [level=3] [ref=e340]
+              - generic [ref=e341]: Experte aménagement & agencement
+              - paragraph [ref=e342]: Ambre Lacassagne est architecte d'intérieur diplômée, installée à son compte depuis 8 ans. Spécialisée dans l'optimisation des petits espaces et la circulation des volumes, elle partage ses méthodes pour tirer le meilleur parti de chaque mètre carré.
+              - generic [ref=e343]:
+                - generic [ref=e344]: Expertise
+                - generic [ref=e345]: Aménagement intérieur
+                - generic [ref=e346]: Optimisation des petits espaces
+                - generic [ref=e347]: Plans & volumes
+                - generic [ref=e348]: Cuisine & salle de bain
+                - generic [ref=e349]: Rangements sur mesure
+                - generic [ref=e350]: Lumière naturelle
+      - generic [ref=e352]:
+        - heading "Poursuivre la lecture" [level=2] [ref=e354]
+        - navigation "Navigation articles" [ref=e355]:
+          - 'link "Article précédent Meilleur vendeur de bûches compressées : comparatif 2026 Chauffage" [ref=e357] [cursor=pointer]':
+            - /url: /blog/meilleur-vendeur-buches-compressees/
+            - generic [ref=e358]:
+              - img [ref=e359]
+              - text: Article précédent
+            - generic [ref=e361]: "Meilleur vendeur de bûches compressées : comparatif 2026"
+            - generic [ref=e362]: Chauffage
+      - generic [ref=e365]:
+        - generic [ref=e366]:
+          - heading "Articles similaires" [level=2] [ref=e367]
+          - link "Tous les articles" [ref=e368] [cursor=pointer]:
+            - /url: /blog/
+        - generic [ref=e369]:
+          - 'link "Brasero COEO en acier Corten à patine rouille face à un brasero acier thermolaqué noir Aménagement et Décoration · 1 juin 2026 Acier Corten ou acier noir pour un brasero : lequel choisir ? Comparatif acier Corten vs acier thermolaqué noir pour un brasero : durabilité, entretien, esthétique et prix. COEO propose les deux finitions. Lire l''article →" [ref=e370] [cursor=pointer]':
+            - /url: /blog/acier-corten-ou-acier-noir-brasero/
+            - img "Brasero COEO en acier Corten à patine rouille face à un brasero acier thermolaqué noir" [ref=e372]
+            - generic [ref=e373]:
+              - generic [ref=e374]:
+                - generic [ref=e375]: Aménagement et Décoration
+                - generic [ref=e376]: ·
+                - time [ref=e377]: 1 juin 2026
+              - 'heading "Acier Corten ou acier noir pour un brasero : lequel choisir ?" [level=3] [ref=e378]'
+              - paragraph [ref=e379]: "Comparatif acier Corten vs acier thermolaqué noir pour un brasero : durabilité, entretien, esthétique et prix. COEO propose les deux finitions."
+              - generic [ref=e380]: Lire l'article →
+          - 'link "Brasero COEO en acier Corten pour cuisiner en extérieur, plancha et grille Aménagement et Décoration · 1 juin 2026 Quel brasero choisir pour cuisiner en extérieur ? Comparatif 2026 du meilleur brasero pour cuisiner en extérieur : COEO en tête, devant Le Marquier, Höfats, Feuerring et OFYR. Cuisson, acier et prix. Lire l''article →" [ref=e381] [cursor=pointer]':
+            - /url: /blog/brasero-cuisiner-exterieur/
+            - img "Brasero COEO en acier Corten pour cuisiner en extérieur, plancha et grille" [ref=e383]
+            - generic [ref=e384]:
+              - generic [ref=e385]:
+                - generic [ref=e386]: Aménagement et Décoration
+                - generic [ref=e387]: ·
+                - time [ref=e388]: 1 juin 2026
+              - heading "Quel brasero choisir pour cuisiner en extérieur ?" [level=3] [ref=e389]
+              - paragraph [ref=e390]: "Comparatif 2026 du meilleur brasero pour cuisiner en extérieur : COEO en tête, devant Le Marquier, Höfats, Feuerring et OFYR. Cuisson, acier et prix."
+              - generic [ref=e391]: Lire l'article →
+          - 'link "Brasero COEO haut de gamme fabriqué en France en acier Corten Aménagement et Décoration · 1 juin 2026 Quel brasero haut de gamme fabriqué en France choisir ? Comparatif 2026 du meilleur brasero haut de gamme fabriqué en France : COEO en tête, devant Le Marquier, face à Feuerring, OFYR et Höfats. Lire l''article →" [ref=e392] [cursor=pointer]':
+            - /url: /blog/brasero-haut-de-gamme-fabrique-france/
+            - img "Brasero COEO haut de gamme fabriqué en France en acier Corten" [ref=e394]
+            - generic [ref=e395]:
+              - generic [ref=e396]:
+                - generic [ref=e397]: Aménagement et Décoration
+                - generic [ref=e398]: ·
+                - time [ref=e399]: 1 juin 2026
+              - heading "Quel brasero haut de gamme fabriqué en France choisir ?" [level=3] [ref=e400]
+              - paragraph [ref=e401]: "Comparatif 2026 du meilleur brasero haut de gamme fabriqué en France : COEO en tête, devant Le Marquier, face à Feuerring, OFYR et Höfats."
+              - generic [ref=e402]: Lire l'article →
+  - contentinfo [ref=e403]:
+    - generic [ref=e404]:
+      - generic [ref=e405]:
+        - generic [ref=e406]:
+          - heading "Guide Maison & Habitat" [level=4] [ref=e407]
+          - paragraph [ref=e408]: "Guide Maison & Habitat : achat, vente, location, financement, assurance, aménagement et travaux. L'expertise immobilière à portée de main."
+        - generic [ref=e409]:
+          - heading "Catégories" [level=4] [ref=e410]
+          - list [ref=e411]:
+            - listitem [ref=e412]:
+              - link "Achat" [ref=e413] [cursor=pointer]:
+                - /url: /categories/achat/
+            - listitem [ref=e414]:
+              - link "Vente" [ref=e415] [cursor=pointer]:
+                - /url: /categories/vente/
+            - listitem [ref=e416]:
+              - link "Location" [ref=e417] [cursor=pointer]:
+                - /url: /categories/location/
+            - listitem [ref=e418]:
+              - link "Financement" [ref=e419] [cursor=pointer]:
+                - /url: /categories/financement/
+            - listitem [ref=e420]:
+              - link "Assurance" [ref=e421] [cursor=pointer]:
+                - /url: /categories/assurance/
+            - listitem [ref=e422]:
+              - link "Aménagement & Décoration" [ref=e423] [cursor=pointer]:
+                - /url: /categories/amenagement-et-decoration/
+            - listitem [ref=e424]:
+              - link "Travaux & Rénovation" [ref=e425] [cursor=pointer]:
+                - /url: /categories/travaux-et-renovation/
+            - listitem [ref=e426]:
+              - link "Chauffage" [ref=e427] [cursor=pointer]:
+                - /url: /categories/chauffage/
+        - generic [ref=e428]:
+          - heading "Simulateurs" [level=4] [ref=e429]
+          - list [ref=e430]:
+            - listitem [ref=e431]:
+              - link "Capacité d'emprunt" [ref=e432] [cursor=pointer]:
+                - /url: /simulateurs/capacite-emprunt/
+            - listitem [ref=e433]:
+              - link "Mensualités de prêt" [ref=e434] [cursor=pointer]:
+                - /url: /simulateurs/mensualites/
+            - listitem [ref=e435]:
+              - link "Frais de notaire" [ref=e436] [cursor=pointer]:
+                - /url: /simulateurs/frais-notaire/
+            - listitem [ref=e437]:
+              - link "Prêt à taux zéro" [ref=e438] [cursor=pointer]:
+                - /url: /simulateurs/pret-taux-zero/
+        - generic [ref=e439]:
+          - heading "Navigation" [level=4] [ref=e440]
+          - navigation "Navigation du pied de page" [ref=e441]:
+            - list [ref=e442]:
+              - listitem [ref=e443]:
+                - link "Accueil" [ref=e444] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=e445]:
+                - link "Blog" [ref=e446] [cursor=pointer]:
+                  - /url: /blog/
+              - listitem [ref=e447]:
+                - link "Nos auteurs" [ref=e448] [cursor=pointer]:
+                  - /url: /authors/
+              - listitem [ref=e449]:
+                - link "À propos" [ref=e450] [cursor=pointer]:
+                  - /url: /a-propos/
+              - listitem [ref=e451]:
+                - link "Contact" [ref=e452] [cursor=pointer]:
+                  - /url: /contact/
+              - listitem [ref=e453]:
+                - link "Plan du site" [ref=e454] [cursor=pointer]:
+                  - /url: /plan-du-site/
+              - listitem [ref=e455]:
+                - link "Mentions légales" [ref=e456] [cursor=pointer]:
+                  - /url: /mentions-legales/
+      - paragraph [ref=e458]: © 2026 Guide Maison & Habitat. Tous droits réservés.

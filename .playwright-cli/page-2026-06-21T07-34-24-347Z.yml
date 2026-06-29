@@ -1,0 +1,8 @@
+- generic [active] [ref=e1]:
+  - link "Accéder au contenu principal" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Accéder au contenu principal
+  - banner [ref=e7]:
+    - generic [ref=e8]:
+      - img [ref=e10]
+      - img [ref=e24]

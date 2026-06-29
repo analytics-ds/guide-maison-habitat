@@ -1,0 +1,86 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - generic [ref=e9]:
+            - link "Meteoria" [ref=e11] [cursor=pointer]:
+              - /url: /dashboard
+              - img "Meteoria" [ref=e14]
+            - button "Réduire le menu" [ref=e15] [cursor=pointer]:
+              - img [ref=e16]
+          - button "AN Analytics upearly" [ref=e20] [cursor=pointer]:
+            - generic [ref=e21]:
+              - generic [ref=e22]: AN
+              - generic [ref=e23]: Analytics upearly
+            - img [ref=e24]
+          - link "Tous mes projets" [ref=e26] [cursor=pointer]:
+            - /url: /dashboard
+            - img [ref=e27]
+            - generic [ref=e29]: Tous mes projets
+          - generic [ref=e30]: projet
+          - button "quitoque.fr Quitoque France Actif 100 prompts" [ref=e33] [cursor=pointer]:
+            - generic [ref=e34]:
+              - img "quitoque.fr" [ref=e36]
+              - generic [ref=e37]:
+                - generic [ref=e38]:
+                  - generic [ref=e39]: Quitoque
+                  - img "France" [ref=e40]
+                - generic [ref=e41]:
+                  - generic [ref=e42]: Actif
+                  - generic [ref=e44]: ·
+                  - generic [ref=e45]: 100 prompts
+            - img [ref=e46]
+          - navigation [ref=e48]:
+            - generic [ref=e49]: Analytique
+            - link "Insights Moteurs IA" [ref=e50] [cursor=pointer]:
+              - /url: /projects/760/dashboard?tab=dashboard
+              - img [ref=e51]
+              - generic [ref=e53]: Insights Moteurs IA
+            - link "Notoriété de ma marque" [ref=e54] [cursor=pointer]:
+              - /url: /projects/760/dashboard?tab=notoriete-marque
+              - img [ref=e55]
+              - generic [ref=e57]: Notoriété de ma marque
+            - generic [ref=e58]: Action
+            - link "Opportunités" [ref=e59] [cursor=pointer]:
+              - /url: /projects/760/dashboard?tab=actionable
+              - img [ref=e60]
+              - generic [ref=e62]: Opportunités
+            - link "Contenu" [ref=e63] [cursor=pointer]:
+              - /url: /projects/760/dashboard?tab=content-gen
+              - img [ref=e64]
+              - generic [ref=e66]: Contenu
+            - link "Reddit" [ref=e67] [cursor=pointer]:
+              - /url: /projects/760/dashboard?tab=reddit
+              - generic [ref=e68]: Reddit
+        - button "Paramètres du projet" [ref=e71] [cursor=pointer]:
+          - img [ref=e72]
+          - generic [ref=e75]: Paramètres du projet
+          - img [ref=e76]
+        - generic [ref=e78]:
+          - generic [ref=e79]:
+            - generic [ref=e80]: Quotas
+            - link "Détail" [ref=e81] [cursor=pointer]:
+              - /url: /pricing
+          - generic [ref=e82]:
+            - generic [ref=e85]:
+              - generic [ref=e86]: Prompts
+              - generic [ref=e87]: 2 780 / 2 780
+            - generic [ref=e91]:
+              - generic [ref=e92]: Crédits
+              - generic [ref=e93]: 9 952 / 10 000
+        - button "Mon compte" [ref=e98] [cursor=pointer]:
+          - generic "AU" [ref=e99]:
+            - img "AU" [ref=e100]
+          - generic [ref=e101]:
+            - paragraph [ref=e102]: Analytics U.
+            - paragraph [ref=e103]: analytics@upearly.fr
+          - img [ref=e104]
+      - main [ref=e107]:
+        - generic [ref=e111]:
+          - heading "Loading Dashboard" [level=3] [ref=e113]
+          - paragraph [ref=e114]: Chargement des analyses du projet...
+    - button "Discuter avec Julie" [ref=e115] [cursor=pointer]
+    - button "Meteor" [ref=e118] [cursor=pointer]:
+      - img [ref=e119]
+  - alert [ref=e124]: /projects/760/dashboard?tab=reddit&id=760

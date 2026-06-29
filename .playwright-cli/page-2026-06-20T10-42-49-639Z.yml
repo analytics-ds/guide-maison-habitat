@@ -1,0 +1,438 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - 'dialog "Consent Management Platform: Personalize Your Options"':
+          - generic [ref=e2]:
+            - text: Axeptio consent
+            - checkbox [ref=e3]
+          - generic [ref=e4]:
+            - paragraph [ref=e5]: "Consent Management Platform: Personalize Your Options"
+            - paragraph [ref=e6]: Our platform empowers you to tailor and manage your privacy settings, ensuring compliance with regulations. Customize your preferences to control how your information is handled.
+        - button "Manage your preferences about cookies" [ref=e7] [cursor=pointer]:
+          - img [ref=e11]
+  - generic [ref=e14]:
+    - link "Se rendre au contenu" [ref=e15] [cursor=pointer]:
+      - /url: "#wrap"
+    - text:   
+    - banner [ref=e16]:
+      - navigation "Main" [ref=e17]:
+        - generic [ref=e18]:
+          - generic "Haut" [ref=e19]:
+            - list [ref=e21]:
+              - listitem [ref=e22]:
+                - generic [ref=e24]:
+                  - link "Facebook" [ref=e25] [cursor=pointer]:
+                    - /url: /website/social/facebook
+                    - generic [ref=e26]: 
+                  - link "Instagram" [ref=e27] [cursor=pointer]:
+                    - /url: /website/social/instagram
+                    - generic [ref=e28]: 
+                  - link "TikTok" [ref=e29] [cursor=pointer]:
+                    - /url: /website/social/tiktok
+                    - generic [ref=e30]: 
+                  - link "YouTube" [ref=e31] [cursor=pointer]:
+                    - /url: /website/social/youtube
+                    - generic [ref=e32]: 
+              - listitem [ref=e33]:
+                - generic [ref=e35]: Livraison à domicile offerte*
+              - listitem [ref=e36]:
+                - button "Français " [expanded] [ref=e38] [cursor=pointer]:
+                  - img "Français" [ref=e39]
+                  - text: 
+          - generic "milieu" [ref=e40]:
+            - generic [ref=e41]:
+              - list [ref=e42]:
+                - search [ref=e44]:
+                  - searchbox "Rechercher…" [ref=e45]
+                  - button "Rechercher" [ref=e46] [cursor=pointer]:
+                    - generic [ref=e47]: 
+              - link "Logo of COEO" [ref=e49] [cursor=pointer]:
+                - /url: /
+                - img "Logo of COEO" [ref=e50]:
+                  - img "COEO" [ref=e51]
+              - list [ref=e52]:
+                - text: 
+                - listitem [ref=e53]:
+                  - link " S'inscrire" [ref=e54] [cursor=pointer]:
+                    - /url: /web/login
+                - listitem [ref=e55]:
+                  - link "Panier de commerce électronique" [ref=e56] [cursor=pointer]:
+                    - /url: /shop/cart
+                    - generic [ref=e58]: 
+          - generic "bas" [ref=e59]:
+            - menu [ref=e61]:
+              - listitem [ref=e62]:
+                - link "Braseros " [ref=e63] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e64]:
+                - link "Kamados " [ref=e65] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e66]:
+                - link "Accessoires " [ref=e67] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e68]:
+                - link "Mobilier " [ref=e69] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e70]:
+                - link "A Propos " [ref=e71] [cursor=pointer]:
+                  - /url: "#"
+    - main [ref=e72]:
+      - generic [ref=e73]:
+        - generic [ref=e74]:
+          - list [ref=e79]:
+            - listitem [ref=e80]:
+              - link "Tous les produits" [ref=e81] [cursor=pointer]:
+                - /url: /shop
+            - listitem [ref=e82]:
+              - text: ">"
+              - link "Braseros" [ref=e83] [cursor=pointer]:
+                - /url: /shop/category/braseros-63
+            - listitem [ref=e84]:
+              - text: ">"
+              - generic [ref=e85]: Brasero TRIO Ø98cm
+          - generic [ref=e86]:
+            - generic [ref=e90]:
+              - generic [ref=e91]:
+                - img "Brasero TRIO Ø98cm" [ref=e93]
+                - img "trio-brasero-plancha-barbecue-corten-island (29).webp" [ref=e95]
+                - img "chef-xavier-mathieu-luberon-4.webp" [ref=e97]
+                - img "compc corten evier brasero coeo 1.webp" [ref=e99]
+              - generic [ref=e100]:
+                - img "brasero-plancha-barbecue-corten-1.webp" [ref=e102]
+                - img "brasero-plancha-barbecue-corten-7.webp" [ref=e104]
+                - img "brasero-plancha-barbecue-accessoires (9).webp" [ref=e106]
+                - img "visland corten evier brasero coeo 3.webp" [ref=e108]
+            - generic [ref=e111]:
+              - generic [ref=e112]:
+                - heading "Brasero TRIO Ø98cm" [level=1] [ref=e113]
+                - generic [ref=e114]:
+                  - paragraph [ref=e115]:
+                    - text: Le TRIO Ø98cm
+                    - strong [ref=e116]: brasero plancha barbecue
+                    - text: est un outil de cuisson polyvalent et performant.
+                  - paragraph [ref=e117]: Le brasero Ø98cm est le plus prisé de tous les braseros, tant des particuliers que des professionnels.
+                  - paragraph [ref=e118]:
+                    - text: Ce modèle avec une
+                    - strong [ref=e119]: plancha compact et généreuse d'un diamètre de cuisson 98cm
+                    - text: permet de préparer des repas complets pour des groupes allant de 40 personnes jusqu'à 90 personnes ou plus. Selon ce qui est cuisiné, particuliers et
+                    - strong [ref=e120]: professionnels
+                    - text: peuvent aussi l'utiliser pour davantage de convives.
+                  - paragraph [ref=e121]: Avec son système de flux d'air ("air-flow") intégré il offre un allumage facilité, une meilleure combustion, une meilleure répartition de la chaleur ainsi qu'un nettoyage simplifié.
+                  - paragraph [ref=e122]: "Existe en 2 finition :"
+                  - list [ref=e123]:
+                    - listitem [ref=e124]: acier Corten naturel
+                    - listitem [ref=e125]: acier avec thermolaquage noir
+                  - separator [ref=e126]
+              - generic [ref=e130]:
+                - generic [ref=e131]: 1 350,00 €
+                - generic [ref=e132]: (Toutes taxes comprises)
+              - list [ref=e134]:
+                - listitem [ref=e135]:
+                  - heading "Finition - Corten" [level=6] [ref=e136]:
+                    - generic [ref=e137]: Finition
+                    - generic [ref=e138]: "- Corten"
+                  - list [ref=e139]:
+                    - listitem [ref=e140]:
+                      - radio [checked] [ref=e142] [cursor=pointer]
+                    - listitem [ref=e143]:
+                      - radio [ref=e145] [cursor=pointer]
+                - listitem [ref=e146]:
+                  - heading "Hauteur" [level=6] [ref=e147]:
+                    - generic [ref=e148]: Hauteur
+                  - list [ref=e149]:
+                    - listitem [ref=e150]:
+                      - generic [ref=e152] [cursor=pointer]:
+                        - radio "100cm" [checked] [ref=e153]
+                        - generic [ref=e155]: 100cm
+                    - listitem [ref=e156]:
+                      - generic [ref=e158] [cursor=pointer]:
+                        - radio "110cm" [ref=e159]
+                        - generic [ref=e161]: 110cm
+              - generic [ref=e162]:
+                - generic [ref=e164]: "Matériau: acier corten Diamètre plancha : 98cm Hauteur totale cuisson : 100cm"
+                - generic [ref=e165]:
+                  - generic [ref=e166]:
+                    - button "Ajouter au panier" [ref=e167] [cursor=pointer]: Ajouter au panier
+                    - generic [ref=e169]:
+                      - link "Supprimer" [ref=e170] [cursor=pointer]:
+                        - /url: "#"
+                      - textbox [ref=e172]: "1"
+                      - link "Ajouter" [ref=e173] [cursor=pointer]:
+                        - /url: "#"
+                  - generic [ref=e175]:
+                    - button "Ajouter pour comparer" [ref=e176] [cursor=pointer]:
+                      - generic [ref=e178]: Ajouter pour comparer
+                    - button "Une question ?" [ref=e180] [cursor=pointer]:
+                      - generic [ref=e182]: Une question ?
+                    - button "Partager" [ref=e184] [cursor=pointer]:
+                      - generic [ref=e186]: Partager
+                    - generic "Ajouter à la liste de souhaits" [ref=e187] [cursor=pointer]:
+                      - img "Ajouter à la liste de souhaits" [ref=e188]
+                      - generic [ref=e189]: Ajouter à la liste de souhaits
+        - generic [ref=e191]:
+          - tablist [ref=e192]:
+            - listitem [ref=e193]:
+              - tab "Description" [selected] [ref=e194] [cursor=pointer]
+            - listitem [ref=e195]:
+              - tab "Spécifications" [ref=e196] [cursor=pointer]
+            - listitem [ref=e197]:
+              - tab "Documents" [ref=e198] [cursor=pointer]:
+                - generic [ref=e199]: Documents
+            - listitem [ref=e200]:
+              - tab "FAQ" [ref=e201] [cursor=pointer]
+            - listitem [ref=e202]:
+              - tab "Assemblage" [ref=e203] [cursor=pointer]
+            - listitem [ref=e204]:
+              - tab "Professionnels" [ref=e205] [cursor=pointer]
+            - listitem [ref=e206]:
+              - tab "Dimensions" [ref=e207] [cursor=pointer]
+          - generic [ref=e208]:
+            - tabpanel "Description" [ref=e209]:
+              - generic [ref=e210]:
+                - paragraph [ref=e211]:
+                  - generic [ref=e213]:
+                    - text: Le TRIO
+                    - strong [ref=e214]: brasero plancha barbecue
+                    - text: est un outil de cuisson polyvalent et performant.
+                - paragraph [ref=e215]:
+                  - generic [ref=e216]: Le brasero le plus apprécié des braseros, tant des particuliers que des professionnels.
+                - list [ref=e217]:
+                  - listitem [ref=e218]: Plancha circulaire Ø98cm - épaisseur 10mm
+                  - listitem [ref=e219]: Plancha inclinée & sans rebord extérieur
+                  - listitem [ref=e220]: "Epaisseur du foyer et support : jauge 13"
+                  - listitem [ref=e221]: "\"Air-flow\" / Flux d'air intégré"
+                  - listitem [ref=e222]: Fonctionne avec bûches de 25cm, 33cm ou 50cm
+                  - listitem [ref=e223]: Passages laboratoire EN 1860-1
+                  - listitem [ref=e224]: Acier conforme à un contact alimentaire
+                  - listitem [ref=e225]: Tests & sécurité incendie. Normes françaises et Européennes
+                - generic [ref=e226]: "⚠️ À noter pour les zones côtières : même s'ils sont réalisés avec support en acier galvanisé et thermolaqués, les braseros noirs ne sont pas les plus adaptés en bord de mer. L’air salin accélère leur corrosion, même avec traitement. Prévoir un entretien régulier ou opter pour l’acier Corten."
+                - generic [ref=e228]:
+                  - text: Afin de maintenir la finition et d’assurer une protection contre les intempéries et les UV, l’utilisation d’une
+                  - link "housse longue" [ref=e229] [cursor=pointer]:
+                    - /url: /shop/housse-protection-brasero-3000
+                  - text: est recommandée pour le brasero noir (TRIO98B2 et TRIO98B).
+                - strong [ref=e232]: "Pas de montage : pas de vis et d'outils nécessaires. Positionnez les 3 éléments les uns sur les autres. Idéal pour les professionnels chefs et traiteurs car permet de déplacer facilement le brasero sur des lieux d'événements."
+            - text:    
+        - generic [ref=e239]:
+          - generic [ref=e240]:
+            - heading "Produits alternatifs" [level=3] [ref=e241]
+            - generic [ref=e242]:
+              - button "Previous slide" [ref=e243] [cursor=pointer]:
+                - generic [ref=e244]: 
+              - button "Next slide" [disabled] [ref=e245] [cursor=pointer]:
+                - generic [ref=e246]: 
+          - generic [ref=e248]:
+            - generic [ref=e251]:
+              - link "[C-U-CORN-FT-SF] Module angle cuisine extérieure 100 cm inox 304 (SANS, LUGE)" [ref=e253] [cursor=pointer]:
+                - /url: /shop/module-angle-cuisine-exterieure-100-cm-inox-304-3790
+                - img "[C-U-CORN-FT-SF] Module angle cuisine extérieure 100 cm inox 304 (SANS, LUGE)" [ref=e255]
+              - generic [ref=e258]:
+                - link "Module angle cuisine extérieure 100 cm inox 304" [ref=e260] [cursor=pointer]:
+                  - /url: /shop/module-angle-cuisine-exterieure-100-cm-inox-304-3790
+                  - generic "Module angle cuisine extérieure 100 cm inox 304" [ref=e261]
+                - generic [ref=e263]: 2 179,90 €
+            - generic [ref=e266]:
+              - link "[TRIO82B2] Brasero TRIO Ø82cm (Noir) brasero noir coeo trio82b2" [ref=e268] [cursor=pointer]:
+                - /url: /shop/brasero-trio-82-3057
+                - img "[TRIO82B2] Brasero TRIO Ø82cm (Noir)" [ref=e270]
+                - img "brasero noir coeo trio82b2" [ref=e272]
+              - generic [ref=e275]:
+                - link "Brasero TRIO Ø82cm" [ref=e277] [cursor=pointer]:
+                  - /url: /shop/brasero-trio-82-3057
+                  - generic "Brasero TRIO Ø82cm" [ref=e278]
+                - generic [ref=e280]: 1 180,00 €
+            - generic [ref=e283]:
+              - link "[COMPB] Desserte comptoir trapèze (Noir) desserte table brasero kamado" [ref=e285] [cursor=pointer]:
+                - /url: /shop/desserte-comptoir-trapeze-3145
+                - img "[COMPB] Desserte comptoir trapèze (Noir)" [ref=e287]
+                - img "desserte table brasero kamado" [ref=e289]
+              - generic [ref=e292]:
+                - link "Desserte comptoir trapèze" [ref=e294] [cursor=pointer]:
+                  - /url: /shop/desserte-comptoir-trapeze-3145
+                  - generic "Desserte comptoir trapèze" [ref=e295]
+                - generic [ref=e297]: 1 190,00 €
+            - generic [ref=e300]:
+              - link "[VISLANDB] Desserte îlot trapèze (Noir, Sans évier) VISLANDB_2.webp" [ref=e302] [cursor=pointer]:
+                - /url: /shop/desserte-ilot-trapeze-3081
+                - img "[VISLANDB] Desserte îlot trapèze (Noir, Sans évier)" [ref=e304]
+                - img "VISLANDB_2.webp" [ref=e306]
+              - generic [ref=e309]:
+                - link "Desserte îlot trapèze" [ref=e311] [cursor=pointer]:
+                  - /url: /shop/desserte-ilot-trapeze-3081
+                  - generic "Desserte îlot trapèze" [ref=e312]
+                - generic [ref=e314]: 1 200,00 €
+            - generic [ref=e317]:
+              - link "[C-U-QUATROL] Kamado QUATRO Large 21\" Ø53cm (Sans chariot) barbecue kamado quatro large bbq" [ref=e319] [cursor=pointer]:
+                - /url: /shop/kamado-quatro-large-21-ø53cm-3167
+                - img "[C-U-QUATROL] Kamado QUATRO Large 21\" Ø53cm (Sans chariot)" [ref=e321]
+                - img "barbecue kamado quatro large bbq" [ref=e323]
+              - generic [ref=e326]:
+                - link "Kamado QUATRO Large 21\" Ø53cm" [ref=e328] [cursor=pointer]:
+                  - /url: /shop/kamado-quatro-large-21-ø53cm-3167
+                  - generic "Kamado QUATRO Large 21\" Ø53cm" [ref=e329]
+                - generic [ref=e331]: 1 249,00 €
+            - generic [ref=e334]:
+              - link "[C-U-QUATROM] Kamado QUATRO M à poser 16\" / Øint 35cm (Sans chariot) barbecue céramique kamado quatro" [ref=e336] [cursor=pointer]:
+                - /url: /shop/kamado-quatro-m-a-poser-16-øint-35cm-3164
+                - img "[C-U-QUATROM] Kamado QUATRO M à poser 16\" / Øint 35cm (Sans chariot)" [ref=e338]
+                - img "barbecue céramique kamado quatro" [ref=e340]
+              - generic [ref=e343]:
+                - link "Kamado QUATRO M à poser 16\" / Øint 35cm" [ref=e345] [cursor=pointer]:
+                  - /url: /shop/kamado-quatro-m-a-poser-16-øint-35cm-3164
+                  - generic "Kamado QUATRO M à poser 16\" / Øint 35cm" [ref=e346]
+                - generic [ref=e348]: 550,00 €
+            - generic [ref=e351]:
+              - link "[C-U-C60-FT-FRID-SF] Module cuisine extérieure 60 cm inox 304 (SANS, AVEC, SANS, LUGE)" [ref=e353] [cursor=pointer]:
+                - /url: /shop/module-cuisine-exterieure-60-cm-inox-304-3788
+                - img "[C-U-C60-FT-FRID-SF] Module cuisine extérieure 60 cm inox 304 (SANS, AVEC, SANS, LUGE)" [ref=e355]
+              - generic [ref=e358]:
+                - link "Module cuisine extérieure 60 cm inox 304" [ref=e360] [cursor=pointer]:
+                  - /url: /shop/module-cuisine-exterieure-60-cm-inox-304-3788
+                  - generic "Module cuisine extérieure 60 cm inox 304" [ref=e361]
+                - generic [ref=e363]: 1 609,90 €
+      - text: 
+    - contentinfo [ref=e364]:
+      - generic [ref=e370]:
+        - generic [ref=e371]:
+          - paragraph [ref=e372]
+          - generic [ref=e373]:
+            - link [ref=e374] [cursor=pointer]:
+              - /url: /histoirecoeo
+            - text: COEO I France I Braseros I Kamados I Barbecues gaz I Cuisines Extérieures
+            - list [ref=e375]:
+              - listitem [ref=e376]:
+                - generic [ref=e378]: 
+                - link "+ 33 (0) 4 99 74 44 74" [ref=e381] [cursor=pointer]:
+                  - /url: tel:+33(0)499744474
+              - listitem [ref=e382]:
+                - generic [ref=e384]: 
+                - link "contact@coeo-design.com" [ref=e386] [cursor=pointer]:
+                  - /url: mailto:contact@coeo-design.com
+          - generic [ref=e387]:
+            - paragraph [ref=e388]: COEO, est spécialisée en conception d'outils de cuisson ( braseros, kamados, barbecues gaz) et cuisines extérieures. Depuis 2020 COEO se positionne comme la seule marque française à offrir une expérience de cuisson en extérieur complète. Avec des produits qui allient design, ingénierie et gastronomie pouvant s’intégrer tant dans les jardins des particuliers que les cuisines des professionnels, COEO a pour mission d’offrir des produits de qualité professionnelle au prix juste.
+            - heading "ENGAGEMENTS" [level=5] [ref=e390]
+            - list [ref=e391]:
+              - listitem [ref=e392]:
+                - link "Service client basé en France" [ref=e393] [cursor=pointer]:
+                  - /url: /contactus
+              - listitem [ref=e394]:
+                - link "Livraison rapide" [ref=e395] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e396]:
+                - link "Paiement sécurité" [ref=e397] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e398]:
+                - link "Garantie et SAV" [ref=e399] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e400]:
+                - link "Politique de protection des données personnelles" [ref=e401] [cursor=pointer]:
+                  - /url: /mobilier-signature-voir-tout
+              - listitem [ref=e402]:
+                - link "Conditions générales de vente" [ref=e403] [cursor=pointer]:
+                  - /url: /conditions-generales-de-vente
+        - generic [ref=e404]:
+          - generic [ref=e407]:
+            - generic [ref=e409]:
+              - heading "Inscrivez-vous à la newsletter" [level=5] [ref=e410]
+              - paragraph [ref=e411]: Inscrivez-vous pour profiter des nouveautés en avant-première.
+            - generic [ref=e412]:
+              - paragraph
+          - generic [ref=e415]:
+            - generic [ref=e416]:
+              - heading "Braseros" [level=5] [ref=e418]
+              - list [ref=e419]:
+                - listitem [ref=e420]:
+                  - link "Braseros de cuisson" [ref=e421] [cursor=pointer]:
+                    - /url: /braseros-tous-les-braseros-voir-tout
+                - listitem [ref=e422]:
+                  - link "Accessoires braseros" [ref=e423] [cursor=pointer]:
+                    - /url: /accessoires-braseros
+                - listitem [ref=e424]:
+                  - link "Grilles braseros" [ref=e425] [cursor=pointer]:
+                    - /url: /shop/category/grilles-braseros-123
+                - listitem [ref=e426]:
+                  - link "Rôtissoires braseros" [ref=e427] [cursor=pointer]:
+                    - /url: /shop/category/rotissoires-braseros-137
+                - listitem [ref=e428]:
+                  - link "Recettes braseros" [ref=e429] [cursor=pointer]:
+                    - /url: /blog/recettes-coeo-6/tag/recettes-braseros-5
+            - generic [ref=e430]:
+              - heading "Kamados" [level=5] [ref=e432]
+              - list [ref=e433]:
+                - listitem [ref=e434]:
+                  - link "Kamados" [ref=e435] [cursor=pointer]:
+                    - /url: /kamados-tous-les-kamados-voir-tout
+                - listitem [ref=e436]:
+                  - link "Accessoires kamados" [ref=e437] [cursor=pointer]:
+                    - /url: /kamados-tous-les-accessoires-voir-tout
+                - listitem [ref=e438]:
+                  - link "Grilles kamados" [ref=e439] [cursor=pointer]:
+                    - /url: /shop/category/grilles-kamados-135
+                - listitem [ref=e440]:
+                  - link "Fumage au kamado" [ref=e441] [cursor=pointer]:
+                    - /url: /shop/category/accessoires-fumage-kamados-85
+                - listitem [ref=e442]:
+                  - link "Recettes kamados" [ref=e443] [cursor=pointer]:
+                    - /url: /blog/recettes-coeo-6/tag/recettes-kamados-1
+            - generic [ref=e444]:
+              - heading "Barbecues" [level=5] [ref=e446]
+              - list [ref=e447]:
+                - listitem [ref=e448]:
+                  - link "Barbecues à gaz Alto" [ref=e449] [cursor=pointer]:
+                    - /url: /barbecue-alto
+                - listitem [ref=e450]:
+                  - link "Accessoires Alto" [ref=e451] [cursor=pointer]:
+                    - /url: /accessoires-barbecue-gaz-alto
+                - listitem [ref=e452]: Barbecues japonais
+                - listitem [ref=e453]:
+                  - link "Grilles barbecues japonais" [ref=e454] [cursor=pointer]:
+                    - /url: /shop/category/grilles-barbecue-japonais-138
+            - generic [ref=e455]:
+              - heading "Cuisines extérieures" [level=5] [ref=e457]
+              - list [ref=e458]:
+                - listitem [ref=e459]:
+                  - link "Dessertes braseros" [ref=e460] [cursor=pointer]:
+                    - /url: /mobilier-signature-voir-tout
+                - listitem [ref=e461]:
+                  - link "Tables kamados" [ref=e462] [cursor=pointer]:
+                    - /url: /shop/category/tables-kamados-136
+            - generic [ref=e463]:
+              - heading "Cuisiner au barbecue" [level=5] [ref=e465]
+              - list [ref=e466]:
+                - listitem [ref=e467]:
+                  - link "Accessoires barbecues" [ref=e468] [cursor=pointer]:
+                    - /url: /shop/category/accessoires-barbecues-cuisine-47
+                - listitem [ref=e469]:
+                  - link "Ustensiles barbecues" [ref=e470] [cursor=pointer]:
+                    - /url: /shop/category/pinces-spatules-86
+                - listitem [ref=e471]:
+                  - link "Epices et rubs" [ref=e472] [cursor=pointer]:
+                    - /url: /shop/category/epices-rubs-78
+            - generic [ref=e473]:
+              - heading "A propos de COEO" [level=5] [ref=e475]
+              - list [ref=e476]:
+                - listitem [ref=e477]:
+                  - link "Histoire de la Marque COEO" [ref=e478] [cursor=pointer]:
+                    - /url: /histoirecoeo
+                - listitem [ref=e479]:
+                  - link "Nos reportages" [ref=e480] [cursor=pointer]:
+                    - /url: /reportages
+                - listitem [ref=e481]:
+                  - link "Blog COEO" [ref=e482] [cursor=pointer]:
+                    - /url: https://coeo-design.com/blog
+                - listitem [ref=e483]:
+                  - link "Presse et média" [ref=e484] [cursor=pointer]:
+                    - /url: /blog/presse-9
+                - listitem [ref=e485]:
+                  - link "Instagram" [ref=e486] [cursor=pointer]:
+                    - /url: https://www.instagram.com/coeo_design/
+              - paragraph [ref=e487]
+      - button "" [ref=e488] [cursor=pointer]:
+        - generic [ref=e489]: 
+      - generic [ref=e493]:
+        - generic [ref=e494]:
+          - text: Copyright © 2026 COEO. Dessins modèles déposés. Marques déposées. Tous droits réservés.
+          - link "Mentions légales." [ref=e495] [cursor=pointer]:
+            - /url: /mentions-legales
+        - button "Français " [expanded] [ref=e497] [cursor=pointer]

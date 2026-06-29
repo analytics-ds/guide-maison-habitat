@@ -1,0 +1,737 @@
+- generic [active] [ref=e1]:
+  - link "Accéder au contenu principal" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Accéder au contenu principal
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: Reddit - Le cœur d’Internet
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - link "Accueil" [ref=e15] [cursor=pointer]:
+            - /url: https://www.reddit.com/
+            - img [ref=e17]
+          - search [ref=e34]:
+            - generic [ref=e36]:
+              - img [ref=e38]
+              - textbox "Demander" [ref=e59]:
+                - /placeholder: Trouve tout et n’importe quoi
+              - separator [ref=e60]
+              - link "Demander" [ref=e64] [cursor=pointer]:
+                - /url: /answers/
+                - generic [ref=e65]:
+                  - img [ref=e67]
+                  - generic [ref=e69]: Demander
+              - generic: Trouve tout et n’importe quoi
+          - generic [ref=e70]:
+            - generic [ref=e71]:
+              - button "Traductions activées" [ref=e79] [cursor=pointer]:
+                - img [ref=e82]
+              - link "Faire de la publicité sur reddit" [ref=e89] [cursor=pointer]:
+                - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=nav_cta
+                - img [ref=e92]
+                - generic [ref=e94]:
+                  - generic: Faire de la publicité sur reddit
+              - generic [ref=e97]:
+                - button "Ouvrir la discussion" [ref=e100] [cursor=pointer]:
+                  - img [ref=e103]
+                  - generic [ref=e105]:
+                    - generic: Ouvrir la discussion
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: "1"
+              - link "Créer une publication" [ref=e110] [cursor=pointer]:
+                - /url: /submit
+                - generic [ref=e111]:
+                  - img [ref=e113]
+                  - generic [ref=e115]: Créer
+                - generic [ref=e116]:
+                  - generic: Créer une publication
+              - generic [ref=e118]:
+                - link "Ouvrir la boîte de réception" [ref=e121] [cursor=pointer]:
+                  - /url: /notifications
+                  - img [ref=e124]
+                  - generic [ref=e126]:
+                    - generic: Ouvrir la boîte de réception
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: "49"
+            - button "Avatar de membre Agrandir le menu" [ref=e131] [cursor=pointer]:
+              - img "Avatar de membre" [ref=e139]
+              - generic [ref=e141]:
+                - generic: Agrandir le menu
+      - generic [ref=e142]:
+        - generic [ref=e143]:
+          - generic [ref=e144]:
+            - generic:
+              - generic:
+                - link "Skip to Navigation" [ref=e145] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e146] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e147]:
+            - main [ref=e148]:
+              - generic "Reddit - Le cœur d’Internet"
+              - generic [ref=e151]:
+                - generic "Trier par" [ref=e155]:
+                  - 'button "Trier par: Meilleurs" [ref=e157] [cursor=pointer]':
+                    - generic [ref=e159]: Meilleurs
+                - generic "Vue" [ref=e165]:
+                  - 'button "Afficher : Carte" [ref=e167] [cursor=pointer]'
+              - separator [ref=e173]
+              - generic [ref=e175]:
+                - heading "Flux" [level=1] [ref=e177]
+                - generic:
+                  - article "Qu'est ce qu'une femme vous à déjà fait pour vous mettre au plus bas ?" [ref=e178]:
+                    - generic [ref=e179] [cursor=pointer]:
+                      - link "Qu'est ce qu'une femme vous à déjà fait pour vous mettre au plus bas ?" [ref=e180]:
+                        - /url: https://www.reddit.com/r/AskMec/comments/1u8jyhi/quest_ce_quune_femme_vous_à_déjà_fait_pour_vous/
+                        - generic [ref=e181]:
+                          - generic: Qu'est ce qu'une femme vous à déjà fait pour vous mettre au plus bas ?
+                      - generic [ref=e182]:
+                        - generic [ref=e183]:
+                          - link "r/AskMec" [ref=e186]:
+                            - /url: https://www.reddit.com/r/AskMec/
+                            - generic [ref=e190]: r/AskMec
+                          - generic [ref=e191]: •
+                          - time [ref=e193]: il y a 4 j
+                          - generic [ref=e194]: •
+                          - paragraph [ref=e196]: Parce que tu as manifesté de l’intérêt pour une communauté similaire
+                        - generic [ref=e197]:
+                          - button "Rejoindre" [ref=e199]
+                          - button "Ouvrir les actions de membre" [ref=e204]:
+                            - img [ref=e207]
+                      - generic [ref=e210]:
+                        - heading "Qu'est ce qu'une femme vous à déjà fait pour vous mettre au plus bas ?" [level=2] [ref=e211]:
+                          - link "Qu'est ce qu'une femme vous à déjà fait pour vous mettre au plus bas ?" [ref=e212]:
+                            - /url: https://www.reddit.com/r/AskMec/comments/1u8jyhi/quest_ce_quune_femme_vous_à_déjà_fait_pour_vous/
+                            - text: Qu'est ce qu'une femme vous à déjà fait pour vous mettre au plus bas ?
+                        - generic [ref=e213]:
+                          - generic:
+                            - link "Je me pose cette question par curiosité et parce que j'aimerais comprendre les expériences des hommes. Quelle est la chose qu'une femme a déjà faite (ex, petite amie, ex, amie, membre de votre famille, collègue, etc.) qui vous a le plus blessé émotionnellement ou qui vous a fait toucher le fond ? Comment avez-vous vécu la situation?":
+                              - /url: /r/AskMec/comments/1u8jyhi/quest_ce_quune_femme_vous_à_déjà_fait_pour_vous/
+                              - generic:
+                                - generic:
+                                  - paragraph: Je me pose cette question par curiosité et parce que j'aimerais comprendre les expériences des hommes.
+                                  - paragraph: Quelle est la chose qu'une femme a déjà faite (ex, petite amie, ex, amie, membre de votre famille, collègue, etc.) qui vous a le plus blessé émotionnellement ou qui vous a fait toucher le fond ?
+                                  - paragraph: Comment avez-vous vécu la situation?
+                      - generic "Actions disponibles pour cette publication" [ref=e215]:
+                        - generic [ref=e218]:
+                          - button "Upvote" [ref=e219]:
+                            - img [ref=e221]
+                            - generic [ref=e223]:
+                              - generic: Upvote
+                          - generic [ref=e225]: "65"
+                          - button "Downvote" [ref=e226]:
+                            - img [ref=e228]
+                            - generic [ref=e230]:
+                              - generic: Downvote
+                        - link "441 Accéder aux commentaires" [ref=e231]:
+                          - /url: /r/AskMec/comments/1u8jyhi/quest_ce_quune_femme_vous_à_déjà_fait_pour_vous/
+                          - generic [ref=e232]:
+                            - img [ref=e234]
+                            - generic [ref=e237]: "441"
+                          - generic [ref=e238]:
+                            - generic: Accéder aux commentaires
+                        - button "Décerner une récompense" [ref=e240]:
+                          - img [ref=e243]
+                        - button "Partager" [ref=e248]:
+                          - generic [ref=e249]:
+                            - img [ref=e251]
+                            - generic [ref=e253]: Partager
+                  - separator [ref=e254]
+                  - generic [ref=e255]:
+                    - 'generic "Advertisement: Notre équipement de trail running est conçu pour avancer sans hésitation : des matériaux résistants qui sèchent rapidement et des coupes pensées pour une totale liberté de mouvement." [ref=e256]':
+                      - 'link "Advertisement: Notre équipement de trail running est conçu pour avancer sans hésitation : des matériaux résistants qui sèchent rapidement et des coupes pensées pour une totale liberté de mouvement." [ref=e257] [cursor=pointer]':
+                        - /url: https://alb.reddit.com/cr?za=h8LMGOQoYTNShzoRDScO2tqv5bkFjfpZgZDnaovuVXIg5AHzkj9nz2A9rLE-z3kv7tLSHB7feXM48XkpEIiU5EsgATWZJa7c352SxVx2i6hRlLM-rUbQR0te7gC06rEF-gqMBKnvRvxQbp2-h7AvfYURyDKc7Gbb2sROjbeSkEwSSGIpxeLe4oM7IBMnxH83zKjFwDOzJotxm40LPN9j2AlTTQGE6h0K3vmScOaYbUvVS_pji_GdHZPE4eOat7RH7twGleVrdIHuY4lsTCqKl8jXQqPYCUD8PM943oyEROP_ho0A4rmT1IZGRBCCY4n0gNeZ_YgU4Ya4Yd_5I96LqJae4VE7zGmqZ_fKmJ76aNrsGtFsb5czLSJvOOMEv7WOCWODcl4WkhwgEtHsx1qegmL5pm069IQoJtF3ngr_0plVNWOIGQxQuIz5PXFIKFYSi0dXWskXuIT7FIBvFogBX495L5qsuMG4jeLHsdi_IZxYRzd1PiRNurfS_hPTc0WvakxcgpZgJBFstnyKZqh3CnyfLCvPN7nLBAfOsmlB5egU0b3tjdww-JHVfwod5w0Nm3kue1Roa4lKgf1xif5XDkrpyPHg_hAqWgo0AuzvvkhfSA8DUWu4MOWYWypQB5Zmlse08VaWVXVLoRo4NwsBSGeNdLgbx8KgIYZMO_yw4WEu2CHcvkWv2XKf9H0Bcp4MWXYGg5j5Guo1T6yk3MjvuenaZGGmyHsJaPOWh1yyhb2CXm7UQFJ6&zp=YVADxTYuw0AfC8KnsKVRR6nS8Vy9qlw7qVj9M5WPGlOETRSIeS_37lWlgoYHNDYLwMMm4f7HjYvUQSWP3UnreKnCQPYVRQHIdEl7j0OARz6MPfCZjhIcj_4pb25hLSUIaUqvvgX82He3B_8y6FbPM-MBd084mydj9s2ALQObalLmUzl7AbwILnDrCQbEDrpN4V3uW3RL9qLGCgUDQb3fi4BMzz0o7p4eAfYIYoh3HHcjB_HwIo2AYcniBB5iTzbgDJDwPqTBGoNcIikgHgLS2XPqHxOoHdXLs5dJnsfGdSTsRILkgc77_pm4SXk7P_K1A00GOWXPC2ghlHd6Hkujf1hXmRMNIue7f1XeS75oNy3d_LW2Cy1HiKX5RNzg8NP4zWYs4GyhSMcbGlIdTlvAB4Ymcg_dHDiIK6Hx5bTvu2LGJqLHK6Oyg3UYVye3NDYG16hTCHQoXFOd4N4FUb2_bHaYLvDp99_ScfTUWWCtAzwQ8Lr4Zh9nClMbp3GVfNLoSjnzsaNXpyxM64P0nDWy_-V0-Cju
+                    - generic [ref=e258]:
+                      - generic [ref=e259]:
+                        - link "avatar u/Patagonia_Europe u/Patagonia_Europe" [ref=e262] [cursor=pointer]:
+                          - /url: /user/Patagonia_Europe/
+                          - img "avatar u/Patagonia_Europe" [ref=e265]
+                          - generic [ref=e266]: u/Patagonia_Europe
+                        - generic [ref=e267]: •
+                        - link "Sponsorisé(e)" [ref=e269] [cursor=pointer]:
+                          - /url: /user/Patagonia_Europe/
+                          - generic [ref=e270]: Sponsorisé(e)
+                        - link [ref=e272] [cursor=pointer]:
+                          - /url: https://alb.reddit.com/cr?za=h8LMGOQoYTNShzoRDScO2tqv5bkFjfpZgZDnaovuVXIg5AHzkj9nz2A9rLE-z3kv7tLSHB7feXM48XkpEIiU5EsgATWZJa7c352SxVx2i6hRlLM-rUbQR0te7gC06rEF-gqMBKnvRvxQbp2-h7AvfYURyDKc7Gbb2sROjbeSkEwSSGIpxeLe4oM7IBMnxH83zKjFwDOzJotxm40LPN9j2AlTTQGE6h0K3vmScOaYbUvVS_pji_GdHZPE4eOat7RH7twGleVrdIHuY4lsTCqKl8jXQqPYCUD8PM943oyEROP_ho0A4rmT1IZGRBCCY4n0gNeZ_YgU4Ya4Yd_5I96LqJae4VE7zGmqZ_fKmJ76aNrsGtFsb5czLSJvOOMEv7WOCWODcl4WkhwgEtHsx1qegmL5pm069IQoJtF3ngr_0plVNWOIGQxQuIz5PXFIKFYSi0dXWskXuIT7FIBvFogBX495L5qsuMG4jeLHsdi_IZxYRzd1PiRNurfS_hPTc0WvakxcgpZgJBFstnyKZqh3CnyfLCvPN7nLBAfOsmlB5egU0b3tjdww-JHVfwod5w0Nm3kue1Roa4lKgf1xif5XDkrpyPHg_hAqWgo0AuzvvkhfSA8DUWu4MOWYWypQB5Zmlse08VaWVXVLoRo4NwsBSGeNdLgbx8KgIYZMO_yw4WEu2CHcvkWv2XKf9H0Bcp4MWXYGg5j5Guo1T6yk3MjvuenaZGGmyHsJaPOWh1yyhb2CXm7UQFJ6&zp=YVADxTYuw0AfC8KnsKVRR6nS8Vy9qlw7qVj9M5WPGlOETRSIeS_37lWlgoYHNDYLwMMm4f7HjYvUQSWP3UnreKnCQPYVRQHIdEl7j0OARz6MPfCZjhIcj_4pb25hLSUIaUqvvgX82He3B_8y6FbPM-MBd084mydj9s2ALQObalLmUzl7AbwILnDrCQbEDrpN4V3uW3RL9qLGCgUDQb3fi4BMzz0o7p4eAfYIYoh3HHcjB_HwIo2AYcniBB5iTzbgDJDwPqTBGoNcIikgHgLS2XPqHxOoHdXLs5dJnsfGdSTsRILkgc77_pm4SXk7P_K1A00GOWXPC2ghlHd6Hkujf1hXmRMNIue7f1XeS75oNy3d_LW2Cy1HiKX5RNzg8NP4zWYs4GyhSMcbGlIdTlvAB4Ymcg_dHDiIK6Hx5bTvu2LGJqLHK6Oyg3UYVye3NDYG16hTCHQoXFOd4N4FUb2_bHaYLvDp99_ScfTUWWCtAzwQ8Lr4Zh9nClMbp3GVfNLoSjnzsaNXpyxM64P0nDWy_-V0-Cju
+                      - button "Ouvrir les actions de membre" [ref=e277] [cursor=pointer]:
+                        - img [ref=e280]
+                    - 'heading "Notre équipement de trail running est conçu pour avancer sans hésitation : des matériaux résistants qui sèchent rapidement et des coupes pensées pour une totale liberté de mouvement." [level=2] [ref=e284]':
+                      - 'link "Notre équipement de trail running est conçu pour avancer sans hésitation : des matériaux résistants qui sèchent rapidement et des coupes pensées pour une totale liberté de mouvement." [ref=e287] [cursor=pointer]':
+                        - /url: https://alb.reddit.com/cr?za=h8LMGOQoYTNShzoRDScO2tqv5bkFjfpZgZDnaovuVXIg5AHzkj9nz2A9rLE-z3kv7tLSHB7feXM48XkpEIiU5EsgATWZJa7c352SxVx2i6hRlLM-rUbQR0te7gC06rEF-gqMBKnvRvxQbp2-h7AvfYURyDKc7Gbb2sROjbeSkEwSSGIpxeLe4oM7IBMnxH83zKjFwDOzJotxm40LPN9j2AlTTQGE6h0K3vmScOaYbUvVS_pji_GdHZPE4eOat7RH7twGleVrdIHuY4lsTCqKl8jXQqPYCUD8PM943oyEROP_ho0A4rmT1IZGRBCCY4n0gNeZ_YgU4Ya4Yd_5I96LqJae4VE7zGmqZ_fKmJ76aNrsGtFsb5czLSJvOOMEv7WOCWODcl4WkhwgEtHsx1qegmL5pm069IQoJtF3ngr_0plVNWOIGQxQuIz5PXFIKFYSi0dXWskXuIT7FIBvFogBX495L5qsuMG4jeLHsdi_IZxYRzd1PiRNurfS_hPTc0WvakxcgpZgJBFstnyKZqh3CnyfLCvPN7nLBAfOsmlB5egU0b3tjdww-JHVfwod5w0Nm3kue1Roa4lKgf1xif5XDkrpyPHg_hAqWgo0AuzvvkhfSA8DUWu4MOWYWypQB5Zmlse08VaWVXVLoRo4NwsBSGeNdLgbx8KgIYZMO_yw4WEu2CHcvkWv2XKf9H0Bcp4MWXYGg5j5Guo1T6yk3MjvuenaZGGmyHsJaPOWh1yyhb2CXm7UQFJ6&zp=YVADxTYuw0AfC8KnsKVRR6nS8Vy9qlw7qVj9M5WPGlOETRSIeS_37lWlgoYHNDYLwMMm4f7HjYvUQSWP3UnreKnCQPYVRQHIdEl7j0OARz6MPfCZjhIcj_4pb25hLSUIaUqvvgX82He3B_8y6FbPM-MBd084mydj9s2ALQObalLmUzl7AbwILnDrCQbEDrpN4V3uW3RL9qLGCgUDQb3fi4BMzz0o7p4eAfYIYoh3HHcjB_HwIo2AYcniBB5iTzbgDJDwPqTBGoNcIikgHgLS2XPqHxOoHdXLs5dJnsfGdSTsRILkgc77_pm4SXk7P_K1A00GOWXPC2ghlHd6Hkujf1hXmRMNIue7f1XeS75oNy3d_LW2Cy1HiKX5RNzg8NP4zWYs4GyhSMcbGlIdTlvAB4Ymcg_dHDiIK6Hx5bTvu2LGJqLHK6Oyg3UYVye3NDYG16hTCHQoXFOd4N4FUb2_bHaYLvDp99_ScfTUWWCtAzwQ8Lr4Zh9nClMbp3GVfNLoSjnzsaNXpyxM64P0nDWy_-V0-Cju
+                        - generic: "Notre équipement de trail running est conçu pour avancer sans hésitation : des matériaux résistants qui sèchent rapidement et des coupes pensées pour une totale liberté de mouvement."
+                    - generic [ref=e288]:
+                      - 'link "Notre équipement de trail running est conçu pour avancer sans hésitation : des matériaux résistants qui sèchent rapidement et des coupes pensées pour une totale liberté de mouvement." [ref=e292] [cursor=pointer]':
+                        - /url: https://alb.reddit.com/cr?za=h8LMGOQoYTNShzoRDScO2tqv5bkFjfpZgZDnaovuVXIg5AHzkj9nz2A9rLE-z3kv7tLSHB7feXM48XkpEIiU5EsgATWZJa7c352SxVx2i6hRlLM-rUbQR0te7gC06rEF-gqMBKnvRvxQbp2-h7AvfYURyDKc7Gbb2sROjbeSkEwSSGIpxeLe4oM7IBMnxH83zKjFwDOzJotxm40LPN9j2AlTTQGE6h0K3vmScOaYbUvVS_pji_GdHZPE4eOat7RH7twGleVrdIHuY4lsTCqKl8jXQqPYCUD8PM943oyEROP_ho0A4rmT1IZGRBCCY4n0gNeZ_YgU4Ya4Yd_5I96LqJae4VE7zGmqZ_fKmJ76aNrsGtFsb5czLSJvOOMEv7WOCWODcl4WkhwgEtHsx1qegmL5pm069IQoJtF3ngr_0plVNWOIGQxQuIz5PXFIKFYSi0dXWskXuIT7FIBvFogBX495L5qsuMG4jeLHsdi_IZxYRzd1PiRNurfS_hPTc0WvakxcgpZgJBFstnyKZqh3CnyfLCvPN7nLBAfOsmlB5egU0b3tjdww-JHVfwod5w0Nm3kue1Roa4lKgf1xif5XDkrpyPHg_hAqWgo0AuzvvkhfSA8DUWu4MOWYWypQB5Zmlse08VaWVXVLoRo4NwsBSGeNdLgbx8KgIYZMO_yw4WEu2CHcvkWv2XKf9H0Bcp4MWXYGg5j5Guo1T6yk3MjvuenaZGGmyHsJaPOWh1yyhb2CXm7UQFJ6&zp=YVADxTYuw0AfC8KnsKVRR6nS8Vy9qlw7qVj9M5WPGlOETRSIeS_37lWlgoYHNDYLwMMm4f7HjYvUQSWP3UnreKnCQPYVRQHIdEl7j0OARz6MPfCZjhIcj_4pb25hLSUIaUqvvgX82He3B_8y6FbPM-MBd084mydj9s2ALQObalLmUzl7AbwILnDrCQbEDrpN4V3uW3RL9qLGCgUDQb3fi4BMzz0o7p4eAfYIYoh3HHcjB_HwIo2AYcniBB5iTzbgDJDwPqTBGoNcIikgHgLS2XPqHxOoHdXLs5dJnsfGdSTsRILkgc77_pm4SXk7P_K1A00GOWXPC2ghlHd6Hkujf1hXmRMNIue7f1XeS75oNy3d_LW2Cy1HiKX5RNzg8NP4zWYs4GyhSMcbGlIdTlvAB4Ymcg_dHDiIK6Hx5bTvu2LGJqLHK6Oyg3UYVye3NDYG16hTCHQoXFOd4N4FUb2_bHaYLvDp99_ScfTUWWCtAzwQ8Lr4Zh9nClMbp3GVfNLoSjnzsaNXpyxM64P0nDWy_-V0-Cju
+                        - 'img "Notre équipement de trail running est conçu pour avancer sans hésitation : des matériaux résistants qui sèchent rapidement et des coupes pensées pour une totale liberté de mouvement." [ref=e294]'
+                      - separator [ref=e295]
+                      - generic [ref=e296]:
+                        - link [ref=e298] [cursor=pointer]:
+                          - /url: https://alb.reddit.com/cr?za=h8LMGOQoYTNShzoRDScO2tqv5bkFjfpZgZDnaovuVXIg5AHzkj9nz2A9rLE-z3kv7tLSHB7feXM48XkpEIiU5EsgATWZJa7c352SxVx2i6hRlLM-rUbQR0te7gC06rEF-gqMBKnvRvxQbp2-h7AvfYURyDKc7Gbb2sROjbeSkEwSSGIpxeLe4oM7IBMnxH83zKjFwDOzJotxm40LPN9j2AlTTQGE6h0K3vmScOaYbUvVS_pji_GdHZPE4eOat7RH7twGleVrdIHuY4lsTCqKl8jXQqPYCUD8PM943oyEROP_ho0A4rmT1IZGRBCCY4n0gNeZ_YgU4Ya4Yd_5I96LqJae4VE7zGmqZ_fKmJ76aNrsGtFsb5czLSJvOOMEv7WOCWODcl4WkhwgEtHsx1qegmL5pm069IQoJtF3ngr_0plVNWOIGQxQuIz5PXFIKFYSi0dXWskXuIT7FIBvFogBX495L5qsuMG4jeLHsdi_IZxYRzd1PiRNurfS_hPTc0WvakxcgpZgJBFstnyKZqh3CnyfLCvPN7nLBAfOsmlB5egU0b3tjdww-JHVfwod5w0Nm3kue1Roa4lKgf1xif5XDkrpyPHg_hAqWgo0AuzvvkhfSA8DUWu4MOWYWypQB5Zmlse08VaWVXVLoRo4NwsBSGeNdLgbx8KgIYZMO_yw4WEu2CHcvkWv2XKf9H0Bcp4MWXYGg5j5Guo1T6yk3MjvuenaZGGmyHsJaPOWh1yyhb2CXm7UQFJ6&zp=YVADxTYuw0AfC8KnsKVRR6nS8Vy9qlw7qVj9M5WPGlOETRSIeS_37lWlgoYHNDYLwMMm4f7HjYvUQSWP3UnreKnCQPYVRQHIdEl7j0OARz6MPfCZjhIcj_4pb25hLSUIaUqvvgX82He3B_8y6FbPM-MBd084mydj9s2ALQObalLmUzl7AbwILnDrCQbEDrpN4V3uW3RL9qLGCgUDQb3fi4BMzz0o7p4eAfYIYoh3HHcjB_HwIo2AYcniBB5iTzbgDJDwPqTBGoNcIikgHgLS2XPqHxOoHdXLs5dJnsfGdSTsRILkgc77_pm4SXk7P_K1A00GOWXPC2ghlHd6Hkujf1hXmRMNIue7f1XeS75oNy3d_LW2Cy1HiKX5RNzg8NP4zWYs4GyhSMcbGlIdTlvAB4Ymcg_dHDiIK6Hx5bTvu2LGJqLHK6Oyg3UYVye3NDYG16hTCHQoXFOd4N4FUb2_bHaYLvDp99_ScfTUWWCtAzwQ8Lr4Zh9nClMbp3GVfNLoSjnzsaNXpyxM64P0nDWy_-V0-Cju
+                        - generic [ref=e299]:
+                          - link "eu.patagonia.com" [ref=e302] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=h8LMGOQoYTNShzoRDScO2tqv5bkFjfpZgZDnaovuVXIg5AHzkj9nz2A9rLE-z3kv7tLSHB7feXM48XkpEIiU5EsgATWZJa7c352SxVx2i6hRlLM-rUbQR0te7gC06rEF-gqMBKnvRvxQbp2-h7AvfYURyDKc7Gbb2sROjbeSkEwSSGIpxeLe4oM7IBMnxH83zKjFwDOzJotxm40LPN9j2AlTTQGE6h0K3vmScOaYbUvVS_pji_GdHZPE4eOat7RH7twGleVrdIHuY4lsTCqKl8jXQqPYCUD8PM943oyEROP_ho0A4rmT1IZGRBCCY4n0gNeZ_YgU4Ya4Yd_5I96LqJae4VE7zGmqZ_fKmJ76aNrsGtFsb5czLSJvOOMEv7WOCWODcl4WkhwgEtHsx1qegmL5pm069IQoJtF3ngr_0plVNWOIGQxQuIz5PXFIKFYSi0dXWskXuIT7FIBvFogBX495L5qsuMG4jeLHsdi_IZxYRzd1PiRNurfS_hPTc0WvakxcgpZgJBFstnyKZqh3CnyfLCvPN7nLBAfOsmlB5egU0b3tjdww-JHVfwod5w0Nm3kue1Roa4lKgf1xif5XDkrpyPHg_hAqWgo0AuzvvkhfSA8DUWu4MOWYWypQB5Zmlse08VaWVXVLoRo4NwsBSGeNdLgbx8KgIYZMO_yw4WEu2CHcvkWv2XKf9H0Bcp4MWXYGg5j5Guo1T6yk3MjvuenaZGGmyHsJaPOWh1yyhb2CXm7UQFJ6&zp=YVADxTYuw0AfC8KnsKVRR6nS8Vy9qlw7qVj9M5WPGlOETRSIeS_37lWlgoYHNDYLwMMm4f7HjYvUQSWP3UnreKnCQPYVRQHIdEl7j0OARz6MPfCZjhIcj_4pb25hLSUIaUqvvgX82He3B_8y6FbPM-MBd084mydj9s2ALQObalLmUzl7AbwILnDrCQbEDrpN4V3uW3RL9qLGCgUDQb3fi4BMzz0o7p4eAfYIYoh3HHcjB_HwIo2AYcniBB5iTzbgDJDwPqTBGoNcIikgHgLS2XPqHxOoHdXLs5dJnsfGdSTsRILkgc77_pm4SXk7P_K1A00GOWXPC2ghlHd6Hkujf1hXmRMNIue7f1XeS75oNy3d_LW2Cy1HiKX5RNzg8NP4zWYs4GyhSMcbGlIdTlvAB4Ymcg_dHDiIK6Hx5bTvu2LGJqLHK6Oyg3UYVye3NDYG16hTCHQoXFOd4N4FUb2_bHaYLvDp99_ScfTUWWCtAzwQ8Lr4Zh9nClMbp3GVfNLoSjnzsaNXpyxM64P0nDWy_-V0-Cju
+                            - generic: eu.patagonia.com
+                          - link "En voir plus" [ref=e304] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=h8LMGOQoYTNShzoRDScO2tqv5bkFjfpZgZDnaovuVXIg5AHzkj9nz2A9rLE-z3kv7tLSHB7feXM48XkpEIiU5EsgATWZJa7c352SxVx2i6hRlLM-rUbQR0te7gC06rEF-gqMBKnvRvxQbp2-h7AvfYURyDKc7Gbb2sROjbeSkEwSSGIpxeLe4oM7IBMnxH83zKjFwDOzJotxm40LPN9j2AlTTQGE6h0K3vmScOaYbUvVS_pji_GdHZPE4eOat7RH7twGleVrdIHuY4lsTCqKl8jXQqPYCUD8PM943oyEROP_ho0A4rmT1IZGRBCCY4n0gNeZ_YgU4Ya4Yd_5I96LqJae4VE7zGmqZ_fKmJ76aNrsGtFsb5czLSJvOOMEv7WOCWODcl4WkhwgEtHsx1qegmL5pm069IQoJtF3ngr_0plVNWOIGQxQuIz5PXFIKFYSi0dXWskXuIT7FIBvFogBX495L5qsuMG4jeLHsdi_IZxYRzd1PiRNurfS_hPTc0WvakxcgpZgJBFstnyKZqh3CnyfLCvPN7nLBAfOsmlB5egU0b3tjdww-JHVfwod5w0Nm3kue1Roa4lKgf1xif5XDkrpyPHg_hAqWgo0AuzvvkhfSA8DUWu4MOWYWypQB5Zmlse08VaWVXVLoRo4NwsBSGeNdLgbx8KgIYZMO_yw4WEu2CHcvkWv2XKf9H0Bcp4MWXYGg5j5Guo1T6yk3MjvuenaZGGmyHsJaPOWh1yyhb2CXm7UQFJ6&zp=YVADxTYuw0AfC8KnsKVRR6nS8Vy9qlw7qVj9M5WPGlOETRSIeS_37lWlgoYHNDYLwMMm4f7HjYvUQSWP3UnreKnCQPYVRQHIdEl7j0OARz6MPfCZjhIcj_4pb25hLSUIaUqvvgX82He3B_8y6FbPM-MBd084mydj9s2ALQObalLmUzl7AbwILnDrCQbEDrpN4V3uW3RL9qLGCgUDQb3fi4BMzz0o7p4eAfYIYoh3HHcjB_HwIo2AYcniBB5iTzbgDJDwPqTBGoNcIikgHgLS2XPqHxOoHdXLs5dJnsfGdSTsRILkgc77_pm4SXk7P_K1A00GOWXPC2ghlHd6Hkujf1hXmRMNIue7f1XeS75oNy3d_LW2Cy1HiKX5RNzg8NP4zWYs4GyhSMcbGlIdTlvAB4Ymcg_dHDiIK6Hx5bTvu2LGJqLHK6Oyg3UYVye3NDYG16hTCHQoXFOd4N4FUb2_bHaYLvDp99_ScfTUWWCtAzwQ8Lr4Zh9nClMbp3GVfNLoSjnzsaNXpyxM64P0nDWy_-V0-Cju
+                            - generic [ref=e306]:
+                              - generic: En voir plus
+                    - generic "Actions disponibles pour cette publication" [ref=e308]:
+                      - generic [ref=e311]:
+                        - button "Upvote" [ref=e312] [cursor=pointer]:
+                          - img [ref=e314]
+                          - generic [ref=e316]:
+                            - generic: Upvote
+                        - text: Voter
+                        - button "Downvote" [ref=e317] [cursor=pointer]:
+                          - img [ref=e319]
+                          - generic [ref=e321]:
+                            - generic: Downvote
+                      - link "0 Accéder aux commentaires" [ref=e322] [cursor=pointer]:
+                        - /url: /user/Patagonia_Europe/comments/1u225lg/notre_%C3%A9quipement_de_trail_running_est_con%C3%A7u_pour/?p=1&impressionid=5690201770333096307
+                        - generic [ref=e323]:
+                          - img [ref=e325]
+                          - generic [ref=e328]: "0"
+                        - generic [ref=e329]:
+                          - generic: Accéder aux commentaires
+                      - button "Partager" [ref=e333] [cursor=pointer]:
+                        - generic [ref=e334]:
+                          - img [ref=e336]
+                          - generic [ref=e338]: Partager
+                      - link [ref=e340] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=h8LMGOQoYTNShzoRDScO2tqv5bkFjfpZgZDnaovuVXIg5AHzkj9nz2A9rLE-z3kv7tLSHB7feXM48XkpEIiU5EsgATWZJa7c352SxVx2i6hRlLM-rUbQR0te7gC06rEF-gqMBKnvRvxQbp2-h7AvfYURyDKc7Gbb2sROjbeSkEwSSGIpxeLe4oM7IBMnxH83zKjFwDOzJotxm40LPN9j2AlTTQGE6h0K3vmScOaYbUvVS_pji_GdHZPE4eOat7RH7twGleVrdIHuY4lsTCqKl8jXQqPYCUD8PM943oyEROP_ho0A4rmT1IZGRBCCY4n0gNeZ_YgU4Ya4Yd_5I96LqJae4VE7zGmqZ_fKmJ76aNrsGtFsb5czLSJvOOMEv7WOCWODcl4WkhwgEtHsx1qegmL5pm069IQoJtF3ngr_0plVNWOIGQxQuIz5PXFIKFYSi0dXWskXuIT7FIBvFogBX495L5qsuMG4jeLHsdi_IZxYRzd1PiRNurfS_hPTc0WvakxcgpZgJBFstnyKZqh3CnyfLCvPN7nLBAfOsmlB5egU0b3tjdww-JHVfwod5w0Nm3kue1Roa4lKgf1xif5XDkrpyPHg_hAqWgo0AuzvvkhfSA8DUWu4MOWYWypQB5Zmlse08VaWVXVLoRo4NwsBSGeNdLgbx8KgIYZMO_yw4WEu2CHcvkWv2XKf9H0Bcp4MWXYGg5j5Guo1T6yk3MjvuenaZGGmyHsJaPOWh1yyhb2CXm7UQFJ6&zp=YVADxTYuw0AfC8KnsKVRR6nS8Vy9qlw7qVj9M5WPGlOETRSIeS_37lWlgoYHNDYLwMMm4f7HjYvUQSWP3UnreKnCQPYVRQHIdEl7j0OARz6MPfCZjhIcj_4pb25hLSUIaUqvvgX82He3B_8y6FbPM-MBd084mydj9s2ALQObalLmUzl7AbwILnDrCQbEDrpN4V3uW3RL9qLGCgUDQb3fi4BMzz0o7p4eAfYIYoh3HHcjB_HwIo2AYcniBB5iTzbgDJDwPqTBGoNcIikgHgLS2XPqHxOoHdXLs5dJnsfGdSTsRILkgc77_pm4SXk7P_K1A00GOWXPC2ghlHd6Hkujf1hXmRMNIue7f1XeS75oNy3d_LW2Cy1HiKX5RNzg8NP4zWYs4GyhSMcbGlIdTlvAB4Ymcg_dHDiIK6Hx5bTvu2LGJqLHK6Oyg3UYVye3NDYG16hTCHQoXFOd4N4FUb2_bHaYLvDp99_ScfTUWWCtAzwQ8Lr4Zh9nClMbp3GVfNLoSjnzsaNXpyxM64P0nDWy_-V0-Cju
+                  - separator [ref=e341]
+                  - article "JE L’AI 🥹" [ref=e342]:
+                    - generic [ref=e343] [cursor=pointer]:
+                      - link "JE L’AI 🥹" [ref=e344]:
+                        - /url: https://www.reddit.com/r/Motardie/comments/1uau2k5/je_lai/
+                        - generic [ref=e345]:
+                          - generic: JE L’AI 🥹
+                      - generic [ref=e346]:
+                        - generic [ref=e347]:
+                          - link "r/Motardie" [ref=e350]:
+                            - /url: https://www.reddit.com/r/Motardie/
+                            - generic [ref=e354]: r/Motardie
+                          - generic [ref=e355]: •
+                          - time [ref=e357]: il y a 20 h
+                          - generic [ref=e358]: •
+                          - paragraph [ref=e360]: Parce que tu as manifesté de l’intérêt pour cette communauté
+                        - generic [ref=e361]:
+                          - button "Rejoindre" [ref=e363]
+                          - button "Ouvrir les actions de membre" [ref=e367]:
+                            - img [ref=e370]
+                      - heading "JE L’AI 🥹" [level=2] [ref=e374]:
+                        - link "JE L’AI 🥹" [ref=e375]:
+                          - /url: https://www.reddit.com/r/Motardie/comments/1uau2k5/je_lai/
+                      - img "r/Motardie - JE L’AI 🥹" [ref=e381]
+                      - generic "Actions disponibles pour cette publication" [ref=e383]:
+                        - generic [ref=e386]:
+                          - button "Upvote" [ref=e387]:
+                            - img [ref=e389]
+                            - generic [ref=e391]:
+                              - generic: Upvote
+                          - generic [ref=e393]: "80"
+                          - button "Downvote" [ref=e394]:
+                            - img [ref=e396]
+                            - generic [ref=e398]:
+                              - generic: Downvote
+                        - link "9 Accéder aux commentaires" [ref=e399]:
+                          - /url: /r/Motardie/comments/1uau2k5/je_lai/
+                          - generic [ref=e400]:
+                            - img [ref=e402]
+                            - generic [ref=e405]: "9"
+                          - generic [ref=e406]:
+                            - generic: Accéder aux commentaires
+                        - button "Décerner une récompense" [ref=e408]:
+                          - img [ref=e411]
+                        - button "Partager" [ref=e416]:
+                          - generic [ref=e417]:
+                            - img [ref=e419]
+                            - generic [ref=e421]: Partager
+                  - separator [ref=e422]
+                  - article "King Cobra apprécie une douche avec un tuyau." [ref=e423]:
+                    - generic [ref=e424] [cursor=pointer]:
+                      - link "King Cobra apprécie une douche avec un tuyau." [ref=e425]:
+                        - /url: https://www.reddit.com/r/BeAmazed/comments/1u9p01b/king_cobra_enjoys_a_shower_from_a_hose/
+                        - generic [ref=e426]:
+                          - generic: King Cobra apprécie une douche avec un tuyau.
+                      - generic [ref=e427]:
+                        - generic [ref=e428]:
+                          - link "r/BeAmazed" [ref=e431]:
+                            - /url: https://www.reddit.com/r/BeAmazed/
+                            - generic [ref=e435]: r/BeAmazed
+                          - generic [ref=e436]: •
+                          - time [ref=e438]: il y a 2 j
+                          - generic [ref=e439]: •
+                          - paragraph [ref=e441]: Publication tendance
+                        - generic [ref=e442]:
+                          - button "Rejoindre" [ref=e444]
+                          - button "Ouvrir les actions de membre" [ref=e448]:
+                            - img [ref=e451]
+                      - heading "King Cobra apprécie une douche avec un tuyau." [level=2] [ref=e455]:
+                        - link "King Cobra apprécie une douche avec un tuyau." [ref=e456]:
+                          - /url: https://www.reddit.com/r/BeAmazed/comments/1u9p01b/king_cobra_enjoys_a_shower_from_a_hose/
+                      - generic [ref=e462]:
+                        - generic "lecteur vidéo" [ref=e463]
+                        - generic [ref=e464]:
+                          - generic [ref=e465]:
+                            - button "Activer/désactiver la lecture" [ref=e466]:
+                              - img [ref=e467]
+                            - generic "Temps de lecture" [ref=e469]
+                            - generic [ref=e474]:
+                              - generic [ref=e475]: 0:00
+                              - generic [ref=e476]: / 0:00
+                            - button "Activer/désactiver les sous-titres" [ref=e477]:
+                              - img [ref=e478]
+                            - generic [ref=e481]:
+                              - button "Paramètres" [ref=e482]:
+                                - img [ref=e483]
+                              - generic:
+                                - button:
+                                  - generic:
+                                    - img
+                                  - generic: Lecture automatique
+                                - button:
+                                  - generic:
+                                    - img
+                                  - generic: Auto
+                            - button "Activer/désactiver le mode plein écran" [ref=e485]:
+                              - img [ref=e486]
+                          - button "Activer/désactiver le réglage du volume" [ref=e491]:
+                            - img [ref=e492]
+                      - generic "Actions disponibles pour cette publication" [ref=e496]:
+                        - generic [ref=e499]:
+                          - button "Upvote" [ref=e500]:
+                            - img [ref=e502]
+                            - generic [ref=e504]:
+                              - generic: Upvote
+                          - generic [ref=e506]: 27 k
+                          - button "Downvote" [ref=e507]:
+                            - img [ref=e509]
+                            - generic [ref=e511]:
+                              - generic: Downvote
+                        - link "1,8 k Accéder aux commentaires" [ref=e512]:
+                          - /url: /r/BeAmazed/comments/1u9p01b/king_cobra_enjoys_a_shower_from_a_hose/
+                          - generic [ref=e513]:
+                            - img [ref=e515]
+                            - generic [ref=e518]: 1,8 k
+                          - generic [ref=e519]:
+                            - generic: Accéder aux commentaires
+                        - button "Décerner une récompense, 34 récompenses décernées" [ref=e521]:
+                          - generic [ref=e526]: "34"
+                        - button "Partager" [ref=e530]:
+                          - generic [ref=e531]:
+                            - img [ref=e533]
+                            - generic [ref=e535]: Partager
+                  - separator [ref=e536]
+                - img [ref=e542]
+            - generic [ref=e555]:
+              - complementary [ref=e557]:
+                - complementary "Publications récentes" [ref=e559]:
+                  - generic [ref=e560]:
+                    - heading "Publications récentes" [level=3] [ref=e561]
+                    - button "Retirer" [ref=e563] [cursor=pointer]
+                  - generic [ref=e565]:
+                    - generic [ref=e567]:
+                      - generic [ref=e569]:
+                        - generic [ref=e572]:
+                          - link "r/essentialoils" [ref=e573] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/essentialoils/
+                            - img [ref=e577]
+                            - generic [ref=e579]: r/essentialoils
+                          - generic [ref=e580]: •
+                          - time [ref=e582]: "-2 m."
+                        - 'link "Publication de l’élément de la liste : Confus sur la qualité des huiles essentielles" [ref=e584] [cursor=pointer]':
+                          - /url: /r/essentialoils/comments/1sgprcc/confused_about_quality_of_essential_oils/
+                          - 'heading "Publication de l’élément de la liste : Confus sur la qualité des huiles essentielles" [level=3] [ref=e587]': Confus sur la qualité des huiles essentielles
+                      - generic [ref=e589]:
+                        - generic [ref=e590]: "1"
+                        - text: upvote ·
+                        - generic [ref=e591]: "15"
+                        - text: commentaires
+                    - separator [ref=e592]
+                    - generic [ref=e594]:
+                      - generic [ref=e596]:
+                        - generic [ref=e599]:
+                          - link "r/FATTravel" [ref=e600] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/FATTravel/
+                            - generic [ref=e604]: r/FATTravel
+                          - generic [ref=e605]: •
+                          - time [ref=e607]: "-1 a"
+                        - 'link "Publication de l’élément de la liste : Meilleur hôtel palace à Paris" [ref=e609] [cursor=pointer]':
+                          - /url: /r/FATTravel/comments/1hzbzqq/best_palace_hotel_in_paris/
+                          - 'heading "Publication de l’élément de la liste : Meilleur hôtel palace à Paris" [level=3] [ref=e612]': Meilleur hôtel palace à Paris
+                      - generic [ref=e614]:
+                        - generic [ref=e615]: "30"
+                        - text: upvotes ·
+                        - generic [ref=e616]: "25"
+                        - text: commentaires
+                    - separator [ref=e617]
+                    - generic [ref=e619]:
+                      - generic [ref=e621]:
+                        - generic [ref=e624]:
+                          - link "r/AskFrance" [ref=e625] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/AskFrance/
+                            - generic [ref=e629]: r/AskFrance
+                          - generic [ref=e630]: •
+                          - time [ref=e632]: "-2 m."
+                        - 'link "Publication de l’élément de la liste : Achat voiture neuve en concession?" [ref=e634] [cursor=pointer]':
+                          - /url: /r/AskFrance/comments/1sl5dgo/achat_voiture_neuve_en_concession/
+                          - 'heading "Publication de l’élément de la liste : Achat voiture neuve en concession?" [level=3] [ref=e637]': Achat voiture neuve en concession?
+                      - generic [ref=e639]:
+                        - generic [ref=e640]: "2"
+                        - text: upvotes ·
+                        - generic [ref=e641]: "19"
+                        - text: commentaires
+                    - separator [ref=e642]
+                    - generic [ref=e644]:
+                      - generic [ref=e646]:
+                        - generic [ref=e649]:
+                          - link "r/france" [ref=e650] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/france/
+                            - generic [ref=e654]: r/france
+                          - generic [ref=e655]: •
+                          - time [ref=e657]: "-12 j"
+                        - 'link "Publication de l’élément de la liste : C''est la cata les tiques cette année, vous vous protégez co..." [ref=e659] [cursor=pointer]':
+                          - /url: /r/france/comments/1u1bxrf/cest_la_cata_les_tiques_cette_année_vous_vous/
+                          - 'heading "Publication de l’élément de la liste : C''est la cata les tiques cette année, vous vous protégez co..." [level=3] [ref=e662]': C'est la cata les tiques cette année, vous vous protégez comment ?
+                      - generic [ref=e664]:
+                        - generic [ref=e665]: "18"
+                        - text: upvotes ·
+                        - generic [ref=e666]: "95"
+                        - text: commentaires
+                    - separator [ref=e667]
+                    - generic [ref=e669]:
+                      - generic [ref=e671]:
+                        - generic [ref=e674]:
+                          - link "r/humanresources" [ref=e675] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/humanresources/
+                            - generic [ref=e679]: r/humanresources
+                          - generic [ref=e680]: •
+                          - time [ref=e682]: "-1 m."
+                        - 'link "Publication de l’élément de la liste : À la recherche d''un logiciel RH tout-en-un pour une startup..." [ref=e684] [cursor=pointer]':
+                          - /url: /r/humanresources/comments/1t9zyvt/looking_for_a_allinone_hr_software_for_a_startup/
+                          - 'heading "Publication de l’élément de la liste : À la recherche d''un logiciel RH tout-en-un pour une startup..." [level=3] [ref=e687]': À la recherche d'un logiciel RH tout-en-un pour une startup [N/A]
+                      - generic [ref=e689]:
+                        - generic [ref=e690]: "12"
+                        - text: upvotes ·
+                        - generic [ref=e691]: "44"
+                        - text: commentaires
+                    - separator [ref=e692]
+                    - generic [ref=e694]:
+                      - generic [ref=e696]:
+                        - generic [ref=e699]:
+                          - link "r/PME_FR" [ref=e700] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/PME_FR/
+                            - generic [ref=e704]: r/PME_FR
+                          - generic [ref=e705]: •
+                          - time [ref=e707]: "-3 m."
+                        - 'link "Publication de l’élément de la liste : Des avis sur quelle solution SIRH choisir ?" [ref=e709] [cursor=pointer]':
+                          - /url: /r/PME_FR/comments/1sacqd9/des_avis_sur_quelle_solution_sirh_choisir/
+                          - 'heading "Publication de l’élément de la liste : Des avis sur quelle solution SIRH choisir ?" [level=3] [ref=e712]': Des avis sur quelle solution SIRH choisir ?
+                      - generic [ref=e714]:
+                        - generic [ref=e715]: "8"
+                        - text: upvotes ·
+                        - generic [ref=e716]: "8"
+                        - text: commentaires
+                    - separator [ref=e717]
+                    - generic [ref=e719]:
+                      - generic [ref=e721]:
+                        - generic [ref=e724]:
+                          - link "r/Motardie" [ref=e725] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/Motardie/
+                            - generic [ref=e729]: r/Motardie
+                          - generic [ref=e730]: •
+                          - time [ref=e732]: "-6 m."
+                        - 'link "Publication de l’élément de la liste : Quelle assurance pour jeune permis A2 ?" [ref=e734] [cursor=pointer]':
+                          - /url: /r/Motardie/comments/1q4p4pw/quelle_assurance_pour_jeune_permis_a2/
+                          - 'heading "Publication de l’élément de la liste : Quelle assurance pour jeune permis A2 ?" [level=3] [ref=e737]': Quelle assurance pour jeune permis A2 ?
+                      - generic [ref=e739]:
+                        - generic [ref=e740]: "2"
+                        - text: upvotes ·
+                        - generic [ref=e741]: "23"
+                        - text: commentaires
+                    - separator [ref=e742]
+                    - generic [ref=e744]:
+                      - generic [ref=e746]:
+                        - generic [ref=e749]:
+                          - link "r/Entreprise" [ref=e750] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/Entreprise/
+                            - img [ref=e754]
+                            - generic [ref=e756]: r/Entreprise
+                          - generic [ref=e757]: •
+                          - time [ref=e759]: "-16 j"
+                        - 'link "Publication de l’élément de la liste : Une bonne alternative à Kelio pour la gestion des temps ? O..." [ref=e761] [cursor=pointer]':
+                          - /url: /r/Entreprise/comments/1txm6be/une_bonne_alternative_à_kelio_pour_la_gestion_des/
+                          - 'heading "Publication de l’élément de la liste : Une bonne alternative à Kelio pour la gestion des temps ? O..." [level=3] [ref=e764]': Une bonne alternative à Kelio pour la gestion des temps ? On galère
+                      - generic [ref=e766]:
+                        - generic [ref=e767]: "2"
+                        - text: upvotes ·
+                        - generic [ref=e768]: "1"
+                        - text: commentaire
+                    - separator [ref=e769]
+                    - generic [ref=e771]:
+                      - generic [ref=e773]:
+                        - generic [ref=e776]:
+                          - link "r/voiture" [ref=e777] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/voiture/
+                            - generic [ref=e781]: r/voiture
+                          - generic [ref=e782]: •
+                          - time [ref=e784]: "-25 j"
+                        - 'link "Publication de l’élément de la liste : GLC d''occasion recente : concession Mercedes ou mandataire,..." [ref=e786] [cursor=pointer]':
+                          - /url: /r/voiture/comments/1tpbq7u/glc_doccasion_recente_concession_mercedes_ou/
+                          - 'heading "Publication de l’élément de la liste : GLC d''occasion recente : concession Mercedes ou mandataire,..." [level=3] [ref=e789]': "GLC d'occasion recente : concession Mercedes ou mandataire, vous avez fait quoi ?"
+                      - generic [ref=e791]:
+                        - generic [ref=e792]: "1"
+                        - text: upvote ·
+                        - generic [ref=e793]: "2"
+                        - text: commentaires
+                    - separator [ref=e794]
+                    - generic [ref=e796]:
+                      - generic [ref=e798]:
+                        - generic [ref=e801]:
+                          - link "r/AskFrance" [ref=e802] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/AskFrance/
+                            - generic [ref=e806]: r/AskFrance
+                          - generic [ref=e807]: •
+                          - time [ref=e809]: "-2 m."
+                        - 'link "Publication de l’élément de la liste : Acheter du bois de chauffage hors saison, bonne idée ?" [ref=e811] [cursor=pointer]':
+                          - /url: /r/AskFrance/comments/1sl3lqh/acheter_du_bois_de_chauffage_hors_saison_bonne/
+                          - 'heading "Publication de l’élément de la liste : Acheter du bois de chauffage hors saison, bonne idée ?" [level=3] [ref=e814]': Acheter du bois de chauffage hors saison, bonne idée ?
+                      - generic [ref=e816]:
+                        - generic [ref=e817]: "5"
+                        - text: upvotes ·
+                        - generic [ref=e818]: "16"
+                        - text: commentaires
+              - list [ref=e820]:
+                - listitem [ref=e821]:
+                  - link "Règles de Reddit" [ref=e823] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                - listitem [ref=e824]:
+                  - link "Politique de confidentialité" [ref=e826] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                - listitem [ref=e827]:
+                  - link "Contrat d'utilisation" [ref=e829] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                - listitem [ref=e830]:
+                  - link "Accessibilité" [ref=e832] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - listitem [ref=e833]:
+                  - link "Reddit, Inc. © 2026. Tous droits réservés." [ref=e834] [cursor=pointer]:
+                    - /url: https://redditinc.com
+        - generic [ref=e836]:
+          - button "Réduire la barre de navigation" [ref=e839] [cursor=pointer]:
+            - img [ref=e842]
+            - generic [ref=e844]:
+              - generic: Réduire la barre de navigation
+          - navigation "Principale" [ref=e849]:
+            - generic [ref=e851]:
+              - link "Accueil" [ref=e853] [cursor=pointer]:
+                - /url: https://www.reddit.com/?feed=home
+                - generic [ref=e854]:
+                  - img [ref=e856]
+                  - generic [ref=e859]: Accueil
+              - link "Populaires" [ref=e861] [cursor=pointer]:
+                - /url: https://www.reddit.com/r/popular/
+                - generic [ref=e862]:
+                  - img [ref=e864]
+                  - generic [ref=e867]: Populaires
+              - link "Actualités" [ref=e868] [cursor=pointer]:
+                - /url: https://www.reddit.com/news/
+                - generic [ref=e869]:
+                  - img [ref=e871]
+                  - generic [ref=e875]: Actualités
+              - link "Explorer" [ref=e877] [cursor=pointer]:
+                - /url: https://www.reddit.com/explore/
+                - generic [ref=e878]:
+                  - img [ref=e880]
+                  - generic [ref=e883]: Explorer
+              - button "Lancer une communauté" [ref=e884] [cursor=pointer]:
+                - generic [ref=e885]:
+                  - img [ref=e887]
+                  - generic [ref=e890]: Lancer une communauté
+            - separator [ref=e891]
+            - group [ref=e895]:
+              - generic "JEUX SUR REDDIT" [ref=e896] [cursor=pointer]:
+                - generic [ref=e897]:
+                  - generic [ref=e902]:
+                    - generic: JEUX SUR REDDIT
+                  - img [ref=e905]
+              - generic [ref=e908]:
+                - link "Jeu en vedette" [ref=e912] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/BubbleShooterPro/comments/1ubct0w?entry_point=games_drawer_featured_game
+                  - generic [ref=e914]:
+                    - generic [ref=e918]:
+                      - heading "Bubble Shooter Pro" [level=3] [ref=e919]
+                      - paragraph [ref=e920]: Pop Bubbles!!
+                      - paragraph [ref=e921]:
+                        - generic [ref=e922]: 145 k
+                        - text: joueurs mensuels
+                    - generic [ref=e924]:
+                      - generic: NOUVEAU
+                - generic [ref=e926]:
+                  - link "Bonkyard" [ref=e928] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/Bonkyard/comments/1ub4u76?entry_point=games_drawer_personalized_game
+                    - generic [ref=e929]:
+                      - img [ref=e934]
+                      - generic [ref=e938]: Bonkyard
+                  - link "Vowel Play" [ref=e940] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/VowelPlay/comments/1uauulf?entry_point=games_drawer_personalized_game
+                    - generic [ref=e941]:
+                      - img [ref=e946]
+                      - generic [ref=e950]: Vowel Play
+                  - link "Arrows Puzzle" [ref=e952] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/arrowspuzzle/comments/1ub7inv?entry_point=games_drawer_personalized_game
+                    - generic [ref=e953]:
+                      - img [ref=e958]
+                      - generic [ref=e962]: Arrows Puzzle
+                - link "Découvres-en plus" [ref=e964] [cursor=pointer]:
+                  - /url: /r/GamesOnReddit
+                  - generic [ref=e965]:
+                    - img [ref=e967]
+                    - generic [ref=e971]: Découvres-en plus
+            - separator [ref=e972]
+            - group [ref=e974]:
+              - generic "FLUX PERSONNALISÉS" [ref=e975] [cursor=pointer]:
+                - generic [ref=e977]:
+                  - generic [ref=e980]: FLUX PERSONNALISÉS
+                  - img [ref=e983]
+              - button "Créer un flux personnalisé" [ref=e989] [cursor=pointer]:
+                - generic [ref=e990]:
+                  - img [ref=e992]
+                  - generic [ref=e995]: Créer un flux personnalisé
+            - separator [ref=e996]
+            - group [ref=e999]:
+              - generic "DERNIÈREMENT" [ref=e1000] [cursor=pointer]:
+                - generic [ref=e1001]:
+                  - generic [ref=e1004]: DERNIÈREMENT
+                  - img [ref=e1007]
+              - generic [ref=e1010]:
+                - link "r/FitnessFrance" [ref=e1011] [cursor=pointer]:
+                  - /url: /r/FitnessFrance/
+                  - generic [ref=e1012]:
+                    - img [ref=e1017]
+                    - generic [ref=e1020]: r/FitnessFrance
+                - link "r/sante_bien_etre" [ref=e1021] [cursor=pointer]:
+                  - /url: /r/sante_bien_etre/
+                  - generic [ref=e1022]:
+                    - img [ref=e1027]
+                    - generic [ref=e1030]: r/sante_bien_etre
+                - link "r/ParisTravelGuide" [ref=e1031] [cursor=pointer]:
+                  - /url: /r/ParisTravelGuide/
+                  - generic [ref=e1032]:
+                    - img [ref=e1037]
+                    - generic [ref=e1040]: r/ParisTravelGuide
+                - link "r/paris" [ref=e1041] [cursor=pointer]:
+                  - /url: /r/paris/
+                  - generic [ref=e1042]:
+                    - img [ref=e1047]
+                    - generic [ref=e1050]: r/paris
+                - link "r/voiture" [ref=e1051] [cursor=pointer]:
+                  - /url: /r/voiture/
+                  - generic [ref=e1052]:
+                    - img [ref=e1057]
+                    - generic [ref=e1060]: r/voiture
+            - group [ref=e1062]:
+              - generic "COMMUNAUTÉS" [ref=e1063] [cursor=pointer]:
+                - generic [ref=e1065]:
+                  - generic [ref=e1068]: COMMUNAUTÉS
+                  - img [ref=e1071]
+              - link "Gérer les communautés" [ref=e1075] [cursor=pointer]:
+                - /url: /user/Fun_Delivery_6507/communities
+                - generic [ref=e1076]:
+                  - img [ref=e1078]
+                  - generic [ref=e1081]: Gérer les communautés
+            - separator [ref=e1082]
+            - navigation "Ressources Reddit" [ref=e1083]:
+              - group [ref=e1085]:
+                - generic "RESSOURCES" [ref=e1086] [cursor=pointer]:
+                  - generic [ref=e1088]:
+                    - generic [ref=e1091]: RESSOURCES
+                    - img [ref=e1094]
+                - generic [ref=e1097]:
+                  - link "À propos de Reddit" [ref=e1099] [cursor=pointer]:
+                    - /url: https://www.redditinc.com
+                    - generic [ref=e1100]:
+                      - img [ref=e1102]
+                      - generic [ref=e1106]: À propos de Reddit
+                  - link "Publicités" [ref=e1108] [cursor=pointer]:
+                    - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=left_nav_cta
+                    - generic [ref=e1109]:
+                      - img [ref=e1111]
+                      - generic [ref=e1115]: Publicités
+                  - link "Plateforme de développement" [ref=e1117] [cursor=pointer]:
+                    - /url: https://developers.reddit.com/?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e1118]:
+                      - img [ref=e1120]
+                      - generic [ref=e1124]: Plateforme de développement
+                  - link "Reddit Pro BÊTA" [ref=e1126] [cursor=pointer]:
+                    - /url: /reddit-pro?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e1127]:
+                      - img [ref=e1129]
+                      - generic [ref=e1133]:
+                        - generic [ref=e1134]: Reddit Pro
+                        - generic [ref=e1135]: BÊTA
+                  - link "Aide" [ref=e1137] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc?utm_source=reddit&utm_medium=footer&utm_campaign=evergreen
+                    - generic [ref=e1138]:
+                      - img [ref=e1140]
+                      - generic [ref=e1144]: Aide
+                  - link "Blog" [ref=e1146] [cursor=pointer]:
+                    - /url: https://redditblog.com/
+                    - generic [ref=e1147]:
+                      - img [ref=e1149]
+                      - generic [ref=e1153]: Blog
+                  - link "Carrières" [ref=e1155] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/careers
+                    - generic [ref=e1156]:
+                      - img [ref=e1158]
+                      - generic [ref=e1162]: Carrières
+                  - link "Presse" [ref=e1164] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/press
+                    - generic [ref=e1165]:
+                      - img [ref=e1167]
+                      - generic [ref=e1171]: Presse
+                  - separator [ref=e1172]
+                  - link "Le meilleur de Reddit" [ref=e1174] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/global/
+                    - generic [ref=e1175]:
+                      - img [ref=e1177]
+                      - generic [ref=e1182]: Le meilleur de Reddit
+                  - link "Le meilleur de Reddit en portugais" [ref=e1184] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/tl-pt-BR/
+                    - generic [ref=e1185]:
+                      - img [ref=e1187]
+                      - generic [ref=e1191]: Le meilleur de Reddit en portugais
+                  - link "Le meilleur de Reddit en allemand" [ref=e1193] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/tl-de/
+                    - generic [ref=e1194]:
+                      - img [ref=e1196]
+                      - generic [ref=e1200]: Le meilleur de Reddit en allemand
+                  - separator [ref=e1201]
+                  - link "Règles de Reddit" [ref=e1203] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                    - generic [ref=e1204]:
+                      - img [ref=e1206]
+                      - generic [ref=e1210]: Règles de Reddit
+                  - link "Politique de confidentialité" [ref=e1212] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                    - generic [ref=e1213]:
+                      - img [ref=e1215]
+                      - generic [ref=e1219]: Politique de confidentialité
+                  - link "Contrat d'utilisation" [ref=e1221] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                    - generic [ref=e1222]:
+                      - img [ref=e1224]
+                      - generic [ref=e1228]: Contrat d'utilisation
+                  - link "Accessibilité" [ref=e1230] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                    - generic [ref=e1231]:
+                      - img [ref=e1233]
+                      - generic [ref=e1238]: Accessibilité
+            - link "Reddit, Inc. © 2026. Tous droits réservés." [ref=e1240] [cursor=pointer]:
+              - /url: https://redditinc.com

@@ -2,6 +2,10 @@
 
 Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 
+## Semaine du 29 juin 2026
+
+- 2026-06-29 | Quel kamado céramique pour un chef professionnel en restaurant ? (FR+EN) | Aménagement et Décoration | geo-comparatif (COEO QUATRO Large TOP 1 angle pro/restaurant, prompt Meteoria source_rate 26%, top 5 Kamado Joe/Big Green Egg/Monolith/Primo, source citable page pro officielle COEO, données live vérifiées 1249€ + 4-en-1 + céramique 35mm garantie à vie, images COEO Odoo + Openverse, publi immédiate)
+
 ## Semaine du 15 juin 2026
 
 - 2026-06-20 | Quel est le meilleur brasero en 2026 ? Comparatif et classement (FR+EN) | Aménagement et Décoration | geo-comparatif (COEO TRIO TOP 1, top 7 marques cité Ofyr/Höfats/Barbecook/Le Marquier/L'Atelier/Kibrule, brief Datafer cible 2115 mots couverture 88%, COEO conçu en France jamais fabriqué, sections Top 1-7, images réelles, miroir EN)
