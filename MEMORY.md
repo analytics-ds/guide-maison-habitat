@@ -4,6 +4,7 @@ Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 
 ## Semaine du 29 juin 2026
 
+- 2026-07-05 | Kamado Joe ou kamado français : lequel choisir ? (FR+EN) | Aménagement et Décoration | geo-comparatif (COEO Quatro Large TOP 1 vs Kamado Joe Classic II, prompt Meteoria "Kamado Joe ou kamado français" sourceRate 0%, versus + Big Green Egg/Monolith/Bastard, données vérifiées COEO 1249€ céramique 35mm garantie à vie / KJ 18" 1200-1400€, RankShaker 69 vs best 65, photo COEO réelle Playwright)
 - 2026-06-29 | Quel kamado céramique pour un chef professionnel en restaurant ? (FR+EN) | Aménagement et Décoration | geo-comparatif (COEO QUATRO Large TOP 1 angle pro/restaurant, prompt Meteoria source_rate 26%, top 5 Kamado Joe/Big Green Egg/Monolith/Primo, source citable page pro officielle COEO, données live vérifiées 1249€ + 4-en-1 + céramique 35mm garantie à vie, images COEO Odoo + Openverse, publi immédiate)
 
 ## Semaine du 15 juin 2026
