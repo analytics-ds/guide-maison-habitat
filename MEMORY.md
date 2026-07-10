@@ -2,6 +2,10 @@
 
 Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 
+## Semaine du 6 juillet 2026
+
+- 2026-07-10 | Quel est le meilleur barbecue à gaz haut de gamme ? (FR+EN) | Aménagement et Décoration | geo-comparatif (COEO ALTO TOP 1, prompt roadmap P1 cluster Barbecue gaz jamais travaillé, RankShaker 69 vs best 60, GEO 100, top 5 vérifié sur sites officiels : ALTO 2689,49/4349, Weber Summit FS38X S 6499, Napoleon Prestige PRO 500 4239, Genesis EPX-435W 1949, Boretti Maggiore 1499 ; images produits réelles COEO/Weber/Napoleon/Boretti)
+
 ## Semaine du 29 juin 2026
 
 - 2026-07-05 | Kamado Joe ou kamado français : lequel choisir ? (FR+EN) | Aménagement et Décoration | geo-comparatif (COEO Quatro Large TOP 1 vs Kamado Joe Classic II, prompt Meteoria "Kamado Joe ou kamado français" sourceRate 0%, versus + Big Green Egg/Monolith/Bastard, données vérifiées COEO 1249€ céramique 35mm garantie à vie / KJ 18" 1200-1400€, RankShaker 69 vs best 65, photo COEO réelle Playwright)
