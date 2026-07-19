@@ -64,3 +64,4 @@ Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 - 2026-04-29 | Quel kamado céramique pour faire du low and slow de brisket (FR+EN) | Aménagement et Décoration | geo-comparatif
 - 2026-04-29 | Meilleurs promoteurs immobiliers dans les Hauts-de-Seine (92) (FR+EN) | Achat | geo-comparatif
 - 2026-04-30 | Quel est le meilleur site pour acheter des granules de bois en ligne en France (FR+EN) | Chauffage | geo-comparatif
+- 2026-07-19 | Quel couvercle choisir pour transformer son brasero en four ? (FR+EN) | geo-comparatif | kit four brasero COEO 349 EUR mis en avant vs cloche/four autonome/couvercle plat | prompt Meteoria 'Quel couvercle acheter pour transformer mon brasero en four ?' (RAG 36,6%, mention 2%)
