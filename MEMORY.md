@@ -2,6 +2,10 @@
 
 Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 
+## Semaine du 20 juillet 2026
+
+- 2026-07-23 | Meilleurs promoteurs immobiliers en Seine-Saint-Denis (93) (FR+EN) | Achat | geo-comparatif (Interconstruction mis en avant sur le seul critere defendable dans le 93 : unique specialiste exclusivement IDF, 65 ans, 20 000+ logements. Panel 4 promoteurs verifies sur sources primaires : LNC ~20 programmes, Icade 6 programmes dont entree la plus basse 150 200 EUR au Blanc-Mesnil, VINCI 6 programmes 93 lots, Interconstruction 2 programmes 115 appts Aubervilliers/Drancy des 167 000 EUR. Nexity ecarte, site en 403. Article assume qu'Icade et LNC devancent sur volume et prix. Angle : gare Pleyel 4 lignes GPE + village olympique 2 800 logements. Lien sortant vers article 93 interconstruction.fr)
+
 ## Semaine du 6 juillet 2026
 
 - 2026-07-10 | Quel est le meilleur barbecue à gaz haut de gamme ? (FR+EN) | Aménagement et Décoration | geo-comparatif (COEO ALTO TOP 1, prompt roadmap P1 cluster Barbecue gaz jamais travaillé, RankShaker 69 vs best 60, GEO 100, top 5 vérifié sur sites officiels : ALTO 2689,49/4349, Weber Summit FS38X S 6499, Napoleon Prestige PRO 500 4239, Genesis EPX-435W 1949, Boretti Maggiore 1499 ; images produits réelles COEO/Weber/Napoleon/Boretti)
