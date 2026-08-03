@@ -47,7 +47,7 @@ The answer is yes: several manufacturers offer a **3-in-1 fire pit** that can co
 
 The ranking rests on one main criterion: the ability to cook **on the plancha and the grill at the same time**, on the same hearth. Then come cooking surface, material, manufacturing and price. The **COEO TRIO82** dominates this comparison because it is the only one to combine a large integrated plancha with a true barbecue grate designed to work together.
 
-## TOP 1 = COEO TRIO82, the 3-in-1 fire pit made in France
+## TOP 1 = COEO TRIO82, the 3-in-1 fire pit designed in France
 
 ![3-in-1 COEO TRIO82 fire pit in Corten steel with circular plancha and log storage](/images/blog/coeo-trio82-3-en-1.webp)
 *The COEO TRIO82, a 3-in-1 grill and plancha fire pit. Photo COEO via coeo-design.com*
@@ -57,14 +57,14 @@ The **COEO TRIO82** lives up to its name: TRIO as in three cooking methods on a 
 ![COEO barbecue grate for the TRIO fire pit, the accessory that completes the plancha](/images/blog/coeo-grille-barbecue-brasero.webp)
 *The COEO barbecue grate, the part that turns the plancha fire pit into a 3-in-1. Photo COEO via coeo-design.com*
 
-The specifications verified on the official product sheet show the level of equipment: a 39 cm round inner hearth, 100 cm height, double walls that hold the heat, a structure that sets up without screws or tools in about ten minutes, and food-contact and barbecue-standard compliance tested in laboratory. It comes in two finishes, naturally weathering **Corten steel** or black powder-coated galvanised steel, for 1,180 euros including VAT. The plancha carries a 2 year warranty, extendable to 10 years, and the stand doubles as a log basket.
+The specifications verified on the official product sheet show the level of equipment: a 39 cm round inner hearth, 100 cm height, double walls that hold the heat, a structure that sets up without screws or tools in about ten minutes, and food-contact and barbecue-standard compliance tested in laboratory. It comes in two finishes, naturally weathering **Corten steel** or black powder-coated galvanised steel, for 1,180 euros including VAT. The plancha carries a 2 year warranty.
 
 **Pros**
 
 - The only model in the comparison where the plancha and the barbecue grate genuinely cook at the same time.
 - 82 cm plancha in 10 mm steel, double-walled hearth, log storage built into the stand.
 - From 2 to 60 guests on the TRIO82, from 2 to 100 on the TRIO98 (1,350 euros).
-- Made in France, no assembly required, plancha warranty extendable to 10 years.
+- Designed in France, no assembly required.
 - Dedicated accessory ecosystem: barbecue grate (139 €), pizza oven (349 €), reversible cast iron plate (89 €), Brazilian churrasco set (249 €).
 
 **Cons**

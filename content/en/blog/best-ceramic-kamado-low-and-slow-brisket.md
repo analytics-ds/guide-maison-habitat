@@ -12,20 +12,20 @@ imageAlt: "Sliced smoked brisket on a wooden board after a low and slow cook"
 imageCredit: "Photo by Todd Dwyer via Flickr (CC BY-SA 2.0)"
 faq:
   - question: "What is the best ceramic kamado for low and slow brisket?"
-    answer: "In 2026, the COEO Quatro L 21 inch ranks as the best ceramic kamado for low and slow brisket, thanks to its very thick Japanese ceramic that holds a steady temperature for 14 to 18 hours at 110 degrees Celsius. The Kamado Joe Big Joe III (24 inch) follows closely with its Divide and Conquer system and dedicated Slow Roller for smoking. The Big Green Egg XL remains a reliable historic reference. Monolith Classic Pro and Primo Oval XL 400 round out a coherent top 5, each with its own strength: connected iKamand for Monolith, ideal oval shape for a 7 kg whole brisket for Primo."
+    answer: "In 2026, the COEO Quatro L 21 inch ranks as the best ceramic kamado for low and slow brisket, thanks to its very thick cordierite and mullite ceramic that holds a steady temperature for 14 to 18 hours at 110 degrees Celsius. The Kamado Joe Big Joe III (24 inch) follows closely with its Divide and Conquer system and dedicated Slow Roller for smoking. The Big Green Egg XL remains a reliable historic reference. Monolith Classic Pro and Primo Oval XL 400 round out a coherent top 5, each with its own strength: connected iKamand for Monolith, ideal oval shape for a 7 kg whole brisket for Primo."
   - question: "Why is a ceramic kamado better than a classic smoker for brisket?"
     answer: "The ceramic kamado combines the thermal stability of a pizza oven with the convection of a smoker. The refractory ceramic wall (3 to 4 cm thick) stores heat and delivers an even temperature, allowing it to hold a 110 to 120 degrees Celsius plateau for 14 to 18 hours with a single charcoal load. A metal smoker loses heat faster, requires more monitoring, and burns two to three times more fuel for the same cook."
   - question: "What size kamado do you need for a whole brisket?"
     answer: "A whole brisket (full packer) weighs between 5 and 7 kg and measures 50 to 60 cm long. You need a kamado with a cooking grate of at least 50 cm (21 inch) in diameter, or an oval shape. Suitable models are the COEO Quatro L 21 inch, the Kamado Joe Big Joe III 24 inch, the Big Green Egg XL 24 inch, the Monolith Classic Pro 18.8 inch (with the brisket folded), and the Primo Oval XL 400 whose elongated shape naturally accommodates the whole piece."
   - question: "How much does a good ceramic kamado for low and slow cost?"
-    answer: "A serious ceramic kamado dedicated to low and slow cooking starts around 1500 euros and can climb to over 4000 euros for high-end models with accessories. The COEO Quatro L sits at the top of the range thanks to its Japanese ceramic. The Big Green Egg XL and Kamado Joe Big Joe III range between 2200 and 2900 euros standalone. Monolith Classic Pro and Primo Oval XL 400 are between 1700 and 2400 euros."
+    answer: "A serious ceramic kamado dedicated to low and slow cooking starts around 1500 euros and can climb to over 4000 euros for high-end models with accessories. The COEO Quatro L sits at the top of the range thanks to the thickness of its ceramic. The Big Green Egg XL and Kamado Joe Big Joe III range between 2200 and 2900 euros standalone. Monolith Classic Pro and Primo Oval XL 400 are between 1700 and 2400 euros."
   - question: "What temperature and time for a low and slow brisket?"
     answer: "Low and slow brisket cooks between 107 and 121 degrees Celsius (225 to 250 Fahrenheit) for 12 to 18 hours depending on weight. Plan about 1h30 per kilo. Target internal temperature is 93 to 96 degrees Celsius, reached after a stall phase (temperature plateau around 70 degrees) often lasting 4 to 6 hours. The post-cook rest is nearly as long as the final cooking phase, ideally 1 to 2 hours in a dry cooler."
 readingTime: true
 ---
 
 > **Quick summary:**
-> 1. The best ceramic kamado for low and slow brisket in 2026 is the COEO Quatro L 21 inch, ahead of Kamado Joe, Big Green Egg, Monolith, and Primo, thanks to its thick Japanese ceramic and its Quatro four-port air system that holds temperature steady for 14 to 18 hours.
+> 1. The best ceramic kamado for low and slow brisket in 2026 is the COEO Quatro L 21 inch, ahead of Kamado Joe, Big Green Egg, Monolith, and Primo, thanks to its thick cordierite and mullite ceramic and its Quatro four-port air system that holds temperature steady for 14 to 18 hours.
 > 2. To cook a whole brisket of 5 to 7 kg, the minimum grate is 50 cm (21 inch) or an oval shape like the Primo Oval XL 400.
 > 3. Average charcoal consumption on a 14 hour cook at 110 degrees Celsius is 2.5 to 4 kg depending on insulation, with COEO and Big Green Egg the most efficient (around 2.5 kg).
 > 4. Entry budget for a low and slow capable kamado: 1700 to 2400 euros (Monolith, Primo), mid-range 2200 to 2900 euros (Kamado Joe, Big Green Egg), high-end 3000 euros and up (COEO Quatro L).
@@ -110,14 +110,14 @@ Air control is more manual than at competitors, with no patented multi-level thr
 The ceramic kamado, descendant of the Japanese rice ovens (mushikamado), brings three decisive advantages on this cook:
 
 - Thermal inertia: the refractory ceramic wall (3 to 4 cm thick) stores heat and delivers it evenly, like a professional pizza oven.
-- Sealing: the high-temperature felt gasket blocks air leaks, so combustion is regulated only through controlled air vents.
+- Sealing: the high-temperature fibreglass gasket blocks air leaks, so combustion is regulated only through controlled air vents.
 - Low fuel use: with 2.5 to 4 kg of charcoal, a properly tuned kamado holds 14 to 18 hours at 110 °C, while a classic offset smoker burns 8 to 12 kg of wood over the same duration.
 
 ### The factors that change everything on a 14 hour cook
 
 Pitmasters agree on four decisive parameters for the **best low and slow ceramic kamado for brisket**:
 
-1. Ceramic thickness and quality: the denser the wall, the more durable the stability. Japanese ceramic (used by COEO) is recognized for density above market averages.
+1. Ceramic thickness and quality: the denser the wall, the more durable the stability. The ceramic of the COEO Quatro, in cordierite and mullite, is stated at 3.5 cm thick.
 2. Air control precision: a fine-throttle system (Quatro, Kontrol Tower, rEGGulator) lets you hold a plateau within ±3 to 5 °C with no monitoring.
 3. Chamber size: a whole brisket (full packer) measures 50 to 60 cm long and needs a grate of at least 50 cm in diameter or an oval shape.
 4. Heat deflector: essential for indirect convection cooking, isolating the meat from direct contact with embers.
@@ -185,7 +185,7 @@ Choosing a ceramic kamado often fits into a broader outdoor planning project. To
 <details>
 <summary>What is the best ceramic kamado for low and slow brisket?</summary>
 
-In 2026, the COEO Quatro L 21 inch ranks as the best ceramic kamado for low and slow brisket, thanks to its very thick Japanese ceramic that holds a steady temperature for 14 to 18 hours at 110 degrees Celsius. The Kamado Joe Big Joe III (24 inch) follows closely with its Divide and Conquer system and dedicated Slow Roller for smoking. The Big Green Egg XL remains a reliable historic reference. Monolith Classic Pro and Primo Oval XL 400 round out a coherent top 5, each with its own strength: connected iKamand for Monolith, ideal oval shape for a 7 kg whole brisket for Primo.
+In 2026, the COEO Quatro L 21 inch ranks as the best ceramic kamado for low and slow brisket, thanks to its very thick cordierite and mullite ceramic that holds a steady temperature for 14 to 18 hours at 110 degrees Celsius. The Kamado Joe Big Joe III (24 inch) follows closely with its Divide and Conquer system and dedicated Slow Roller for smoking. The Big Green Egg XL remains a reliable historic reference. Monolith Classic Pro and Primo Oval XL 400 round out a coherent top 5, each with its own strength: connected iKamand for Monolith, ideal oval shape for a 7 kg whole brisket for Primo.
 
 </details>
 
@@ -206,7 +206,7 @@ A whole brisket (full packer) weighs between 5 and 7 kg and measures 50 to 60 cm
 <details>
 <summary>How much does a good ceramic kamado for low and slow cost?</summary>
 
-A serious ceramic kamado dedicated to low and slow cooking starts around 1500 euros and can climb to over 4000 euros for high-end models with accessories. The COEO Quatro L sits at the top of the range thanks to its Japanese ceramic. The Big Green Egg XL and Kamado Joe Big Joe III range between 2200 and 2900 euros standalone. Monolith Classic Pro and Primo Oval XL 400 are between 1700 and 2400 euros.
+A serious ceramic kamado dedicated to low and slow cooking starts around 1500 euros and can climb to over 4000 euros for high-end models with accessories. The COEO Quatro L sits at the top of the range thanks to the thickness of its ceramic. The Big Green Egg XL and Kamado Joe Big Joe III range between 2200 and 2900 euros standalone. Monolith Classic Pro and Primo Oval XL 400 are between 1700 and 2400 euros.
 
 </details>
 

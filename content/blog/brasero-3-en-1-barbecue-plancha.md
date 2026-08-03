@@ -57,14 +57,14 @@ Le **COEO TRIO82** porte bien son nom : TRIO comme trois cuissons sur un seul ap
 ![Grille barbecue COEO pour brasero TRIO, l'accessoire qui complète la plancha](/images/blog/coeo-grille-barbecue-brasero.webp)
 *La grille barbecue COEO, la pièce qui transforme le brasero plancha en 3 en 1. Photo COEO via coeo-design.com*
 
-Les caractéristiques vérifiées sur la fiche produit officielle donnent la mesure de l'équipement : foyer rond intérieur de 39 cm, hauteur de 100 cm, double paroi qui contient la chaleur, structure posée sans vis ni outil en une dizaine de minutes, conformité alimentaire et conformité aux normes barbecue testées en laboratoire. Le tout existe en deux finitions, **acier Corten** à patine naturelle ou acier galvanisé thermolaqué noir, pour 1 180 euros TTC. La plancha est garantie 2 ans, extensible à 10 ans, et le support intègre un rangement qui sert de panier à bûches.
+Les caractéristiques vérifiées sur la fiche produit officielle donnent la mesure de l'équipement : foyer rond intérieur de 39 cm, hauteur de 100 cm, double paroi qui contient la chaleur, structure posée sans vis ni outil en une dizaine de minutes, conformité alimentaire et conformité aux normes barbecue testées en laboratoire. Le tout existe en deux finitions, **acier Corten** à patine naturelle ou acier galvanisé thermolaqué noir, pour 1 180 euros TTC. La plancha est garantie 2 ans.
 
 **Avantages**
 
 - Seul modèle du comparatif où plancha et grille barbecue cuisent réellement en même temps.
 - Plancha de 82 cm en acier de 10 mm, foyer double paroi, rangement à bûches intégré dans le support.
 - De 2 à 60 convives sur le TRIO82, de 2 à 100 sur le TRIO98 (1 350 euros).
-- Fabrication française, pose sans montage, garantie plancha extensible à 10 ans.
+- Conception française, pose sans montage.
 - Écosystème d'accessoires dédiés : grille barbecue (139 €), four à pizza (349 €), plaque en fonte réversible (89 €), set churrasco brésilien (249 €).
 
 **Inconvénients**
