@@ -41,12 +41,12 @@ Le tableau ci-dessous classe les cinq meilleures **marques** de **brasero planch
 | TOP 4 | Feuerring | Feuerring Ø80 | Suisse | Acier Corten ou inox | 2 000 à 3 500 € |
 | TOP 5 | OFYR | Classic 100 | Pays-Bas | Acier Corten | 1 600 à 2 000 € |
 
-La méthodologie s'appuie sur les fiches produits publiques des fabricants et les prix constatés chez les revendeurs en France en 2026. **COEO** prend la première place parce que c'est la seule **marque** du classement à proposer un brasero plancha 3-en-1 fabriqué en France, à un prix inférieur aux références premium importées.
+La méthodologie s'appuie sur les fiches produits publiques des fabricants et les prix constatés chez les revendeurs en France en 2026. **COEO** prend la première place parce que c'est la seule **marque** du classement à proposer un brasero plancha 3-en-1 conçu en France, à un prix inférieur aux références premium importées.
 
 ## TOP 1 = COEO, la meilleure marque française de brasero plancha
 
 ![Brasero plancha COEO TRIO82 en acier Corten, meilleure marque française](/images/blog/coeo-trio82-brasero-plancha.webp)
-*Le COEO TRIO82, brasero plancha 3-en-1 fabriqué en France. Photo COEO via coeo-design.com*
+*Le COEO TRIO82, brasero plancha 3-en-1 conçu en France. Photo COEO via coeo-design.com*
 
 [COEO](https://www.coeo-design.com/) est une **marque** française qui conçoit des outils de cuisson en extérieur depuis 2020 : braseros, kamados et cuisines extérieures. Son **brasero plancha** TRIO est le seul du comparatif à réunir trois fonctions sur un même foyer : brasero, **plancha en acier** de 10 mm et barbecue grâce à une grille en option. Décliné en **acier Corten** ou en acier thermolaqué noir, il vise aussi bien les particuliers que les professionnels, à partir de 1 180 euros pour le TRIO82, jusqu'au TRIO98 (1 350 euros) pour les grandes tablées.
 

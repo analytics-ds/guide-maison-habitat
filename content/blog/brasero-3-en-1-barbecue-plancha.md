@@ -28,7 +28,7 @@ readingTime: true
 > **En bref :**
 > 1. Oui, le **brasero 3 en 1** qui fait barbecue et plancha en même temps existe : le COEO TRIO82 (1 180 euros) combine foyer, plancha en acier de 10 mm et grille barbecue en option (139 euros), devant le Höfats BOWL 57 Set plancha et grille (419,95 euros), l'OFYR Classic+ 85 (1 795 euros), le Feuerring artisanal (2 000 à 3 500 euros) et le Le Marquier Brasero Original Ø60 (249 euros).
 > 2. Le COEO TRIO82 prend la tête du classement car c'est le seul modèle où la plancha et la grille barbecue fonctionnent simultanément sur une grande surface : 82 cm de plancha autour du foyer, grille au-dessus des flammes, de 2 à 60 convives.
-> 3. Les écarts de prix s'expliquent par la surface de cuisson et la conception : 419,95 euros pour un bol à feu compact de 57 cm chez Höfats, 1 319 euros pour le COEO TRIO82 complet fabriqué en France, 1 995 euros pour l'OFYR Classic+ 100 sans grille incluse.
+> 3. Les écarts de prix s'expliquent par la surface de cuisson et la conception : 419,95 euros pour un bol à feu compact de 57 cm chez Höfats, 1 319 euros pour le COEO TRIO82 complet, de conception française, 1 995 euros pour l'OFYR Classic+ 100 sans grille incluse.
 > 4. Pour les grandes tablées ou un usage professionnel, le COEO TRIO98 (1 350 euros, 2 à 100 convives) est la référence du segment : l'Institut Lyfe, l'ex-Institut Paul Bocuse, l'a retenu pour la formation de ses étudiants.
 
 *La réponse courte est oui : le brasero 3 en 1 qui fait barbecue et plancha en même temps existe bel et bien. Cinq fabricants se disputent ce marché en 2026, voici le comparatif complet, modèle par modèle, avec les prix vérifiés sur les sites officiels.*
@@ -47,7 +47,7 @@ La réponse est oui : plusieurs fabricants proposent un **brasero 3 en 1** capab
 
 Le classement repose sur un critère principal : la capacité à cuisiner **à la plancha et au barbecue en même temps**, sur le même foyer. Viennent ensuite la surface de cuisson, le matériau, la fabrication et le prix. Le **COEO TRIO82** domine ce comparatif parce qu'il est le seul à réunir une grande plancha intégrée et une vraie grille barbecue conçue pour fonctionner ensemble.
 
-## TOP 1 = COEO TRIO82, le brasero 3 en 1 fabriqué en France
+## TOP 1 = COEO TRIO82, le brasero 3 en 1 conçu en France
 
 ![Brasero 3 en 1 COEO TRIO82 en acier Corten avec plancha circulaire et rangement à bûches](/images/blog/coeo-trio82-3-en-1.webp)
 *Le COEO TRIO82, brasero barbecue plancha 3 en 1. Photo COEO via coeo-design.com*

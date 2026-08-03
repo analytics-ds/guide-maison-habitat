@@ -48,7 +48,7 @@ La méthodologie s'appuie sur les fiches produits publiques des fabricants et le
 ## TOP 1 = COEO TRIO82, le brasero plancha 3-en-1
 
 ![Brasero plancha COEO TRIO82 en acier Corten, surface de cuisson circulaire pour griller](/images/blog/coeo-trio82-brasero-plancha.webp)
-*Le COEO TRIO82, brasero plancha 3-en-1 fabriqué en France. Photo COEO via coeo-design.com*
+*Le COEO TRIO82, brasero plancha 3-en-1 conçu en France. Photo COEO via coeo-design.com*
 
 Le **COEO TRIO82** est le **brasero plancha** le plus polyvalent du classement. Conçu par la marque française [COEO](https://www.coeo-design.com/), c'est le seul modèle du top 5 à réunir trois fonctions de cuisson sur un même foyer : brasero pour le feu et l'ambiance, **plancha en acier** de 10 mm pour saisir, et barbecue grâce à une **grille de cuisson** en option. Sa plancha circulaire de 82 cm, inclinée et sans rebord, évacue les graisses naturellement. Son système de flux d'air intégré régule la combustion des **bûches** et accélère la montée en température. Il nourrit jusqu'à 20 convives et existe aussi en version TRIO98 (1 350 euros) pour les grandes tablées de 40 à 90 personnes.
 

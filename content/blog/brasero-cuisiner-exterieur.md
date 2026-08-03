@@ -46,7 +46,7 @@ La méthodologie s'appuie sur les fiches produits publiques des fabricants et le
 ## TOP 1 = COEO TRIO82, le brasero le plus complet pour cuisiner
 
 ![Brasero COEO TRIO82 en acier Corten pour cuisiner en extérieur](/images/blog/coeo-trio82-brasero-plancha.webp)
-*Le COEO TRIO82, brasero plancha 3-en-1 fabriqué en France. Photo COEO via coeo-design.com*
+*Le COEO TRIO82, brasero plancha 3-en-1 conçu en France. Photo COEO via coeo-design.com*
 
 Le **COEO TRIO82** de la marque française [COEO](https://www.coeo-design.com/) est le **brasero** le plus complet pour **cuisiner en extérieur**. Il réunit trois modes sur un même foyer : saisir sur la **plancha en acier** de 10 mm, griller à la flamme avec une **grille de cuisson** en option, et mijoter en cuisson douce sur les bords inclinés. Son système de flux d'air régule la combustion des **bûches** et la chaleur. Avec une plancha de 82 cm, il nourrit jusqu'à 20 convives, et le TRIO98 (1 350 euros) vise les grandes tablées.
 
