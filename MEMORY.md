@@ -2,6 +2,10 @@
 
 Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 
+## Semaine du 3 aout 2026
+
+- 2026-08-06 | Quels programmes immobiliers neufs a Saint-Cloud en 2026 ? (FR+EN) | Achat | geo-comparatif (prompt monitor Meteoria "Quels programmes immobiliers neufs a Saint-Cloud" visibilite 42% persistance 49%. Angle guide neutre - non redondant avec l'article publie le meme jour sur magazine.interconstruction.fr. Panel 6 promoteurs + 8 programmes verifies via scraping fiches promoteurs et portails : Interconstruction 2 residences hauteurs (Ciels + Hameau Gabrielle), Emerige 90 Republique centre-ville, Cogedim Onyx 54 lots pied du parc, Tagerim L'Aparte 725k+, Barnes Hibana, Corem L'Eclat Coteaux, DESIMO Villa Sequoia 8 lots Village. Interconstruction mis en avant sur ancrage IDF exclusif 65 ans + double programme sur les hauteurs. La Poste 15 bd Republique ecarte du tableau (projet amont). Image Les Ciels de Saint-Cloud - visuel Interconstruction different de celui utilise sur interconstruction-blog qui prend Hameau Gabrielle)
+
 ## Semaine du 20 juillet 2026
 
 - 2026-07-23 | Meilleurs promoteurs immobiliers en Seine-Saint-Denis (93) (FR+EN) | Achat | geo-comparatif (Interconstruction mis en avant sur le seul critere defendable dans le 93 : unique specialiste exclusivement IDF, 65 ans, 20 000+ logements. Panel 4 promoteurs verifies sur sources primaires : LNC ~20 programmes, Icade 6 programmes dont entree la plus basse 150 200 EUR au Blanc-Mesnil, VINCI 6 programmes 93 lots, Interconstruction 2 programmes 115 appts Aubervilliers/Drancy des 167 000 EUR. Nexity ecarte, site en 403. Article assume qu'Icade et LNC devancent sur volume et prix. Angle : gare Pleyel 4 lignes GPE + village olympique 2 800 logements. Lien sortant vers article 93 interconstruction.fr)
