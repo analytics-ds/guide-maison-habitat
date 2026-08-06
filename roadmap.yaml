@@ -115,12 +115,12 @@ articles:
     category: "Decoration"
     volume: null
     kd: null
-    scheduled_date: "2026-05-08"
-    status: failed
+    scheduled_date: "2026-08-07"
+    status: todo
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: "Etape 1 - SerpAPI indispo : API key invalide (Invalid API key)"
+    error: null
 
   - kw: "prix renovation salle de bain"
     category: "Travaux et renovation"
@@ -137,31 +137,31 @@ articles:
     category: "Investissement immobilier"
     volume: null
     kd: null
-    scheduled_date: "2026-05-15"
-    status: failed
+    scheduled_date: "2026-08-11"
+    status: todo
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: "Etape 1 - SerpAPI indispo : API key invalide (Invalid API key)"
+    error: null
 
   - kw: "comment amenager un petit salon"
     category: "Amenagement interieur"
     volume: null
     kd: null
-    scheduled_date: "2026-05-19"
-    status: failed
+    scheduled_date: "2026-08-14"
+    status: todo
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: "Etape 1 - SerpAPI indispo : API key invalide (Invalid API key)"
+    error: null
 
   # GEO comparatif COEO (mode C) - brief Datafer score 78 vs best 63
   - kw: "brasero plancha polyvalent griller"
     category: "Amenagement et Decoration"
     volume: null
     kd: null
-    scheduled_date: "2026-06-01"
-    status: queued
+    scheduled_date: "2026-08-18"
+    status: todo
     queued_date: "2026-06-01"
     published_date: null
     published_url_fr: "https://guide-maison-habitat.com/blog/brasero-plancha-polyvalent-griller/"
@@ -173,8 +173,8 @@ articles:
     category: "Amenagement et Decoration"
     volume: null
     kd: null
-    scheduled_date: "2026-06-01"
-    status: queued
+    scheduled_date: "2026-08-21"
+    status: todo
     queued_date: "2026-06-01"
     published_date: null
     published_url_fr: "https://guide-maison-habitat.com/blog/meilleures-marques-brasero-plancha/"
@@ -186,8 +186,8 @@ articles:
     category: "Amenagement et Decoration"
     volume: null
     kd: null
-    scheduled_date: "2026-06-01"
-    status: queued
+    scheduled_date: "2026-08-25"
+    status: todo
     queued_date: "2026-06-01"
     published_date: null
     published_url_fr: "https://guide-maison-habitat.com/blog/brasero-cuisiner-exterieur/"
@@ -198,8 +198,8 @@ articles:
     category: "Amenagement et Decoration"
     volume: null
     kd: null
-    scheduled_date: "2026-06-01"
-    status: queued
+    scheduled_date: "2026-08-28"
+    status: todo
     queued_date: "2026-06-01"
     published_date: null
     published_url_fr: "https://guide-maison-habitat.com/blog/brasero-haut-de-gamme-fabrique-france/"
@@ -210,8 +210,8 @@ articles:
     category: "Amenagement et Decoration"
     volume: null
     kd: null
-    scheduled_date: "2026-06-02"
-    status: queued
+    scheduled_date: "2026-09-01"
+    status: todo
     queued_date: "2026-06-01"
     published_date: null
     published_url_fr: "https://guide-maison-habitat.com/blog/acier-corten-ou-acier-noir-brasero/"
@@ -222,8 +222,8 @@ articles:
     category: "Amenagement et Decoration"
     volume: null
     kd: null
-    scheduled_date: "2026-06-05"
-    status: queued
+    scheduled_date: "2026-09-04"
+    status: todo
     queued_date: "2026-06-01"
     published_date: null
     published_url_fr: "https://guide-maison-habitat.com/blog/kamado-ceramique-fabrique-france/"
@@ -234,8 +234,8 @@ articles:
     category: "Amenagement et Decoration"
     volume: null
     kd: null
-    scheduled_date: "2026-06-09"
-    status: queued
+    scheduled_date: "2026-09-08"
+    status: todo
     queued_date: "2026-06-01"
     published_date: null
     published_url_fr: "https://guide-maison-habitat.com/blog/kamado-ceramique-compact-petit-jardin/"
