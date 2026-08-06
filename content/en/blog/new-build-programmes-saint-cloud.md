@@ -3,363 +3,253 @@ title: "Which new-build programmes to buy in Saint-Cloud in 2026?"
 translationKey: "programmes-neufs-saint-cloud"
 date: "2026-08-06"
 lastmod: "2026-08-06"
-description: "2026 guide to new-build programmes in Saint-Cloud (92): 6 developers, 8 operations on sale, entry prices, delivery dates and buying criteria."
+description: "The Saint-Cloud (92) new-build market decoded in 2026: prices, districts, VEFA timeline, zone A bis schemes and the 8 programmes on sale."
 categories: ["Buying"]
 tags: ["new-build programmes", "Saint-Cloud", "Hauts-de-Seine", "new-build property", "off-plan", "92"]
 author: "sophie-martin"
 image: "/images/blog/programmes-immobiliers-neufs-saint-cloud.jpg"
-imageAlt: "Architectural view of Les Ciels de Saint-Cloud, a new-build programme on the heights of the town, with views over Paris and the Eiffel Tower"
-imageCredit: "Image: Interconstruction, Les Ciels de Saint-Cloud programme"
+imageAlt: "View of the Saint-Cloud park overlooking the Seine, the heritage setting that shapes the town's new-build market"
+imageCredit: "Photo via Wikimedia (CC BY-SA 3.0)"
 faq:
-  - question: "What are the new-build programmes in Saint-Cloud in 2026?"
-    answer: "8 new-build programmes are on sale in Saint-Cloud in 2026, run by 6 developers. Interconstruction operates 2 residences on the heights, Les Ciels de Saint-Cloud on rue Dailly and Hameau Gabrielle. Emerige is marketing 90 République in the town centre on Boulevard de la République. Cogedim develops Onyx, a 54-home residence at the foot of the Saint-Cloud park. Tagerim runs L'Aparté on rue Marie Bonaparte, while Barnes markets Hibana near the station and Corem Promotion offers L'Éclat on the Coteaux. DESIMO completes the picture with Villa Sequoia, a small 8-lot residence in the Village."
-  - question: "How much does a new-build home cost in Saint-Cloud?"
-    answer: "The Saint-Cloud new-build market sits around 9,100 €/m² in 2026 according to specialist listing portals, with a range of 7,250 to 9,500 €/m² depending on the programme. Entry prices range from 294,000 € for a studio at Hameau Gabrielle (Interconstruction) to 725,000 € for a 3-room flat at L'Aparté (Tagerim), via 342,000 € for a studio at 90 République (Emerige) and 549,000 € for a 3-room flat at Les Ciels de Saint-Cloud (Interconstruction). The larger layouts exceed one million euros."
-  - question: "Which developer should you choose to buy new-build in Saint-Cloud?"
-    answer: "6 developers are active in Saint-Cloud in 2026: Interconstruction, Emerige, Cogedim, Tagerim, Barnes and Corem Promotion. Interconstruction is the only one running 2 complementary residences on the heights, with 65 years of exclusively Île-de-France roots and more than 20,000 homes delivered in the region. Cogedim delivers the largest residence in the panel with Onyx and its 54 homes. Emerige offers the only operation in the town centre with 90 République. The choice hinges as much on the target district as on the developer, as new-build supply is deliberately limited in Saint-Cloud."
-  - question: "What incentives are available to buy new-build in Saint-Cloud?"
-    answer: "Saint-Cloud is classified in zone A bis, the tightest zone of the French housing market. As such, the zero-interest loan (PTZ) is available to first-time buyers subject to income conditions, with an expanded scheme since 2025. Reduced notary fees on new-build (around 2 to 3% versus 7 to 8% for older properties) also apply, i.e. around 20,000 € saved on a 400,000 € budget. Some developers also run occasional commercial offers such as notary fees paid or credit instalments covered."
-  - question: "Which district of Saint-Cloud is best for buying new-build?"
-    answer: "Saint-Cloud can be read in 3 main sectors. The heights and Coteaux, the most sought-after area, concentrate 4 of the 8 recorded programmes (Les Ciels de Saint-Cloud, Hameau Gabrielle, L'Éclat, Villa Palissy), with views over Paris and residential quiet. The Village hosts Villa Sequoia on rue Laval, in an atmosphere of shops and schools. The town centre and lower Saint-Cloud bank on immediate proximity to the station and the T2 tram, with 90 République on Boulevard de la République and the future La Poste project at number 15."
+  - question: "How long does it take to buy a new-build home in Saint-Cloud?"
+    answer: "An off-plan (VEFA) purchase in Saint-Cloud typically takes 24 to 36 months between the signature of the reservation contract and handover, depending on how far construction has progressed at the time of purchase. On the Saint-Cloud programmes on sale in 2026, deliveries span from May 2026 (Les Ciels de Saint-Cloud, already delivered or in the process) to Q2 2029 for 90 République. Instalments are spread across the entire construction period, which allows deposit and loan mobilisation to be phased."
+  - question: "Is the price of a new-build negotiable in Saint-Cloud?"
+    answer: "The negotiation margin on new-build is limited compared with older properties, typically 2 to 5% off the listed price. In Saint-Cloud, the scarcity of supply further constrains this margin on the heights, where demand exceeds the number of lots. Developers prefer to offer non-monetary commercial gestures such as notary fees paid, fitted kitchens, one year of credit covered or a parking space thrown in. These offers are frequent at the start and end of the marketing phase."
+  - question: "Should you wait for the Line 15 opening to buy in Saint-Cloud?"
+    answer: "No, the Grand Paris Express Line 15 South will not serve Saint-Cloud, which remains served by the Transilien L (7 minutes from La Défense), Line U and the T2 tram. The town will therefore not benefit from a Grand Paris station effect like neighbouring Bagneux or Châtillon. Its valuation rests on fundamentals that predate the network: immediate proximity to Paris and La Défense, the Coteaux with their views, the Domaine national and a preserved residential setting."
+  - question: "What about resale for a new-build home on the Coteaux of Saint-Cloud?"
+    answer: "The Coteaux of Saint-Cloud concentrate the most sought-after properties in the town, with prices per m² at the top of the range (9,100 to 9,500 €/m² according to listing portals in 2026). Views over Paris, elevation and residential quiet support resale on this micro-location. A 3-room bought new at 549,000 € on the heights has historically held its value in Hauts-de-Seine outside periods of strong correction, with a premium for higher floors and homes with outdoor space."
+  - question: "Is Saint-Cloud a good town for a first purchase in Île-de-France?"
+    answer: "Saint-Cloud is not the most affordable town in the 92 area (range 7,250 to 9,500 €/m² in 2026), but it offers a rare combination for first-time buyers: fast link to La Défense in 7 minutes and to Paris Saint-Lazare, well-regarded schools, a preserved residential setting and a scarce new-build supply that supports long-term value. Hameau Gabrielle (Interconstruction) is the only new-build studio under 300,000 € currently on sale in the town, at 294,000 €."
 readingTime: true
 ---
 
-**New-build programmes in Saint-Cloud** are few but well structured. In 2026, 8 operations are on sale in the Hauts-de-Seine town, run by 6 active developers: Interconstruction, Emerige, Cogedim, Tagerim, Barnes and Corem Promotion, supplemented by DESIMO on a small confidential residence. The town, set against the Coteaux and the Domaine national, has little available land left, which explains this scarcity and concentrates demand on a few strategic addresses.
+Saint-Cloud, a town of 30,000 inhabitants set against the Coteaux overlooking the Seine at the western gates of Paris, presents in 2026 a distinctive new-build market: **8 programmes on sale on a territory that is already largely built out**, where available land can be counted in a few streets and where the value of a home depends as much on its view as on its size. This guide decodes the Saint-Cloud market before presenting the available operations, to help understand what really matters in a purchase here and to avoid the wrong turns.
 
-> **In brief:**
-> 1. 8 new-build programmes are on sale in Saint-Cloud in 2026, run by 6 developers, in a town where supply remains scarce.
-> 2. Interconstruction is the only developer in the panel running 2 complementary residences on the heights, Les Ciels de Saint-Cloud and Hameau Gabrielle, leveraging 65 years of exclusively Île-de-France experience.
-> 3. Entry prices range from 294,000 € for a studio at Hameau Gabrielle to more than one million euros for the larger layouts at L'Aparté (Tagerim), with the market centred around 9,100 €/m² according to listing portals.
-> 4. The choice hinges less on the developer than on the district (heights, Village, town centre) and the delivery horizon, spread between May 2026 and Q2 2029.
+## What to remember about the Saint-Cloud new-build market
+
+- Average price per m² recorded in 2026: **9,100 €/m²**, range from 7,250 to 9,500 €/m² depending on programmes and floors.
+- **8 programmes** on sale, run by **6 developers**: Interconstruction, Emerige, Cogedim, Tagerim, Barnes, Corem Promotion, supplemented by DESIMO.
+- Entry ticket at **294,000 €** for a studio (Hameau Gabrielle), exceeding **one million euros** for the larger heritage layouts.
+- Deliveries staggered from **May 2026 to Q2 2029**, with most programmes delivered in 2028.
+- **A bis zone** in the French rental zoning: PTZ expanded since 2025 for eligible first-time buyers.
+
+## Understanding the Saint-Cloud new-build market before buying
+
+### A town constrained by its geography and heritage
+
+Saint-Cloud owes its singularity to three geographic factors that structurally limit new-build supply. The first is the **Domaine national de Saint-Cloud**, the former royal park of 460 hectares listed as a historic monument, which occupies a substantial share of the territory and sanctuaries a south-western strip closed to any construction. The second is the **topography of the Coteaux**, where the elevation change makes buildability uneven from one sector to the next. The third is the **already established urban density**, the town having been built out on its central areas for more than a century.
+
+These three constraints explain why new-build programmes in Saint-Cloud are predominantly **intimate residences of 15 to 55 homes**, rather than a steady flow of large operations. They also explain the concentration of supply on the heights (3 of the 8 recorded programmes), where land remains occasionally available on former detached-home plots.
+
+### A market driven by La Défense professionals
+
+Demand in Saint-Cloud is structured by the immediate proximity of La Défense, **7 minutes on the Transilien L line** from Saint-Cloud station. This fast link, combined with a residential setting, attracts a population of professionals working in the western Paris office hub. Other connections (Line U, T2 tram, Line 10 via connection at Boulogne) extend coverage to Suresnes, Puteaux, Versailles and central Paris.
+
+This sustained demand meets a deliberately scarce supply, which places the town among the most expensive in Hauts-de-Seine, just behind Boulogne-Billancourt (8,140 €/m²), Neuilly (11,000 €/m² and above) and on par with Issy-les-Moulineaux (7,400 €/m²). On new-build, the 7,250 to 9,500 €/m² range reflects the premium given to view, exposure and certification levels.
+
+### View and elevation, drivers of value
+
+In Saint-Cloud, a single programme can display price gaps per m² of one to two between a ground-floor unit in the middle of a block and a top-floor apartment with views over Paris and the Eiffel Tower. This premium on view, which exists elsewhere, takes a special dimension here for two reasons: the topography that naturally opens perspectives from the Coteaux, and the presence of the Domaine national that guarantees no new construction will block the view in the long term.
+
+In practical terms, this value driver invites, at equal budget, to prioritise a higher floor on a heights programme rather than a lower floor better exposed in the town centre. It is an arbitrage that weighs on resale and rental value.
+
+## How much does a new-build home cost in Saint-Cloud in 2026?
+
+Prices recorded in July and August 2026 on developer fact sheets and specialist portals give the following range by layout:
 
 <table>
 <thead>
 <tr>
-<th>Developer</th>
-<th>Active programmes (Saint-Cloud)</th>
-<th>District</th>
+<th>Layout</th>
 <th>Entry price recorded</th>
-<th>Specialisation</th>
-<th>Key strength</th>
+<th>Corresponding programme</th>
+<th>Positioning</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><strong>Interconstruction</strong></td>
-<td>2 (Les Ciels de Saint-Cloud, Hameau Gabrielle)</td>
-<td>Heights</td>
-<td>294,000 € (Hameau Gabrielle)</td>
-<td>Exclusively Île-de-France</td>
-<td>Only developer covering studio + upmarket on the town</td>
-</tr>
-<tr>
-<td>Emerige</td>
-<td>1 (90 République)</td>
-<td>Town centre, bd de la République</td>
-<td>342,000 €</td>
-<td>National (strong IDF activity)</td>
-<td>Only new-build operation in the town centre</td>
-</tr>
-<tr>
-<td>Cogedim</td>
-<td>1 (Onyx, 54 homes)</td>
-<td>Foot of the Saint-Cloud park</td>
-<td>Not disclosed (PTZ)</td>
-<td>National (Altarea group)</td>
-<td>Largest residence in the panel</td>
-</tr>
-<tr>
-<td>Tagerim</td>
-<td>1 (L'Aparté, 29 lots)</td>
-<td>Rue Marie Bonaparte</td>
-<td>725,000 €</td>
-<td>National</td>
-<td>Upmarket positioning, large layouts</td>
-</tr>
-<tr>
-<td>Barnes Programmes Neufs</td>
-<td>1 (Hibana, 16 homes)</td>
-<td>Near the station</td>
-<td>Not disclosed</td>
-<td>National (upmarket)</td>
-<td>Confidential small co-ownership</td>
-</tr>
-<tr>
-<td>Corem Promotion</td>
-<td>1 (L'Éclat, 21 homes)</td>
-<td>Coteaux, T2 tram</td>
-<td>Not disclosed</td>
-<td>Regional (IDF)</td>
-<td>Intimate programme on the Coteaux</td>
-</tr>
-</tbody>
-</table>
-
-## Why is Saint-Cloud attracting new-build buyers in 2026?
-
-### A rare position at the western gates of Paris
-
-Saint-Cloud combines 3 assets that no other Paris-bordering town matches to this extent: immediate proximity to La Défense in 7 minutes via the Transilien L line, connections to Paris Saint-Lazare, and quick access to Suresnes, Puteaux and Versailles via the T2 tram and Line U. This rare position, combined with the topography of the Coteaux that offers unobstructed views over Paris and the Eiffel Tower, places the town at the upper end of Hauts-de-Seine prices, just behind Boulogne-Billancourt and Neuilly.
-
-### A structurally scarce new-build market
-
-New-build supply in Saint-Cloud is deliberately contained. The town is already largely built out, available land is limited, and the urban fabric is protected by the Domaine national and heritage perimeters. The operations that come to market are therefore often intimate residences of 20 to 50 homes, rather than a steady flow of large operations.
-
-This scarcity is not trivial for buyers. It mechanically supports resale value and explains the presence of 3 programmes on the Coteaux (Les Ciels de Saint-Cloud, Hameau Gabrielle and L'Éclat) versus only one in the town centre. To place Saint-Cloud in the wider Île-de-France picture, the comparison with the [best real estate developers in Seine-Saint-Denis](/en/blog/best-real-estate-developers-seine-saint-denis/) shows price levels almost 3 times higher in the west, on the same inner-ring department scale.
-
-### A market centred around 9,100 €/m²
-
-> "Prices in Saint-Cloud in 2026 stand around 9,100 €/m² on new and existing listings, placing the town among the most expensive in Hauts-de-Seine outside Boulogne-Billancourt and Neuilly."
-> New-build listing portals, 2026 data
-
-In practice, a 400,000 € budget opens about 44 sqm in Saint-Cloud, versus 60 to 80 sqm in the north of Hauts-de-Seine. This constraint explains the weight given, when choosing a Saint-Cloud new-build, to the view, the environmental certification and the distance to the station, more than the pure entry ticket.
-
-## Interconstruction
-
-### The only developer in the panel running two residences on the heights
-
-Founded in 1960, Interconstruction is a developer-builder that has delivered more than **20,000 homes**, exclusively in Île-de-France. This is its singularity in this ranking: the five other players present in Saint-Cloud run their operations from a national headquarters, whereas Interconstruction concentrates 65 years of experience on the Paris region alone. Its head office is in Boulogne-Billancourt, 4 km from Saint-Cloud.
-
-In Saint-Cloud, the developer is marketing **2 complementary residences**, both positioned on the town's heights but on distinct market segments.
-
-<table>
-<thead>
-<tr>
-<th>Programme</th>
-<th>Address</th>
-<th>Starting price</th>
-<th>Layouts</th>
-<th>Delivery</th>
-<th>Certification</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Les Ciels de Saint-Cloud</td>
-<td>22 rue Dailly</td>
-<td>549,000 €</td>
-<td>3 to 5 rooms + 14 duplexes 4-5R</td>
-<td>May 2026</td>
-<td>RE 2020</td>
-</tr>
-<tr>
-<td>Hameau Gabrielle</td>
-<td>Heights, near the Domaine national</td>
+<td>Studio</td>
 <td>294,000 €</td>
-<td>Studio to 5-room duplex</td>
-<td>Q4 2028</td>
-<td>NF Habitat HQE 6 stars</td>
-</tr>
-</tbody>
-</table>
-
-### A range breadth unique on the town
-
-Les Ciels de Saint-Cloud is positioned upmarket: 30 apartments from 3 to 5 rooms and 14 duplexes of 4 to 5 rooms designed as stacked houses, with views over Paris and the Eiffel Tower from most homes, a landscaped panoramic terrace and a communal library. The architecture is by the FRAGMENTS agency.
-
-Hameau Gabrielle plays a different card: a full range from studio to 5-room duplex, an **NF Habitat HQE 6-star certification** among the most demanding on the market for comfort and environmental impact, and an entry price of **294,000 €** that makes it the most accessible gateway into Saint-Cloud new-build.
-
-Interconstruction is currently offering notary fees paid on a selection of lots at Les Ciels de Saint-Cloud and 1 year of credit paid on Hameau Gabrielle, terms to confirm at the sales office.
-
-**Strengths**: the only offer in the panel covering both first-time buyers (294,000 € at Hameau Gabrielle) and heritage-focused buyers (above 549,000 € at Les Ciels), exclusive Île-de-France roots over 65 years, and an NF Habitat HQE certification among the most demanding.
-
-**Weaknesses**: no presence in the town centre or lower Saint-Cloud, and a total volume (44 apartments + 14 duplexes at Les Ciels, plus the Hameau Gabrielle range) below that of Onyx (Cogedim) on a single residence.
-
-## Emerige
-
-Founded in 1989, Emerige is a French developer that concentrates most of its activity in Île-de-France. In Saint-Cloud, it markets **90 République**, the only new-build operation currently on sale in the town centre, at 90 Boulevard de la République and 12ter rue Alexandre Coutureau.
-
-The programme offers layouts from studio to 4-room starting at **342,000 €**, with delivery scheduled for the second quarter of 2029. It plays the centrality card: immediate proximity to the station, shops and downtown amenities. A notary fees paid offer was made mid-2026 on the first 5 reservations, a sign of active marketing.
-
-**Strengths**: the only operation in the town centre, a narrow range that simplifies the choice, and a delivery horizon that leaves time to organise a purchase.
-
-**Weaknesses**: an entry price above that of Hameau Gabrielle despite the central position, and a distant delivery (2029) that weighs on buyers in a hurry.
-
-## Cogedim
-
-A subsidiary of the Altarea group, Cogedim is a national developer marketing in Saint-Cloud **Onyx**, the largest residence in the panel with **54 homes** spread across 5 R+3 buildings, from 1-room to 5-room (30 to 96 sqm). The programme is located 3 minutes on foot from the Saint-Cloud park, 18 minutes from the SNCF station.
-
-Onyx is eligible for the **zero-interest loan (PTZ)**, which makes it an interesting option for first-time buyers on the 1-room to 3-room segment, in a Saint-Cloud market where entry prices weigh particularly heavily. Prices are not published on the developer's fact sheet.
-
-**Strengths**: the largest residence in Saint-Cloud, a wide choice of layouts (1-room to 5-room), and PTZ eligibility.
-
-**Weaknesses**: a less sought-after location than the heights, and a lack of transparency on prices that requires going through the sales office to compare.
-
-## Tagerim
-
-A French developer founded in 1985, Tagerim markets in Saint-Cloud **L'Aparté**, a residence of **29 lots** located at 8-10-12 rue Marie Bonaparte, near the Avre footbridge and the Bois de Boulogne.
-
-The programme is positioned upmarket, with layouts from studio to 6-room and a price range starting at **725,000 €** that can exceed 1.6 million euros for the largest duplexes. The location, at the border with Boulogne-Billancourt, appeals to a heritage clientele sensitive to the proximity of the Bois and the residential setting.
-
-**Strengths**: an assumed heritage positioning, a rare location on the edge of the Bois de Boulogne, and a broad range from pied-à-terre to large family duplex.
-
-**Weaknesses**: an entry ticket reserved for comfortable budgets, and a volume limited to 29 lots that restricts options.
-
-## The three other recorded programmes
-
-Three more confidential operations complete the Saint-Cloud new-build offering in 2026, on specific segments.
-
-<table>
-<thead>
-<tr>
-<th>Programme</th>
-<th>Developer</th>
-<th>Layouts</th>
-<th>District</th>
-<th>Delivery</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Hibana</td>
-<td>Barnes Programmes Neufs</td>
-<td>3 to 5 rooms + duplexes (16 lots, 59 to 138 sqm)</td>
-<td>Near the station, future lines</td>
-<td>Q1 2028</td>
-</tr>
-<tr>
-<td>L'Éclat</td>
-<td>Corem Promotion</td>
-<td>2 to 5-room duplexes (21 lots)</td>
-<td>Coteaux, T2 tram</td>
-<td>Not disclosed</td>
-</tr>
-<tr>
-<td>Villa Sequoia</td>
-<td>DESIMO</td>
-<td>3 and 4 rooms (8 lots)</td>
-<td>Village, 2 bis rue Laval</td>
-<td>June 2026</td>
-</tr>
-</tbody>
-</table>
-
-**Hibana**, run by Barnes Programmes Neufs, is a small co-ownership of 16 homes less than 10 minutes on foot from the station, with family layouts and 2 duplexes. **L'Éclat** by Corem Promotion targets buyers drawn to the intimacy of a small co-ownership on the Coteaux, close to the T2 tram. **Villa Sequoia** (DESIMO), a very small 8-lot residence delivered in June 2026 on rue Laval in the heart of the Village, addresses a heritage clientele: the 4-room starts around 1,134,000 €.
-
-Also worth noting, a **La Poste Immobilier** project is in the early planning phase at 15 Boulevard de la République, following the departure of the post office in June 2026. Marketing has not yet opened, but the site is one to watch for buyers interested in the town centre on a 2028-2030 horizon.
-
-## How to choose a new-build programme in Saint-Cloud?
-
-### The 5 criteria that weigh most in the choice
-
-<table>
-<thead>
-<tr>
-<th>Criterion</th>
-<th>What to check</th>
-<th>Why it matters in Saint-Cloud</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>District</td>
-<td>Heights, Village, town centre or lower Saint-Cloud</td>
-<td>New-build supply concentrates on the heights (3 of 8 programmes) and the view strongly conditions value</td>
-</tr>
-<tr>
-<td>Home elevation within the programme</td>
-<td>Floor, orientation, unobstructed view</td>
-<td>A view over Paris from a top floor is not found on the ground floor</td>
-</tr>
-<tr>
-<td>Actual distance to the station</td>
-<td>Walking time with elevation change, not as the crow flies</td>
-<td>Between the top of the Coteaux and the town centre, the gap can exceed 10 minutes</td>
-</tr>
-<tr>
-<td>Environmental certification</td>
-<td>RE 2020 standard, NF Habitat HQE as an option</td>
-<td>Secures rental and resale value over the long term</td>
-</tr>
-<tr>
-<td>Delivery horizon</td>
-<td>Announced quarter and site status</td>
-<td>Deliveries range from May 2026 to Q2 2029 depending on the programme</td>
-</tr>
-</tbody>
-</table>
-
-The first criterion carries more weight than the others in Saint-Cloud. On a town where new-build supply is this limited, the district determines the price, the daily use and the resale. Before any arbitrage, reviewing a [property purchase checklist](/en/blog/achat-maison-checklist/) helps structure the other points to check at signing.
-
-### The right programme for your buyer profile
-
-<table>
-<thead>
-<tr>
-<th>Profile</th>
-<th>Recommended programme</th>
-<th>Reason</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>First-time buyer, controlled budget</td>
 <td>Hameau Gabrielle (Interconstruction)</td>
-<td>Entry at 294,000 € for a studio, NF Habitat HQE 6-star certification</td>
+<td>The most accessible on the Saint-Cloud new-build market</td>
 </tr>
 <tr>
-<td>First-time buyer eligible for PTZ</td>
-<td>Onyx (Cogedim)</td>
-<td>PTZ residence, wide choice from 1-room to 5-room at the foot of the park</td>
-</tr>
-<tr>
-<td>Family looking for a duplex or large flat</td>
-<td>Les Ciels de Saint-Cloud (Interconstruction)</td>
-<td>14 duplexes 4-5 rooms designed as houses, views over Paris</td>
-</tr>
-<tr>
-<td>Buy-to-let investor</td>
-<td>Hameau Gabrielle or 90 République</td>
-<td>Studio at controlled entry ticket, strong rental demand</td>
-</tr>
-<tr>
-<td>Heritage buyer</td>
-<td>L'Aparté (Tagerim) or Villa Sequoia (DESIMO)</td>
-<td>Large layouts, rare locations, tickets above one million</td>
-</tr>
-<tr>
-<td>Priority to the town centre</td>
+<td>Studio, town centre</td>
+<td>342,000 €</td>
 <td>90 République (Emerige)</td>
-<td>Only new-build operation in the town centre, close to station and shops</td>
+<td>Premium on centrality</td>
+</tr>
+<tr>
+<td>Upmarket 3-room (heights)</td>
+<td>549,000 €</td>
+<td>Les Ciels de Saint-Cloud (Interconstruction)</td>
+<td>Views over Paris, standing</td>
+</tr>
+<tr>
+<td>Heritage 3-room</td>
+<td>725,000 €</td>
+<td>L'Aparté (Tagerim)</td>
+<td>Rare location, near the Bois de Boulogne</td>
+</tr>
+<tr>
+<td>Heritage 4-room (Village)</td>
+<td>~1,134,000 €</td>
+<td>Villa Sequoia (DESIMO)</td>
+<td>Ultra-confidential, 8 lots</td>
 </tr>
 </tbody>
 </table>
 
-For a rental investment, the selection method matters as much as the choice of programme. The preliminary steps are detailed in the guide to [investing in rental property when starting out](/en/blog/investir-immobilier-locatif-debutant/), and the credit levers to activate in the [financing of a mortgage loan](/en/blog/financement-credit-immobilier/).
+To place these prices in context, a **400,000 € budget opens about 44 sqm in Saint-Cloud** in 2026, versus 60 to 75 sqm in neighbouring Suresnes or Meudon, and 85 to 100 sqm in Nanterre. The gap widens further north in Hauts-de-Seine: at equal budget, the surface doubles in Villeneuve-la-Garenne (4,850 €/m² recorded in 2026).
+
+To precisely measure the monthly payment that a Saint-Cloud purchase implies, the first step is to calibrate borrowing capacity against current rates and the intended duration.
+
+## The 8 new-build programmes on sale in Saint-Cloud
+
+The 2026 offer is spread across three districts of the town. The descriptions below are deliberately concise: each developer publishes a detailed fact sheet on its website.
+
+### On the heights and Coteaux (4 programmes)
+
+- **Les Ciels de Saint-Cloud** (Interconstruction), 22 rue Dailly. 30 apartments from 3 to 5 rooms and 14 duplexes 4-5 rooms, FRAGMENTS architecture, landscaped panoramic terrace, views over Paris and the Eiffel Tower. From 549,000 €, delivery May 2026.
+- **Hameau Gabrielle** (Interconstruction). Studio to 5-room duplex, certified NF Habitat HQE 6 stars, less than 7 minutes on foot from the station. From 294,000 €, delivery Q4 2028.
+- **L'Éclat** (Corem Promotion). 21 homes from 2-room to 5-room duplex, Coteaux district near the T2 tram. Intimate small co-ownership.
+- **Villa Palissy**. Micro-residence of 4 apartments on the Coteaux, near the Val d'Or station.
+
+### In the Village (1 programme)
+
+- **Villa Sequoia** (DESIMO), 2 bis rue Laval. Only 8 lots, 3 and 4-room, delivery June 2026. Heritage positioning, 4-room from around 1,134,000 €. The reference for buyers looking for the village atmosphere and immediate proximity to shops.
+
+### Near the town centre and station (2 programmes)
+
+- **90 République** (Emerige), Boulevard de la République. Studio to 4-room from 342,000 €, delivery Q2 2029. The only new-build operation in the town centre.
+- **Hibana** (Barnes Programmes Neufs). 16 homes 3-room to 5-room with 2 duplexes (59 to 138 sqm), less than 10 minutes on foot from the station. Delivery Q1 2028.
+
+### Programme to watch
+
+- **Onyx** (Cogedim). 54 homes from 1-room to 5-room (30 to 96 sqm) spread across 5 R+3 buildings, at the foot of the Saint-Cloud park. **PTZ eligible**, it is the only significant-volume residence in the panel. Prices not published.
+- A **La Poste Immobilier** project is in the early planning phase at 15 Boulevard de la République, not yet on sale, to watch for a 2028-2030 horizon.
+
+## Who buys new-build in Saint-Cloud? Three buyer profiles
+
+### The La Défense professional, first-time buyer
+
+**Profile**: 32-40 years old, professional in banking, tech or consulting based at La Défense or western Paris, in a couple, with a first child or planning one. Budget of 300,000 to 450,000 €, deposit of 15 to 20%, PTZ zone A bis eligible. Priority to commute time (7 minutes on the Transilien L) and preschool.
+
+**Target programmes**: **Hameau Gabrielle** (Interconstruction) for a 2-room or 3-room with NF Habitat HQE 6-star certification, or **Onyx** (Cogedim) for PTZ-eligible layouts. **90 République** (Emerige) for those who prioritise centrality.
+
+### The family in second-purchase mode
+
+**Profile**: 40-55 years old, two solid incomes, two or three school-age children, selling a first property in Boulogne, Suresnes or Puteaux to gain surface and setting. Budget of 700,000 to 1.2 M€, high deposit from the sale. Priority to a large apartment or duplex, proximity to the town's well-regarded schools and outdoor space (terrace, garden).
+
+**Target programmes**: the 14 duplexes 4-5 rooms at **Les Ciels de Saint-Cloud** (Interconstruction) designed as stacked houses, or the large layouts at **L'Aparté** (Tagerim) and **Villa Sequoia** (DESIMO).
+
+### The heritage investor
+
+**Profile**: 45-60 years old, established wealth, looking to secure a rental asset or prepare a transmission in a strongly valued sector. Flexible budget, often without credit. Priority to rental demand (proximity to La Défense), long-term resale and low vacancy risk.
+
+**Target programmes**: the studios at **Hameau Gabrielle** (Interconstruction) for rental demand from La Défense professionals, or the large layouts at **L'Aparté** (Tagerim) and **Villa Sequoia** (DESIMO) for a heritage transmission logic.
+
+## The timeline of an off-plan purchase in Saint-Cloud
+
+An off-plan (VEFA) purchase is spread across several months, with precise contractual steps that the local calendar does not change but that must be mapped before signing.
+
+<table>
+<thead>
+<tr>
+<th>Step</th>
+<th>Timeframe after reservation</th>
+<th>What happens</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Reservation contract</td>
+<td>D0</td>
+<td>Deposit of 2 to 5% of the price, in escrow</td>
+</tr>
+<tr>
+<td>Bank loan offer</td>
+<td>D+30 to D+60</td>
+<td>Issued after acceptance of the file by the bank</td>
+</tr>
+<tr>
+<td>Signature of the authentic deed</td>
+<td>D+90 to D+180</td>
+<td>At the notary, transfer of ownership, loan activation</td>
+</tr>
+<tr>
+<td>Instalments during construction</td>
+<td>D+180 to delivery</td>
+<td>Foundations 35%, weathertight 70%, completion 95%</td>
+</tr>
+<tr>
+<td>Handover</td>
+<td>Delivery scheduled in the contract</td>
+<td>Handover report, remaining 5%</td>
+</tr>
+</tbody>
+</table>
+
+On the Saint-Cloud programmes on sale in 2026, the total time between reservation and handover varies strongly depending on how advanced the site is at the time of purchase. **Villa Sequoia** is delivered in June 2026 (short delay, almost turnkey), while **90 République** is delivered in the second quarter of 2029 (long delay, purchase at construction start). This calendar shapes the bridging: current rent to maintain, sale of an existing property to time, deposit mobilisation.
+
+## The financial schemes to know when buying in Saint-Cloud
+
+### The PTZ zone A bis, available for first-time buyers
+
+Saint-Cloud is classified in **zone A bis**, the tightest zone of the French rental zoning. The zero-interest loan (PTZ) was **expanded in 2025** to cover more operations and profiles. It allows part of the purchase to be financed interest-free, over a period of up to 25 years, with deferred repayment.
+
+Income ceilings and the maximum PTZ amount depend on household composition and purchase price. On a 2-room at Hameau Gabrielle around 350,000 €, a couple with one child can mobilise up to around 40% of the price in PTZ depending on their income bracket. The process runs via the bank at the time of the loan application.
+
+### The reduced notary fees on new-build
+
+One of the major advantages of new-build is the acquisition tax: **2 to 3% notary fees** versus 7 to 8% on older properties. On a budget of **549,000 € at Les Ciels de Saint-Cloud**, the gap comes out at around **27,000 €** in favour of new-build, a sum that can serve as complementary deposit or cover fit-out expenses.
+
+### Developer commercial offers
+
+Saint-Cloud developers offer occasional commercial gestures that add to fiscal schemes. On sale in 2026:
+
+- **Interconstruction**: notary fees paid on a selection of lots at **Les Ciels de Saint-Cloud**, and **1 year of credit paid on Hameau Gabrielle** (terms to confirm at the sales office).
+- **Emerige**: occasional notary fees paid offer on the first 5 reservations at **90 République**.
+- **Cogedim**: highlighting of PTZ eligibility on **Onyx**, no additional commercial offer published to date.
+
+These offers evolve with the pace of marketing and deserve to be checked at the time of the visit. To compare all the credit levers available, the guide on [mortgage financing](/en/blog/financement-credit-immobilier/) details classic structures.
 
 ## Frequently asked questions
 
 <details>
-<summary>What are the new-build programmes in Saint-Cloud in 2026?</summary>
+<summary>How long does it take to buy a new-build home in Saint-Cloud?</summary>
 
-8 new-build programmes are on sale in Saint-Cloud in 2026, run by 6 developers. Interconstruction operates 2 residences on the heights, Les Ciels de Saint-Cloud on rue Dailly and Hameau Gabrielle. Emerige is marketing 90 République in the town centre on Boulevard de la République. Cogedim develops Onyx, a 54-home residence at the foot of the Saint-Cloud park. Tagerim runs L'Aparté on rue Marie Bonaparte, while Barnes markets Hibana near the station and Corem Promotion offers L'Éclat on the Coteaux. DESIMO completes the picture with Villa Sequoia, a small 8-lot residence in the Village.
-
-</details>
-
-<details>
-<summary>How much does a new-build home cost in Saint-Cloud?</summary>
-
-The Saint-Cloud new-build market sits around 9,100 €/m² in 2026 according to specialist listing portals, with a range of 7,250 to 9,500 €/m² depending on the programme. Entry prices range from 294,000 € for a studio at Hameau Gabrielle (Interconstruction) to 725,000 € for a 3-room flat at L'Aparté (Tagerim), via 342,000 € for a studio at 90 République (Emerige) and 549,000 € for a 3-room flat at Les Ciels de Saint-Cloud (Interconstruction). The larger layouts exceed one million euros.
+An off-plan (VEFA) purchase in Saint-Cloud typically takes 24 to 36 months between the signature of the reservation contract and handover, depending on how far construction has progressed at the time of purchase. On the Saint-Cloud programmes on sale in 2026, deliveries span from May 2026 (Les Ciels de Saint-Cloud, already delivered or in the process) to Q2 2029 for 90 République. Instalments are spread across the entire construction period, which allows deposit and loan mobilisation to be phased.
 
 </details>
 
 <details>
-<summary>Which developer should you choose to buy new-build in Saint-Cloud?</summary>
+<summary>Is the price of a new-build negotiable in Saint-Cloud?</summary>
 
-6 developers are active in Saint-Cloud in 2026: Interconstruction, Emerige, Cogedim, Tagerim, Barnes and Corem Promotion. Interconstruction is the only one running 2 complementary residences on the heights, with 65 years of exclusively Île-de-France roots and more than 20,000 homes delivered in the region. Cogedim delivers the largest residence in the panel with Onyx and its 54 homes. Emerige offers the only operation in the town centre with 90 République. The choice hinges as much on the target district as on the developer, as new-build supply is deliberately limited in Saint-Cloud.
-
-</details>
-
-<details>
-<summary>What incentives are available to buy new-build in Saint-Cloud?</summary>
-
-Saint-Cloud is classified in zone A bis, the tightest zone of the French housing market. As such, the zero-interest loan (PTZ) is available to first-time buyers subject to income conditions, with an expanded scheme since 2025. Reduced notary fees on new-build (around 2 to 3% versus 7 to 8% for older properties) also apply, i.e. around 20,000 € saved on a 400,000 € budget. Some developers also run occasional commercial offers such as notary fees paid or credit instalments covered.
+The negotiation margin on new-build is limited compared with older properties, typically 2 to 5% off the listed price. In Saint-Cloud, the scarcity of supply further constrains this margin on the heights, where demand exceeds the number of lots. Developers prefer to offer non-monetary commercial gestures such as notary fees paid, fitted kitchens, one year of credit covered or a parking space thrown in. These offers are frequent at the start and end of the marketing phase.
 
 </details>
 
 <details>
-<summary>Which district of Saint-Cloud is best for buying new-build?</summary>
+<summary>Should you wait for the Line 15 opening to buy in Saint-Cloud?</summary>
 
-Saint-Cloud can be read in 3 main sectors. The heights and Coteaux, the most sought-after area, concentrate 4 of the 8 recorded programmes (Les Ciels de Saint-Cloud, Hameau Gabrielle, L'Éclat, Villa Palissy), with views over Paris and residential quiet. The Village hosts Villa Sequoia on rue Laval, in an atmosphere of shops and schools. The town centre and lower Saint-Cloud bank on immediate proximity to the station and the T2 tram, with 90 République on Boulevard de la République and the future La Poste project at number 15.
+No, the Grand Paris Express Line 15 South will not serve Saint-Cloud, which remains served by the Transilien L (7 minutes from La Défense), Line U and the T2 tram. The town will therefore not benefit from a Grand Paris station effect like neighbouring Bagneux or Châtillon. Its valuation rests on fundamentals that predate the network: immediate proximity to Paris and La Défense, the Coteaux with their views, the Domaine national and a preserved residential setting.
 
 </details>
+
+<details>
+<summary>What about resale for a new-build home on the Coteaux of Saint-Cloud?</summary>
+
+The Coteaux of Saint-Cloud concentrate the most sought-after properties in the town, with prices per m² at the top of the range (9,100 to 9,500 €/m² according to listing portals in 2026). Views over Paris, elevation and residential quiet support resale on this micro-location. A 3-room bought new at 549,000 € on the heights has historically held its value in Hauts-de-Seine outside periods of strong correction, with a premium for higher floors and homes with outdoor space.
+
+</details>
+
+<details>
+<summary>Is Saint-Cloud a good town for a first purchase in Île-de-France?</summary>
+
+Saint-Cloud is not the most affordable town in the 92 area (range 7,250 to 9,500 €/m² in 2026), but it offers a rare combination for first-time buyers: fast link to La Défense in 7 minutes and to Paris Saint-Lazare, well-regarded schools, a preserved residential setting and a scarce new-build supply that supports long-term value. Hameau Gabrielle (Interconstruction) is the only new-build studio under 300,000 € currently on sale in the town, at 294,000 €.
+
+</details>
+
+To go further on the purchasing process beyond the choice of town alone, the [guide to rental property investment for beginners](/en/blog/investir-immobilier-locatif-debutant/) details the selection methodology and the criteria to check before signing.
