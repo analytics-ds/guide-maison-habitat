@@ -1,33 +1,54 @@
 ---
 title: "Mentions légales"
-description: "Mentions légales du site Guide Maison & Habitat : éditeur, hébergeur, propriété intellectuelle et données personnelles."
-translationKey: "légal"
+description: "Mentions légales de Guide Maison & Habitat : éditeur, directeur de la publication, hébergement, propriété intellectuelle et droit applicable."
+slug: "mentions-legales"
+translationKey: "legal-notice"
+date: 2026-09-08
+lastmod: 2026-09-08
 ---
+## Éditeur du site
 
-## Editeur du site
+Le site Guide Maison & Habitat, accessible à l'adresse https://guide-maison-habitat.com/, est édité par une personne physique exerçant en tant qu'éditeur de contenu indépendant.
 
-Le site Guide Maison & Habitat est édité par :
-[A compléter : raison sociale, forme juridique, capital, RCS, siège social]
+**Contact éditorial** : contact@guide-maison-habitat.com
 
-Directeur de la publication : [Nom à compléter]
+## Directeur de la publication
 
-## Hébergeur
+Le directeur de la publication est le responsable éditorial du site Guide Maison & Habitat.
+
+## Hébergement
 
 Le site est hébergé par GitHub, Inc.
-88 Colin P Kelly Jr St, San Francisco, CA 94107, Etats-Unis.
+
+**Adresse** : 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis
+**Site** : https://github.com
+
+## Nature du site
+
+Guide Maison & Habitat est un site éditorial indépendant. Il publie des contenus d'information, des guides et des comparatifs à visée documentaire. Ces contenus n'ont pas valeur de conseil personnalisé et ne se substituent pas à l'avis d'un professionnel qualifié.
 
 ## Propriété intellectuelle
 
-L'ensemble des contenus de ce site (textes, images, logo) est protégé par les lois françaises et internationales sur la propriété intellectuelle. Toute reproduction, même partielle, est interdite sans autorisation écrite préalable.
+L'ensemble des contenus publiés sur Guide Maison & Habitat (textes, images, éléments graphiques, structure et mise en page) est protégé par le droit d'auteur. Toute reproduction ou représentation, même partielle, est interdite sans autorisation écrite préalable, en dehors des usages permis par la loi, notamment la courte citation accompagnée de la mention de la source et d'un lien vers la page d'origine.
 
-## Données personnelles
+## Marques et droit de citation
 
-Ce site ne collecte pas de données personnelles sans consentement explicite. Les formulaires de contact éventuels sont soumis au RGPD. Pour toute question relative à vos données, contactez : **données@guide-maison-habitat.fr**.
+Les marques, dénominations commerciales, logos et noms de produits cités restent la propriété de leurs détenteurs respectifs. Leur mention dans les contenus relève du droit de citation, à des fins d'information éditoriale. Elle n'implique aucun lien de partenariat ni aucune approbation de leur part, sauf lorsque cela est explicitement indiqué.
 
-## Cookies
+## Crédits photographiques
 
-Ce site utilisé des cookies techniques nécessaires à son fonctionnement. Aucun cookie publicitaire ou de tracking n'est déposé sans votre consentement.
+Les visuels utilisés proviennent de productions originales ou de banques d'images libres de droits. Le crédit est indiqué à proximité de l'image lorsque la licence l'exige.
+
+## Liens hypertextes
+
+Le site renvoie vers des ressources externes à titre documentaire. L'éditeur n'exerce aucun contrôle sur ces ressources et décline toute responsabilité quant à leur contenu.
+
+La mise en place d'un lien vers Guide Maison & Habitat est libre et ne requiert pas d'autorisation préalable, dès lors qu'elle ne porte pas atteinte à l'image du site et n'induit pas de confusion sur l'origine des contenus. L'éditeur se réserve le droit de demander le retrait d'un lien qu'il estime contraire à l'objet du site.
+
+## Signalement
+
+Toute personne estimant qu'un contenu publié porte atteinte à ses droits peut le signaler à contact@guide-maison-habitat.com, en précisant la page concernée, la nature de l'atteinte invoquée et les éléments qui la justifient. Les signalements fondés sont traités dans les meilleurs délais.
 
 ## Droit applicable
 
-Les presentes mentions légales sont régies par le droit français. En cas de litige, les tribunaux français seront seuls compétents.
+Les présentes mentions légales sont régies par le droit français. Tout litige relève de la compétence des tribunaux français.

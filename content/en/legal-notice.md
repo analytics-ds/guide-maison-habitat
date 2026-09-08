@@ -1,33 +1,54 @@
 ---
 title: "Legal notice"
-description: "Legal notice of Guide Maison & Habitat: publisher, host, intellectual property and personal data."
-translationKey: "legal"
+description: "Legal notice for Guide Maison & Habitat: publisher, editorial manager, hosting, intellectual property and applicable law."
+slug: "legal-notice"
+translationKey: "legal-notice"
+date: 2026-09-08
+lastmod: 2026-09-08
 ---
-
 ## Site publisher
 
-Guide Maison & Habitat is published by:
-[To complete: company name, legal form, capital, registration, head office]
+Guide Maison & Habitat, available at https://guide-maison-habitat.com/, is published by a private individual acting as an independent content publisher.
 
-Publication director: [Name to complete]
+**Editorial contact**: contact@guide-maison-habitat.com
 
-## Host
+## Editorial manager
+
+The editorial manager is the person responsible for the editorial content of Guide Maison & Habitat.
+
+## Hosting
 
 The site is hosted by GitHub, Inc.
-88 Colin P Kelly Jr St, San Francisco, CA 94107, United States.
+
+**Address**: 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, United States
+**Website**: https://github.com
+
+## Nature of the site
+
+Guide Maison & Habitat is an independent editorial website. It publishes informational content, guides and comparisons for documentary purposes. This content does not constitute personalised advice and is no substitute for the opinion of a qualified professional.
 
 ## Intellectual property
 
-All content on this site (text, images, logo) is protected by French and international intellectual property laws. Any reproduction, even partial, is prohibited without prior written authorization.
+All content published on Guide Maison & Habitat (text, images, graphic elements, structure and layout) is protected by copyright. Any reproduction or representation, even partial, is prohibited without prior written permission, outside the uses permitted by law, in particular short quotations accompanied by an attribution and a link to the original page.
 
-## Personal data
+## Trade marks and quotation
 
-This site does not collect personal data without explicit consent. Any contact forms are subject to GDPR. For any question regarding your data, contact: **donnees@guide-maison-habitat.fr**.
+The trade marks, trade names, logos and product names mentioned remain the property of their respective owners. Their mention in the content falls under the right of quotation, for editorial information purposes. It implies no partnership with, and no endorsement by, those owners unless expressly stated.
 
-## Cookies
+## Image credits
 
-This site uses technical cookies necessary for its operation. No advertising or tracking cookies are placed without your consent.
+The visuals used are either original productions or come from royalty-free image libraries. Credit is displayed next to the image where the licence requires it.
+
+## Hyperlinks
+
+The site links to external resources for documentary purposes. The publisher exercises no control over those resources and accepts no liability for their content.
+
+Linking to Guide Maison & Habitat is free and requires no prior permission, provided it does not harm the image of the site and does not create confusion as to the origin of the content. The publisher reserves the right to request the removal of any link it considers inconsistent with the purpose of the site.
+
+## Reporting
+
+Anyone who considers that published content infringes their rights may report it to contact@guide-maison-habitat.com, specifying the page concerned, the nature of the alleged infringement and the evidence supporting the request. Well-founded reports are handled as promptly as possible.
 
 ## Applicable law
 
-These legal notices are governed by French law. In case of dispute, French courts shall have exclusive jurisdiction.
+This legal notice is governed by French law. Any dispute falls within the jurisdiction of the French courts.
