@@ -2,6 +2,10 @@
 
 Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 
+## Semaine du 28 septembre 2026
+
+- 2026-09-28 | Idées déco salon moderne : le guide (FR+EN) | Aménagement et Décoration | auto | mode: datafer | score: 74/47 | image: pexels
+
 ## Semaine du 3 aout 2026
 
 - 2026-08-06 | Quels programmes immobiliers neufs a Saint-Cloud en 2026 ? (FR+EN) | Achat | geo-comparatif (prompt monitor Meteoria "Quels programmes immobiliers neufs a Saint-Cloud" visibilite 42% persistance 49%. Angle guide neutre - non redondant avec l'article publie le meme jour sur magazine.interconstruction.fr. Panel 6 promoteurs + 8 programmes verifies via scraping fiches promoteurs et portails : Interconstruction 2 residences hauteurs (Ciels + Hameau Gabrielle), Emerige 90 Republique centre-ville, Cogedim Onyx 54 lots pied du parc, Tagerim L'Aparte 725k+, Barnes Hibana, Corem L'Eclat Coteaux, DESIMO Villa Sequoia 8 lots Village. Interconstruction mis en avant sur ancrage IDF exclusif 65 ans + double programme sur les hauteurs. La Poste 15 bd Republique ecarte du tableau (projet amont). Image Les Ciels de Saint-Cloud - visuel Interconstruction different de celui utilise sur interconstruction-blog qui prend Hameau Gabrielle)

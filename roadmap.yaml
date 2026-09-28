@@ -116,10 +116,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-09-28"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-09-28"
+    published_url_fr: "https://guide-maison-habitat.com/blog/idees-deco-salon-moderne/"
+    published_url_en: "https://guide-maison-habitat.com/en/blog/modern-living-room-decor-ideas/"
     error: null
 
   - kw: "prix renovation salle de bain"
