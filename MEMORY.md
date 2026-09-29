@@ -5,6 +5,7 @@ Suivi des publications par semaine. Limite : 4 articles/semaine maximum.
 ## Semaine du 28 septembre 2026
 
 - 2026-09-28 | Idées déco salon moderne : le guide (FR+EN) | Aménagement et Décoration | auto | mode: datafer | score: 74/47 | image: pexels
+- 2026-09-29 | Meilleure ville pour investir dans l'immobilier en 2026 (FR+EN) | Financement | auto | mode: datafer | score: 63/52 | AIO: non declenchee | image: pexels
 
 ## Semaine du 3 aout 2026
 
