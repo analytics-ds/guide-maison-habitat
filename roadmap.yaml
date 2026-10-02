@@ -149,11 +149,11 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-10-02"
-    status: todo
+    status: failed
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: null
+    error: "etape 0 (garde-fou cannibalisation) kw cannibalise l'article deja publie content/blog/amenager-petit-salon.md (https://guide-maison-habitat.com/blog/amenager-petit-salon/, publie 2026-04-15) : overlap 100% des tokens (amenager/petit/salon), meme sujet exact. Pas de confirmation humaine enregistree pour cet ajout malgre le garde-fou CLAUDE.md. Corriger : soit retirer l'entree, soit reformuler le kw sur un angle distinct (ex: configuration precise type salon-salle a manger, style deco specifique) et repasser status: todo."
 
   # GEO comparatif COEO (mode C) - brief Datafer score 78 vs best 63
   - kw: "brasero plancha polyvalent griller"
